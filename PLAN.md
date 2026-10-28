@@ -95,7 +95,7 @@ Components:
 
 - `docker-compose.yml`: one `opensearchproject/opensearch:3.9.0` node (latest release at the time of writing), security plugin disabled, heap 512 MB, bound to `127.0.0.1:9200`, named volume, healthcheck. **Tested** (Docker 29.9 / Compose 5.6 on WSL2): `docker compose up -d --wait` brings it to healthy (first start about 3.5 minutes, mostly the ~1 GB image pull), the container uses about 1 GB RAM, and the index survives `docker compose restart`. The sanity check gives identical numbers in the container and in an unpacked tarball.
 - Index `cvs` (`src/evolve_demo/opensearch.py`, plain HTTP via `requests`, no client library). One document per CV, `_id` = CV file name without `.txt`. Fields: `name`, `location`, `title` (most recent role), `summary`, `skills` (text + keyword; list of the CORE SKILLS entries), `experience` (jobs and bullets), `certifications`, `languages` (e.g. "German (Native)"), `years_experience` (integer). Standard analyzer, no stemming. One shard, no replica.
-- `scripts/index_cvs.py` waits for OpenSearch, recreates the index and loads all CVs (idempotent).
+- `evolve-eval index` waits for OpenSearch, recreates the index and loads all CVs (idempotent).
 - Boolean text from the rewriter is run as a `query_string` query over `title^2, summary, skills^2, experience, certifications, languages`, default operator OR. Field prefixes (`skills:"Power BI"`) and numeric ranges (`years_experience:[6 TO *]`) work in the query text. Top 5 results are returned.
 - A query OpenSearch rejects raises `QueryError`; the evaluation scores it 0 and reports the message as an artifact. Typical traps for rewriting prompts: unbalanced parentheses, a trailing `AND`, and unquoted slashes (`A/B testing` is a syntax error, `"A/B testing"` is fine).
 
@@ -180,10 +180,12 @@ evaluate_prompt(prompt, split="dev", *, workers=8, limit=None, model=None, max_t
 - `PromptError` for an unusable prompt (no `{profile}`, longer than 20,000 characters). Per-profile LLM errors, query syntax errors and empty queries cost that profile's points and are reported, never raised.
 - 8 parallel LLM calls; the optional response cache (`LLM_CACHE_DIR`) makes repeated evaluations of the same prompt free and identical. No temperature is set (model default).
 - The heldout split loads from `heldout/heldout.json`, which only exists on the server.
-- Run directly: `PYTHONPATH=src python3 -m evolve_demo.evaluate evolve/initial_prompt.txt --split dev [--limit N] [--details]` (until the CLI exists).
+- Called through the CLI (`evolve-eval run` / `baseline`, section 9); `python -m evolve_demo.evaluate PROMPT_FILE --split S` remains as a developer shortcut (also allows `heldout` where the file exists).
 - Tests: `tests/test_evaluate.py` (placeholder, braces, code fences, splits).
 
-**Baseline** (`evolve/initial_prompt.txt`, a deliberately plain prompt): **dev 9.5% / 8.0% / 8.5%** in three runs (noise about ±1 point), ~31 s per run with `gpt-6-luna`. Typical failure: the model ANDs every requirement, including location, industry and years as text, so 27 of 40 queries return no hits at all. That leaves a lot of room up to the oracle strategies (27–34%) and the ceiling (68.5%), and it is an instructive first thing for the evolution to fix.
+**Baseline** (`evolve/initial_prompt.txt`, a deliberately plain prompt): **dev 9.5% / 8.0% / 8.5%** in three runs (noise about ±1 point), ~31 s per run with `gpt-6-luna`. **Validation 4.0%** (15 of 20 profiles at 0, 18 s). Typical failure: the model ANDs every requirement, including location, industry and years as text, so 27 of 40 queries return no hits at all. That leaves a lot of room up to the oracle strategies (27–34%) and the ceiling (68.5%), and it is an instructive first thing for the evolution to fix.
+
+**Keep the baseline weak [decided]:** the jump from "AND everything" to working queries is a deliberate learning opportunity for the participants. Do not "improve" `initial_prompt.txt`.
 
 ## 7. LLM backends  **[decided, implemented, verified against the b.telligent gateway]**
 
@@ -198,7 +200,7 @@ Providers, all through an OpenAI-compatible chat-completions endpoint:
 
 Client: `src/evolve_demo/llm.py` (requests only, no SDK). `complete(prompt, system=, temperature=, max_tokens=, reasoning_effort=)` sends `stream: false`, retries with exponential backoff on 429/5xx and connection errors (honours `Retry-After`), raises clear `LLMError`s, optional on-disk response cache (`LLM_CACHE_DIR`). `list_models()` returns the model ids the endpoint offers. Configuration through environment variables (preferred: export the key in the shell, see `participant_instructions.md`) or a `.env` file (`.env.example`, gitignored): `LLM_PROVIDER`, `BTELLIGENT_API_KEY` / `GEMINI_API_KEY` / `OPENROUTER_API_KEY`, `LLM_API_KEY`, `LLM_API_BASE`, `REWRITER_MODEL`, `LLM_CACHE_DIR`.
 
-Tests: `tests/test_llm.py` (10 tests against a local fake server). `scripts/llm_check.py` checks that the model is offered and sends one tiny rewriting request.
+Tests: `tests/test_llm.py` (10 tests against a local fake server). `evolve-eval check` checks that the model is offered and sends one tiny request.
 
 Verified with the real gateway: `gpt-6-luna` is offered (18 models), accepts `max_tokens` and `stream: false`, answers in 2–10 s; a 40-profile evaluation takes ~31 s with 8 parallel calls, no rate-limit errors so far.
 Still to check: `reasoning_effort` and `temperature` support, rate limits with many participants in parallel.
@@ -208,7 +210,7 @@ Still to check: `reasoning_effort` and `temperature` support, rate limits with m
 Each participant runs OpenSearch (docker) and openevolve **locally**. Only the leaderboard server is central.
 - Participant repo contains CVs, dev + validation queries, `data/` (splits, qrels), the baseline and the CLI. **Heldout profiles and labels are not shipped to participants** (`heldout/` and the heldout profile files); they exist only on the leaderboard server, which also runs its own OpenSearch with the same index.
 - Each participant needs their own LLM credentials (quota for evolution runs). The leaderboard server uses its own credentials for scoring submissions.
-- Participant setup must be a one-command start (`docker compose up -d --wait`, then `python scripts/index_cvs.py`). Verified on WSL2; Linux/macOS/Windows still to be checked. Group membership for Docker applies only after a fresh login (we hit this once), which belongs in the setup instructions.
+- Participant setup must be a one-command start (`docker compose up -d --wait`, then `uv run evolve-eval index`). Verified on WSL2; Linux/macOS/Windows still to be checked. Group membership for Docker applies only after a fresh login (we hit this once), which belongs in the setup instructions.
 
 ## 8. openevolve integration
 
@@ -222,13 +224,17 @@ Based on `examples/llm_prompt_optimization` in the openevolve repo (`/home/micha
 - Feature dimensions: consider query length or number of boolean operators as MAP-Elites dimensions to make the diversity visible; decide after a first run.
 - Results land in an output directory per participant; `best/` holds the best prompt.
 
-## 9. CLI (`evolve-eval`)
+## 9. CLI (`evolve-eval`)  **[implemented, except submit]**
 
-- `evolve-eval run --prompt-file p.txt --split dev|validation [--json]` – prints metrics (and per-query details with `--details`).
-- `evolve-eval baseline` – scores the baseline prompt.
-- `evolve-eval submit --name NAME --rewriting-prompt best.txt --meta-prompt meta/... --config configs/evolve.yaml` – posts a submission to the leaderboard.
-- `evolve-eval qrels|index` – helper commands for setup.
-- Stable JSON output so an oh-my-pi agent can call it as a tool.
+`src/evolve_demo/cli.py`, installed as a console script by `pyproject.toml`; run with `uv run evolve-eval …` (uv creates `.venv/` on first use).
+- `evolve-eval check` – OpenSearch reachable, index complete (1000 CVs), model offered by the endpoint, one tiny LLM call.
+- `evolve-eval index [--wait S]` – (re)creates the index and loads `CVs/`.
+- `evolve-eval run PROMPT_FILE|- [--split dev|validation] [--limit N] [--workers N] [--details]` – scores a rewriting prompt (`-` reads stdin).
+- `evolve-eval baseline [same options]` – scores `evolve/initial_prompt.txt`.
+- `evolve-eval submit` – to be added together with the leaderboard server (section 10).
+- Output contract for scripts and agents: exactly one JSON object on stdout, progress on stderr. Exit code 0 ok, 1 invalid input (prompt, arguments; `{"error", "kind": "input"}`), 2 setup problem (no key, wrong key, OpenSearch down; `{"error", "kind": "setup"}`). The heldout split is not selectable. A run checks key and OpenSearch first, so no LLM calls are wasted on a broken setup; if every LLM call fails, it is reported as a setup error instead of a score of 0.
+- Tests: `tests/test_cli.py` (argument errors, unreadable file, missing key, OpenSearch down). Also verified by hand against the real gateway: `check` ok (LLM answer in 1.3 s), `index` 1000 CVs, wrong key → setup error (HTTP 401), prompt without `{profile}` → input error, `--split heldout` → input error, OpenSearch down → setup error before any LLM call.
+- Replaced and removed: `scripts/index_cvs.py` (→ `index`), `scripts/llm_check.py` (→ `check`), `requirements.txt` (→ `pyproject.toml`).
 
 ## 10. Leaderboard (Option A)  **[decided]**
 
@@ -250,9 +256,11 @@ Based on `examples/llm_prompt_optimization` in the openevolve repo (`/home/micha
 CVs/  queries/                     existing data
 data/qrels.json  data/splits.json  labels and split manifest; heldout labels server-only
 docker-compose.yml                 OpenSearch (+ leaderboard service later)
-scripts/index_cvs.py make_qrels.py oracle_check.py  (exist)
+scripts/make_qrels.py oracle_check.py   instructor tools (uv run python scripts/...)
 query_generation.py CV_generation.py   data generators (move into scripts/ later)
-src/evolve_demo/                   labels.py, opensearch.py, llm.py (exist); core eval, CLI
+src/evolve_demo/                   labels.py, opensearch.py, llm.py, evaluate.py, cli.py
+pyproject.toml uv.lock             package + `evolve-eval` console script (uv)
+tests/                             unit tests: uv run python -m unittest discover tests
 evolve/initial_prompt.txt          baseline rewriting prompt
 evolve/evaluator.py                openevolve wrapper
 evolve/configs/evolve.yaml         GA parameters
@@ -264,9 +272,9 @@ README.md / workshop exercises
 ## 13. Milestones
 
 1. OpenSearch up + CV indexing: **done** (4, 4a), including the Docker test.
-2. Data, labeler, qrels, splits: **done** (5, 5a, 5b). Still open: sanity check with an oracle query built from a profile once OpenSearch runs.
-3. LLM client (b.telligent gateway, Gemini, OpenRouter): **done, verified against the real gateway**. Core evaluation function + baseline prompt score: **done** (dev ≈ 9%; validation not yet measured).
-4. CLI wrapper.
+2. Data, labeler, qrels, splits: **done** (5, 5a, 5b), oracle sanity check done (4a).
+3. LLM client (b.telligent gateway, Gemini, OpenRouter): **done, verified against the real gateway**. Core evaluation function + baseline prompt score: **done** (dev ≈ 9%, validation 4%).
+4. CLI wrapper: **done** except `submit` (comes with milestone 7).
 5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation.
 6. Meta-prompt templates and documented GA config; exercise sheet.
 7. Leaderboard server + `submit`, and a packaging script that builds the participant repo without heldout profiles and labels.
