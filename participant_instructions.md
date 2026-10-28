@@ -87,3 +87,19 @@ What you can change:
 - **GA parameters** (`evolve/configs/evolve.yaml`): iterations, islands,
   population, exploration/exploitation, feature dimensions, temperature. The
   comments in the file explain each setting.
+
+## Submitting to the leaderboard
+
+You get the leaderboard address and the workshop token from the instructor.
+
+```bash
+export LEADERBOARD_URL=http://<address>:8000
+read -rs LEADERBOARD_TOKEN && export LEADERBOARD_TOKEN
+uv run evolve-eval submit evolve/runs/my-run/best/best_program.txt --name "Your Name" --wait
+```
+
+The submission contains your rewriting prompt plus your current meta-prompt
+(`evolve/meta/templates/`) and GA config (`evolve/configs/evolve.yaml`), so
+others can see how you got there. The server scores the prompt on hidden
+profiles that you never see; this takes about a minute. You can submit again
+once the previous submission is scored and two minutes have passed.

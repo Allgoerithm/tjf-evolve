@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 evolve/runs/
 openevolve_output/
+leaderboard.sqlite3*

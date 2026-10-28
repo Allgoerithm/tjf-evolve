@@ -237,28 +237,39 @@ Files:
   - All other templates (history, top programs, …) are openevolve's defaults; programs appear there in ` ```text ` blocks.
 - Cascade evaluation is off; a stage-1 subset could be added later as a GA option.
 
+**20-iteration run** (default config, 7 min, 21 evaluations × 40 rewriter calls + 20 evolution calls, no errors): baseline 6.3% → 26.8% (iteration 2) → 30.3% (4) → **32.0% (iteration 8)**, then no further improvement in iterations 9–20 (candidates between 9.5% and 28.5%; both islands end at 32.0%). The best prompt scores **35.0% on validation** (1 of 20 profiles at 0). Its strategy: a pure OR query of synonym groups for several must-have concepts plus a few nice-to-haves, no AND, no field names, nothing about years/language/location; i.e. the evolution rediscovers the best hand-written oracle strategy (`must^3 + nice + certs, OR`: 33.7%) and stalls there.
+Consequence for the workshop: the default setup reliably gets from ~6% to ~30% within 5–8 iterations (about 3–4 minutes); going beyond needs ideas the evolution model does not find on its own (e.g. field boosts like `skills:"…"^3`, the `years_experience` field, weighting must-haves over nice-to-haves). That is exactly the lever of exercise 1 (meta-prompt: tell the evolution model about the index fields and the scoring rules) and exercise 2 (GA parameters: more exploration, more islands, temperature). Variance between runs is still to be measured.
+
 **Smoke test** (5 iterations, full dev split, 2 min 44 s): baseline 5.5% → best **28.0%** (iteration 2; others 25.8%, 26.3%, 23.5%, 17.8%). The best prompt is concise and ORs title/skill synonym groups with at most two ANDs, dropping location, language, industry and years. It scores **31.5% on validation** (baseline 4.0%), so the improvement transfers. Cost per iteration: ~3,300 tokens for the evolution call plus 40 rewriter calls. The logged evolution prompts confirm that our system message, the feedback block and the literal `{profile}` reach the evolution model.
 
-## 9. CLI (`evolve-eval`)  **[implemented, except submit]**
+## 9. CLI (`evolve-eval`)  **[implemented]**
 
 `src/evolve_demo/cli.py`, installed as a console script by `pyproject.toml`; run with `uv run evolve-eval …` (uv creates `.venv/` on first use).
 - `evolve-eval check` – OpenSearch reachable, index complete (1000 CVs), model offered by the endpoint, one tiny LLM call.
 - `evolve-eval index [--wait S]` – (re)creates the index and loads `CVs/`.
 - `evolve-eval run PROMPT_FILE|- [--split dev|validation] [--limit N] [--workers N] [--details]` – scores a rewriting prompt (`-` reads stdin).
 - `evolve-eval baseline [same options]` – scores `evolve/initial_prompt.txt`.
-- `evolve-eval submit` – to be added together with the leaderboard server (section 10).
+- `evolve-eval submit PROMPT_FILE --name NAME [--meta-dir evolve/meta/templates] [--config evolve/configs/evolve.yaml] [--server URL] [--wait] [--wait-timeout 900]` – sends the bundle to the leaderboard (`LEADERBOARD_URL`, `LEADERBOARD_TOKEN`); checks the prompt locally first; with `--wait` it polls until the submission is scored and prints the scores. Wrong token or unreachable server → setup error; rejected submission → input error with the server's reason.
 - Output contract for scripts and agents: exactly one JSON object on stdout, progress on stderr. Exit code 0 ok, 1 invalid input (prompt, arguments; `{"error", "kind": "input"}`), 2 setup problem (no key, wrong key, OpenSearch down; `{"error", "kind": "setup"}`). The heldout split is not selectable. A run checks key and OpenSearch first, so no LLM calls are wasted on a broken setup; if every LLM call fails, it is reported as a setup error instead of a score of 0.
 - Tests: `tests/test_cli.py` (argument errors, unreadable file, missing key, OpenSearch down). Also verified by hand against the real gateway: `check` ok (LLM answer in 1.3 s), `index` 1000 CVs, wrong key → setup error (HTTP 401), prompt without `{profile}` → input error, `--split heldout` → input error, OpenSearch down → setup error before any LLM call.
 - Replaced and removed: `scripts/index_cvs.py` (→ `index`), `scripts/llm_check.py` (→ `check`), `requirements.txt` (→ `pyproject.toml`).
 
-## 10. Leaderboard (Option A)  **[decided]**
+## 10. Leaderboard (Option A)  **[implemented, tested end to end]**
 
-- FastAPI single-file app + SQLite, run by the instructor next to OpenSearch.
-- `POST /submit`: validates the bundle, queues scoring of the rewriting prompt on the **heldout** split (and validation for reference) using the same core function, stores bundle and scores.
-- `GET /`: HTML table: rank, participant, heldout score, validation score, timestamp, link to the submitted prompts and config. Baseline is pre-submitted as a fixed row.
-- Protection: per-participant rate limit, max prompt size, simple shared workshop token. No heavy authentication.
-- Heldout queries and qrels never leave the server; participants only get a score back.
-- Scoring of one submission takes seconds to a minute; the table shows "evaluating" state.
+`src/evolve_demo/leaderboard.py`, FastAPI + SQLite, run by the instructor on a machine that also has OpenSearch with the CV index and the `heldout/` folder:
+```bash
+export LEADERBOARD_TOKEN=...            # shared workshop token, handed out to participants
+uv run --extra server evolve-leaderboard --host 0.0.0.0 --port 8000
+```
+FastAPI and uvicorn are an optional `server` extra, so participants do not install them. Note: a plain `uv run …` syncs the environment without the extra and removes them again; on the server always use `uv run --extra server …`.
+- Configuration: `LEADERBOARD_TOKEN` (required), `LEADERBOARD_DB` (default `leaderboard.sqlite3` in the repo root, gitignored), plus the usual LLM settings with the **server's own key** and OpenSearch settings. Default bind is `127.0.0.1`; `--host 0.0.0.0` makes it reachable from other machines.
+- `POST /submit` (header `Authorization: Bearer <token>`): JSON bundle `participant` (1–40 characters), `rewriting_prompt` (must contain `{profile}`, at most 20,000 characters), `meta_prompt` (`{file name: text}`, at most 50,000 characters together), `ga_config` (text, at most 20,000 characters). Rejected: wrong token (401), invalid prompt or the reserved name "baseline" (400), a participant whose previous submission is still queued or being scored, or who submitted less than 120 s ago (429).
+- Scoring: one background worker, one submission at a time (keeps the gateway load predictable): heldout split (ranking) and validation (reference), ~60 LLM calls, about 1 minute. A submission where every profile fails (e.g. gateway down) is marked `failed` with the error instead of scoring 0. Queued or interrupted submissions are re-queued when the server restarts.
+- `GET /`: ranked HTML table (heldout score, validation score, status, time; earlier submission wins ties), refreshes every 10 s, light and dark mode. The baseline is submitted automatically on first start and shown as a highlighted row. `GET /submission/{id}`: the submitted rewriting prompt, meta-prompt files and GA config (all participant input is HTML-escaped).
+- `GET /api/submissions`, `GET /api/submissions/{id}`: JSON with id, participant, time, status, scores, number of heldout profiles at 0, error. Heldout queries, generated queries and per-profile results are never exposed.
+- No real authentication: anyone with the token can submit under any name (accepted for a workshop).
+- Tests: `tests/test_leaderboard.py` (ranking with baseline row, token/prompt/name/size rejections, one pending submission per participant, HTML escaping, no heldout details in the API), with a fake scoring function; skipped when the `server` extra is not installed.
+- **End-to-end test** (real gateway and OpenSearch, scratch database): baseline heldout **7.0%** / validation 3.0% (32 of 40 heldout profiles at 0); the 5-iteration smoke-test prompt heldout **20.0%** / validation 30.0% (dev 28.0%). Wrong token and an early resubmission were rejected with clear messages.
 
 ## 11. Optional: agentic variant (oh-my-pi)
 
@@ -273,7 +284,7 @@ data/qrels.json  data/splits.json  labels and split manifest; heldout labels ser
 docker-compose.yml                 OpenSearch (+ leaderboard service later)
 scripts/make_qrels.py oracle_check.py   instructor tools (uv run python scripts/...)
 query_generation.py CV_generation.py   data generators (move into scripts/ later)
-src/evolve_demo/                   labels.py, opensearch.py, llm.py, evaluate.py, cli.py
+src/evolve_demo/                   labels.py, opensearch.py, llm.py, evaluate.py, cli.py, leaderboard.py
 pyproject.toml uv.lock             package + `evolve-eval` console script (uv)
 tests/                             unit tests: uv run python -m unittest discover tests
 evolve/initial_prompt.txt          baseline rewriting prompt (keep it weak)
@@ -281,7 +292,6 @@ evolve/evaluator.py                openevolve wrapper (metrics + feedback artifa
 evolve/configs/evolve.yaml         GA parameters
 evolve/meta/templates/             meta-prompt: system_message.txt, full_rewrite_user.txt
 evolve/runs/                       openevolve output per run (gitignored)
-leaderboard/app.py                 FastAPI + SQLite
 README.md / workshop exercises
 ```
 
@@ -290,15 +300,15 @@ README.md / workshop exercises
 1. OpenSearch up + CV indexing: **done** (4, 4a), including the Docker test.
 2. Data, labeler, qrels, splits: **done** (5, 5a, 5b), oracle sanity check done (4a).
 3. LLM client (b.telligent gateway, Gemini, OpenRouter): **done, verified against the real gateway**. Core evaluation function + baseline prompt score: **done** (dev ≈ 9%, validation 4%).
-4. CLI wrapper: **done** except `submit` (comes with milestone 7).
+4. CLI wrapper: **done** (including `submit`).
 5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation: **done** (5 iterations: dev 5.5% → 28.0%, validation 4.0% → 31.5%).
 6. Meta-prompt templates and documented GA config; exercise sheet.
-7. Leaderboard server + `submit`, and a packaging script that builds the participant repo without heldout profiles and labels.
+7. Leaderboard server + `submit`: **done**, tested end to end on localhost. Still open: packaging script that builds the participant repo without heldout profiles and labels; deployment (where it runs, network).
 8. Dry run with a few participants (cost and latency check).
 9. Optional: oh-my-pi variant.
 
 ## 14. Open points
 
 1. **Rate limits on the b.telligent gateway** with ~N participants in parallel (every participant has their own key **[decided]**; access confirmed).
-2. **Where the leaderboard runs** (instructor laptop, VM) and network reachability from participants.
-3. **Run length and cost for the workshop**: how many iterations fit into the exercise slot (5 iterations ≈ 3 min), and whether the improvement keeps growing beyond 20 iterations or plateaus near the oracle level (~30%).
+2. **Where the leaderboard runs** (instructor laptop, VM) and network reachability from participants; how the workshop token is handed out. The server needs Docker/OpenSearch, the `heldout/` folder and its own API key.
+3. **Run length for the workshop**: the default config plateaus at ~32% dev after ~8 iterations (20 iterations ≈ 7 min). Still to measure: variance between runs, and whether a meta-prompt with index/scoring hints breaks through the plateau (would make a good demo for exercise 1).

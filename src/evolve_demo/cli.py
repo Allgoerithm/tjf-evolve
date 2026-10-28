@@ -7,6 +7,9 @@ Every command prints exactly one JSON object on stdout, so scripts and agents
   evolve-eval index                                  (re)load the CVs into OpenSearch
   evolve-eval run PROMPT_FILE [--split dev]          score a rewriting prompt ('-' = stdin)
   evolve-eval baseline [--split dev]                 score evolve/initial_prompt.txt
+  evolve-eval submit PROMPT_FILE --name NAME [--wait] send prompt + meta-prompt + GA config
+                                                     to the leaderboard (LEADERBOARD_URL,
+                                                     LEADERBOARD_TOKEN)
 
 Exit codes: 0 ok, 1 invalid input (prompt, arguments), 2 setup problem
 (OpenSearch or LLM not reachable, missing key). On failure the JSON object
@@ -24,6 +27,8 @@ import requests
 from . import evaluate, llm, opensearch as osr
 
 BASELINE = os.path.join(evaluate.ROOT, "evolve", "initial_prompt.txt")
+META_DIR = os.path.join(evaluate.ROOT, "evolve", "meta", "templates")
+GA_CONFIG = os.path.join(evaluate.ROOT, "evolve", "configs", "evolve.yaml")
 PARTICIPANT_SPLITS = ("dev", "validation")
 
 
@@ -52,7 +57,7 @@ def read_prompt(path):
         with open(path, encoding="utf-8") as f:
             return f.read()
     except OSError as e:
-        raise CLIError(f"cannot read prompt file: {e}", "input")
+        raise CLIError(f"cannot read file: {e}", "input")
 
 
 def cmd_check(args):
@@ -135,6 +140,63 @@ def cmd_baseline(args):
     return result
 
 
+def read_meta_dir(path):
+    if not os.path.isdir(path):
+        raise CLIError(f"meta-prompt directory not found: {path}", "input")
+    meta = {}
+    for name in sorted(os.listdir(path)):
+        full = os.path.join(path, name)
+        if os.path.isfile(full) and name.endswith((".txt", ".json")):
+            with open(full, encoding="utf-8") as f:
+                meta[name] = f.read()
+    return meta
+
+
+def cmd_submit(args):
+    server = (args.server or os.environ.get("LEADERBOARD_URL", "")).rstrip("/")
+    token = os.environ.get("LEADERBOARD_TOKEN", "")
+    if not server:
+        raise CLIError("no leaderboard address: set LEADERBOARD_URL or use --server", "setup")
+    if not token:
+        raise CLIError("no workshop token: set LEADERBOARD_TOKEN", "setup")
+    prompt = read_prompt(args.prompt_file)
+    try:
+        evaluate.check_prompt(prompt)
+    except evaluate.PromptError as e:
+        raise CLIError(f"invalid prompt: {e}", "input")
+    bundle = {"participant": args.name, "rewriting_prompt": prompt, "meta_prompt": read_meta_dir(args.meta_dir),
+              "ga_config": read_prompt(args.config)}
+    headers = {"Authorization": f"Bearer {token}"}
+    try:
+        r = requests.post(f"{server}/submit", json=bundle, headers=headers, timeout=30)
+    except requests.RequestException:
+        raise CLIError(f"leaderboard not reachable at {server}", "setup")
+    if r.status_code == 401:
+        raise CLIError("the leaderboard rejected the workshop token (LEADERBOARD_TOKEN)", "setup")
+    if r.status_code >= 400:
+        try:
+            detail = r.json()["detail"]
+        except (ValueError, KeyError):
+            detail = r.text[:300]
+        raise CLIError(f"submission rejected: {detail if isinstance(detail, str) else json.dumps(detail)}", "input")
+    result = r.json()
+    result["leaderboard"] = server + "/"
+    if not args.wait:
+        return result
+    print(f"submitted as #{result['id']}; waiting for the score ...", file=sys.stderr)
+    deadline = time.time() + args.wait_timeout
+    while time.time() < deadline:
+        time.sleep(5)
+        try:
+            state = requests.get(f"{server}/api/submissions/{result['id']}", timeout=30).json()
+        except (requests.RequestException, ValueError):
+            continue
+        if state["status"] in ("done", "failed"):
+            state["leaderboard"] = result["leaderboard"]
+            return state
+    raise CLIError(f"no score after {args.wait_timeout} s; check {result['leaderboard']}", "setup")
+
+
 def add_scoring_args(p):
     p.add_argument("--split", default="dev", choices=PARTICIPANT_SPLITS)
     p.add_argument("--limit", type=int, help="only the first N profiles of the split (quick tests)")
@@ -156,6 +218,15 @@ def build_parser():
     p = sub.add_parser("baseline", help="score the baseline prompt evolve/initial_prompt.txt")
     add_scoring_args(p)
     p.set_defaults(func=cmd_baseline)
+    p = sub.add_parser("submit", help="submit a rewriting prompt to the leaderboard")
+    p.add_argument("prompt_file", help="file with the rewriting prompt, e.g. evolve/runs/NAME/best/best_program.txt")
+    p.add_argument("--name", required=True, help="your name on the leaderboard")
+    p.add_argument("--meta-dir", default=META_DIR, help="meta-prompt templates to include (default evolve/meta/templates)")
+    p.add_argument("--config", default=GA_CONFIG, help="GA config to include (default evolve/configs/evolve.yaml)")
+    p.add_argument("--server", help="leaderboard address (default: LEADERBOARD_URL)")
+    p.add_argument("--wait", action="store_true", help="wait until the submission is scored")
+    p.add_argument("--wait-timeout", type=int, default=900, help="seconds to wait with --wait (default 900)")
+    p.set_defaults(func=cmd_submit)
     return ap
 
 
