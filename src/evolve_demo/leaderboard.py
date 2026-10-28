@@ -11,7 +11,8 @@ load on OpenSearch and the LLM gateway stays predictable.
 
   uv run --extra server evolve-leaderboard [--host 0.0.0.0] [--port 8000]
 
-Environment: LEADERBOARD_TOKEN (shared workshop token, required),
+Environment: LEADERBOARD_TOKEN (shared workshop token, required; on Google
+Cloud it can come from Secret Manager, see gcp_secrets.SECRETS_FROM_GCP),
 LEADERBOARD_DB (default leaderboard.sqlite3), plus the usual LLM and
 OpenSearch settings (the server uses its own API key).
 """
@@ -284,6 +285,12 @@ def main(argv=None):
     ap.add_argument("--host", default="127.0.0.1", help="use 0.0.0.0 to accept connections from other machines")
     ap.add_argument("--port", type=int, default=8000)
     args = ap.parse_args(argv)
+    if os.environ.get("SECRETS_FROM_GCP"):   # on the Google Cloud VM: key and token from Secret Manager
+        from . import gcp_secrets
+        try:
+            print("loaded from Secret Manager:", ", ".join(gcp_secrets.load()), flush=True)
+        except gcp_secrets.SecretError as e:
+            raise SystemExit(f"secrets: {e}")
     import uvicorn
     uvicorn.run(create_app(), host=args.host, port=args.port)
 

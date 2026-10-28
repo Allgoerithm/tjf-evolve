@@ -1,0 +1,64 @@
+# Leaderboard stack on the Google Cloud VM (instructor only, not shipped).
+# Started by start.sh on the VM; see deploy/gcp/README.md.
+#
+# Differences from the laptop setup (docker-compose.server.yml):
+# - Caddy terminates HTTPS for ${SITE_ADDRESS} (e.g. 34.1.2.3.sslip.io) with a
+#   Let's Encrypt certificate and forwards to the leaderboard; only ports 80
+#   and 443 are published.
+# - The gateway key and the workshop token are read from Secret Manager by the
+#   leaderboard process itself (SECRETS_FROM_GCP); they never appear in files
+#   or in the container configuration.
+name: tjf
+services:
+  opensearch:
+    extends: {file: ../../docker-compose.yml, service: opensearch}
+
+  indexer:
+    build: {context: ../.., dockerfile: deploy/leaderboard.Dockerfile}
+    image: tjf-leaderboard:local
+    command: ["python", "-m", "evolve_demo.cli", "index", "--if-needed"]
+    environment:
+      OPENSEARCH_URL: http://opensearch:9200
+    volumes:
+      - ../..:/app:ro
+    depends_on:
+      opensearch: {condition: service_healthy}
+    restart: "no"
+
+  leaderboard:
+    image: tjf-leaderboard:local
+    environment:
+      OPENSEARCH_URL: http://opensearch:9200
+      LEADERBOARD_DB: /data/leaderboard.sqlite3
+      LLM_PROVIDER: btelligent
+      SECRETS_FROM_GCP: BTELLIGENT_API_KEY=tjf-btelligent-api-key,LEADERBOARD_TOKEN=tjf-leaderboard-token
+    volumes:
+      - ../..:/app:ro
+      - leaderboard-data:/data
+    depends_on:
+      opensearch: {condition: service_healthy}
+      indexer: {condition: service_completed_successfully}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/submissions', timeout=5)"]
+      interval: 15s
+      timeout: 10s
+      retries: 8
+      start_period: 30s
+
+  caddy:
+    image: caddy:2.10.2
+    command: ["caddy", "reverse-proxy", "--from", "${SITE_ADDRESS:?set SITE_ADDRESS}", "--to", "leaderboard:8000"]
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - caddy-data:/data
+    depends_on:
+      leaderboard: {condition: service_healthy}
+    restart: unless-stopped
+
+volumes:
+  opensearch-data:
+  leaderboard-data:
+  caddy-data:

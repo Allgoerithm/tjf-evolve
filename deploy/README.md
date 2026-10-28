@@ -1,12 +1,10 @@
-# Leaderboard deployment (instructor laptop)
+# Leaderboard deployment on the instructor laptop (fallback)
 
-The leaderboard runs on the instructor laptop with Docker Compose, next to the
-OpenSearch container. Participants reach it over the workshop network at
-`http://<laptop-ip>:8000`.
-
-Running on the laptop is the current decision but may be reconsidered (see
-open point 4 in `PLAN.md`): the compose setup is host-independent and also
-works on a VM or an internal server that all participants can reach.
+**The workshop setup is the Google Cloud VM, see [gcp/README.md](gcp/README.md)
+(decided 2026-10-28).** This laptop setup stays as a fallback and for local
+testing: the leaderboard runs with Docker Compose next to the OpenSearch
+container, and participants reach it at `http://<laptop-ip>:8000`, which under
+WSL2 needs the network settings below.
 
 Files:
 - `../docker-compose.server.yml` – adds the `indexer` (one-shot, skips if the

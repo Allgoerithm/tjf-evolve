@@ -35,7 +35,8 @@ Stop OpenSearch with `docker compose down` (`-v` also deletes the index).
 | Score on heldout (instructor only) | `uv run python -m evolve_demo.evaluate PROMPT.txt --split heldout` |
 | Evolve | `uv run openevolve-run evolve/initial_prompt.txt evolve/evaluator.py --config evolve/configs/evolve.yaml --output evolve/runs/NAME --iterations 20` |
 | Sanity check (no LLM) | `uv run python scripts/oracle_check.py` |
-| Run the leaderboard (workshop) | `docker compose -f docker-compose.yml -f docker-compose.server.yml up -d --build --wait`, see [deploy/README.md](deploy/README.md) |
+| Run the leaderboard (workshop) | Google Cloud VM: `deploy/gcp/provision.sh …`, see [deploy/gcp/README.md](deploy/gcp/README.md) |
+| Run the leaderboard (laptop fallback) | `docker compose -f docker-compose.yml -f docker-compose.server.yml up -d --build --wait`, see [deploy/README.md](deploy/README.md) |
 | Run the leaderboard (development) | `LEADERBOARD_TOKEN=... uv run --extra server evolve-leaderboard` |
 | Build the participant package | `uv run python scripts/package_participant.py ../tjf-evolve-participant --zip --git` |
 | Tests | `uv run --extra server python -m unittest discover tests` |
@@ -50,9 +51,9 @@ Notes:
   `uv run` syncs the environment without FastAPI and uvicorn.
 - The leaderboard needs OpenSearch with the index, the `heldout/` folder and
   its own API key, and enters the baseline automatically on first start. For
-  the workshop it runs in Docker on the instructor laptop (submissions in a
-  Docker volume); making it reachable from other machines under WSL2 needs
-  Windows-side settings, see [deploy/README.md](deploy/README.md).
+  the workshop it runs on a Google Cloud VM behind HTTPS, with key and token
+  in Secret Manager ([deploy/gcp/README.md](deploy/gcp/README.md)); the
+  laptop setup ([deploy/README.md](deploy/README.md)) is the fallback.
 
 ## Regenerating the data
 
@@ -84,7 +85,7 @@ evolve/configs/evolve.yaml    GA parameters
 evolve/meta/templates/        meta-prompt (system message, rewrite request)
 evolve/runs/                  openevolve output (gitignored)
 docker-compose.server.yml     indexer + leaderboard services (instructor only)
-deploy/                       leaderboard Dockerfile and deployment runbook
+deploy/                       leaderboard Dockerfile, laptop runbook; deploy/gcp/ for the Google Cloud VM
 instructor/                   reference solutions (e.g. meta-prompt with hints for exercise 2)
 scripts/                      make_qrels, oracle_check, package_participant (instructor only)
 query_generation.py CV_generation.py   data generators (instructor only)

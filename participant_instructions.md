@@ -49,7 +49,12 @@ Typing the key directly into the command line stores it in your shell history.
 
 ## Setup
 
-Requirements: Docker (with Compose) and [uv](https://docs.astral.sh/uv/).
+Requirements: a Mac or Windows with WSL2, Docker (with Compose) and
+[uv](https://docs.astral.sh/uv/). On a Mac, use Docker Desktop. On Windows,
+work inside your WSL2 distribution (Docker Desktop with the WSL2 backend or
+Docker Engine installed in WSL both work), and keep the repository in the WSL
+file system (e.g. `~/repos`), not under `/mnt/c`. All commands below are for
+bash (WSL) or zsh (Mac).
 
 ```bash
 docker compose up -d --wait     # start OpenSearch (first start downloads ~1 GB)
@@ -60,8 +65,9 @@ uv run evolve-eval check        # checks OpenSearch, the index and your API key
 `check` prints `"ok": true` when everything works. Every `evolve-eval` command
 prints one JSON object; on problems it contains an `"error"` with a hint.
 
-If Docker says "permission denied" right after you were added to the `docker`
-group, log out and in again (group membership applies only to new logins).
+WSL with Docker Engine: if Docker says "permission denied" right after you were
+added to the `docker` group, close all WSL terminals and open a new one (group
+membership applies only to new logins).
 
 ## How the score works
 
