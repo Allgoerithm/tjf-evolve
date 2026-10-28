@@ -1,14 +1,16 @@
 """Small chat-completion client (plain HTTP via requests) for any
-OpenAI-compatible endpoint. Two providers are preconfigured:
+OpenAI-compatible endpoint. Three providers are preconfigured:
 
-  gemini      Gemini API, OpenAI-compatible endpoint (default)
-  openrouter  OpenRouter (optional)
+  btelligent  b.telligent chat gateway, OpenAI-compatible (default)
+  gemini      Gemini API, OpenAI-compatible endpoint
+  openrouter  OpenRouter
 
 Configuration comes from environment variables, optionally from a `.env` file
 in the repository root (see `.env.example`); real environment variables win.
 
-  LLM_PROVIDER     gemini | openrouter                (default: gemini)
-  GEMINI_API_KEY / OPENROUTER_API_KEY                 key of the chosen provider
+  LLM_PROVIDER     btelligent | gemini | openrouter   (default: btelligent)
+  BTELLIGENT_API_KEY / GEMINI_API_KEY / OPENROUTER_API_KEY
+                                                      key of the chosen provider
   LLM_API_KEY      overrides the provider-specific key variable
   LLM_API_BASE     overrides the provider's base URL  (any OpenAI-compatible endpoint)
   REWRITER_MODEL   overrides the provider's default model
@@ -25,6 +27,11 @@ import requests
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 PROVIDERS = {
+    "btelligent": {
+        "base_url": "https://chat.btelligent.com/api",
+        "key_env": "BTELLIGENT_API_KEY",
+        "model": "gpt-6-luna",
+    },
     "gemini": {
         "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
         "key_env": "GEMINI_API_KEY",
@@ -57,7 +64,7 @@ def load_dotenv(path=os.path.join(ROOT, ".env")):
 def settings(provider=None):
     """Resolved provider, base URL, API key and model (the key may be empty)."""
     load_dotenv()
-    provider = provider or os.environ.get("LLM_PROVIDER", "gemini")
+    provider = provider or os.environ.get("LLM_PROVIDER", "btelligent")
     if provider not in PROVIDERS:
         raise LLMError(f"unknown LLM_PROVIDER '{provider}' (use one of {', '.join(PROVIDERS)})")
     p = PROVIDERS[provider]
@@ -68,6 +75,24 @@ def settings(provider=None):
         "key_env": p["key_env"],
         "model": os.environ.get("REWRITER_MODEL") or p["model"],
     }
+
+
+def list_models(provider=None, timeout=30):
+    """Model ids the endpoint offers (GET <base_url>/models)."""
+    cfg = settings(provider)
+    if not cfg["api_key"]:
+        raise LLMError(f"no API key: set {cfg['key_env']} (environment or .env file)")
+    try:
+        r = requests.get(f"{cfg['base_url']}/models", headers={"Authorization": f"Bearer {cfg['api_key']}"},
+                         timeout=timeout)
+    except requests.RequestException as e:
+        raise LLMError(f"connection problem: {e}")
+    if r.status_code != 200:
+        raise LLMError(f"HTTP {r.status_code} from {cfg['provider']}: {r.text[:300]}")
+    try:
+        return sorted(m["id"] for m in r.json()["data"])
+    except (ValueError, KeyError, TypeError):
+        raise LLMError(f"unexpected response: {r.text[:300]}")
 
 
 def complete(prompt, *, system=None, model=None, provider=None, temperature=None, max_tokens=2048,
@@ -83,7 +108,7 @@ def complete(prompt, *, system=None, model=None, provider=None, temperature=None
         raise LLMError(f"no API key: set {cfg['key_env']} (environment or .env file)")
     model = model or cfg["model"]
     messages = ([{"role": "system", "content": system}] if system else []) + [{"role": "user", "content": prompt}]
-    body = {"model": model, "messages": messages, "max_tokens": max_tokens}
+    body = {"model": model, "messages": messages, "max_tokens": max_tokens, "stream": False}
     if temperature is not None:
         body["temperature"] = temperature
     if reasoning_effort:

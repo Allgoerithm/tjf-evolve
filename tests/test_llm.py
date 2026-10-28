@@ -24,6 +24,12 @@ class FakeServer(http.server.BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(json.dumps(payload).encode())
 
+    def do_GET(self):
+        FakeServer.seen.append((self.path, self.headers.get("Authorization"), None))
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(json.dumps({"data": [{"id": "gpt-6-luna"}, {"id": "another-model"}]}).encode())
+
     def log_message(self, *args):
         pass
 
@@ -47,9 +53,9 @@ class LLMClientTest(unittest.TestCase):
     def setUp(self):
         FakeServer.script, FakeServer.seen = [], []
         self._env = dict(os.environ)
-        for k in ("LLM_PROVIDER", "GEMINI_API_KEY", "OPENROUTER_API_KEY", "LLM_API_KEY", "REWRITER_MODEL", "LLM_CACHE_DIR"):
+        for k in ("LLM_PROVIDER", "BTELLIGENT_API_KEY", "GEMINI_API_KEY", "OPENROUTER_API_KEY", "LLM_API_KEY", "REWRITER_MODEL", "LLM_CACHE_DIR"):
             os.environ.pop(k, None)
-        os.environ.update(LLM_API_BASE=self.base, GEMINI_API_KEY="test-key")
+        os.environ.update(LLM_API_BASE=self.base, BTELLIGENT_API_KEY="test-key")
         llm.load_dotenv = lambda *a, **k: None   # ignore a real .env during tests
 
     def tearDown(self):
@@ -62,7 +68,8 @@ class LLMClientTest(unittest.TestCase):
         path, auth, body = FakeServer.seen[0]
         self.assertEqual(path, "/v1/chat/completions")
         self.assertEqual(auth, "Bearer test-key")
-        self.assertEqual(body["model"], "gemini-3.5-flash-lite")
+        self.assertEqual(body["model"], "gpt-6-luna")
+        self.assertIs(body["stream"], False)
         self.assertEqual(body["messages"], [{"role": "system", "content": "be brief"}, {"role": "user", "content": "hi"}])
         self.assertEqual((body["temperature"], body["reasoning_effort"]), (0.2, "low"))
 
@@ -96,8 +103,8 @@ class LLMClientTest(unittest.TestCase):
         self.assertEqual(len(FakeServer.seen), 1)
 
     def test_missing_key_and_unknown_provider(self):
-        os.environ.pop("GEMINI_API_KEY")
-        with self.assertRaisesRegex(llm.LLMError, "GEMINI_API_KEY"):
+        os.environ.pop("BTELLIGENT_API_KEY")
+        with self.assertRaisesRegex(llm.LLMError, "BTELLIGENT_API_KEY"):
             llm.complete("hi")
         os.environ["LLM_PROVIDER"] = "nope"
         with self.assertRaisesRegex(llm.LLMError, "unknown LLM_PROVIDER"):
@@ -107,6 +114,10 @@ class LLMClientTest(unittest.TestCase):
         FakeServer.script = [(200, {"choices": [{"message": {"content": None}, "finish_reason": "length"}]}, {})]
         with self.assertRaisesRegex(llm.LLMError, "length"):
             llm.complete("hi")
+
+    def test_list_models(self):
+        self.assertEqual(llm.list_models(), ["another-model", "gpt-6-luna"])
+        self.assertEqual(FakeServer.seen[0][:2], ("/v1/models", "Bearer test-key"))
 
     def test_cache(self):
         with tempfile.TemporaryDirectory() as d:

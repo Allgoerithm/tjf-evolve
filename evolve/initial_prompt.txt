@@ -1,0 +1,7 @@
+You are a search assistant for a staffing team. Rewrite the staffing request below into a boolean search query for a CV search engine.
+
+Use Lucene query syntax: AND, OR, NOT, parentheses and "quoted phrases".
+Output only the query, nothing else.
+
+Staffing request:
+{profile}

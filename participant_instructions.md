@@ -2,16 +2,16 @@
 
 (Work in progress. More sections will follow.)
 
-## Setting your Gemini API key
+## Setting your API key
 
-The workshop code talks to the Gemini API. It reads the key from the
-environment variable `GEMINI_API_KEY`. You do **not** need to create a `.env`
+The workshop code talks to the b.telligent chat gateway (OpenAI-compatible). It reads the key from the
+environment variable `BTELLIGENT_API_KEY`. You do **not** need to create a `.env`
 file, so the key never has to be written to disk.
 
 ### Set the key for the current shell session
 
 ```bash
-read -rs GEMINI_API_KEY && export GEMINI_API_KEY
+read -rs BTELLIGENT_API_KEY && export BTELLIGENT_API_KEY
 ```
 
 Paste the key and press Enter. The key stays in the memory of that shell only.
@@ -23,7 +23,7 @@ command again.
 ### Do not do this
 
 ```bash
-export GEMINI_API_KEY=AIza...   # ends up in ~/.bash_history
+export BTELLIGENT_API_KEY=sk-...   # ends up in ~/.bash_history
 ```
 
 Typing the key directly into the command line stores it in your shell history.

@@ -70,15 +70,16 @@ flowchart TB
         osS -- "top-5 CV ids" --> coreS
     end
 
-    gemini{{"Gemini API<br/>gemini-3.5-flash-lite<br/>rewriter = evolution model"}}
+    gemini{{"LLM API<br/>gpt-6-luna (b.telligent gateway)<br/>rewriter = evolution model"}}
 
     oe -- "mutate prompt<br/>(participant key)" --> gemini
     coreP -- "rewrite profile<br/>(participant key)" --> gemini
     coreS -- "rewrite profile<br/>(server key)" --> gemini
     cli <-- "submit bundle (name, rewriting prompt, meta-prompt, GA config)<br/>⇄ heldout + validation scores" --> lb
 
-    %% invisible link: keeps the server below the participant laptop
-    P ~~~ S
+    %% invisible links: rank the server below the lowest laptop nodes
+    coreP ~~~ lb
+    osP ~~~ lb
 ```
 
 Components:
@@ -168,35 +169,39 @@ CV ids are the file names without `.txt`. Checked: splits are disjoint and compl
 
 **Packaging caveat:** the texts of the heldout profiles are still in `queries/`. The participant package must therefore exclude `heldout/` **and** the heldout profile files (ids in `heldout/heldout.json`). A packaging script is a milestone (see 13).
 
-## 6. Core evaluation function
+## 6. Core evaluation function  **[implemented]**
 
+`src/evolve_demo/evaluate.py`, no openevolve dependency:
 ```python
-evaluate_prompt(rewriting_prompt: str, split: str = "dev", cfg: EvalConfig | None = None) -> EvalResult
+evaluate_prompt(prompt, split="dev", *, workers=8, limit=None, model=None, max_tokens=4096, reasoning_effort=None) -> dict
 ```
-- For each query in the split: fill the prompt with the profile text, call the rewriter LLM, extract the boolean query, run it on OpenSearch, score the top 5 against the labels.
-- Returns aggregated metrics, per-query results (rewritten query, score, errors).
-- Prompt contract: the rewriting prompt contains a single placeholder (e.g. `{profile}`); evaluation validates this. Stray braces must be handled safely (use a replace instead of `str.format`; the `llm_prompt_optimization` example scores prompts 0 on stray braces, which we avoid).
-- Parallel LLM calls with timeout, retry and on-disk caching keyed by (prompt hash, query id, model) to keep repeated evaluations cheap.
-- Deterministic as far as possible: temperature 0 for the rewriter.
+- For each profile of the split: insert the profile text at `{profile}` (plain `replace`, not `str.format`, so other braces are harmless), call the rewriter LLM, strip whitespace and a Markdown code fence, run the query on OpenSearch, score the top 5 against the labels.
+- Returns `combined_score` (mean over profiles, 0..1), `n_errors`, `n_zero`, `avg_query_chars` (candidate MAP-Elites feature), `model`, `seconds`, and `per_profile` (id, score, points, query, top ids, error, seconds).
+- `PromptError` for an unusable prompt (no `{profile}`, longer than 20,000 characters). Per-profile LLM errors, query syntax errors and empty queries cost that profile's points and are reported, never raised.
+- 8 parallel LLM calls; the optional response cache (`LLM_CACHE_DIR`) makes repeated evaluations of the same prompt free and identical. No temperature is set (model default).
+- The heldout split loads from `heldout/heldout.json`, which only exists on the server.
+- Run directly: `PYTHONPATH=src python3 -m evolve_demo.evaluate evolve/initial_prompt.txt --split dev [--limit N] [--details]` (until the CLI exists).
+- Tests: `tests/test_evaluate.py` (placeholder, braces, code fences, splits).
 
-## 7. LLM backends  **[decided, implemented, not yet run against the real API]**
+**Baseline** (`evolve/initial_prompt.txt`, a deliberately plain prompt): **dev 9.5% / 8.0% / 8.5%** in three runs (noise about ±1 point), ~31 s per run with `gpt-6-luna`. Typical failure: the model ANDs every requirement, including location, industry and years as text, so 27 of 40 queries return no hits at all. That leaves a lot of room up to the oracle strategies (27–34%) and the ceiling (68.5%), and it is an instructive first thing for the evolution to fix.
+
+## 7. LLM backends  **[decided, implemented, verified against the b.telligent gateway]**
 
 Two separate roles:
-- **Rewriter model** (inside the evaluation): `gemini-3.5-flash-lite` (stable; confirmed in Google's model list).
-- **Evolution model** (openevolve's `llm.models`): the same Gemini model **[decided]**; still configurable.
+- **Rewriter model** (inside the evaluation): `gpt-6-luna` via the b.telligent chat gateway **[decided, switched from Gemini]**.
+- **Evolution model** (openevolve's `llm.models`): the same model **[decided]**; still configurable.
 
-Providers, both through an OpenAI-compatible chat-completions endpoint:
-- **Gemini API** (primary **[decided]**): `https://generativelanguage.googleapis.com/v1beta/openai`, API key as Bearer token, `GEMINI_API_KEY`.
-- **OpenRouter** (optional): `https://openrouter.ai/api/v1`, `OPENROUTER_API_KEY`, model `google/gemini-3.5-flash-lite` (listed at $0.30 per million input and $2.50 per million output tokens; a 40-query evaluation should cost a few cents).
+Providers, all through an OpenAI-compatible chat-completions endpoint:
+- **btelligent** (default **[decided]**): `https://chat.btelligent.com/api` (`/chat/completions`, `/models`), API key as Bearer token, `BTELLIGENT_API_KEY`, model `gpt-6-luna`.
+- **Gemini API** (alternative): `https://generativelanguage.googleapis.com/v1beta/openai`, `GEMINI_API_KEY`, model `gemini-3.5-flash-lite`.
+- **OpenRouter** (alternative): `https://openrouter.ai/api/v1`, `OPENROUTER_API_KEY`, model `google/gemini-3.5-flash-lite`.
 
-Client: `src/evolve_demo/llm.py` (requests only, no SDK). `complete(prompt, system=, temperature=, max_tokens=, reasoning_effort=)` with retries and exponential backoff on 429/5xx and connection errors (honours `Retry-After`), clear `LLMError`s, optional on-disk response cache (`LLM_CACHE_DIR`). Configuration through environment variables or a `.env` file (`.env.example` is provided, `.env` is in `.gitignore`): `LLM_PROVIDER`, `GEMINI_API_KEY` / `OPENROUTER_API_KEY`, `LLM_API_KEY`, `LLM_API_BASE`, `REWRITER_MODEL`, `LLM_CACHE_DIR`.
+Client: `src/evolve_demo/llm.py` (requests only, no SDK). `complete(prompt, system=, temperature=, max_tokens=, reasoning_effort=)` sends `stream: false`, retries with exponential backoff on 429/5xx and connection errors (honours `Retry-After`), raises clear `LLMError`s, optional on-disk response cache (`LLM_CACHE_DIR`). `list_models()` returns the model ids the endpoint offers. Configuration through environment variables (preferred: export the key in the shell, see `participant_instructions.md`) or a `.env` file (`.env.example`, gitignored): `LLM_PROVIDER`, `BTELLIGENT_API_KEY` / `GEMINI_API_KEY` / `OPENROUTER_API_KEY`, `LLM_API_KEY`, `LLM_API_BASE`, `REWRITER_MODEL`, `LLM_CACHE_DIR`.
 
-Tests: `tests/test_llm.py` (9 tests against a local fake server: request format, optional parameters, OpenRouter defaults, retry/give-up, no retry on 4xx, missing key, empty answer, cache). `scripts/llm_check.py` is a smoke test for the real endpoint.
+Tests: `tests/test_llm.py` (10 tests against a local fake server). `scripts/llm_check.py` checks that the model is offered and sends one tiny rewriting request.
 
-Points to verify as soon as a key exists:
-- Sampling: Google's guidance for Gemini 3 models is to keep the default temperature. The client therefore sends no temperature unless asked. Check how much the scores vary between repeated runs; the response cache keeps repeated evaluations of the same prompt stable.
-- `max_tokens` includes the model's thinking tokens (answers can be cut off or empty if it is too small); `reasoning_effort` (`minimal` to `high`) may be useful to keep the rewriter fast and cheap.
-- Rate limits of the free versus paid Gemini tier with several participants in parallel.
+Verified with the real gateway: `gpt-6-luna` is offered (18 models), accepts `max_tokens` and `stream: false`, answers in 2–10 s; a 40-profile evaluation takes ~31 s with 8 parallel calls, no rate-limit errors so far.
+Still to check: `reasoning_effort` and `temperature` support, rate limits with many participants in parallel.
 
 ## 7a. Deployment model  **[decided]**
 
@@ -260,7 +265,7 @@ README.md / workshop exercises
 
 1. OpenSearch up + CV indexing: **done** (4, 4a), including the Docker test.
 2. Data, labeler, qrels, splits: **done** (5, 5a, 5b). Still open: sanity check with an oracle query built from a profile once OpenSearch runs.
-3. LLM client (Gemini, OpenRouter): **done, tested against a fake server only**. Core evaluation function + baseline prompt score: open.
+3. LLM client (b.telligent gateway, Gemini, OpenRouter): **done, verified against the real gateway**. Core evaluation function + baseline prompt score: **done** (dev ≈ 9%; validation not yet measured).
 4. CLI wrapper.
 5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation.
 6. Meta-prompt templates and documented GA config; exercise sheet.
@@ -270,6 +275,6 @@ README.md / workshop exercises
 
 ## 14. Open points
 
-1. **Gemini API key and quota**: how do ~N participants get keys (own keys, or a shared workshop key), and which rate limits apply? A key is also needed to run the smoke test (`scripts/llm_check.py`).
+1. **Rate limits on the b.telligent gateway** with ~N participants in parallel (every participant has their own key **[decided]**; access confirmed).
 2. **Where the leaderboard runs** (instructor laptop, VM) and network reachability from participants.
 3. **openevolve details to verify** (not analyzed yet): text-file programs with `language: text`, artifacts flow into prompts, `evaluator.py` cascade/timeout, template overriding.
