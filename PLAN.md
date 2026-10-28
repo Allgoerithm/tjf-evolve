@@ -304,7 +304,7 @@ README.md / workshop exercises
 3. LLM client (b.telligent gateway, Gemini, OpenRouter): **done, verified against the real gateway**. Core evaluation function + baseline prompt score: **done** (dev ≈ 9%, validation 4%).
 4. CLI wrapper: **done** (including `submit`).
 5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation: **done** (5 iterations: dev 5.5% → 28.0%, validation 4.0% → 31.5%).
-6. Meta-prompt templates and documented GA config; exercise sheet.
+6. Meta-prompt templates and documented GA config: **done**. Exercise sheet: **first version** in `participant_instructions.md` (intro, scoring and splits, exercises 0–4 with discussion questions); to revise after the meta-prompt experiment and a dry run.
 7. Leaderboard server + `submit`: **done**, tested end to end on localhost. Packaging script: **done** (`scripts/package_participant.py`, with leak scan). Still open: deployment (where it runs, network).
 8. Dry run with a few participants (cost and latency check).
 9. Optional: oh-my-pi variant.
