@@ -1,0 +1,41 @@
+David Iyer
+Hamburg, Germany | david.iyer@example.com | +33 771 8085819
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (7 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, LookML, Snowflake
+- Data Science & Machine Learning: PyTorch, MLOps, Causal Inference
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization, Apache Kafka
+- Tools & Ways of Working: Data governance, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | BlueRiver Analytics | Brussels, Belgium | 2023 - Present
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Modeled core business entities in Looker so that 5 teams could explore governed metrics on their own.
+- Implemented a data lake on Snowflake, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 8 analyst days per month for higher-value analysis.
+
+Senior Data Platform Consultant | Nordwind Consulting | Helsinki, Finland | 2020 - 2023
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Orchestrated 20+ data pipelines with Apache Airflow, including alerting and backfills.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+Lead Data & AI Consultant | Harborview Consulting | Vienna, Austria | 2019 - 2020
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Computational Science, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- Swedish (Native)
+- English (Conversational)

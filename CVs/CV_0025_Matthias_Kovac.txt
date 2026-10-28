@@ -1,0 +1,32 @@
+Matthias Kovac
+Hamburg, Germany | matthias.kovac@example.com | +1 518 3000667
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Infrastructure Consultant with 2 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Docker, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Infrastructure as Code, Terraform
+- Business Intelligence: KPI design
+- Tools & Ways of Working: Data governance, Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Greystone Data & AI | Rotterdam, Netherlands | 2024 - Present
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Introduced Git-based workflows with code review for the analytics team.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Designed and implemented a multi-account AWS landing zone for an energy and utilities client, improving security posture and cost visibility.
+- Built Kafka-based streaming ingestion for 15 operational systems.
+
+EDUCATION
+M.Sc. in Data Science, University of Hamburg, Hamburg, Germany (2023)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Qlik Sense Data Architect Certification
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Italian (Native)
+- Hindi (Fluent)
+- French (Fluent)

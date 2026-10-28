@@ -1,0 +1,31 @@
+SEARCH PROFILE #002
+Role Needed: Senior Data Platform Consultant
+Engagement Type: Short-term project engagement
+Client Industry: Insurance
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Stakeholder reporting & dashboarding
+- PyTorch
+- Requirements engineering
+- Linux system administration
+- Apache Airflow
+
+NICE-TO-HAVE SKILLS
+- Looker
+- Computer Vision
+
+PREFERRED CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGE REQUIREMENTS
+- Dutch (native)
+- Portuguese (conversational)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Oslo, Norway)
+
+PROJECT CONTEXT
+An insurance client is launching a broader data & AI strategy and needs a generalist who can bridge BI, data science, and cloud infrastructure.
+
+Start Date: ASAP
+Duration: 12 months, potential for permanent placement

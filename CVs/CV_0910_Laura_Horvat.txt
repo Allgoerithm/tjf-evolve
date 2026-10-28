@@ -1,0 +1,35 @@
+Laura Horvat
+Lisbon, Portugal | laura.horvat@example.com | +47 378 7772982
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, DAX, SSRS
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Snowflake on cloud, AWS (EC2, S3, Lambda, Redshift, Glue), Docker
+- Tools & Ways of Working: Git, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Fjord Digital Solutions | Oslo, Norway | 2024 - Present
+- Led the adoption of a self-service data platform on Looker, onboarding 15+ internal teams within the first year.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Rolled out data governance roles and policies across 20 departments.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 8 teams.
+
+IT Consultant | Cobalt Data Labs | Paris, France | 2022 - 2024
+- Performed a cloud security audit for a logistics client, remediating 2 critical findings within the first quarter.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Trained 5 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Computer Science, University of Manchester, Manchester, United Kingdom (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Italian (Native)
+- Portuguese (Fluent)
+- Mandarin (Professional working proficiency)

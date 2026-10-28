@@ -1,0 +1,39 @@
+Yuki Schroder
+Copenhagen, Denmark | yuki.schroder@example.com | +44 874 8783184
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Engineer with 7 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Airflow, Infrastructure as Code, Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Business Intelligence: Looker
+- Tools & Ways of Working: Git, Agile / Scrum, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Nimbus Infrastructure Consulting | Dublin, Ireland | 2023 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 30% for a public sector client's data platform.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Performed a cloud security audit for a healthcare client, remediating 15 critical findings within the first quarter.
+
+IT Consultant | Riverbend Analytics | Stuttgart, Germany | 2022 - 2023
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 50 TB of data monthly from 50 source systems.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+Cloud Engineer | TerraLogic Consulting | Hamburg, Germany | 2019 - 2022
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Computational Science, University of Amsterdam, Amsterdam, Netherlands (2017)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Project Management Professional (PMP)
+- Google Professional Data Engineer
+
+LANGUAGES
+- Danish (Native)
+- Polish (Professional working proficiency)

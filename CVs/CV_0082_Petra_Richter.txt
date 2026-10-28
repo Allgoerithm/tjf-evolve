@@ -1,0 +1,40 @@
+Petra Richter
+Frankfurt, Germany | petra.richter@example.com | +48 206 9084928
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5 years of experience delivering data science and machine learning solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Computer Vision, Natural Language Processing, Databricks, Jupyter, MLOps, A/B Testing & Experimentation
+- Cloud & Infrastructure: Terraform, Kubernetes
+- Tools & Ways of Working: Agile / Scrum, Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Cobalt Data Labs | Cologne, Germany | 2025 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 28% uplift in conversion rate.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Developed an anomaly detection system for insurance operations, flagging issues 28% faster than the previous manual process.
+
+Machine Learning Engineer | Meridian Digital Partners | Rotterdam, Netherlands | 2024 - 2025
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Prototyped models in Python with pandas and scikit-learn, handing them over to engineering after validation.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 12%.
+- Built a recommendation engine for a logistics client, contributing to a 30% increase in average order value.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 15%.
+
+IT Consultant | Kestrel Data Solutions | Milan, Italy | 2023 - 2024
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 25%.
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the banking sector.
+- Led a proof-of-concept on demand forecasting for a logistics client, achieving a 35% reduction in forecast error versus the baseline.
+
+EDUCATION
+B.Sc. in Computer Science, Delft University of Technology, Delft, Netherlands (2021)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Spanish (Native)
+- Portuguese (Professional working proficiency)

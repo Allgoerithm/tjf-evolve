@@ -1,0 +1,38 @@
+Grace Dvorak
+Chicago, USA | grace.dvorak@example.com | +41 825 6290240
+
+PROFESSIONAL SUMMARY
+Data Engineer with 6 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SSAS, KPI design
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Apache Airflow, Infrastructure as Code, Networking & VPC design
+- Tools & Ways of Working: Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Meridian Digital Partners | Barcelona, Spain | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+
+Analytics Engineer | Vantage Point Consulting | Madrid, Spain | 2022 - 2024
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Automated the monthly reporting cycle for an insurance client, freeing up 2 analyst days per month for higher-value analysis.
+- Built Kafka-based streaming ingestion for 8 operational systems.
+
+Consultant | Harborview Consulting | Manchester, United Kingdom | 2020 - 2022
+- Led the adoption of a self-service data platform on Snowflake, onboarding 8+ internal teams within the first year.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Implemented a data lake on Power BI, ingesting and processing over 2 TB of data monthly from 2 source systems.
+
+EDUCATION
+B.Sc. in Computer Science, Imperial College London, London, United Kingdom (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Spanish (Native)
+- Swedish (Fluent)

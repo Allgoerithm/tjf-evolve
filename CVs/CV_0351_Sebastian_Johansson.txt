@@ -1,0 +1,41 @@
+Sebastian Johansson
+Stuttgart, Germany | sebastian.johansson@example.com | +1 673 4491305
+
+PROFESSIONAL SUMMARY
+Experienced Data & Analytics Consultant (5 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSAS, SSRS, QlikView
+- Data Science & Machine Learning: Databricks, PyTorch, MLflow
+- Cloud & Infrastructure: Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Clearwater Data Systems | Lisbon, Portugal | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for a healthcare client, improving budget accountability across 5 teams.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+- Developed an anomaly detection system for consumer goods operations, flagging issues 45% faster than the previous manual process.
+
+Senior Data Platform Consultant | Solaris Data Engineering | Vienna, Austria | 2024 - 2025
+- Led the adoption of a self-service data platform on Databricks, onboarding 30+ internal teams within the first year.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 20 disparate spreadsheets into a single source of truth.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 18%.
+
+Data & Analytics Consultant | Meridian Digital Partners | Toronto, Canada | 2023 - 2024
+- Performed a cloud security audit for a telecommunications client, remediating 3 critical findings within the first quarter.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Designed and delivered 15 interactive Tableau dashboards for e-commerce clients, reducing manual reporting effort by 45%.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Manchester, Manchester, United Kingdom (2019)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Danish (Native)
+- Mandarin (Fluent)
+- Polish (Conversational)

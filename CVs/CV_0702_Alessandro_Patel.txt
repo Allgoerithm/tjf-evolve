@@ -1,0 +1,41 @@
+Alessandro Patel
+Toronto, Canada | alessandro.patel@example.com | +46 683 4487884
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant with 8 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, T-SQL, QlikView
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), XGBoost / LightGBM, MLOps
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Apache Airflow
+- Tools & Ways of Working: Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Lumen Analytics Group | Milan, Italy | 2024 - Present
+- Replaced 20 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Trained 10 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Developed a XGBoost model to predict equipment failure for energy and utilities clients, improving prediction accuracy by 25%.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 3 teams.
+
+Senior Data Platform Consultant | Northgate Technology Group | Singapore, Singapore | 2022 - 2024
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Performed a cloud security audit for a pharmaceuticals client, remediating 30 critical findings within the first quarter.
+- Built a churn prediction model on 10+ customer records, enabling targeted retention campaigns for the telecommunications sector.
+
+Lead Data & AI Consultant | Alpenglow Analytics | Toronto, Canada | 2020 - 2022
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 10 regional entities.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 40%.
+
+EDUCATION
+M.Sc. in Business Informatics, Technical University of Denmark, Copenhagen, Denmark (2017)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Mandarin (Native)
+- French (Professional working proficiency)
+- English (Conversational)

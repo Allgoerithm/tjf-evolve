@@ -1,0 +1,42 @@
+Dieter Lopez
+Chicago, USA | dieter.lopez@example.com | +46 939 5340358
+
+PROFESSIONAL SUMMARY
+Applied Data Scientist with 6 years of experience delivering data science and machine learning solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Apache Spark / PySpark, Natural Language Processing, Databricks, MLOps, Model Deployment & Monitoring, XGBoost / LightGBM
+- Cloud & Infrastructure: Docker, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Data quality management, Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Anchor Point Technologies | London, United Kingdom | 2024 - Present
+- Built a recommendation engine for a banking client, contributing to a 40% increase in average order value.
+- Prototyped models in Python with pandas and scikit-learn, handing them over to engineering after validation.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Developed a deep learning model to predict equipment failure for banking clients, improving prediction accuracy by 18%.
+
+Consultant | Stratos Cloud Consulting | Amsterdam, Netherlands | 2022 - 2024
+- Built an NLP pipeline to automatically classify 50+ incoming customer messages per day, reducing manual triage time by 12%.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Invested in feature engineering on transactional data, creating 2+ predictive features for the scoring model.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Analyst | TerraLogic Consulting | Austin, USA | 2019 - 2022
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 12%.
+- Led a proof-of-concept on demand forecasting for a healthcare client, achieving a 45% reduction in forecast error versus the baseline.
+- Developed an anomaly detection system for logistics operations, flagging issues 12% faster than the previous manual process.
+
+EDUCATION
+M.Sc. in Computer Science, Technical University of Denmark, Copenhagen, Denmark (2018)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Microsoft Certified: Azure Data Engineer Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Italian (Native)
+- Hindi (Conversational)
+- Spanish (Fluent)

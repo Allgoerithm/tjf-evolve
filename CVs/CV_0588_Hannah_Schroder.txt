@@ -1,0 +1,39 @@
+Hannah Schroder
+Oslo, Norway | hannah.schroder@example.com | +31 730 7592666
+
+PROFESSIONAL SUMMARY
+BI Developer with 9 years of experience delivering business intelligence and enterprise reporting solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SSAS, dbt, DAX, SSRS, Power BI
+- Cloud & Infrastructure: Apache Airflow, Networking & VPC design
+- Tools & Ways of Working: Data quality management, JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Harborview Consulting | Warsaw, Poland | 2024 - Present
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 15%.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 50 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+Senior BI Consultant | Lumen Analytics Group | London, United Kingdom | 2022 - 2024
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 15 dimensions.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+Analytics Consultant | Vantage Point Consulting | Lisbon, Portugal | 2018 - 2022
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+
+EDUCATION
+B.Sc. in Computer Science, University of Vienna, Vienna, Austria (2015)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Conversational)

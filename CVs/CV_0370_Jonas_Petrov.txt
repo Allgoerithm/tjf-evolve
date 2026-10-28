@@ -1,0 +1,38 @@
+Jonas Petrov
+Hamburg, Germany | jonas.petrov@example.com | +33 652 2631721
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (5 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: dbt, T-SQL, Power BI, SSIS, Stakeholder reporting & dashboarding, QlikView
+- Cloud & Infrastructure: Kubernetes, Terraform
+- Tools & Ways of Working: Technical documentation, Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Fjord Digital Solutions | Madrid, Spain | 2024 - Present
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the logistics business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+
+Business Intelligence Consultant | Evergreen Data Solutions | Brussels, Belgium | 2023 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Designed and delivered 30 interactive Power BI dashboards for logistics clients, reducing manual reporting effort by 12%.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+Consultant | Greystone Data & AI | Amsterdam, Netherlands | 2022 - 2023
+- Automated the monthly reporting cycle for a logistics client, freeing up 20 analyst days per month for higher-value analysis.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 20%.
+
+EDUCATION
+M.Sc. in Statistics, Universidad Politecnica de Madrid, Madrid, Spain (2020)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Danish (Native)
+- English (Professional working proficiency)

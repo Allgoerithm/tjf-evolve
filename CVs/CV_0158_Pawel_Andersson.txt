@@ -1,0 +1,44 @@
+Pawel Andersson
+Munich, Germany | pawel.andersson@example.com | +45 486 2637713
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 14 years of consulting experience across consumer goods and related sectors.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SSIS, SQL Server, Stakeholder reporting & dashboarding, KPI design, Power Query / M
+- Cloud & Infrastructure: Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Solaris Data Engineering | Singapore, Singapore | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+BI Developer | Ironwood Cloud Services | Cologne, Germany | 2022 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 3 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+
+Business Intelligence Consultant | Anchor Point Technologies | Warsaw, Poland | 2019 - 2022
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the retail business.
+- Designed and delivered 50 interactive Looker dashboards for consumer goods clients, reducing manual reporting effort by 25%.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 5 disparate spreadsheets into a single source of truth.
+
+Senior BI Consultant | Nordwind Consulting | Krakow, Poland | 2016 - 2019
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 15 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Computer Science, Politecnico di Milano, Milan, Italy (2011)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+- Danish (Conversational)

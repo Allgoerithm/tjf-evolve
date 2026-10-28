@@ -1,0 +1,33 @@
+Diego Richter
+Chicago, USA | diego.richter@example.com | +48 712 4314514
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, KPI design, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Docker, Apache Airflow, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Riverbend Analytics | Warsaw, Poland | 2025 - Present
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 40%.
+- Performed a cloud security audit for an insurance client, remediating 2 critical findings within the first quarter.
+- Implemented a data lake on Power BI, ingesting and processing over 8 TB of data monthly from 8 source systems.
+
+Consultant | Alpenglow Analytics | Helsinki, Finland | 2023 - 2025
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 20 regional entities.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+
+EDUCATION
+MBA with focus on Information Management, Imperial College London, London, United Kingdom (2024)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- German (Native)
+- Mandarin (Professional working proficiency)

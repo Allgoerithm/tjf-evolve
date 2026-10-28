@@ -1,0 +1,30 @@
+SEARCH PROFILE #007
+Role Needed: Senior BI Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Pharmaceuticals
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Infrastructure as Code
+- Client workshops & presentations
+- T-SQL
+- Snowflake
+
+NICE-TO-HAVE SKILLS
+- Data governance
+- KPI design
+- Tableau
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGE REQUIREMENTS
+- Spanish (conversational)
+
+Location / Remote Policy: On-site required (client site: Rotterdam, Netherlands)
+
+PROJECT CONTEXT
+The client is replacing a legacy reporting tool with Power BI and needs support migrating 30+ existing reports.
+
+Start Date: Within 4 weeks
+Duration: Ongoing / open-ended

@@ -1,0 +1,33 @@
+Dmitri Fischer
+Stuttgart, Germany | dmitri.fischer@example.com | +34 768 8751433
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (4 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, Power BI, Qlik Sense, QlikView, SSAS, SSRS
+- Cloud & Infrastructure: Terraform, Snowflake on cloud
+- Tools & Ways of Working: Data quality management, Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Fjord Digital Solutions | Munich, Germany | 2025 - Present
+- Trained 2 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 50 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+Senior BI Consultant | BlueRiver Analytics | Stuttgart, Germany | 2024 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 30 analyst days per month for higher-value analysis.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Business Informatics, National University of Singapore, Singapore, Singapore (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- Dutch (Conversational)
+- French (Professional working proficiency)

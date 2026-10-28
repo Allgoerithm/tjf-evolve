@@ -1,0 +1,48 @@
+Olivia Schroder
+Brussels, Belgium | olivia.schroder@example.com | +1 733 7313725
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 12 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SQL Server, LookML, Stakeholder reporting & dashboarding, Looker, Snowflake
+- Cloud & Infrastructure: Snowflake on cloud, Terraform
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Clearwater Data Systems | Copenhagen, Denmark | 2022 - Present
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 10 regional entities.
+- Built a Power BI reporting layer on top of the finance data mart, replacing 15 manual spreadsheets.
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 30 analyst days per month for higher-value analysis.
+
+Business Intelligence Consultant | Stratos Cloud Consulting | Frankfurt, Germany | 2020 - 2022
+- Built analytics workloads on Google Cloud Platform for 10 product teams.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the healthcare business.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analytics Consultant | Harborview Consulting | Bangalore, India | 2018 - 2020
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Designed and delivered 15 interactive Databricks dashboards for consumer goods clients, reducing manual reporting effort by 18%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+IT Consultant | Stratos Cloud Consulting | Helsinki, Finland | 2015 - 2018
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 22%.
+- Implemented automated data quality checks on 2 critical tables.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+EDUCATION
+B.Sc. in Industrial Engineering, ETH Zurich, Zurich, Switzerland (2012)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Fluent)
+- Mandarin (Professional working proficiency)

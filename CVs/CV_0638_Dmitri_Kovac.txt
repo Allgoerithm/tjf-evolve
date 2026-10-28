@@ -1,0 +1,33 @@
+Dmitri Kovac
+Lyon, France | dmitri.kovac@example.com | +45 599 4425628
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 4 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, SSRS, Looker
+- Cloud & Infrastructure: Apache Airflow, Infrastructure as Code, Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Beacon Insight Consulting | Frankfurt, Germany | 2025 - Present
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Led the adoption of a self-service data platform on Databricks, onboarding 8+ internal teams within the first year.
+- Led a cloud cost optimization initiative, identifying savings of 15% across compute and storage resources.
+
+Analytics Engineer | Stratos Cloud Consulting | Warsaw, Poland | 2022 - 2025
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 15 regional entities.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Charles University, Prague, Czech Republic (2021)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Mandarin (Native)
+- Dutch (Conversational)

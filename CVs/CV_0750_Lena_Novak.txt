@@ -1,0 +1,43 @@
+Lena Novak
+Cologne, Germany | lena.novak@example.com | +41 123 3616014
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (10 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, SSIS, Snowflake, SSRS, SSAS, Power BI
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Apache Kafka
+- Tools & Ways of Working: Agile / Scrum, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Beacon Insight Consulting | Madrid, Spain | 2023 - Present
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 45%.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 15 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Greystone Data & AI | Bangalore, India | 2020 - 2023
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 50 regional entities.
+- Trained 3 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+Senior BI Consultant | Alpenglow Analytics | Pune, India | 2017 - 2020
+- Designed and delivered 30 interactive Databricks dashboards for public sector clients, reducing manual reporting effort by 28%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the telecommunications business.
+
+Business Intelligence Consultant | Harborview Consulting | Cologne, Germany | 2015 - 2017
+- Automated the monthly reporting cycle for a public sector client, freeing up 2 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Toronto, Toronto, Canada (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Conversational)

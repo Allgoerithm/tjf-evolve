@@ -1,0 +1,44 @@
+Henrik Chen
+Barcelona, Spain | henrik.chen@example.com | +32 850 5603578
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 14 years of experience delivering business intelligence and enterprise reporting solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSAS, dbt, Power BI, SSRS, SSIS, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data governance, Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Vantage Point Consulting | Helsinki, Finland | 2022 - Present
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 8 interactive Databricks dashboards for pharmaceuticals clients, reducing manual reporting effort by 20%.
+
+BI Developer | Greystone Data & AI | Austin, USA | 2018 - 2022
+- Trained 5 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the healthcare business.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 18%.
+
+Analyst | Greystone Data & AI | Barcelona, Spain | 2014 - 2018
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+
+BI Developer | Kestrel Data Solutions | Frankfurt, Germany | 2010 - 2014
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Manchester, Manchester, United Kingdom (2012)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Polish (Native)
+- Hindi (Professional working proficiency)
+- Dutch (Fluent)

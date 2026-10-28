@@ -1,0 +1,35 @@
+Marco Lambert
+Chicago, USA | marco.lambert@example.com | +46 702 4624622
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, DAX, Data Warehouse design (Kimball/Inmon)
+- Data Science & Machine Learning: Causal Inference, R, TensorFlow
+- Cloud & Infrastructure: Apache Kafka, Terraform, Infrastructure as Code
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Pinnacle Business Intelligence GmbH | Frankfurt, Germany | 2025 - Present
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Maintained SSIS packages that load 3 source systems into the enterprise data warehouse.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+IT Consultant | Silverline IT Consulting | Manchester, United Kingdom | 2024 - 2025
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Implemented a data lake on Databricks, ingesting and processing over 50 TB of data monthly from 50 source systems.
+- Developed a XGBoost model to predict equipment failure for insurance clients, improving prediction accuracy by 35%.
+
+EDUCATION
+B.Sc. in Computer Science, Humboldt University of Berlin, Berlin, Germany (2024)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- German (Native)
+- Dutch (Fluent)

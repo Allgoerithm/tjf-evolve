@@ -1,0 +1,39 @@
+Emma Mensah
+Krakow, Poland | emma.mensah@example.com | +33 699 1073517
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 9 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, Tableau, Power BI, SSIS, Power Query / M, SSRS
+- Cloud & Infrastructure: Cloud cost optimization, Infrastructure as Code
+- Tools & Ways of Working: Agile / Scrum, Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Brightfield Consulting | Lyon, France | 2022 - Present
+- Trained 20 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 25%.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 15 regional entities.
+
+BI Developer | Riverbend Analytics | Paris, France | 2019 - 2022
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the e-commerce business.
+
+Business Intelligence Consultant | Stratos Cloud Consulting | Rotterdam, Netherlands | 2016 - 2019
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Oslo, Oslo, Norway (2016)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Spanish (Native)
+- Hindi (Professional working proficiency)

@@ -1,0 +1,40 @@
+Thomas Schwarz
+Berlin, Germany | thomas.schwarz@example.com | +46 712 2363919
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 8 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, LookML, Stakeholder reporting & dashboarding
+- Data Science & Machine Learning: Computer Vision, A/B Testing & Experimentation, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Terraform, Linux system administration, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Harborview Consulting | Chicago, USA | 2024 - Present
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 8 analyst days per month for higher-value analysis.
+
+IT Consultant | Meridian Digital Partners | Copenhagen, Denmark | 2021 - 2024
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for a retail client's data platform.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Analyst | TerraLogic Consulting | Bangalore, India | 2018 - 2021
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 20%.
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 8+ internal teams within the first year.
+
+EDUCATION
+M.Sc. in Business Informatics, Imperial College London, London, United Kingdom (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Fluent)
+- Swedish (Professional working proficiency)

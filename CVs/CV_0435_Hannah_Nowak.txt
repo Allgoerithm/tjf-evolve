@@ -1,0 +1,35 @@
+Hannah Nowak
+Hamburg, Germany | hannah.nowak@example.com | +39 747 4923992
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: LookML, SSAS, Power Query / M, SSIS, Looker, Star schema & dimensional modeling
+- Cloud & Infrastructure: Cloud cost optimization, Apache Airflow
+- Tools & Ways of Working: Technical documentation, Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Orbis Technology Partners | Lyon, France | 2025 - Present
+- Automated the monthly reporting cycle for a healthcare client, freeing up 30 analyst days per month for higher-value analysis.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Replaced 5 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the consumer goods business.
+
+Senior BI Consultant | Silverline IT Consulting | Helsinki, Finland | 2024 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 10 regional entities.
+
+EDUCATION
+M.Sc. in Statistics, Humboldt University of Berlin, Berlin, Germany (2024)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Danish (Native)
+- Swedish (Fluent)
+- French (Professional working proficiency)

@@ -1,0 +1,29 @@
+Antoine Nakamura
+Lisbon, Portugal | antoine.nakamura@example.com | +39 936 9660240
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Kafka, Cloud cost optimization, Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS), Terraform
+- Business Intelligence: SSIS
+- Tools & Ways of Working: Agile / Scrum, Data quality management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Harborview Consulting | Paris, France | 2024 - Present
+- Implemented a data lake on Looker, ingesting and processing over 20 TB of data monthly from 20 source systems.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Operated production workloads on AWS, including S3-based data lakes and Lambda functions.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 20 teams.
+
+EDUCATION
+M.Sc. in Data Science, Charles University, Prague, Czech Republic (2023)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Mandarin (Native)
+- Danish (Professional working proficiency)

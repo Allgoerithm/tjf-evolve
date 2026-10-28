@@ -1,0 +1,31 @@
+SEARCH PROFILE #033
+Role Needed: Data Engineer
+Engagement Type: Short-term project engagement
+Client Industry: Banking
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- JIRA / Confluence
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Agile / Scrum
+- KPI design
+
+NICE-TO-HAVE SKILLS
+- Stakeholder reporting & dashboarding
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Docker
+
+PREFERRED CERTIFICATIONS
+- Google Professional Data Engineer
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGE REQUIREMENTS
+- Polish (native)
+
+Location / Remote Policy: On-site required (client site: Krakow, Poland)
+
+PROJECT CONTEXT
+Data quality issues are undermining trust in downstream reporting and the client needs a data quality framework implemented.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 9 months with a defined project end date

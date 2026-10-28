@@ -1,0 +1,35 @@
+Matthias Muller
+Amsterdam, Netherlands | matthias.muller@example.com | +48 908 9802792
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Qlik Sense, Power Query / M
+- Data Science & Machine Learning: MLflow, Statistical Modeling, A/B Testing & Experimentation
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Google Cloud Platform (BigQuery, Dataflow, GKE), Docker
+- Tools & Ways of Working: Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Nordwind Consulting | Munich, Germany | 2023 - Present
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Developed a deep learning model to predict demand for retail clients, improving prediction accuracy by 12%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Lead Data & AI Consultant | Riverbend Analytics | Munich, Germany | 2022 - 2023
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+EDUCATION
+MBA with focus on Information Management, Charles University, Prague, Czech Republic (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Spanish (Native)
+- Dutch (Professional working proficiency)
+- Portuguese (Professional working proficiency)

@@ -1,0 +1,35 @@
+Pawel Richter
+Madrid, Spain | pawel.richter@example.com | +41 617 4725005
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 2 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Snowflake, SQL Server, Star schema & dimensional modeling, SSRS, Power BI
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Terraform
+- Tools & Ways of Working: Technical documentation, Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Falcon Ridge Consulting | Stuttgart, Germany | 2025 - Present
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 20 analyst days per month for higher-value analysis.
+- Trained 15 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Stratos Cloud Consulting | Dublin, Ireland | 2023 - 2025
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 12%.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the healthcare business.
+- Introduced Git-based workflows with code review for the analytics team.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 50 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Universidad Politecnica de Madrid, Madrid, Spain (2022)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Polish (Native)
+- Italian (Fluent)

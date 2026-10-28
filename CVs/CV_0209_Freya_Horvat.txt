@@ -1,0 +1,32 @@
+Freya Horvat
+Barcelona, Spain | freya.horvat@example.com | +39 909 9026334
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 2 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SSIS, Qlik Sense
+- Data Science & Machine Learning: Databricks, Statistical Modeling, Causal Inference
+- Cloud & Infrastructure: Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS), Cloud cost optimization
+- Tools & Ways of Working: Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Alpenglow Analytics | Lisbon, Portugal | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 28%.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+- Built an NLP pipeline to automatically classify 5+ incoming customer messages per day, reducing manual triage time by 20%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+
+EDUCATION
+M.Sc. in Computer Science, University of Amsterdam, Amsterdam, Netherlands (2023)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Fluent)
+- German (Conversational)

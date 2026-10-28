@@ -1,0 +1,35 @@
+Carlos Moreau
+Rotterdam, Netherlands | carlos.moreau@example.com | +33 988 8280228
+
+PROFESSIONAL SUMMARY
+Applied Data Scientist with 4 years of experience delivering data science and machine learning solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Natural Language Processing, Time Series Forecasting, MLOps, Causal Inference, PyTorch, Model Deployment & Monitoring
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Alpenglow Analytics | Chicago, USA | 2023 - Present
+- Built a recommendation engine for an e-commerce client, contributing to a 28% increase in average order value.
+- Developed an anomaly detection system for banking operations, flagging issues 35% faster than the previous manual process.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Managed backlog and documentation in JIRA and Confluence for 30 concurrent workstreams.
+
+Senior Data Scientist | Orbis Technology Partners | Manchester, United Kingdom | 2022 - 2023
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Built statistical models to explain the drivers of demand and presented them to management.
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 15%.
+
+EDUCATION
+B.Sc. in Computer Science, National University of Singapore, Singapore, Singapore (2022)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- German (Fluent)

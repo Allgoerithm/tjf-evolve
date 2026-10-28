@@ -1,0 +1,47 @@
+Mia Schwarz
+Rotterdam, Netherlands | mia.schwarz@example.com | +49 338 8122333
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 12 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, QlikView, Stakeholder reporting & dashboarding
+- Data Science & Machine Learning: A/B Testing & Experimentation, Natural Language Processing, Apache Spark / PySpark
+- Cloud & Infrastructure: Apache Kafka, Terraform, Snowflake on cloud
+- Tools & Ways of Working: Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Cobalt Data Labs | Austin, USA | 2023 - Present
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 20 disparate spreadsheets into a single source of truth.
+- Prototyped models in Python with pandas and scikit-learn, handing them over to engineering after validation.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+Senior Data Platform Consultant | TerraLogic Consulting | Toronto, Canada | 2020 - 2023
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 45%.
+- Developed an anomaly detection system for aviation operations, flagging issues 22% faster than the previous manual process.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+
+Senior Data Platform Consultant | Pinnacle Business Intelligence GmbH | Helsinki, Finland | 2017 - 2020
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Built an NLP pipeline to automatically classify 8+ incoming customer messages per day, reducing manual triage time by 28%.
+
+Senior Data Platform Consultant | Nimbus Infrastructure Consulting | Pune, India | 2014 - 2017
+- Led a proof-of-concept on demand forecasting for an energy and utilities client, achieving a 15% reduction in forecast error versus the baseline.
+- Led the adoption of a self-service data platform on Tableau, onboarding 2+ internal teams within the first year.
+- Trained 15 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Statistics, ETH Zurich, Zurich, Switzerland (2014)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Polish (Native)
+- French (Professional working proficiency)
+- Italian (Fluent)

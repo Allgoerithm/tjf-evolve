@@ -1,0 +1,39 @@
+Raj Petrov
+Paris, France | raj.petrov@example.com | +48 754 3934286
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (6 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, Snowflake, KPI design
+- Data Science & Machine Learning: MLflow, Apache Spark / PySpark, Natural Language Processing
+- Cloud & Infrastructure: Kubernetes, Docker, Cloud cost optimization
+- Tools & Ways of Working: Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Ironwood Cloud Services | Stockholm, Sweden | 2024 - Present
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 18%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+IT Consultant | Vantage Point Consulting | Munich, Germany | 2021 - 2024
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Developed a deep learning model to predict customer lifetime value for automotive manufacturing clients, improving prediction accuracy by 25%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+
+Analyst | Beacon Insight Consulting | Pune, India | 2019 - 2021
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the public sector business.
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the retail sector.
+
+EDUCATION
+M.Sc. in Software Engineering, Delft University of Technology, Delft, Netherlands (2020)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Portuguese (Native)
+- Swedish (Fluent)

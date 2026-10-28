@@ -1,0 +1,26 @@
+SEARCH PROFILE #071
+Role Needed: Data & Analytics Consultant
+Engagement Type: Short-term project engagement
+Client Industry: Banking
+Minimum Experience: 8+ years
+
+MUST-HAVE SKILLS
+- Linux system administration
+- Client workshops & presentations
+- Causal Inference
+- T-SQL
+- MLOps
+
+NICE-TO-HAVE SKILLS
+- Terraform
+
+LANGUAGE REQUIREMENTS
+- Danish (native)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Rotterdam, Netherlands)
+
+PROJECT CONTEXT
+A banking client is launching a broader data & AI strategy and needs a generalist who can bridge BI, data science, and cloud infrastructure.
+
+Start Date: Within 2 weeks
+Duration: 3 months, extension likely

@@ -1,0 +1,35 @@
+Felix Wolf
+Chicago, USA | felix.wolf@example.com | +34 929 4253070
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 3 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Stakeholder reporting & dashboarding, SSIS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Cloud cost optimization, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Nimbus Infrastructure Consulting | Singapore, Singapore | 2025 - Present
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Implemented automated data quality checks on 8 critical tables.
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for a healthcare client's data platform.
+
+Analyst | Solaris Data Engineering | Singapore, Singapore | 2024 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+
+EDUCATION
+MBA with focus on Information Management, University of Oslo, Oslo, Norway (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- French (Native)
+- Polish (Conversational)

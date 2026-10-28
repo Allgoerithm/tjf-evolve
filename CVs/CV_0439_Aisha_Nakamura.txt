@@ -1,0 +1,38 @@
+Aisha Nakamura
+Copenhagen, Denmark | aisha.nakamura@example.com | +44 166 9012555
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (7 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Snowflake, Stakeholder reporting & dashboarding, QlikView, dbt, Tableau
+- Cloud & Infrastructure: Infrastructure as Code, Apache Kafka
+- Tools & Ways of Working: Git, Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Nimbus Infrastructure Consulting | Zurich, Switzerland | 2024 - Present
+- Automated the monthly reporting cycle for a retail client, freeing up 3 analyst days per month for higher-value analysis.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Consultant | Stratos Cloud Consulting | Lyon, France | 2021 - 2024
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 50 disparate spreadsheets into a single source of truth.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+
+Analyst | Fjord Digital Solutions | Krakow, Poland | 2019 - 2021
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 5 regional entities.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 25%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Technical University of Munich, Munich, Germany (2019)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Dutch (Native)
+- Polish (Fluent)

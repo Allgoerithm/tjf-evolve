@@ -1,0 +1,44 @@
+Lukas Chen
+Krakow, Poland | lukas.chen@example.com | +41 205 2473192
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 10 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Star schema & dimensional modeling, Qlik Sense
+- Data Science & Machine Learning: Computer Vision, A/B Testing & Experimentation, Time Series Forecasting
+- Cloud & Infrastructure: Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS), Apache Airflow
+- Tools & Ways of Working: Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Silverline IT Consulting | Cologne, Germany | 2025 - Present
+- Designed and delivered 10 interactive Tableau dashboards for pharmaceuticals clients, reducing manual reporting effort by 12%.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for an e-commerce client's data platform.
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+
+Senior Data Platform Consultant | Nordwind Consulting | Paris, France | 2023 - 2025
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Led the adoption of a self-service data platform on Looker, onboarding 2+ internal teams within the first year.
+- Built an NLP pipeline to automatically classify 10+ incoming customer messages per day, reducing manual triage time by 30%.
+
+Consultant | Cobalt Data Labs | Toronto, Canada | 2021 - 2023
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Led a cloud cost optimization initiative, identifying savings of 18% across compute and storage resources.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 15% uplift in conversion rate.
+
+Consultant | Ironwood Cloud Services | Barcelona, Spain | 2019 - 2021
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 30 teams.
+- Trained 10 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Developed an anomaly detection system for telecommunications operations, flagging issues 35% faster than the previous manual process.
+
+EDUCATION
+M.Sc. in Statistics, Humboldt University of Berlin, Berlin, Germany (2015)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Italian (Native)
+- Danish (Fluent)
+- Polish (Professional working proficiency)

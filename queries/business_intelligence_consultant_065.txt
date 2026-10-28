@@ -1,0 +1,30 @@
+SEARCH PROFILE #065
+Role Needed: Business Intelligence Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: E-commerce
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Snowflake
+- Data quality management
+- T-SQL
+
+NICE-TO-HAVE SKILLS
+- Data governance
+- Kubernetes
+- SQL Server
+- Star schema & dimensional modeling
+
+PREFERRED CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGE REQUIREMENTS
+- Polish (native)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Madrid, Spain)
+
+PROJECT CONTEXT
+The BI team is understaffed ahead of a major annual planning cycle and needs additional hands-on dashboard development capacity.
+
+Start Date: Within 4 weeks
+Duration: Ongoing / open-ended

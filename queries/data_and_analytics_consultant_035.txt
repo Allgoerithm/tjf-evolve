@@ -1,0 +1,27 @@
+SEARCH PROFILE #035
+Role Needed: Data & Analytics Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Automotive manufacturing
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- MLflow
+- KPI design
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+
+NICE-TO-HAVE SKILLS
+- Client workshops & presentations
+- SSRS
+- TensorFlow
+
+LANGUAGE REQUIREMENTS
+- Dutch (fluent)
+- French (business level)
+
+Location / Remote Policy: Fully remote (client site: Prague, Czech Republic)
+
+PROJECT CONTEXT
+The client wants a proof-of-concept combining BI reporting and machine learning insights on a shared cloud data platform.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 2 months (short-term)

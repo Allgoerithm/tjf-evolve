@@ -1,0 +1,33 @@
+Dieter Wolf
+Amsterdam, Netherlands | dieter.wolf@example.com | +34 533 6524332
+
+PROFESSIONAL SUMMARY
+BI Developer with 3 years of experience delivering business intelligence and enterprise reporting solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Qlik Sense, SSRS, Star schema & dimensional modeling, LookML, Tableau
+- Cloud & Infrastructure: Docker, Networking & VPC design
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Cobalt Data Labs | Amsterdam, Netherlands | 2025 - Present
+- Implemented automated data quality checks on 50 critical tables.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 5 regional entities.
+- Automated the monthly reporting cycle for an aviation client, freeing up 2 analyst days per month for higher-value analysis.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analyst | Riverbend Analytics | Barcelona, Spain | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 8 disparate spreadsheets into a single source of truth.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 5 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Hamburg, Hamburg, Germany (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- German (Native)
+- Spanish (Conversational)

@@ -1,0 +1,38 @@
+Olivia Schwarz
+Toronto, Canada | olivia.schwarz@example.com | +31 858 5393076
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 7 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: DAX, Qlik Sense, LookML
+- Cloud & Infrastructure: Infrastructure as Code, Docker, Apache Kafka, Apache Airflow
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Northgate Technology Group | Cologne, Germany | 2024 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 12%.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 22%.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Nimbus Infrastructure Consulting | Zurich, Switzerland | 2023 - 2024
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the banking business.
+- Designed and implemented a multi-account AWS landing zone for an energy and utilities client, improving security posture and cost visibility.
+- Led the adoption of a self-service data platform on Databricks, onboarding 3+ internal teams within the first year.
+
+IT Consultant | Evergreen Data Solutions | Lisbon, Portugal | 2020 - 2023
+- Implemented row-level security in Looker, enabling secure self-service reporting across 8 regional entities.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+M.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2017)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- Hindi (Native)
+- German (Conversational)

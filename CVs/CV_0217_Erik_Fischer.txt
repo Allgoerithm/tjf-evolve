@@ -1,0 +1,34 @@
+Erik Fischer
+Paris, France | erik.fischer@example.com | +44 396 1721464
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Platform Consultant with 4 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, SSRS, dbt
+- Data Science & Machine Learning: Apache Spark / PySpark, A/B Testing & Experimentation, Natural Language Processing
+- Cloud & Infrastructure: Linux system administration, Infrastructure as Code, Apache Kafka
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Pinnacle Business Intelligence GmbH | Toronto, Canada | 2023 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 40%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+Lead Data & AI Consultant | Lumen Analytics Group | Pune, India | 2020 - 2023
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 35%.
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+B.Eng. in Information Systems, Technical University of Denmark, Copenhagen, Denmark (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- French (Native)
+- Swedish (Conversational)

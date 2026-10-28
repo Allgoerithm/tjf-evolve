@@ -1,0 +1,33 @@
+Klaus Moreau
+Brussels, Belgium | klaus.moreau@example.com | +48 175 7763865
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 3 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SQL Server, SSRS, T-SQL, LookML, Qlik Sense
+- Cloud & Infrastructure: Terraform, Linux system administration
+- Tools & Ways of Working: Requirements engineering, Data quality management, Git
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | BlueRiver Analytics | Paris, France | 2025 - Present
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 5 analyst days per month for higher-value analysis.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Consultant | Fjord Digital Solutions | Berlin, Germany | 2023 - 2025
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 2 regional entities.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 15 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+B.Sc. in Business Informatics, ETH Zurich, Zurich, Switzerland (2023)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Spanish (Native)
+- Swedish (Conversational)

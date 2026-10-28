@@ -1,0 +1,28 @@
+SEARCH PROFILE #055
+Role Needed: Senior Data Scientist
+Engagement Type: Long-term client secondment
+Client Industry: Healthcare
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Jupyter
+- Model Deployment & Monitoring
+- Time Series Forecasting
+
+NICE-TO-HAVE SKILLS
+- JIRA / Confluence
+- Data quality management
+- Statistical Modeling
+
+LANGUAGE REQUIREMENTS
+- Swedish (conversational)
+- English (conversational)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Madrid, Spain)
+
+PROJECT CONTEXT
+The client wants to move beyond descriptive reporting and build predictive models for equipment failure in the healthcare sector.
+
+Start Date: Immediately
+Duration: Ongoing / open-ended

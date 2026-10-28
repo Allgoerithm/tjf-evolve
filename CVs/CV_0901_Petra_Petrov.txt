@@ -1,0 +1,35 @@
+Petra Petrov
+Barcelona, Spain | petra.petrov@example.com | +1 894 2560443
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Platform Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SSRS, QlikView
+- Data Science & Machine Learning: R, MLOps, Feature Engineering
+- Cloud & Infrastructure: Apache Airflow, Cloud cost optimization, Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Vertex Data Partners | Warsaw, Poland | 2025 - Present
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 12% reduction in forecast error versus the baseline.
+- Implemented a data lake on Looker, ingesting and processing over 5 TB of data monthly from 5 source systems.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+
+Consultant | Northstar Cloud Group | Berlin, Germany | 2023 - 2025
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 30%.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 45%.
+
+EDUCATION
+B.Sc. in Computer Science, Humboldt University of Berlin, Berlin, Germany (2023)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Mandarin (Native)
+- Portuguese (Conversational)

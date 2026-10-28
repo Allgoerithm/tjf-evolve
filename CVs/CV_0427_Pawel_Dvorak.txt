@@ -1,0 +1,32 @@
+Pawel Dvorak
+Brussels, Belgium | pawel.dvorak@example.com | +45 233 9893416
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 4 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, T-SQL, DAX, SQL Server, Snowflake, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Terraform, Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Nimbus Infrastructure Consulting | Copenhagen, Denmark | 2024 - Present
+- Trained 30 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 50 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Northgate Technology Group | Stockholm, Sweden | 2022 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 18%.
+
+EDUCATION
+B.Sc. in Computer Science, Imperial College London, London, United Kingdom (2021)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- French (Native)
+- Italian (Fluent)

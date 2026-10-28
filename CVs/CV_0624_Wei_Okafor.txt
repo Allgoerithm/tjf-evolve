@@ -1,0 +1,35 @@
+Wei Okafor
+Lyon, France | wei.okafor@example.com | +33 660 5091815
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, SSRS, KPI design
+- Cloud & Infrastructure: Terraform, Kubernetes, Docker, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Riverbend Analytics | Prague, Czech Republic | 2025 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Standardized cloud tagging and cost allocation practices for an automotive manufacturing client, improving budget accountability across 5 teams.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 50 regional entities.
+
+IT Consultant | Vertex Data Partners | Singapore, Singapore | 2024 - 2025
+- Administered Linux servers hosting data services, including patching and hardening.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for a healthcare client's data platform.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Performed a cloud security audit for an automotive manufacturing client, remediating 20 critical findings within the first quarter.
+
+EDUCATION
+B.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Polish (Native)
+- Portuguese (Professional working proficiency)
+- German (Professional working proficiency)

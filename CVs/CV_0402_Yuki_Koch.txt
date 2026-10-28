@@ -1,0 +1,39 @@
+Yuki Koch
+Frankfurt, Germany | yuki.koch@example.com | +34 589 4074508
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 7 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Power Query / M, SQL Server, SSAS, T-SQL, QlikView
+- Cloud & Infrastructure: Infrastructure as Code, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Orbis Technology Partners | Copenhagen, Denmark | 2024 - Present
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 15 regional entities.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+
+Analyst | Lumen Analytics Group | Stockholm, Sweden | 2023 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Trained 8 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Business Intelligence Consultant | Clearwater Data Systems | Bangalore, India | 2022 - 2023
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Designed and delivered 2 interactive Looker dashboards for telecommunications clients, reducing manual reporting effort by 15%.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 2 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Oslo, Oslo, Norway (2019)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- Mandarin (Fluent)
+- German (Conversational)

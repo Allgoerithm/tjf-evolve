@@ -1,0 +1,27 @@
+Emma Kovac
+Berlin, Germany | emma.kovac@example.com | +39 817 7566847
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, QlikView, SSAS, Qlik Sense, Snowflake, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Kubernetes, Linux system administration
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Riverbend Analytics | Amsterdam, Netherlands | 2024 - Present
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Designed and delivered 15 interactive Power BI dashboards for retail clients, reducing manual reporting effort by 18%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+
+EDUCATION
+M.Sc. in Computational Science, University of Amsterdam, Amsterdam, Netherlands (2022)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- French (Native)
+- Danish (Fluent)

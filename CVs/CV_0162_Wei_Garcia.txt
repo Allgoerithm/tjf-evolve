@@ -1,0 +1,41 @@
+Wei Garcia
+Lisbon, Portugal | wei.garcia@example.com | +33 831 7834693
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (6 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, SQL Server, Snowflake, LookML, Tableau, SSRS
+- Cloud & Infrastructure: Cloud cost optimization, Kubernetes
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Clearwater Data Systems | Berlin, Germany | 2023 - Present
+- Rolled out data governance roles and policies across 50 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Trained 2 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 3 disparate spreadsheets into a single source of truth.
+
+Senior BI Consultant | Anchor Point Technologies | Madrid, Spain | 2021 - 2023
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 3 regional entities.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Consultant | Stratos Cloud Consulting | Oslo, Norway | 2019 - 2021
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the healthcare business.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+
+EDUCATION
+B.Eng. in Information Systems, University of Vienna, Vienna, Austria (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- TOGAF 9 Certified
+- Project Management Professional (PMP)
+
+LANGUAGES
+- English (Native)
+- German (Fluent)
+- Portuguese (Fluent)

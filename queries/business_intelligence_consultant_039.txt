@@ -1,0 +1,31 @@
+SEARCH PROFILE #039
+Role Needed: BI Developer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Public sector
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- LookML
+- Technical documentation
+- Data governance
+- T-SQL
+
+NICE-TO-HAVE SKILLS
+- Tableau
+- Apache Kafka
+- Star schema & dimensional modeling
+
+PREFERRED CERTIFICATIONS
+- Google Professional Data Engineer
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGE REQUIREMENTS
+- Hindi (native)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Singapore, Singapore)
+
+PROJECT CONTEXT
+Leadership wants a self-service analytics capability so business users can build their own reports without IT involvement.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 3 months, extension likely

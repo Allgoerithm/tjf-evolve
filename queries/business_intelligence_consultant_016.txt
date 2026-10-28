@@ -1,0 +1,30 @@
+SEARCH PROFILE #016
+Role Needed: Senior BI Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Telecommunications
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- dbt
+- SSRS
+- Requirements engineering
+- Power BI
+
+NICE-TO-HAVE SKILLS
+- Apache Kafka
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Databricks Certified Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Spanish (conversational)
+
+Location / Remote Policy: On-site required (client site: Lyon, France)
+
+PROJECT CONTEXT
+A newly merged telecommunications organization needs a unified reporting model spanning both legacy entities.
+
+Start Date: Within 4 weeks
+Duration: 2 months (short-term)

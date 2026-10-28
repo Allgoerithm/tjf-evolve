@@ -1,0 +1,40 @@
+Simon Mensah
+Paris, France | simon.mensah@example.com | +1 985 9718567
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Data & AI Consultant with 5 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, LookML, SSIS
+- Data Science & Machine Learning: R, Natural Language Processing, Computer Vision
+- Cloud & Infrastructure: Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS), Terraform
+- Tools & Ways of Working: Git, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Northstar Cloud Group | Toronto, Canada | 2025 - Present
+- Built a recommendation engine for a consumer goods client, contributing to a 12% increase in average order value.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+Data & Analytics Consultant | Brightfield Consulting | London, United Kingdom | 2024 - 2025
+- Automated the monthly reporting cycle for a public sector client, freeing up 5 analyst days per month for higher-value analysis.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Built statistical models to explain the drivers of equipment failure and presented them to management.
+
+Lead Data & AI Consultant | Quantara Analytics | Manchester, United Kingdom | 2022 - 2024
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 40%.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 5 teams.
+
+EDUCATION
+B.Sc. in Computer Science, Indian Institute of Technology Bombay, Mumbai, India (2021)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Conversational)

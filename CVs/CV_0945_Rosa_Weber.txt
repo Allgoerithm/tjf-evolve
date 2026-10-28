@@ -1,0 +1,33 @@
+Rosa Weber
+Manchester, United Kingdom | rosa.weber@example.com | +48 218 4293935
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 4 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Data Warehouse design (Kimball/Inmon), Qlik Sense, LookML, QlikView, Tableau
+- Cloud & Infrastructure: Apache Airflow, Linux system administration
+- Tools & Ways of Working: Git, Agile / Scrum, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Northgate Technology Group | Toronto, Canada | 2025 - Present
+- Designed and delivered 10 interactive Databricks dashboards for pharmaceuticals clients, reducing manual reporting effort by 15%.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 8 regional entities.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 10 disparate spreadsheets into a single source of truth.
+
+Analyst | Nordwind Consulting | Milan, Italy | 2024 - 2025
+- Automated the monthly reporting cycle for a logistics client, freeing up 8 analyst days per month for higher-value analysis.
+- Trained 50 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 30%.
+
+EDUCATION
+M.Sc. in Applied Mathematics, National University of Singapore, Singapore, Singapore (2020)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- English (Native)
+- French (Conversational)

@@ -1,0 +1,33 @@
+Maximilian Horvat
+Krakow, Poland | maximilian.horvat@example.com | +31 286 5256925
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: LookML, SSIS, KPI design
+- Cloud & Infrastructure: Apache Kafka, Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Docker
+- Tools & Ways of Working: Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Riverbend Analytics | Cologne, Germany | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Implemented a data lake on Databricks, ingesting and processing over 3 TB of data monthly from 3 source systems.
+
+Senior Data Engineer | Clearwater Data Systems | Amsterdam, Netherlands | 2024 - 2025
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 15 teams.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 30 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Business Informatics, Indian Institute of Technology Bombay, Mumbai, India (2023)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Swedish (Native)
+- French (Professional working proficiency)

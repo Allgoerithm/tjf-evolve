@@ -1,0 +1,38 @@
+Chloe Wagner
+Warsaw, Poland | chloe.wagner@example.com | +39 920 3482414
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 5 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Power BI, LookML, Tableau
+- Data Science & Machine Learning: Model Deployment & Monitoring, Time Series Forecasting, TensorFlow
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration, Networking & VPC design
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Northgate Technology Group | Amsterdam, Netherlands | 2025 - Present
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+
+Analyst | Solaris Data Engineering | Manchester, United Kingdom | 2024 - 2025
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Analyst | Clearwater Data Systems | Austin, USA | 2022 - 2024
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 2 regional entities.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+EDUCATION
+B.Sc. in Business Informatics, Delft University of Technology, Delft, Netherlands (2019)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- Spanish (Professional working proficiency)

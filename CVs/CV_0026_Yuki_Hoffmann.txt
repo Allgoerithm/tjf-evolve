@@ -1,0 +1,29 @@
+Yuki Hoffmann
+Madrid, Spain | yuki.hoffmann@example.com | +48 551 1515216
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, LookML, QlikView
+- Cloud & Infrastructure: Cloud cost optimization, Apache Kafka, Networking & VPC design, Snowflake on cloud
+- Tools & Ways of Working: JIRA / Confluence, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Evergreen Data Solutions | Rotterdam, Netherlands | 2024 - Present
+- Built analytics workloads on Google Cloud Platform for 10 product teams.
+- Trained 3 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Performed a cloud security audit for a healthcare client, remediating 50 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Sorbonne University, Paris, France (2023)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Google Professional Data Engineer
+
+LANGUAGES
+- Hindi (Native)
+- Polish (Fluent)

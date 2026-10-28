@@ -1,0 +1,31 @@
+Paul Richter
+Vienna, Austria | paul.richter@example.com | +49 825 6958412
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (2 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, T-SQL, Looker
+- Cloud & Infrastructure: Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS), Terraform, Snowflake on cloud
+- Tools & Ways of Working: Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Lumen Analytics Group | Lyon, France | 2024 - Present
+- Orchestrated 2+ data pipelines with Apache Airflow, including alerting and backfills.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 15 dimensions.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+- Implemented a data lake on Power BI, ingesting and processing over 8 TB of data monthly from 8 source systems.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 20 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+MBA with focus on Information Management, National University of Singapore, Singapore, Singapore (2023)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Dutch (Native)
+- Mandarin (Fluent)
+- English (Professional working proficiency)

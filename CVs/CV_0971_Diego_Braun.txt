@@ -1,0 +1,36 @@
+Diego Braun
+Berlin, Germany | diego.braun@example.com | +48 798 3673980
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 4 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: QlikView, LookML, SSRS
+- Data Science & Machine Learning: Jupyter, TensorFlow, PyTorch
+- Cloud & Infrastructure: Docker, AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Cobalt Data Labs | Toronto, Canada | 2023 - Present
+- Built a recommendation engine for an energy and utilities client, contributing to a 20% increase in average order value.
+- Standardized cloud tagging and cost allocation practices for a logistics client, improving budget accountability across 5 teams.
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Consultant | Stratos Cloud Consulting | Oslo, Norway | 2021 - 2023
+- Trained 50 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Built statistical models to explain the drivers of demand and presented them to management.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+- Built an NLP pipeline to automatically classify 30+ incoming customer messages per day, reducing manual triage time by 45%.
+
+EDUCATION
+B.Sc. in Business Informatics, Charles University, Prague, Czech Republic (2020)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Italian (Native)
+- Portuguese (Fluent)
+- Polish (Fluent)

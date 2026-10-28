@@ -1,0 +1,44 @@
+Jonas Jansen
+Dublin, Ireland | jonas.jansen@example.com | +46 191 3715854
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 15 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Power Query / M, dbt, Looker, KPI design, SSRS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Technical documentation, Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Evergreen Data Solutions | Toronto, Canada | 2023 - Present
+- Designed and delivered 3 interactive Databricks dashboards for logistics clients, reducing manual reporting effort by 22%.
+- Automated the monthly reporting cycle for an aviation client, freeing up 8 analyst days per month for higher-value analysis.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+
+Consultant | Vertex Data Partners | Stockholm, Sweden | 2020 - 2023
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the e-commerce business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+Business Intelligence Consultant | Vertex Data Partners | Rotterdam, Netherlands | 2018 - 2020
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 22%.
+
+IT Consultant | Clearwater Data Systems | Oslo, Norway | 2015 - 2018
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 8 regional entities.
+- Trained 15 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+MBA with focus on Information Management, Trinity College Dublin, Dublin, Ireland (2011)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Spanish (Native)
+- Dutch (Fluent)
+- Hindi (Fluent)

@@ -1,0 +1,35 @@
+Bjorn Berg
+Helsinki, Finland | bjorn.berg@example.com | +47 750 2824499
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Power Query / M, KPI design
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS), Apache Kafka
+- Tools & Ways of Working: Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Ironwood Cloud Services | Warsaw, Poland | 2025 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Led the adoption of a self-service data platform on Databricks, onboarding 3+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for a logistics client's data platform.
+
+Analytics Engineer | Harborview Consulting | Toronto, Canada | 2024 - 2025
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+EDUCATION
+M.Sc. in Data Science, University of Hamburg, Hamburg, Germany (2024)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- AWS Certified Data Analytics - Specialty
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Danish (Fluent)
+- Swedish (Conversational)

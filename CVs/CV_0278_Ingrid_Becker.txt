@@ -1,0 +1,38 @@
+Ingrid Becker
+Stuttgart, Germany | ingrid.becker@example.com | +46 980 2289414
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Infrastructure Consultant with 4 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS), Linux system administration, Kubernetes, Apache Kafka, Snowflake on cloud
+- Business Intelligence: SSIS
+- Tools & Ways of Working: Git, Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Fjord Digital Solutions | Krakow, Poland | 2025 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Orchestrated 10+ data pipelines with Apache Airflow, including alerting and backfills.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 3 teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+
+Consultant | Alpenglow Analytics | London, United Kingdom | 2023 - 2025
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Managed cloud environments as code with Terraform modules shared across 5 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Performed a cloud security audit for a consumer goods client, remediating 50 critical findings within the first quarter.
+- Implemented automated data quality checks on 15 critical tables.
+
+EDUCATION
+MBA with focus on Information Management, University of Warsaw, Warsaw, Poland (2021)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Danish (Native)
+- English (Conversational)
+- Spanish (Conversational)

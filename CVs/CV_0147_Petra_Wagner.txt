@@ -1,0 +1,29 @@
+Petra Wagner
+Manchester, United Kingdom | petra.wagner@example.com | +34 593 7033642
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (2 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, SSAS, QlikView
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Cloud cost optimization, Linux system administration
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Quantara Analytics | Warsaw, Poland | 2024 - Present
+- Introduced Infrastructure-as-Code to replace manual environment setup for 50 teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Computational Science, University of Warsaw, Warsaw, Poland (2022)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Conversational)

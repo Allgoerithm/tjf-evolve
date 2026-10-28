@@ -1,0 +1,35 @@
+Deepa Kowalski
+Warsaw, Poland | deepa.kowalski@example.com | +44 647 1628489
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Platform Consultant (3 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, Tableau, Star schema & dimensional modeling
+- Data Science & Machine Learning: XGBoost / LightGBM, Feature Engineering, Natural Language Processing
+- Cloud & Infrastructure: Docker, Kubernetes, Linux system administration
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Meridian Digital Partners | Barcelona, Spain | 2025 - Present
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 40%.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+Consultant | Fjord Digital Solutions | Singapore, Singapore | 2024 - 2025
+- Built a recommendation engine for a public sector client, contributing to a 18% increase in average order value.
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 5 teams.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the consumer goods business.
+
+EDUCATION
+B.Sc. in Mathematics, Humboldt University of Berlin, Berlin, Germany (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Tableau Desktop Specialist
+
+LANGUAGES
+- German (Native)
+- French (Fluent)
+- Portuguese (Conversational)

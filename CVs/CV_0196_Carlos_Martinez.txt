@@ -1,0 +1,44 @@
+Carlos Martinez
+Bangalore, India | carlos.martinez@example.com | +46 125 4450559
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 13 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Looker, dbt, Star schema & dimensional modeling, SSRS, Snowflake
+- Cloud & Infrastructure: Terraform, Kubernetes
+- Tools & Ways of Working: Agile / Scrum, Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Cobalt Data Labs | Vienna, Austria | 2022 - Present
+- Built a tabular SSAS model that serves 10 departments with consistent KPIs.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 20 disparate spreadsheets into a single source of truth.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+
+Business Intelligence Consultant | Cobalt Data Labs | Bangalore, India | 2020 - 2022
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 2 analyst days per month for higher-value analysis.
+- Trained 5 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Designed and delivered 30 interactive Qlik Sense dashboards for consumer goods clients, reducing manual reporting effort by 35%.
+
+Analytics Consultant | Meridian Digital Partners | Brussels, Belgium | 2017 - 2020
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Business Intelligence Consultant | Meridian Digital Partners | Bangalore, India | 2013 - 2017
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 5 regional entities.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 20%.
+
+EDUCATION
+M.Sc. in Software Engineering, Delft University of Technology, Delft, Netherlands (2011)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Portuguese (Native)
+- Hindi (Conversational)

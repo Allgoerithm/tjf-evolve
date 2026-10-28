@@ -1,0 +1,34 @@
+Stefan Weber
+Warsaw, Poland | stefan.weber@example.com | +46 488 5485461
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 6 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: dbt, Star schema & dimensional modeling, Stakeholder reporting & dashboarding, SSAS, Data Warehouse design (Kimball/Inmon), Power Query / M
+- Cloud & Infrastructure: Networking & VPC design, Cloud cost optimization
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Pinnacle Business Intelligence GmbH | Pune, India | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+
+Business Intelligence Consultant | Brightfield Consulting | Barcelona, Spain | 2020 - 2023
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed and delivered 10 interactive Power BI dashboards for insurance clients, reducing manual reporting effort by 22%.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the aviation business.
+
+EDUCATION
+M.Sc. in Computational Science, Sorbonne University, Paris, France (2019)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Google Professional Cloud Architect
+
+LANGUAGES
+- German (Native)
+- Swedish (Conversational)
+- English (Conversational)

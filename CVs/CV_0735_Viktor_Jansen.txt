@@ -1,0 +1,32 @@
+Viktor Jansen
+Cologne, Germany | viktor.jansen@example.com | +34 694 5580297
+
+PROFESSIONAL SUMMARY
+Cloud Engineer specializing in cloud infrastructure and platform engineering, with 4 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Terraform, Cloud cost optimization, Kubernetes, Apache Kafka
+- Business Intelligence: Stakeholder reporting & dashboarding
+- Tools & Ways of Working: Stakeholder management, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Meridian Digital Partners | Bangalore, India | 2023 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a consumer goods client's data platform.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Cloud Solutions Architect | Kestrel Data Solutions | Oslo, Norway | 2021 - 2023
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Led the adoption of a self-service data platform on Snowflake, onboarding 10+ internal teams within the first year.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Toronto, Toronto, Canada (2022)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Portuguese (Native)
+- Hindi (Conversational)

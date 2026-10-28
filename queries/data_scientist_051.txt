@@ -1,0 +1,30 @@
+SEARCH PROFILE #051
+Role Needed: Applied Data Scientist
+Engagement Type: Interim / bridge staffing
+Client Industry: Banking
+Minimum Experience: 8+ years
+
+MUST-HAVE SKILLS
+- Kubernetes
+- Time Series Forecasting
+- Python (pandas, NumPy, scikit-learn)
+- Stakeholder management
+
+NICE-TO-HAVE SKILLS
+- MLflow
+- Technical documentation
+- Natural Language Processing
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGE REQUIREMENTS
+- Portuguese (conversational)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Brussels, Belgium)
+
+PROJECT CONTEXT
+The client is starting a new initiative around fraud risk prediction and needs someone to define the modeling approach end-to-end.
+
+Start Date: Flexible, ideally within the next month
+Duration: 3 months, extension likely

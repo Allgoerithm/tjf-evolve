@@ -1,0 +1,35 @@
+Sanjay Schroder
+Paris, France | sanjay.schroder@example.com | +46 472 8999724
+
+PROFESSIONAL SUMMARY
+Experienced Data & Analytics Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: dbt, DAX, Looker
+- Data Science & Machine Learning: MLOps, XGBoost / LightGBM, A/B Testing & Experimentation
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Orbis Technology Partners | Rotterdam, Netherlands | 2025 - Present
+- Introduced Infrastructure-as-Code to replace manual environment setup for 3 teams.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+Data & Analytics Consultant | Harborview Consulting | Frankfurt, Germany | 2023 - 2025
+- Drove cloud cost optimization across 50 accounts through rightsizing and reserved capacity.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Statistics, Universidad Politecnica de Madrid, Madrid, Spain (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Hindi (Native)
+- German (Fluent)

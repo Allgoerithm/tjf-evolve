@@ -1,0 +1,45 @@
+Diego Muller
+Milan, Italy | diego.muller@example.com | +47 597 8048180
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Scientist with 15 years in the field, combining expertise in data science and machine learning to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Data Science & Machine Learning: A/B Testing & Experimentation, Apache Spark / PySpark, Databricks, R, MLflow, XGBoost / LightGBM
+- Cloud & Infrastructure: Networking & VPC design, Infrastructure as Code
+- Tools & Ways of Working: Stakeholder management, Data quality management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Riverbend Analytics | Madrid, Spain | 2022 - Present
+- Built a churn prediction model on 10+ customer records, enabling targeted retention campaigns for the public sector sector.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Developed a deep learning model to predict customer churn for telecommunications clients, improving prediction accuracy by 22%.
+
+Machine Learning Engineer | Quantara Analytics | Austin, USA | 2020 - 2022
+- Mentored a team of 10 junior data scientists on feature engineering and model evaluation best practices.
+- Built a recommendation engine for a logistics client, contributing to a 30% increase in average order value.
+- Developed an anomaly detection system for banking operations, flagging issues 25% faster than the previous manual process.
+
+Consultant | Nordwind Consulting | Chicago, USA | 2016 - 2020
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 22%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Senior Data Scientist | Meridian Digital Partners | Amsterdam, Netherlands | 2014 - 2016
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 18%.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 30% uplift in conversion rate.
+- Led a proof-of-concept on demand forecasting for a telecommunications client, achieving a 12% reduction in forecast error versus the baseline.
+
+EDUCATION
+B.Sc. in Business Informatics, Trinity College Dublin, Dublin, Ireland (2010)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Google Professional Data Engineer
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Dutch (Native)
+- Italian (Professional working proficiency)
+- Portuguese (Conversational)

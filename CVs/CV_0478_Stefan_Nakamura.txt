@@ -1,0 +1,39 @@
+Stefan Nakamura
+Munich, Germany | stefan.nakamura@example.com | +44 767 3434683
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 5 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSRS, T-SQL, QlikView, Data Warehouse design (Kimball/Inmon), Stakeholder reporting & dashboarding, Star schema & dimensional modeling
+- Cloud & Infrastructure: Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Harborview Consulting | Toronto, Canada | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Consultant | Vertex Data Partners | Warsaw, Poland | 2024 - 2025
+- Built a tabular SSAS model that serves 3 departments with consistent KPIs.
+- Designed and delivered 30 interactive Databricks dashboards for public sector clients, reducing manual reporting effort by 30%.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 20%.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Consultant | Lumen Analytics Group | Lyon, France | 2022 - 2024
+- Automated the monthly reporting cycle for an aviation client, freeing up 20 analyst days per month for higher-value analysis.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Indian Institute of Technology Bombay, Mumbai, India (2019)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Google Professional Cloud Architect
+
+LANGUAGES
+- German (Native)
+- French (Professional working proficiency)

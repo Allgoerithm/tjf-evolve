@@ -1,0 +1,36 @@
+Carlos Berg
+Barcelona, Spain | carlos.berg@example.com | +45 537 7371005
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 4 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in public sector. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SSIS, T-SQL
+- Data Science & Machine Learning: Feature Engineering, MLOps, PyTorch
+- Cloud & Infrastructure: Snowflake on cloud, Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Falcon Ridge Consulting | Hamburg, Germany | 2023 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Delivered a computer vision prototype for defect detection on the production line.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+
+Consultant | Falcon Ridge Consulting | Brussels, Belgium | 2021 - 2023
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 15%.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+B.Sc. in Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden (2020)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- French (Native)
+- Portuguese (Professional working proficiency)

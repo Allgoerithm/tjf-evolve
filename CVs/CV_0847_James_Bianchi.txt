@@ -1,0 +1,39 @@
+James Bianchi
+Amsterdam, Netherlands | james.bianchi@example.com | +31 874 7631171
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (5 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, QlikView, Snowflake
+- Data Science & Machine Learning: Jupyter, Causal Inference, Apache Spark / PySpark
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Microsoft Azure (Data Factory, Synapse, AKS), Docker
+- Tools & Ways of Working: Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Silverline IT Consulting | Oslo, Norway | 2025 - Present
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+- Built Kafka-based streaming ingestion for 20 operational systems.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+Consultant | Silverline IT Consulting | Toronto, Canada | 2024 - 2025
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the insurance sector.
+- Designed and implemented a multi-account AWS landing zone for an e-commerce client, improving security posture and cost visibility.
+
+IT Consultant | Kestrel Data Solutions | Chicago, USA | 2023 - 2024
+- Developed an anomaly detection system for pharmaceuticals operations, flagging issues 22% faster than the previous manual process.
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a consumer goods client's data platform.
+- Trained 3 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2020)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Swedish (Native)
+- Dutch (Fluent)

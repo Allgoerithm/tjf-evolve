@@ -1,0 +1,39 @@
+Ingrid Braun
+Austin, USA | ingrid.braun@example.com | +49 658 4534209
+
+PROFESSIONAL SUMMARY
+Versatile Data & Analytics Consultant with 7 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, Snowflake, Qlik Sense
+- Data Science & Machine Learning: A/B Testing & Experimentation, Causal Inference, XGBoost / LightGBM
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Docker, Apache Kafka
+- Tools & Ways of Working: Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Alpenglow Analytics | Milan, Italy | 2025 - Present
+- Implemented row-level security in Looker, enabling secure self-service reporting across 10 regional entities.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Built a recommendation engine for an energy and utilities client, contributing to a 15% increase in average order value.
+
+Lead Data & AI Consultant | Clearwater Data Systems | Manchester, United Kingdom | 2022 - 2025
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Designed and delivered 2 interactive Databricks dashboards for logistics clients, reducing manual reporting effort by 20%.
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 12%.
+
+IT Consultant | Lumen Analytics Group | Pune, India | 2020 - 2022
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Trained 50 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 35%.
+
+EDUCATION
+M.Sc. in Software Engineering, Delft University of Technology, Delft, Netherlands (2017)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- German (Native)
+- Swedish (Conversational)

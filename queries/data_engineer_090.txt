@@ -1,0 +1,30 @@
+SEARCH PROFILE #090
+Role Needed: Analytics Engineer
+Engagement Type: Short-term project engagement
+Client Industry: Retail
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Stakeholder management
+- Requirements engineering
+- Linux system administration
+- Power BI
+
+NICE-TO-HAVE SKILLS
+- Star schema & dimensional modeling
+- Cloud cost optimization
+
+PREFERRED CERTIFICATIONS
+- Google Professional Cloud Architect
+
+LANGUAGE REQUIREMENTS
+- Danish (conversational)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Stuttgart, Germany)
+
+PROJECT CONTEXT
+A retail client is building a data lake and needs support designing the ingestion, storage, and transformation layers.
+
+Start Date: Within 4 weeks
+Duration: 6 months

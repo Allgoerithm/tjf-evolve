@@ -1,0 +1,40 @@
+Wei Martinez
+Barcelona, Spain | wei.martinez@example.com | +41 132 3479507
+
+PROFESSIONAL SUMMARY
+Results-driven Machine Learning Engineer with 9 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: R, Databricks, Natural Language Processing, Causal Inference, MLOps, A/B Testing & Experimentation
+- Cloud & Infrastructure: Kubernetes, Infrastructure as Code
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Northgate Technology Group | Frankfurt, Germany | 2023 - Present
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Built statistical models to explain the drivers of equipment failure and presented them to management.
+- Developed an anomaly detection system for retail operations, flagging issues 28% faster than the previous manual process.
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 25%.
+
+Data Scientist | Quantara Analytics | Brussels, Belgium | 2020 - 2023
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 20%.
+- Managed backlog and documentation in JIRA and Confluence for 8 concurrent workstreams.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Consultant | Cobalt Data Labs | Helsinki, Finland | 2016 - 2020
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 12% uplift in conversion rate.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Built a recommendation engine for an automotive manufacturing client, contributing to a 30% increase in average order value.
+
+EDUCATION
+B.Sc. in Mathematics, Charles University, Prague, Czech Republic (2015)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Fluent)

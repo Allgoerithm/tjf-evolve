@@ -1,0 +1,35 @@
+Nina Martinez
+Dublin, Ireland | nina.martinez@example.com | +32 213 7692624
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Star schema & dimensional modeling, QlikView
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE), Docker
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Nordwind Consulting | Zurich, Switzerland | 2024 - Present
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 12%.
+- Led a cloud cost optimization initiative, identifying savings of 18% across compute and storage resources.
+- Defined and documented 5 KPIs together with business owners as the basis of the new reporting suite.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+
+Consultant | Nordwind Consulting | Brussels, Belgium | 2022 - 2024
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 2 teams.
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+
+EDUCATION
+M.Sc. in Software Engineering, Sorbonne University, Paris, France (2022)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Google Professional Data Engineer
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Polish (Professional working proficiency)

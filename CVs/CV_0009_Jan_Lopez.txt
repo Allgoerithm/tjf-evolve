@@ -1,0 +1,42 @@
+Jan Lopez
+Frankfurt, Germany | jan.lopez@example.com | +32 914 3139308
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 7 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSAS, SSIS, Power BI, Qlik Sense, Snowflake, Star schema & dimensional modeling
+- Cloud & Infrastructure: Infrastructure as Code, Networking & VPC design
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | BlueRiver Analytics | Prague, Czech Republic | 2025 - Present
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the retail business.
+- Designed and delivered 15 interactive Qlik Sense dashboards for consumer goods clients, reducing manual reporting effort by 40%.
+
+Business Intelligence Consultant | Falcon Ridge Consulting | Frankfurt, Germany | 2024 - 2025
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 5 regional entities.
+- Migrated 15 legacy reports to Tableau and trained business users on self-service exploration.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Defined and documented 2 KPIs together with business owners as the basis of the new reporting suite.
+
+Business Intelligence Consultant | Harborview Consulting | Milan, Italy | 2022 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 2 disparate spreadsheets into a single source of truth.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 15%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Oslo, Oslo, Norway (2019)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Databricks Certified Machine Learning Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Spanish (Native)
+- French (Conversational)

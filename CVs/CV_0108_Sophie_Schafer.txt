@@ -1,0 +1,38 @@
+Sophie Schafer
+Toronto, Canada | sophie.schafer@example.com | +31 439 3081469
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 9 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Snowflake, SSAS, Tableau, QlikView, SSRS
+- Cloud & Infrastructure: Infrastructure as Code, Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Data quality management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Kestrel Data Solutions | Munich, Germany | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 20 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Orbis Technology Partners | Krakow, Poland | 2021 - 2023
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 50 analyst days per month for higher-value analysis.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the insurance business.
+
+BI Developer | Alpenglow Analytics | Singapore, Singapore | 2019 - 2021
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Vienna, Vienna, Austria (2016)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Hindi (Fluent)

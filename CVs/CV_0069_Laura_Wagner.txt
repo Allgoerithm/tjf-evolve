@@ -1,0 +1,42 @@
+Laura Wagner
+Lyon, France | laura.wagner@example.com | +48 689 8848509
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 13 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: DAX, Data Warehouse design (Kimball/Inmon), Looker, T-SQL, QlikView, Qlik Sense
+- Cloud & Infrastructure: Linux system administration, Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Northgate Technology Group | Bangalore, India | 2023 - Present
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 30 disparate spreadsheets into a single source of truth.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the banking business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+
+Business Intelligence Consultant | Solaris Data Engineering | Dublin, Ireland | 2020 - 2023
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 3 interactive Qlik Sense dashboards for retail clients, reducing manual reporting effort by 20%.
+
+Analyst | Cobalt Data Labs | Pune, India | 2017 - 2020
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 30 regional entities.
+- Trained 50 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+Analyst | Greystone Data & AI | Chicago, USA | 2014 - 2017
+- Automated the monthly reporting cycle for a public sector client, freeing up 8 analyst days per month for higher-value analysis.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Data Science, Indian Institute of Technology Bombay, Mumbai, India (2012)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- German (Native)
+- Portuguese (Conversational)

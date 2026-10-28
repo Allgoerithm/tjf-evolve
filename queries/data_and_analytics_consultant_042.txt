@@ -1,0 +1,31 @@
+SEARCH PROFILE #042
+Role Needed: Data & Analytics Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Banking
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Data Warehouse design (Kimball/Inmon)
+- Cloud cost optimization
+- T-SQL
+- Agile / Scrum
+
+NICE-TO-HAVE SKILLS
+- XGBoost / LightGBM
+- Apache Airflow
+- Causal Inference
+
+PREFERRED CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGE REQUIREMENTS
+- German (business level)
+- Portuguese (business level)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Frankfurt, Germany)
+
+PROJECT CONTEXT
+The client wants a proof-of-concept combining BI reporting and machine learning insights on a shared cloud data platform.
+
+Start Date: Next quarter
+Duration: 6 months

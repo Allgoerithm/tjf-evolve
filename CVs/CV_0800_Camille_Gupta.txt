@@ -1,0 +1,36 @@
+Camille Gupta
+Toronto, Canada | camille.gupta@example.com | +47 314 2205577
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 3 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Tableau, Stakeholder reporting & dashboarding
+- Data Science & Machine Learning: MLflow, Natural Language Processing, PyTorch
+- Cloud & Infrastructure: Linux system administration, Apache Airflow, Snowflake on cloud
+- Tools & Ways of Working: Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Brightfield Consulting | Rotterdam, Netherlands | 2025 - Present
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+- Delivered a computer vision prototype for defect detection on the production line.
+
+Consultant | Kestrel Data Solutions | Madrid, Spain | 2024 - 2025
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built a recommendation engine for an aviation client, contributing to a 45% increase in average order value.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+
+EDUCATION
+M.Sc. in Computer Science, Technical University of Munich, Munich, Germany (2021)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- TOGAF 9 Certified
+
+LANGUAGES
+- Dutch (Native)
+- German (Fluent)

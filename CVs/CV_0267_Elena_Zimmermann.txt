@@ -1,0 +1,44 @@
+Elena Zimmermann
+Rotterdam, Netherlands | elena.zimmermann@example.com | +46 834 9317929
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (11 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, SSIS, SSAS, Stakeholder reporting & dashboarding, dbt, DAX
+- Cloud & Infrastructure: Snowflake on cloud, Cloud cost optimization
+- Tools & Ways of Working: Stakeholder management, Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Nimbus Infrastructure Consulting | Vienna, Austria | 2024 - Present
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Automated the monthly reporting cycle for an insurance client, freeing up 30 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+BI Developer | Solaris Data Engineering | Zurich, Switzerland | 2022 - 2024
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 40%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+Senior BI Consultant | Meridian Digital Partners | Barcelona, Spain | 2019 - 2022
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Trained 3 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the healthcare business.
+
+IT Consultant | Riverbend Analytics | Lisbon, Portugal | 2016 - 2019
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 15 regional entities.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 50 disparate spreadsheets into a single source of truth.
+- Designed and delivered 10 interactive Tableau dashboards for e-commerce clients, reducing manual reporting effort by 45%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Delft University of Technology, Delft, Netherlands (2013)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- German (Native)
+- French (Fluent)
+- Dutch (Conversational)

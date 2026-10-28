@@ -1,0 +1,36 @@
+Viktor Bianchi
+Bangalore, India | viktor.bianchi@example.com | +1 192 4908108
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 4 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Power Query / M, Power BI, dbt, QlikView, LookML
+- Cloud & Infrastructure: Terraform, Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Meridian Digital Partners | Rotterdam, Netherlands | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 3 regional entities.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 30%.
+
+Consultant | Northstar Cloud Group | Helsinki, Finland | 2023 - 2025
+- Built a tabular SSAS model that serves 3 departments with consistent KPIs.
+- Trained 2 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+
+EDUCATION
+B.Sc. in Computer Science, University of Oslo, Oslo, Norway (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- German (Native)
+- Swedish (Fluent)

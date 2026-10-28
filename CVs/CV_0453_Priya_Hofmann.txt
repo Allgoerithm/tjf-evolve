@@ -1,0 +1,39 @@
+Priya Hofmann
+Dublin, Ireland | priya.hofmann@example.com | +1 307 3815432
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant with 9 years of experience delivering business intelligence and enterprise reporting solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Snowflake, Data Warehouse design (Kimball/Inmon), KPI design, DAX, Tableau
+- Cloud & Infrastructure: Apache Kafka, Cloud cost optimization
+- Tools & Ways of Working: Technical documentation, Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Northstar Cloud Group | Munich, Germany | 2023 - Present
+- Trained 10 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 10 analyst days per month for higher-value analysis.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Anchor Point Technologies | Chicago, USA | 2020 - 2023
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the logistics business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 30 disparate spreadsheets into a single source of truth.
+
+Business Intelligence Consultant | Solaris Data Engineering | Toronto, Canada | 2016 - 2020
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 3 regional entities.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Managed backlog and documentation in JIRA and Confluence for 20 concurrent workstreams.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Hamburg, Hamburg, Germany (2017)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Swedish (Native)
+- Spanish (Fluent)
+- Dutch (Fluent)

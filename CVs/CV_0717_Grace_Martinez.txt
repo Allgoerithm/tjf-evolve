@@ -1,0 +1,37 @@
+Grace Martinez
+Bangalore, India | grace.martinez@example.com | +46 665 6848825
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Data & AI Consultant with 4 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, QlikView, Snowflake
+- Data Science & Machine Learning: MLflow, Python (pandas, NumPy, scikit-learn), MLOps
+- Cloud & Infrastructure: Infrastructure as Code, Docker, Linux system administration
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Quantara Analytics | Helsinki, Finland | 2025 - Present
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Developed a logistic regression model to predict customer lifetime value for e-commerce clients, improving prediction accuracy by 22%.
+- Designed a CI/CD pipeline that reduced release cycle time by 15% for a public sector client's data platform.
+- Drove cloud cost optimization across 8 accounts through rightsizing and reserved capacity.
+
+Lead Data & AI Consultant | Nordwind Consulting | Munich, Germany | 2022 - 2025
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Set up A/B tests for new product features and evaluated the results with the product team.
+- Built a recommendation engine for an energy and utilities client, contributing to a 22% increase in average order value.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+EDUCATION
+M.Sc. in Computational Science, Charles University, Prague, Czech Republic (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+
+LANGUAGES
+- German (Native)
+- Hindi (Professional working proficiency)
+- Italian (Professional working proficiency)

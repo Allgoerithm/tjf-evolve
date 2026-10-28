@@ -1,0 +1,44 @@
+Wolfgang Berg
+Copenhagen, Denmark | wolfgang.berg@example.com | +34 276 7281558
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Platform Consultant (12 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Snowflake, Power Query / M
+- Data Science & Machine Learning: Time Series Forecasting, Apache Spark / PySpark, Statistical Modeling
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Terraform, Snowflake on cloud
+- Tools & Ways of Working: Git, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Quantara Analytics | Milan, Italy | 2024 - Present
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 8 teams.
+- Mentored a team of 5 junior data scientists on feature engineering and model evaluation best practices.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+Consultant | Northgate Technology Group | Hamburg, Germany | 2020 - 2024
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Led a proof-of-concept on demand forecasting for a consumer goods client, achieving a 25% reduction in forecast error versus the baseline.
+
+Senior Data Platform Consultant | Anchor Point Technologies | Manchester, United Kingdom | 2018 - 2020
+- Built a churn prediction model on 15+ customer records, enabling targeted retention campaigns for the logistics sector.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 30%.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for a healthcare client's data platform.
+
+Lead Data & AI Consultant | Ironwood Cloud Services | Berlin, Germany | 2015 - 2018
+- Developed a XGBoost model to predict demand for logistics clients, improving prediction accuracy by 25%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 12%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+
+EDUCATION
+B.Eng. in Information Systems, Technical University of Munich, Munich, Germany (2014)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Danish (Native)
+- Polish (Fluent)

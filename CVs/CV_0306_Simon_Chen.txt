@@ -1,0 +1,36 @@
+Simon Chen
+Dublin, Ireland | simon.chen@example.com | +34 796 6147393
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Stakeholder reporting & dashboarding, Data Warehouse design (Kimball/Inmon)
+- Data Science & Machine Learning: MLOps, Apache Spark / PySpark, Causal Inference
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Docker, Cloud cost optimization
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Cobalt Data Labs | Frankfurt, Germany | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+
+IT Consultant | Clearwater Data Systems | Vienna, Austria | 2024 - 2025
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Technical University of Denmark, Copenhagen, Denmark (2020)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- SnowPro Core Certification
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Italian (Native)
+- Dutch (Professional working proficiency)
+- French (Professional working proficiency)

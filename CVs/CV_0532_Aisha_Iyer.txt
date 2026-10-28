@@ -1,0 +1,35 @@
+Aisha Iyer
+Pune, India | aisha.iyer@example.com | +41 811 4923665
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (4 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SSIS, SQL Server, Tableau, Qlik Sense, SSRS
+- Cloud & Infrastructure: Apache Airflow, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Solaris Data Engineering | Prague, Czech Republic | 2023 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 10 regional entities.
+
+IT Consultant | Anchor Point Technologies | Berlin, Germany | 2021 - 2023
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 30 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Humboldt University of Berlin, Berlin, Germany (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Portuguese (Native)
+- French (Conversational)
+- Swedish (Conversational)

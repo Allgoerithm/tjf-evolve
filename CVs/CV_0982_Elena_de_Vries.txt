@@ -1,0 +1,39 @@
+Elena de Vries
+Copenhagen, Denmark | elena.de.vries@example.com | +45 436 6496964
+
+PROFESSIONAL SUMMARY
+Results-driven Machine Learning Engineer with 6 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: Jupyter, PyTorch, Databricks, Feature Engineering, Apache Spark / PySpark, Time Series Forecasting
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Stratos Cloud Consulting | Krakow, Poland | 2024 - Present
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Developed an anomaly detection system for banking operations, flagging issues 25% faster than the previous manual process.
+- Developed a XGBoost model to predict equipment failure for telecommunications clients, improving prediction accuracy by 22%.
+
+Data Scientist | Falcon Ridge Consulting | London, United Kingdom | 2022 - 2024
+- Led a proof-of-concept on demand forecasting for an aviation client, achieving a 18% reduction in forecast error versus the baseline.
+- Delivered a computer vision prototype for defect detection on the production line.
+- Mentored a team of 3 junior data scientists on feature engineering and model evaluation best practices.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 15%.
+
+Analyst | Solaris Data Engineering | London, United Kingdom | 2019 - 2022
+- Built a recommendation engine for an automotive manufacturing client, contributing to a 45% increase in average order value.
+- Built a churn prediction model on 15+ customer records, enabling targeted retention campaigns for the healthcare sector.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 15% uplift in conversion rate.
+
+EDUCATION
+B.Eng. in Information Systems, Charles University, Prague, Czech Republic (2018)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Dutch (Native)
+- Polish (Fluent)

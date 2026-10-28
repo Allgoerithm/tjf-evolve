@@ -1,0 +1,34 @@
+Clara Jansen
+Hamburg, Germany | clara.jansen@example.com | +32 973 9646766
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 3 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, QlikView, dbt
+- Cloud & Infrastructure: Apache Kafka, Snowflake on cloud, Networking & VPC design, Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Falcon Ridge Consulting | Lisbon, Portugal | 2025 - Present
+- Designed and delivered 3 interactive Databricks dashboards for energy and utilities clients, reducing manual reporting effort by 30%.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+
+Senior Data Engineer | Falcon Ridge Consulting | Stockholm, Sweden | 2023 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+- Replaced 50 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Amsterdam, Amsterdam, Netherlands (2023)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGES
+- Italian (Native)
+- German (Professional working proficiency)
+- Polish (Conversational)

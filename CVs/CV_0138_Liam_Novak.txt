@@ -1,0 +1,43 @@
+Liam Novak
+Singapore, Singapore | liam.novak@example.com | +47 584 5371251
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 15 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Looker, Star schema & dimensional modeling, Qlik Sense, Snowflake, DAX
+- Cloud & Infrastructure: Apache Kafka, Linux system administration
+- Tools & Ways of Working: Data governance, Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Lumen Analytics Group | Austin, USA | 2024 - Present
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 15 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the aviation business.
+
+Consultant | Riverbend Analytics | Manchester, United Kingdom | 2021 - 2024
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 50 interactive Databricks dashboards for banking clients, reducing manual reporting effort by 12%.
+
+Analytics Consultant | Clearwater Data Systems | Frankfurt, Germany | 2017 - 2021
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 45%.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 3 regional entities.
+
+Analytics Consultant | Silverline IT Consulting | Singapore, Singapore | 2013 - 2017
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+- Automated the monthly reporting cycle for a public sector client, freeing up 15 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Computational Science, KTH Royal Institute of Technology, Stockholm, Sweden (2009)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- German (Native)
+- Portuguese (Conversational)
+- Dutch (Conversational)

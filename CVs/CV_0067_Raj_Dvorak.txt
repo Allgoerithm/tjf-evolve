@@ -1,0 +1,40 @@
+Raj Dvorak
+London, United Kingdom | raj.dvorak@example.com | +48 591 3949749
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 9 years of experience delivering data science and machine learning solutions for clients in telecommunications. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Statistical Modeling, Computer Vision, A/B Testing & Experimentation, Causal Inference, Model Deployment & Monitoring, Databricks
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | TerraLogic Consulting | Stuttgart, Germany | 2022 - Present
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 35%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 28%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Applied NLP techniques to classify support tickets, cutting manual triage by 45%.
+
+Senior Data Scientist | Alpenglow Analytics | Copenhagen, Denmark | 2018 - 2022
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 30% reduction in forecast error versus the baseline.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Built a churn prediction model on 2+ customer records, enabling targeted retention campaigns for the automotive manufacturing sector.
+
+Data Scientist | Fjord Digital Solutions | Dublin, Ireland | 2015 - 2018
+- Built a recommendation engine for a retail client, contributing to a 18% increase in average order value.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Developed a deep learning model to predict fraud risk for pharmaceuticals clients, improving prediction accuracy by 12%.
+
+EDUCATION
+M.Sc. in Computer Science, Technical University of Denmark, Copenhagen, Denmark (2017)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Certified ScrumMaster (CSM)
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- English (Conversational)

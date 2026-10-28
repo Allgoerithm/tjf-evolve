@@ -1,0 +1,33 @@
+Kwame Nakamura
+Toronto, Canada | kwame.nakamura@example.com | +46 884 3846310
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 4 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSIS, QlikView, Power Query / M, Snowflake, SSRS, Looker
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Falcon Ridge Consulting | Madrid, Spain | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 20 disparate spreadsheets into a single source of truth.
+- Automated the monthly reporting cycle for a banking client, freeing up 3 analyst days per month for higher-value analysis.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Solaris Data Engineering | Pune, India | 2023 - 2025
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 15%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+
+EDUCATION
+M.Sc. in Computer Science, University of Oslo, Oslo, Norway (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Dutch (Native)
+- French (Fluent)
+- Spanish (Fluent)

@@ -1,0 +1,37 @@
+Felix Iyer
+Copenhagen, Denmark | felix.iyer@example.com | +1 868 8552162
+
+PROFESSIONAL SUMMARY
+Versatile Lead Data & AI Consultant with 2 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, KPI design, Snowflake
+- Data Science & Machine Learning: R, Time Series Forecasting, Apache Spark / PySpark
+- Cloud & Infrastructure: Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Meridian Digital Partners | Austin, USA | 2025 - Present
+- Introduced Infrastructure-as-Code to replace manual environment setup for 15 teams.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Replaced 50 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 15 regional entities.
+- Led a proof-of-concept on demand forecasting for a banking client, achieving a 30% reduction in forecast error versus the baseline.
+
+IT Consultant | Pinnacle Business Intelligence GmbH | Vienna, Austria | 2024 - 2025
+- Developed an anomaly detection system for retail operations, flagging issues 22% faster than the previous manual process.
+- Performed a cloud security audit for an e-commerce client, remediating 10 critical findings within the first quarter.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+EDUCATION
+B.Sc. in Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- AWS Certified Data Analytics - Specialty
+- SnowPro Core Certification
+
+LANGUAGES
+- Danish (Native)
+- Polish (Professional working proficiency)

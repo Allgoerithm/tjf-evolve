@@ -1,0 +1,40 @@
+Simon Lopez
+Amsterdam, Netherlands | simon.lopez@example.com | +34 538 1751958
+
+PROFESSIONAL SUMMARY
+Applied Data Scientist specializing in data science and machine learning, with 6 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: A/B Testing & Experimentation, Apache Spark / PySpark, Feature Engineering, Causal Inference, Python (pandas, NumPy, scikit-learn), Model Deployment & Monitoring
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Harborview Consulting | Chicago, USA | 2023 - Present
+- Led a proof-of-concept on demand forecasting for an e-commerce client, achieving a 40% reduction in forecast error versus the baseline.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Developed a logistic regression model to predict customer lifetime value for e-commerce clients, improving prediction accuracy by 18%.
+
+Analyst | Orbis Technology Partners | Oslo, Norway | 2021 - 2023
+- Developed an anomaly detection system for banking operations, flagging issues 22% faster than the previous manual process.
+- Built a recommendation engine for a logistics client, contributing to a 20% increase in average order value.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 12% uplift in conversion rate.
+- Moved notebooks and scheduled jobs to Databricks to simplify collaboration.
+
+Machine Learning Engineer | Falcon Ridge Consulting | Paris, France | 2019 - 2021
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 45%.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Built a churn prediction model on 20+ customer records, enabling targeted retention campaigns for the logistics sector.
+
+EDUCATION
+M.Sc. in Computer Science, Delft University of Technology, Delft, Netherlands (2020)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Polish (Native)
+- German (Professional working proficiency)
+- English (Conversational)

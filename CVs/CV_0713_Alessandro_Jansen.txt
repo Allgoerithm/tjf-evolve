@@ -1,0 +1,38 @@
+Alessandro Jansen
+Austin, USA | alessandro.jansen@example.com | +45 528 7621044
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer specializing in data science and machine learning, with 5 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: PyTorch, Causal Inference, Model Deployment & Monitoring, Time Series Forecasting, Feature Engineering, Jupyter
+- Cloud & Infrastructure: Docker, Cloud cost optimization
+- Tools & Ways of Working: JIRA / Confluence, Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Brightfield Consulting | Rotterdam, Netherlands | 2024 - Present
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 40%.
+- Trained and tuned TensorFlow models for customer lifetime value, reducing error by 40% over the baseline.
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 35% reduction in forecast error versus the baseline.
+
+Consultant | Falcon Ridge Consulting | Lyon, France | 2023 - 2024
+- Developed an anomaly detection system for pharmaceuticals operations, flagging issues 18% faster than the previous manual process.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 18% uplift in conversion rate.
+
+Senior Data Scientist | Clearwater Data Systems | Munich, Germany | 2022 - 2023
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+- Built a recommendation engine for a pharmaceuticals client, contributing to a 30% increase in average order value.
+- Developed a random forest model to predict demand for energy and utilities clients, improving prediction accuracy by 20%.
+
+EDUCATION
+MBA with focus on Information Management, Technical University of Denmark, Copenhagen, Denmark (2021)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Dutch (Professional working proficiency)

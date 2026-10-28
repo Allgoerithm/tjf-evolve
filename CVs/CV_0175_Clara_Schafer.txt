@@ -1,0 +1,39 @@
+Clara Schafer
+Vienna, Austria | clara.schafer@example.com | +1 254 7939030
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 7 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: LookML, T-SQL, QlikView, Qlik Sense, SQL Server, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Terraform, Snowflake on cloud
+- Tools & Ways of Working: Technical documentation, Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Beacon Insight Consulting | London, United Kingdom | 2025 - Present
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the retail business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Business Intelligence Consultant | Northgate Technology Group | Madrid, Spain | 2023 - 2025
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 3 regional entities.
+- Trained 50 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+BI Developer | Solaris Data Engineering | Helsinki, Finland | 2021 - 2023
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 15 analyst days per month for higher-value analysis.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, KTH Royal Institute of Technology, Stockholm, Sweden (2019)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- English (Native)
+- Hindi (Conversational)
+- German (Conversational)

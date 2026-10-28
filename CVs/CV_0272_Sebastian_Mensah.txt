@@ -1,0 +1,33 @@
+Sebastian Mensah
+Zurich, Switzerland | sebastian.mensah@example.com | +47 460 7321367
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Power Query / M, T-SQL, QlikView, Data Warehouse design (Kimball/Inmon), DAX
+- Cloud & Infrastructure: Networking & VPC design, Infrastructure as Code
+- Tools & Ways of Working: Git, Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Silverline IT Consulting | Munich, Germany | 2025 - Present
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 10 regional entities.
+- Trained 10 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Consultant | Solaris Data Engineering | Munich, Germany | 2024 - 2025
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the retail business.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 50 dimensions.
+
+EDUCATION
+B.Eng. in Information Systems, University of Amsterdam, Amsterdam, Netherlands (2024)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Fluent)

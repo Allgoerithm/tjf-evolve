@@ -1,0 +1,34 @@
+Ute Neumann
+Austin, USA | ute.neumann@example.com | +33 985 8159723
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 3 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Looker, Snowflake, dbt
+- Data Science & Machine Learning: PyTorch, R, Causal Inference
+- Cloud & Infrastructure: Terraform, Cloud cost optimization, Docker
+- Tools & Ways of Working: Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Cobalt Data Labs | Brussels, Belgium | 2025 - Present
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Developed an anomaly detection system for healthcare operations, flagging issues 35% faster than the previous manual process.
+
+Data & Analytics Consultant | Meridian Digital Partners | Munich, Germany | 2024 - 2025
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for an energy and utilities client's data platform.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the telecommunications business.
+- Developed a logistic regression model to predict customer lifetime value for e-commerce clients, improving prediction accuracy by 28%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Universidad Politecnica de Madrid, Madrid, Spain (2022)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Italian (Native)
+- Swedish (Fluent)

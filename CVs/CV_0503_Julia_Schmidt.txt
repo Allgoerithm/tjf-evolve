@@ -1,0 +1,28 @@
+Julia Schmidt
+Paris, France | julia.schmidt@example.com | +47 651 6874896
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Cloud cost optimization, Linux system administration, AWS (EC2, S3, Lambda, Redshift, Glue), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Networking & VPC design
+- Business Intelligence: SQL Server
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Alpenglow Analytics | Bangalore, India | 2024 - Present
+- Led the adoption of a self-service data platform on Power BI, onboarding 8+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 40%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Computational Science, ETH Zurich, Zurich, Switzerland (2024)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- German (Native)
+- English (Fluent)

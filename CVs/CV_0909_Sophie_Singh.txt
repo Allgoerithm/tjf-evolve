@@ -1,0 +1,40 @@
+Sophie Singh
+Amsterdam, Netherlands | sophie.singh@example.com | +1 834 5949494
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 6 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Power BI, dbt, KPI design, QlikView, Snowflake
+- Cloud & Infrastructure: Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Clearwater Data Systems | Cologne, Germany | 2024 - Present
+- Replaced 2 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 2 disparate spreadsheets into a single source of truth.
+
+Senior BI Consultant | Beacon Insight Consulting | Rotterdam, Netherlands | 2022 - 2024
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 28%.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 3 interactive Looker dashboards for banking clients, reducing manual reporting effort by 45%.
+
+Consultant | Vantage Point Consulting | Manchester, United Kingdom | 2020 - 2022
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Automated the monthly reporting cycle for a public sector client, freeing up 2 analyst days per month for higher-value analysis.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 15 regional entities.
+
+EDUCATION
+B.Eng. in Information Systems, University of Warsaw, Warsaw, Poland (2019)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- English (Native)
+- Hindi (Conversational)
+- Spanish (Conversational)

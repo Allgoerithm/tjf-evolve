@@ -1,0 +1,39 @@
+Emma Garcia
+Zurich, Switzerland | emma.garcia@example.com | +39 881 8400276
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 6 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Snowflake, Power BI
+- Cloud & Infrastructure: Kubernetes, Snowflake on cloud, Networking & VPC design, Docker
+- Tools & Ways of Working: JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Fjord Digital Solutions | Manchester, United Kingdom | 2023 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Developed Qlik Sense apps for operational reporting used by 10+ plant managers.
+
+Consultant | Solaris Data Engineering | Helsinki, Finland | 2022 - 2023
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 50 teams.
+- Designed and implemented a multi-account AWS landing zone for a retail client, improving security posture and cost visibility.
+- Automated the monthly reporting cycle for an insurance client, freeing up 3 analyst days per month for higher-value analysis.
+
+Analytics Engineer | Beacon Insight Consulting | Prague, Czech Republic | 2020 - 2022
+- Orchestrated 20+ data pipelines with Apache Airflow, including alerting and backfills.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Designed and delivered 2 interactive Power BI dashboards for consumer goods clients, reducing manual reporting effort by 35%.
+- Performed a cloud security audit for a telecommunications client, remediating 15 critical findings within the first quarter.
+
+EDUCATION
+B.Sc. in Mathematics, Humboldt University of Berlin, Berlin, Germany (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- Dutch (Native)
+- German (Fluent)

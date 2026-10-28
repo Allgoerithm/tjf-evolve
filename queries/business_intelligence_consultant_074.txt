@@ -1,0 +1,32 @@
+SEARCH PROFILE #074
+Role Needed: BI Developer
+Engagement Type: Long-term client secondment
+Client Industry: E-commerce
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- Cloud cost optimization
+- Power Query / M
+- SSRS
+- Power BI
+- Looker
+
+NICE-TO-HAVE SKILLS
+- JIRA / Confluence
+- Technical documentation
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGE REQUIREMENTS
+- Portuguese (conversational)
+- French (business level)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Paris, France)
+
+PROJECT CONTEXT
+The BI team is understaffed ahead of a major annual planning cycle and needs additional hands-on dashboard development capacity.
+
+Start Date: Next quarter
+Duration: 6 months

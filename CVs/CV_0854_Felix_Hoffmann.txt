@@ -1,0 +1,40 @@
+Felix Hoffmann
+Stuttgart, Germany | felix.hoffmann@example.com | +31 207 4081240
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 8 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: dbt, T-SQL, SQL Server, Power BI, LookML, Tableau
+- Cloud & Infrastructure: Snowflake on cloud, Kubernetes
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Evergreen Data Solutions | Berlin, Germany | 2024 - Present
+- Orchestrated 8+ data pipelines with Apache Airflow, including alerting and backfills.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 10 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+Senior BI Consultant | Nimbus Infrastructure Consulting | Copenhagen, Denmark | 2022 - 2024
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 2 analyst days per month for higher-value analysis.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+IT Consultant | Lumen Analytics Group | Madrid, Spain | 2020 - 2022
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+- Trained 50 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Replaced 10 manual Excel reports with paginated SSRS reports delivered on a schedule.
+
+EDUCATION
+B.Sc. in Computer Science, University of Illinois, Chicago, USA (2018)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- German (Native)
+- Danish (Conversational)

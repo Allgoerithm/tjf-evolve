@@ -1,0 +1,43 @@
+Jan Schafer
+Krakow, Poland | jan.schafer@example.com | +46 176 7644910
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 13 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, Snowflake, Power BI
+- Data Science & Machine Learning: XGBoost / LightGBM, Computer Vision, Statistical Modeling
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Terraform, Networking & VPC design
+- Tools & Ways of Working: Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Nimbus Infrastructure Consulting | Amsterdam, Netherlands | 2024 - Present
+- Developed a XGBoost model to predict customer churn for pharmaceuticals clients, improving prediction accuracy by 18%.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the telecommunications business.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Analyst | Silverline IT Consulting | Barcelona, Spain | 2022 - 2024
+- Built an NLP pipeline to automatically classify 5+ incoming customer messages per day, reducing manual triage time by 18%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Led the adoption of a self-service data platform on Power BI, onboarding 50+ internal teams within the first year.
+
+Data & Analytics Consultant | Cobalt Data Labs | Manchester, United Kingdom | 2019 - 2022
+- Built a churn prediction model on 30+ customer records, enabling targeted retention campaigns for the pharmaceuticals sector.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+
+Senior Data Platform Consultant | Quantara Analytics | Munich, Germany | 2017 - 2019
+- Developed an anomaly detection system for pharmaceuticals operations, flagging issues 35% faster than the previous manual process.
+- Implemented a data lake on Tableau, ingesting and processing over 30 TB of data monthly from 30 source systems.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 2 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+B.Eng. in Information Systems, University of Amsterdam, Amsterdam, Netherlands (2013)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Hindi (Native)
+- Mandarin (Fluent)

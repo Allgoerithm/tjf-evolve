@@ -1,0 +1,35 @@
+Wolfgang Horvat
+Frankfurt, Germany | wolfgang.horvat@example.com | +46 467 5295928
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 3 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, SSRS, Star schema & dimensional modeling, Power Query / M, Power BI, T-SQL
+- Cloud & Infrastructure: Kubernetes, Cloud cost optimization
+- Tools & Ways of Working: Technical documentation, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Lumen Analytics Group | Prague, Czech Republic | 2025 - Present
+- Managed backlog and documentation in JIRA and Confluence for 10 concurrent workstreams.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Ironwood Cloud Services | Milan, Italy | 2023 - 2025
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 3 disparate spreadsheets into a single source of truth.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 25%.
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 8 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Trinity College Dublin, Dublin, Ireland (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Fluent)
+- Dutch (Professional working proficiency)

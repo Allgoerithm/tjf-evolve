@@ -1,0 +1,40 @@
+Henrik Braun
+Paris, France | henrik.braun@example.com | +1 528 6688628
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer (9 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Kubernetes, Cloud cost optimization, Networking & VPC design, Apache Airflow, Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS)
+- Business Intelligence: SQL Server
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Nimbus Infrastructure Consulting | Munich, Germany | 2023 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Designed and implemented a multi-account AWS landing zone for a logistics client, improving security posture and cost visibility.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Cloud Engineer | Brightfield Consulting | Hamburg, Germany | 2020 - 2023
+- Implemented a data lake on Qlik Sense, ingesting and processing over 15 TB of data monthly from 15 source systems.
+- Performed a cloud security audit for a retail client, remediating 15 critical findings within the first quarter.
+- Rolled out data governance roles and policies across 20 departments.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 3+ internal teams within the first year.
+
+Cloud Engineer | Lumen Analytics Group | Paris, France | 2017 - 2020
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Packaged data services as Docker images to ensure consistent deployments.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+
+EDUCATION
+B.Sc. in Computer Science, Technical University of Denmark, Copenhagen, Denmark (2016)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Swedish (Native)
+- Hindi (Conversational)

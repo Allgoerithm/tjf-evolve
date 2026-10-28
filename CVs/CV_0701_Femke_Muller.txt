@@ -1,0 +1,35 @@
+Femke Muller
+Brussels, Belgium | femke.muller@example.com | +47 553 2246064
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (4 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Snowflake, Looker, DAX, Data Warehouse design (Kimball/Inmon), QlikView
+- Cloud & Infrastructure: Networking & VPC design, Infrastructure as Code
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Stratos Cloud Consulting | Madrid, Spain | 2023 - Present
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Designed and delivered 10 interactive Looker dashboards for telecommunications clients, reducing manual reporting effort by 25%.
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 8 analyst days per month for higher-value analysis.
+
+Analyst | Vertex Data Partners | Manchester, United Kingdom | 2020 - 2023
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 5 regional entities.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Imperial College London, London, United Kingdom (2022)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Dutch (Fluent)
+- French (Fluent)

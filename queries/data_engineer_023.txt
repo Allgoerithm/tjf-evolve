@@ -1,0 +1,29 @@
+SEARCH PROFILE #023
+Role Needed: Analytics Engineer
+Engagement Type: Managed service team augmentation
+Client Industry: Telecommunications
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Data quality management
+- KPI design
+
+NICE-TO-HAVE SKILLS
+- Star schema & dimensional modeling
+- Linux system administration
+- Apache Airflow
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGE REQUIREMENTS
+- Italian (native)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Austin, USA)
+
+PROJECT CONTEXT
+Existing ETL jobs are fragile and poorly documented; the client needs them re-engineered on a modern orchestration stack.
+
+Start Date: ASAP
+Duration: 9 months with a defined project end date

@@ -1,0 +1,35 @@
+Marie Berg
+Munich, Germany | marie.berg@example.com | +1 631 4074396
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Power BI, Data Warehouse design (Kimball/Inmon)
+- Data Science & Machine Learning: Natural Language Processing, Jupyter, Causal Inference
+- Cloud & Infrastructure: Docker, Networking & VPC design, Apache Airflow
+- Tools & Ways of Working: Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Brightfield Consulting | Stuttgart, Germany | 2024 - Present
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 15%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+IT Consultant | Anchor Point Technologies | Manchester, United Kingdom | 2023 - 2024
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Designed and delivered 5 interactive Tableau dashboards for insurance clients, reducing manual reporting effort by 12%.
+- Drove cloud cost optimization across 3 accounts through rightsizing and reserved capacity.
+
+EDUCATION
+B.Sc. in Mathematics, Delft University of Technology, Delft, Netherlands (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Dutch (Native)
+- Portuguese (Professional working proficiency)

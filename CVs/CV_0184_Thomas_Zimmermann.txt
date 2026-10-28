@@ -1,0 +1,34 @@
+Thomas Zimmermann
+Berlin, Germany | thomas.zimmermann@example.com | +45 803 5886679
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (2 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Looker, Power BI
+- Cloud & Infrastructure: Cloud cost optimization, Snowflake on cloud, Linux system administration, Networking & VPC design
+- Tools & Ways of Working: Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Stratos Cloud Consulting | Helsinki, Finland | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Built Azure-based data pipelines with orchestrated daily loads from 15 sources.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+IT Consultant | Silverline IT Consulting | Stuttgart, Germany | 2024 - 2025
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+
+EDUCATION
+B.Eng. in Information Systems, University of Amsterdam, Amsterdam, Netherlands (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- Spanish (Native)
+- Danish (Professional working proficiency)

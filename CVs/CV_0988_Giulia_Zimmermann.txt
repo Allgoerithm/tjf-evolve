@@ -1,0 +1,31 @@
+Giulia Zimmermann
+Stockholm, Sweden | giulia.zimmermann@example.com | +34 897 5863492
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Scientist with 2 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: Time Series Forecasting, Statistical Modeling, Computer Vision, Model Deployment & Monitoring, Apache Spark / PySpark, Jupyter
+- Cloud & Infrastructure: Cloud cost optimization, Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Silverline IT Consulting | Manchester, United Kingdom | 2024 - Present
+- Set up A/B tests for new product features and evaluated the results with the product team.
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+- Invested in feature engineering on transactional data, creating 2+ predictive features for the scoring model.
+- Developed a random forest model to predict customer lifetime value for telecommunications clients, improving prediction accuracy by 30%.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+EDUCATION
+B.Sc. in Business Informatics, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Certified Solutions Architect - Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Dutch (Fluent)

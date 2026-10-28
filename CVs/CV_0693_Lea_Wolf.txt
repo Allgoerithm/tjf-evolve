@@ -1,0 +1,36 @@
+Lea Wolf
+Pune, India | lea.wolf@example.com | +31 494 2931991
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Snowflake, LookML
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Terraform, Apache Kafka
+- Tools & Ways of Working: Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Orbis Technology Partners | Toronto, Canada | 2025 - Present
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 40%.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Led the adoption of a self-service data platform on Power BI, onboarding 10+ internal teams within the first year.
+
+Analytics Engineer | Ironwood Cloud Services | Amsterdam, Netherlands | 2024 - 2025
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+
+EDUCATION
+MBA with focus on Information Management, University of Warsaw, Warsaw, Poland (2024)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Project Management Professional (PMP)
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Dutch (Native)
+- English (Professional working proficiency)
+- Italian (Fluent)

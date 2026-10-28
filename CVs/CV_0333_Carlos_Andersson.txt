@@ -1,0 +1,41 @@
+Carlos Andersson
+Stuttgart, Germany | carlos.andersson@example.com | +47 351 3485232
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 9 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, T-SQL, dbt
+- Data Science & Machine Learning: MLOps, Model Deployment & Monitoring, A/B Testing & Experimentation
+- Cloud & Infrastructure: Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Vertex Data Partners | Zurich, Switzerland | 2024 - Present
+- Automated the monthly reporting cycle for an insurance client, freeing up 5 analyst days per month for higher-value analysis.
+- Built a recommendation engine for a healthcare client, contributing to a 40% increase in average order value.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+Data & Analytics Consultant | Northstar Cloud Group | Stuttgart, Germany | 2021 - 2024
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+
+Analyst | Solaris Data Engineering | Krakow, Poland | 2017 - 2021
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 28%.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 50 teams.
+
+EDUCATION
+MBA with focus on Information Management, University of Warsaw, Warsaw, Poland (2017)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Azure Data Engineer Associate
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+- Danish (Conversational)

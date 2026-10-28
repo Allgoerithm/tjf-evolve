@@ -1,0 +1,29 @@
+Greta Hoffmann
+Lyon, France | greta.hoffmann@example.com | +1 985 5033458
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, T-SQL, Qlik Sense
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code, Apache Airflow, Apache Kafka
+- Tools & Ways of Working: Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Northgate Technology Group | Bangalore, India | 2024 - Present
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 30 regional entities.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Drove cloud cost optimization across 5 accounts through rightsizing and reserved capacity.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Managed cloud environments as code with Terraform modules shared across 8 teams.
+
+EDUCATION
+B.Sc. in Mathematics, Sorbonne University, Paris, France (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Polish (Native)
+- Danish (Fluent)

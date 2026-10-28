@@ -1,0 +1,35 @@
+Nora Martinez
+Oslo, Norway | nora.martinez@example.com | +33 857 9138613
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer specializing in data science and machine learning, with 3 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: Computer Vision, Causal Inference, Apache Spark / PySpark, TensorFlow, R, A/B Testing & Experimentation
+- Cloud & Infrastructure: Infrastructure as Code, Cloud cost optimization
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Stratos Cloud Consulting | Milan, Italy | 2024 - Present
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Led a proof-of-concept on demand forecasting for an aviation client, achieving a 22% reduction in forecast error versus the baseline.
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 15%.
+
+Senior Data Scientist | Alpenglow Analytics | Amsterdam, Netherlands | 2023 - 2024
+- Mentored a team of 8 junior data scientists on feature engineering and model evaluation best practices.
+- Built statistical models to explain the drivers of customer churn and presented them to management.
+- Built a recommendation engine for a healthcare client, contributing to a 35% increase in average order value.
+- Implemented a PyTorch model for fraud risk and served it behind an internal API.
+- Developed a XGBoost model to predict fraud risk for banking clients, improving prediction accuracy by 15%.
+
+EDUCATION
+M.Sc. in Computer Science, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- Dutch (Fluent)

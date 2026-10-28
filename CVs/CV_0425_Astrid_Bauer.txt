@@ -1,0 +1,40 @@
+Astrid Bauer
+Copenhagen, Denmark | astrid.bauer@example.com | +48 864 2664199
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant specializing in business intelligence, data science, and cloud data platforms, with 5 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, LookML, SSRS
+- Data Science & Machine Learning: Time Series Forecasting, PyTorch, Natural Language Processing
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Microsoft Azure (Data Factory, Synapse, AKS), Infrastructure as Code
+- Tools & Ways of Working: Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Clearwater Data Systems | Oslo, Norway | 2025 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 40% uplift in conversion rate.
+- Designed and delivered 15 interactive Snowflake dashboards for aviation clients, reducing manual reporting effort by 20%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+Analyst | Kestrel Data Solutions | Toronto, Canada | 2023 - 2025
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Built statistical models to explain the drivers of customer lifetime value and presented them to management.
+- Built a recommendation engine for an aviation client, contributing to a 18% increase in average order value.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+Consultant | Ironwood Cloud Services | Helsinki, Finland | 2022 - 2023
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 25%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+EDUCATION
+B.Sc. in Business Informatics, Sorbonne University, Paris, France (2019)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- English (Native)
+- Italian (Conversational)
+- Danish (Conversational)

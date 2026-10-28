@@ -1,0 +1,43 @@
+Femke Johansson
+Paris, France | femke.johansson@example.com | +49 248 7563588
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (11 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, SSIS, SSAS, Looker, Star schema & dimensional modeling, Tableau
+- Cloud & Infrastructure: Docker, Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | BlueRiver Analytics | Madrid, Spain | 2025 - Present
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 8 regional entities.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Business Intelligence Consultant | Quantara Analytics | Oslo, Norway | 2023 - 2025
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 3 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Stratos Cloud Consulting | Amsterdam, Netherlands | 2020 - 2023
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 15 interactive Databricks dashboards for logistics clients, reducing manual reporting effort by 40%.
+- Trained 30 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+
+Analytics Consultant | Vertex Data Partners | Prague, Czech Republic | 2017 - 2020
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+EDUCATION
+B.Sc. in Mathematics, Imperial College London, London, United Kingdom (2013)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Swedish (Native)
+- French (Fluent)

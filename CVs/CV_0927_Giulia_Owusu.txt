@@ -1,0 +1,34 @@
+Giulia Owusu
+Madrid, Spain | giulia.owusu@example.com | +33 218 9488549
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: QlikView, T-SQL, SQL Server
+- Cloud & Infrastructure: Cloud cost optimization, Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Kestrel Data Solutions | Manchester, United Kingdom | 2025 - Present
+- Led the adoption of a self-service data platform on Databricks, onboarding 30+ internal teams within the first year.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 30%.
+
+Senior Data Engineer | Riverbend Analytics | Dublin, Ireland | 2024 - 2025
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 20 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Vienna, Vienna, Austria (2024)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Portuguese (Native)
+- Danish (Fluent)
+- English (Professional working proficiency)

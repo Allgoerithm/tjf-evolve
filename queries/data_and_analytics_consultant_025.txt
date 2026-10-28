@@ -1,0 +1,31 @@
+SEARCH PROFILE #025
+Role Needed: Senior Data Platform Consultant
+Engagement Type: Long-term client secondment
+Client Industry: Automotive manufacturing
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Time Series Forecasting
+- SQL Server
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Stakeholder management
+
+NICE-TO-HAVE SKILLS
+- T-SQL
+- Terraform
+- Natural Language Processing
+
+PREFERRED CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGE REQUIREMENTS
+- Polish (business level)
+- Danish (native)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Copenhagen, Denmark)
+
+PROJECT CONTEXT
+The client wants an end-to-end data platform covering ingestion, warehousing, reporting, and predictive analytics for a new business unit.
+
+Start Date: Within 4 weeks
+Duration: 3 months, extension likely

@@ -1,0 +1,34 @@
+Rosa Owusu
+Barcelona, Spain | rosa.owusu@example.com | +49 625 8435592
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 4 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Power Query / M, QlikView
+- Cloud & Infrastructure: Infrastructure as Code, Docker, Apache Kafka, Kubernetes
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Northstar Cloud Group | Bangalore, India | 2024 - Present
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 30%.
+- Performed a cloud security audit for an automotive manufacturing client, remediating 15 critical findings within the first quarter.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 30 disparate spreadsheets into a single source of truth.
+- Drove cloud cost optimization across 50 accounts through rightsizing and reserved capacity.
+- Designed and implemented a multi-account AWS landing zone for an aviation client, improving security posture and cost visibility.
+
+Analytics Engineer | Nordwind Consulting | Amsterdam, Netherlands | 2022 - 2024
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+EDUCATION
+M.Sc. in Data Science, Technical University of Denmark, Copenhagen, Denmark (2022)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Polish (Native)
+- English (Professional working proficiency)

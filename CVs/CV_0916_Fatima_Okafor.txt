@@ -1,0 +1,33 @@
+Fatima Okafor
+Cologne, Germany | fatima.okafor@example.com | +1 199 6045835
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 4 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, LookML, Power Query / M
+- Cloud & Infrastructure: Snowflake on cloud, Networking & VPC design, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes
+- Tools & Ways of Working: Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Stratos Cloud Consulting | Madrid, Spain | 2023 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+Analyst | Cobalt Data Labs | Zurich, Switzerland | 2022 - 2023
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the insurance business.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Computer Science, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- English (Native)
+- Danish (Professional working proficiency)
+- Spanish (Fluent)

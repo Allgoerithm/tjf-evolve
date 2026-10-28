@@ -1,0 +1,40 @@
+Katarzyna de Vries
+Stockholm, Sweden | katarzyna.de.vries@example.com | +33 573 4359165
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 7 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: LookML, KPI design, DAX, Looker, dbt, SSIS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Kubernetes
+- Tools & Ways of Working: Agile / Scrum, Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Beacon Insight Consulting | Copenhagen, Denmark | 2023 - Present
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 3 interactive Snowflake dashboards for pharmaceuticals clients, reducing manual reporting effort by 12%.
+
+Senior BI Consultant | Riverbend Analytics | Vienna, Austria | 2020 - 2023
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the consumer goods business.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 20%.
+
+Analytics Consultant | Alpenglow Analytics | Milan, Italy | 2018 - 2020
+- Built analytics workloads on Google Cloud Platform for 5 product teams.
+- Managed backlog and documentation in JIRA and Confluence for 8 concurrent workstreams.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Automated the monthly reporting cycle for a banking client, freeing up 50 analyst days per month for higher-value analysis.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Toronto, Toronto, Canada (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- SnowPro Core Certification
+
+LANGUAGES
+- Polish (Native)
+- German (Professional working proficiency)

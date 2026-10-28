@@ -1,0 +1,46 @@
+Isabelle Mensah
+Austin, USA | isabelle.mensah@example.com | +34 922 4351370
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 10 years of experience delivering business intelligence and enterprise reporting solutions for clients in aviation. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, dbt, Power BI, Data Warehouse design (Kimball/Inmon), Qlik Sense, SSRS
+- Cloud & Infrastructure: Linux system administration, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Alpenglow Analytics | Munich, Germany | 2024 - Present
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the aviation business.
+
+Senior BI Consultant | Brightfield Consulting | Manchester, United Kingdom | 2023 - 2024
+- Designed and delivered 15 interactive Databricks dashboards for retail clients, reducing manual reporting effort by 12%.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Automated the monthly reporting cycle for a public sector client, freeing up 5 analyst days per month for higher-value analysis.
+
+Senior BI Consultant | Cobalt Data Labs | Bangalore, India | 2021 - 2023
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 10 disparate spreadsheets into a single source of truth.
+- Packaged data services as Docker images to ensure consistent deployments.
+
+Business Intelligence Consultant | Brightfield Consulting | Amsterdam, Netherlands | 2018 - 2021
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Trained 10 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Computer Science, University of Vienna, Vienna, Austria (2014)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Hindi (Native)
+- Danish (Fluent)
+- Portuguese (Fluent)

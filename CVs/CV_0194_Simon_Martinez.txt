@@ -1,0 +1,39 @@
+Simon Martinez
+Stuttgart, Germany | simon.martinez@example.com | +33 659 6719863
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Engineer with 9 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Kafka, Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Linux system administration, Cloud cost optimization, Infrastructure as Code
+- Business Intelligence: Data Warehouse design (Kimball/Inmon)
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Falcon Ridge Consulting | Singapore, Singapore | 2023 - Present
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 2 teams.
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for a banking client's data platform.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+DevOps Consultant | Anchor Point Technologies | Cologne, Germany | 2019 - 2023
+- Defined and documented 8 KPIs together with business owners as the basis of the new reporting suite.
+- Designed and implemented a multi-account AWS landing zone for a public sector client, improving security posture and cost visibility.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Led a cloud cost optimization initiative, identifying savings of 18% across compute and storage resources.
+
+Consultant | Solaris Data Engineering | Stockholm, Sweden | 2016 - 2019
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 5+ internal teams within the first year.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 2 TB of data monthly from 2 source systems.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Technical University of Denmark, Copenhagen, Denmark (2016)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Dutch (Native)
+- Italian (Fluent)

@@ -1,0 +1,40 @@
+Pieter Chen
+Zurich, Switzerland | pieter.chen@example.com | +48 574 1288796
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Tableau, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Linux system administration, Infrastructure as Code, Kubernetes, Apache Kafka
+- Tools & Ways of Working: Data quality management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Pinnacle Business Intelligence GmbH | Rotterdam, Netherlands | 2025 - Present
+- Packaged data services as Docker images to ensure consistent deployments.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Standardized cloud tagging and cost allocation practices for an automotive manufacturing client, improving budget accountability across 2 teams.
+- Automated the monthly reporting cycle for a retail client, freeing up 8 analyst days per month for higher-value analysis.
+
+Consultant | Anchor Point Technologies | Bangalore, India | 2024 - 2025
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 5 disparate spreadsheets into a single source of truth.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Analytics Engineer | Brightfield Consulting | Lyon, France | 2023 - 2024
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the banking business.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Warsaw, Warsaw, Poland (2019)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Databricks Certified Machine Learning Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Danish (Fluent)

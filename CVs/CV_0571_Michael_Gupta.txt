@@ -1,0 +1,34 @@
+Michael Gupta
+Copenhagen, Denmark | michael.gupta@example.com | +49 329 5801738
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 3 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Tableau, Snowflake, Stakeholder reporting & dashboarding, Qlik Sense, QlikView
+- Cloud & Infrastructure: Networking & VPC design, Linux system administration
+- Tools & Ways of Working: Data quality management, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Pinnacle Business Intelligence GmbH | Cologne, Germany | 2025 - Present
+- Designed and delivered 50 interactive Qlik Sense dashboards for aviation clients, reducing manual reporting effort by 35%.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 3 disparate spreadsheets into a single source of truth.
+- Automated the monthly reporting cycle for a banking client, freeing up 15 analyst days per month for higher-value analysis.
+
+BI Developer | Pinnacle Business Intelligence GmbH | Manchester, United Kingdom | 2024 - 2025
+- Built a tabular SSAS model that serves 5 departments with consistent KPIs.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 22%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+
+EDUCATION
+B.Sc. in Mathematics, University of Amsterdam, Amsterdam, Netherlands (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Spanish (Native)
+- Danish (Fluent)

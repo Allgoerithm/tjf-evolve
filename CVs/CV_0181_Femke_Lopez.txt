@@ -1,0 +1,34 @@
+Femke Lopez
+Copenhagen, Denmark | femke.lopez@example.com | +32 986 7763951
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 4 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Data Warehouse design (Kimball/Inmon), Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Apache Airflow, Terraform, Apache Kafka, Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Falcon Ridge Consulting | Lisbon, Portugal | 2024 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 15% for a public sector client's data platform.
+- Implemented a data lake on Power BI, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 5 disparate spreadsheets into a single source of truth.
+
+Analytics Engineer | Meridian Digital Partners | Barcelona, Spain | 2022 - 2024
+- Standardized cloud tagging and cost allocation practices for a healthcare client, improving budget accountability across 10 teams.
+- Performed a cloud security audit for a consumer goods client, remediating 20 critical findings within the first quarter.
+- Defined and documented 8 KPIs together with business owners as the basis of the new reporting suite.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+
+EDUCATION
+MBA with focus on Information Management, Politecnico di Milano, Milan, Italy (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Mandarin (Professional working proficiency)

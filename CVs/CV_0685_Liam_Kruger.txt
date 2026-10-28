@@ -1,0 +1,36 @@
+Liam Kruger
+Milan, Italy | liam.kruger@example.com | +44 375 3120952
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 4 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, SSRS, SSAS, LookML, Tableau, SQL Server
+- Cloud & Infrastructure: Networking & VPC design, Terraform
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Evergreen Data Solutions | Manchester, United Kingdom | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Developed Qlik Sense apps for operational reporting used by 10+ plant managers.
+- Implemented automated data quality checks on 2 critical tables.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+
+Business Intelligence Consultant | Vantage Point Consulting | Stuttgart, Germany | 2023 - 2024
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+
+EDUCATION
+B.Eng. in Information Systems, Sorbonne University, Paris, France (2022)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Danish (Fluent)

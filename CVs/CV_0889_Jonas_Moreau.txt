@@ -1,0 +1,43 @@
+Jonas Moreau
+Oslo, Norway | jonas.moreau@example.com | +45 725 6676788
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 11 years of experience delivering business intelligence and enterprise reporting solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Data Warehouse design (Kimball/Inmon), QlikView, DAX, KPI design, SSRS
+- Cloud & Infrastructure: Networking & VPC design, Apache Kafka
+- Tools & Ways of Working: Git, JIRA / Confluence, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | BlueRiver Analytics | Bangalore, India | 2024 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 8 regional entities.
+- Automated the monthly reporting cycle for a public sector client, freeing up 5 analyst days per month for higher-value analysis.
+
+IT Consultant | Northgate Technology Group | Prague, Czech Republic | 2022 - 2024
+- Trained 8 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analyst | Clearwater Data Systems | Manchester, United Kingdom | 2019 - 2022
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 3 interactive Tableau dashboards for telecommunications clients, reducing manual reporting effort by 40%.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 8 disparate spreadsheets into a single source of truth.
+
+Business Intelligence Consultant | Evergreen Data Solutions | Munich, Germany | 2017 - 2019
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 18%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Illinois, Chicago, USA (2014)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Spanish (Conversational)
+- Hindi (Fluent)

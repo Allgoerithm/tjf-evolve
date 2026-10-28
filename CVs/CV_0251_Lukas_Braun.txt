@@ -1,0 +1,39 @@
+Lukas Braun
+London, United Kingdom | lukas.braun@example.com | +47 954 2623615
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (6 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Tableau, Power Query / M, Power BI, Stakeholder reporting & dashboarding, Qlik Sense
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Kubernetes
+- Tools & Ways of Working: Git, Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Clearwater Data Systems | Hamburg, Germany | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 3 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+Analyst | Silverline IT Consulting | Frankfurt, Germany | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 8 disparate spreadsheets into a single source of truth.
+- Designed and delivered 15 interactive Power BI dashboards for healthcare clients, reducing manual reporting effort by 35%.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Fjord Digital Solutions | Paris, France | 2022 - 2024
+- Optimized Looker data models and DAX measures, improving dashboard load times by 40%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Universidad Politecnica de Madrid, Madrid, Spain (2019)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Portuguese (Native)
+- English (Fluent)
+- Dutch (Professional working proficiency)

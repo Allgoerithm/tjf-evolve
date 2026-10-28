@@ -1,0 +1,34 @@
+Deepa Gupta
+Austin, USA | deepa.gupta@example.com | +31 529 7032162
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Tableau, Stakeholder reporting & dashboarding
+- Data Science & Machine Learning: Causal Inference, Apache Spark / PySpark, Jupyter
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Infrastructure as Code, Networking & VPC design
+- Tools & Ways of Working: Data governance, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Nordwind Consulting | Stockholm, Sweden | 2023 - Present
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 25%.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Consultant | Orbis Technology Partners | Vienna, Austria | 2021 - 2023
+- Led the adoption of a self-service data platform on Looker, onboarding 10+ internal teams within the first year.
+- Built a churn prediction model on 15+ customer records, enabling targeted retention campaigns for the insurance sector.
+- Trained 15 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Hamburg, Hamburg, Germany (2022)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Swedish (Native)
+- Danish (Professional working proficiency)

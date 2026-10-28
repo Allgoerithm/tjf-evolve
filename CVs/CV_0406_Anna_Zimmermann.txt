@@ -1,0 +1,37 @@
+Anna Zimmermann
+Oslo, Norway | anna.zimmermann@example.com | +47 391 5198781
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Looker, SQL Server
+- Cloud & Infrastructure: Linux system administration, Cloud cost optimization, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Northstar Cloud Group | Lisbon, Portugal | 2025 - Present
+- Replaced 15 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 15 teams.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 8 regional entities.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+Analyst | Vantage Point Consulting | Pune, India | 2024 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 15% across compute and storage resources.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the logistics business.
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for a banking client's data platform.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+
+EDUCATION
+M.Sc. in Software Engineering, Universidad Politecnica de Madrid, Madrid, Spain (2024)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Italian (Native)
+- German (Conversational)
+- Swedish (Professional working proficiency)

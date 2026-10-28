@@ -1,0 +1,39 @@
+Hiroshi Patel
+Oslo, Norway | hiroshi.patel@example.com | +45 611 6222074
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 6 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: DAX, QlikView, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Docker, Apache Kafka, Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Orbis Technology Partners | Frankfurt, Germany | 2024 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for an e-commerce client's data platform.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+- Designed and delivered 15 interactive Tableau dashboards for pharmaceuticals clients, reducing manual reporting effort by 12%.
+
+Analyst | Cobalt Data Labs | Copenhagen, Denmark | 2023 - 2024
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 15 disparate spreadsheets into a single source of truth.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+Analytics Engineer | Fjord Digital Solutions | Frankfurt, Germany | 2021 - 2023
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+- Implemented a data lake on Looker, ingesting and processing over 8 TB of data monthly from 8 source systems.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+EDUCATION
+B.Sc. in Mathematics, Humboldt University of Berlin, Berlin, Germany (2019)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Dutch (Native)
+- Italian (Professional working proficiency)
+- Danish (Professional working proficiency)

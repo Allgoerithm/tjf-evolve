@@ -1,0 +1,34 @@
+Deepa Schwarz
+Dublin, Ireland | deepa.schwarz@example.com | +44 363 5264336
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Consultant (3 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Airflow, Snowflake on cloud, AWS (EC2, S3, Lambda, Redshift, Glue), Networking & VPC design, Kubernetes, Linux system administration
+- Business Intelligence: Power BI
+- Tools & Ways of Working: JIRA / Confluence, Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Alpenglow Analytics | Munich, Germany | 2024 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+Cloud Infrastructure Consultant | Greystone Data & AI | Cologne, Germany | 2023 - 2024
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Led the adoption of a self-service data platform on Tableau, onboarding 10+ internal teams within the first year.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Amsterdam, Amsterdam, Netherlands (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Data Engineer Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Conversational)

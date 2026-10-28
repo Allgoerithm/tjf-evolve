@@ -1,0 +1,45 @@
+Daniel Singh
+Berlin, Germany | daniel.singh@example.com | +34 922 6002342
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 10 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: dbt, KPI design, QlikView, Snowflake, LookML, Star schema & dimensional modeling
+- Cloud & Infrastructure: Terraform, Snowflake on cloud
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Ironwood Cloud Services | Chicago, USA | 2025 - Present
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 50 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Trained 15 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+
+Senior BI Consultant | Pinnacle Business Intelligence GmbH | Cologne, Germany | 2024 - 2025
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the public sector business.
+- Designed and delivered 3 interactive Tableau dashboards for insurance clients, reducing manual reporting effort by 20%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+Consultant | Evergreen Data Solutions | Helsinki, Finland | 2022 - 2024
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 20%.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced Git-based workflows with code review for the analytics team.
+
+Consultant | Nimbus Infrastructure Consulting | Berlin, Germany | 2021 - 2022
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 20 analyst days per month for higher-value analysis.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Business Informatics, Sorbonne University, Paris, France (2015)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- AWS Certified Data Analytics - Specialty
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- English (Native)
+- Danish (Fluent)

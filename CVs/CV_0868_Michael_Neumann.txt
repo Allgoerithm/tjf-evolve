@@ -1,0 +1,34 @@
+Michael Neumann
+Stockholm, Sweden | michael.neumann@example.com | +34 340 3246299
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Stakeholder reporting & dashboarding, Qlik Sense, DAX, Data Warehouse design (Kimball/Inmon), Looker
+- Cloud & Infrastructure: Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Client workshops & presentations, Git, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Vantage Point Consulting | Krakow, Poland | 2025 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 8 regional entities.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 18%.
+
+BI Developer | Solaris Data Engineering | Lisbon, Portugal | 2023 - 2025
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Introduced dbt for transformation and testing, covering 10+ models in the analytics layer.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the e-commerce business.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2024)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- Polish (Conversational)
+- Dutch (Conversational)

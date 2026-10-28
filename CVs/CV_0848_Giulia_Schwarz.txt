@@ -1,0 +1,39 @@
+Giulia Schwarz
+Cologne, Germany | giulia.schwarz@example.com | +46 897 2371435
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in public sector. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: LookML, T-SQL, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow, Infrastructure as Code, Docker
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Evergreen Data Solutions | Singapore, Singapore | 2024 - Present
+- Built Azure-based data pipelines with orchestrated daily loads from 2 sources.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 5 disparate spreadsheets into a single source of truth.
+- Standardized cloud tagging and cost allocation practices for a consumer goods client, improving budget accountability across 15 teams.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+IT Consultant | Evergreen Data Solutions | Cologne, Germany | 2021 - 2024
+- Led the adoption of a self-service data platform on Tableau, onboarding 10+ internal teams within the first year.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 3 analyst days per month for higher-value analysis.
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a healthcare client's data platform.
+
+Data Engineer | Beacon Insight Consulting | Krakow, Poland | 2018 - 2021
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+
+EDUCATION
+M.Sc. in Business Informatics, Technical University of Denmark, Copenhagen, Denmark (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- German (Native)
+- Polish (Fluent)

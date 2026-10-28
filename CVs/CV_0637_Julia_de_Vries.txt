@@ -1,0 +1,35 @@
+Julia de Vries
+Singapore, Singapore | julia.de.vries@example.com | +45 834 9309167
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect with 3 years of experience delivering cloud infrastructure and platform engineering solutions for clients in telecommunications. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Terraform, Infrastructure as Code, Apache Airflow, AWS (EC2, S3, Lambda, Redshift, Glue), Kubernetes, Cloud cost optimization
+- Business Intelligence: Power BI
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Quantara Analytics | Bangalore, India | 2025 - Present
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 2+ internal teams within the first year.
+- Designed and implemented a multi-account AWS landing zone for a retail client, improving security posture and cost visibility.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+
+Cloud Infrastructure Consultant | Anchor Point Technologies | Stuttgart, Germany | 2024 - 2025
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Performed a cloud security audit for an energy and utilities client, remediating 5 critical findings within the first quarter.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+
+EDUCATION
+B.Sc. in Business Informatics, Technical University of Munich, Munich, Germany (2021)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- AWS Certified Data Analytics - Specialty
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- Mandarin (Conversational)
+- Spanish (Professional working proficiency)

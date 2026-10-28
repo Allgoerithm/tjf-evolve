@@ -1,0 +1,42 @@
+Dmitri Chen
+Munich, Germany | dmitri.chen@example.com | +46 628 6702266
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Platform Consultant with 7 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, dbt, KPI design
+- Data Science & Machine Learning: TensorFlow, Python (pandas, NumPy, scikit-learn), Natural Language Processing
+- Cloud & Infrastructure: Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Docker
+- Tools & Ways of Working: Data governance, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Riverbend Analytics | Pune, India | 2025 - Present
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 30%.
+- Introduced Git-based workflows with code review for the analytics team.
+- Built a recommendation engine for a banking client, contributing to a 18% increase in average order value.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Analyst | Falcon Ridge Consulting | Frankfurt, Germany | 2024 - 2025
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 10 regional entities.
+- Led a proof-of-concept on demand forecasting for a healthcare client, achieving a 28% reduction in forecast error versus the baseline.
+
+Analyst | Pinnacle Business Intelligence GmbH | Chicago, USA | 2021 - 2024
+- Developed a gradient boosting model to predict demand for consumer goods clients, improving prediction accuracy by 40%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the retail business.
+
+EDUCATION
+B.Sc. in Mathematics, Politecnico di Milano, Milan, Italy (2017)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Italian (Native)
+- Mandarin (Fluent)

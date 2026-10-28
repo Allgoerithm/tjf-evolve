@@ -1,0 +1,33 @@
+Paul Klein
+Pune, India | paul.klein@example.com | +44 796 4355102
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Consultant (3 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka, Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration
+- Business Intelligence: dbt
+- Tools & Ways of Working: Stakeholder management, Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Riverbend Analytics | Amsterdam, Netherlands | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Led the adoption of a self-service data platform on Snowflake, onboarding 3+ internal teams within the first year.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Consultant | Stratos Cloud Consulting | Chicago, USA | 2023 - 2024
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Standardized cloud tagging and cost allocation practices for a logistics client, improving budget accountability across 8 teams.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- English (Fluent)

@@ -1,0 +1,38 @@
+Lena Hoffmann
+Rotterdam, Netherlands | lena.hoffmann@example.com | +41 836 3259003
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist (9 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: A/B Testing & Experimentation, PyTorch, MLflow, Feature Engineering, Causal Inference, MLOps
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Infrastructure as Code
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | Riverbend Analytics | London, United Kingdom | 2022 - Present
+- Built a recommendation engine for an insurance client, contributing to a 20% increase in average order value.
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 22%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Consultant | TerraLogic Consulting | Warsaw, Poland | 2019 - 2022
+- Developed a gradient boosting model to predict customer churn for telecommunications clients, improving prediction accuracy by 40%.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 35%.
+
+Machine Learning Engineer | Pinnacle Business Intelligence GmbH | London, United Kingdom | 2016 - 2019
+- Built a churn prediction model on 10+ customer records, enabling targeted retention campaigns for the telecommunications sector.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Developed an anomaly detection system for telecommunications operations, flagging issues 15% faster than the previous manual process.
+
+EDUCATION
+MBA with focus on Information Management, University of Hamburg, Hamburg, Germany (2016)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Italian (Native)
+- Spanish (Conversational)

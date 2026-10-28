@@ -1,0 +1,46 @@
+Amara Nielsen
+Brussels, Belgium | amara.nielsen@example.com | +49 469 2149478
+
+PROFESSIONAL SUMMARY
+BI Developer with 11 years of experience delivering business intelligence and enterprise reporting solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), DAX, SSRS, QlikView, Qlik Sense, Power BI
+- Cloud & Infrastructure: Kubernetes, Docker
+- Tools & Ways of Working: Stakeholder management, Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Ironwood Cloud Services | Helsinki, Finland | 2024 - Present
+- Automated the monthly reporting cycle for a public sector client, freeing up 10 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+BI Developer | Riverbend Analytics | Helsinki, Finland | 2021 - 2024
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Trained 5 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+Senior BI Consultant | TerraLogic Consulting | Brussels, Belgium | 2019 - 2021
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Designed and delivered 3 interactive Qlik Sense dashboards for automotive manufacturing clients, reducing manual reporting effort by 30%.
+- Defined and documented 10 KPIs together with business owners as the basis of the new reporting suite.
+
+Business Intelligence Consultant | Solaris Data Engineering | Warsaw, Poland | 2017 - 2019
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 50 disparate spreadsheets into a single source of truth.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 40%.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Computational Science, University of Manchester, Manchester, United Kingdom (2015)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Google Professional Cloud Architect
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Portuguese (Native)
+- Hindi (Professional working proficiency)
+- Italian (Fluent)

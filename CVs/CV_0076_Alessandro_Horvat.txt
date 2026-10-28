@@ -1,0 +1,45 @@
+Alessandro Horvat
+Paris, France | alessandro.horvat@example.com | +31 989 6664429
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 12 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Power BI, SSIS, KPI design, Qlik Sense, SSAS, Snowflake
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Quantara Analytics | Pune, India | 2023 - Present
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the retail business.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built Kafka-based streaming ingestion for 30 operational systems.
+- Designed and delivered 3 interactive Tableau dashboards for energy and utilities clients, reducing manual reporting effort by 22%.
+
+Analytics Consultant | Northstar Cloud Group | Austin, USA | 2020 - 2023
+- Trained 50 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+Consultant | Northstar Cloud Group | London, United Kingdom | 2018 - 2020
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Automated the monthly reporting cycle for a logistics client, freeing up 15 analyst days per month for higher-value analysis.
+
+BI Developer | Northstar Cloud Group | Munich, Germany | 2014 - 2018
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 50 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Computer Science, University of Toronto, Toronto, Canada (2013)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Polish (Native)
+- Mandarin (Professional working proficiency)
+- Portuguese (Professional working proficiency)

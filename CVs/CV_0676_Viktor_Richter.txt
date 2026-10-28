@@ -1,0 +1,30 @@
+Viktor Richter
+Austin, USA | viktor.richter@example.com | +33 962 6854544
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 2 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: MLOps, Jupyter, PyTorch, Feature Engineering, Databricks, MLflow
+- Cloud & Infrastructure: Networking & VPC design, Docker
+- Tools & Ways of Working: Data quality management, Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | Riverbend Analytics | Helsinki, Finland | 2024 - Present
+- Built a churn prediction model on 8+ customer records, enabling targeted retention campaigns for the pharmaceuticals sector.
+- Orchestrated 8+ data pipelines with Apache Airflow, including alerting and backfills.
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Statistics, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- French (Native)
+- English (Fluent)

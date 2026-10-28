@@ -1,0 +1,42 @@
+Alessandro Zimmermann
+London, United Kingdom | alessandro.zimmermann@example.com | +49 229 4195195
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 12 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, LookML, Qlik Sense
+- Cloud & Infrastructure: Apache Airflow, Cloud cost optimization, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Quantara Analytics | Rotterdam, Netherlands | 2023 - Present
+- Trained 3 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Performed a cloud security audit for a logistics client, remediating 10 critical findings within the first quarter.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+
+IT Consultant | Northgate Technology Group | Lisbon, Portugal | 2020 - 2023
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Led a cloud cost optimization initiative, identifying savings of 20% across compute and storage resources.
+
+Analytics Engineer | Kestrel Data Solutions | Stuttgart, Germany | 2017 - 2020
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 15+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 40%.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 12%.
+
+IT Consultant | Falcon Ridge Consulting | Paris, France | 2013 - 2017
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for a telecommunications client's data platform.
+
+EDUCATION
+B.Eng. in Information Systems, University of Amsterdam, Amsterdam, Netherlands (2012)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- German (Native)
+- Dutch (Conversational)

@@ -1,0 +1,29 @@
+SEARCH PROFILE #030
+Role Needed: Analytics Consultant
+Engagement Type: Interim / bridge staffing
+Client Industry: Healthcare
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- JIRA / Confluence
+- LookML
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+
+NICE-TO-HAVE SKILLS
+- SSRS
+- Qlik Sense
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGE REQUIREMENTS
+- German (conversational)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Stuttgart, Germany)
+
+PROJECT CONTEXT
+Leadership wants a self-service analytics capability so business users can build their own reports without IT involvement.
+
+Start Date: Immediately
+Duration: 6 months

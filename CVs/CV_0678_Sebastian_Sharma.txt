@@ -1,0 +1,34 @@
+Sebastian Sharma
+Austin, USA | sebastian.sharma@example.com | +49 973 1774790
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 4 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Stakeholder reporting & dashboarding, KPI design
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Lumen Analytics Group | Stockholm, Sweden | 2023 - Present
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 50+ internal teams within the first year.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+IT Consultant | Beacon Insight Consulting | Warsaw, Poland | 2021 - 2023
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 8 regional entities.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Hamburg, Hamburg, Germany (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Polish (Native)
+- Dutch (Professional working proficiency)

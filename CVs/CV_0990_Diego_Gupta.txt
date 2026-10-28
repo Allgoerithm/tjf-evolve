@@ -1,0 +1,29 @@
+Diego Gupta
+Krakow, Poland | diego.gupta@example.com | +49 986 8437650
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, KPI design, Tableau, Power BI, SSRS, Snowflake
+- Cloud & Infrastructure: Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Kestrel Data Solutions | Frankfurt, Germany | 2024 - Present
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 30 disparate spreadsheets into a single source of truth.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Hamburg, Hamburg, Germany (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Professional working proficiency)

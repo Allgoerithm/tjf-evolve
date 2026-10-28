@@ -1,0 +1,39 @@
+Maximilian Koch
+Dublin, Ireland | maximilian.koch@example.com | +47 916 6319801
+
+PROFESSIONAL SUMMARY
+Versatile Applied Data Scientist with 5 years in the field, combining expertise in data science and machine learning to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Data Science & Machine Learning: Statistical Modeling, Feature Engineering, A/B Testing & Experimentation, XGBoost / LightGBM, Databricks, Natural Language Processing
+- Cloud & Infrastructure: Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Git, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Cobalt Data Labs | Lyon, France | 2024 - Present
+- Developed an anomaly detection system for healthcare operations, flagging issues 22% faster than the previous manual process.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Trained and tuned TensorFlow models for customer lifetime value, reducing error by 30% over the baseline.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+IT Consultant | Orbis Technology Partners | Amsterdam, Netherlands | 2023 - 2024
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Built a churn prediction model on 50+ customer records, enabling targeted retention campaigns for the e-commerce sector.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 28%.
+- Built a recommendation engine for a telecommunications client, contributing to a 40% increase in average order value.
+
+Analyst | Riverbend Analytics | Bangalore, India | 2022 - 2023
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 35%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 25%.
+- Developed a random forest model to predict equipment failure for logistics clients, improving prediction accuracy by 22%.
+
+EDUCATION
+B.Eng. in Information Systems, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Swedish (Native)
+- English (Conversational)

@@ -1,0 +1,40 @@
+Isabelle Jansen
+Manchester, United Kingdom | isabelle.jansen@example.com | +44 899 4854891
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 9 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: dbt, SSRS, SSAS
+- Cloud & Infrastructure: Apache Airflow, Kubernetes, Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Northstar Cloud Group | Stockholm, Sweden | 2024 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and implemented a multi-account AWS landing zone for an aviation client, improving security posture and cost visibility.
+
+Data Engineer | Kestrel Data Solutions | Berlin, Germany | 2021 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Maintained SSIS packages that load 10 source systems into the enterprise data warehouse.
+
+Senior Data Engineer | Solaris Data Engineering | Warsaw, Poland | 2017 - 2021
+- Designed and delivered 5 interactive Power BI dashboards for aviation clients, reducing manual reporting effort by 12%.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Performed a cloud security audit for a telecommunications client, remediating 30 critical findings within the first quarter.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Illinois, Chicago, USA (2015)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Polish (Native)
+- Portuguese (Conversational)
+- German (Conversational)

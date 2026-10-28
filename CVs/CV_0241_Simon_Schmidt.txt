@@ -1,0 +1,34 @@
+Simon Schmidt
+Berlin, Germany | simon.schmidt@example.com | +49 314 6627603
+
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Consultant with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Docker, Infrastructure as Code, Cloud cost optimization, Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design
+- Business Intelligence: Looker
+- Tools & Ways of Working: JIRA / Confluence, Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Kestrel Data Solutions | Chicago, USA | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 10 teams.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Consultant | Lumen Analytics Group | Paris, France | 2023 - 2025
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Performed a cloud security audit for a pharmaceuticals client, remediating 8 critical findings within the first quarter.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2024)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- French (Native)
+- Dutch (Fluent)
+- Spanish (Professional working proficiency)

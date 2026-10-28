@@ -1,0 +1,39 @@
+Stefan Bianchi
+Lisbon, Portugal | stefan.bianchi@example.com | +39 244 3764641
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist (7 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: PyTorch, Causal Inference, Jupyter, Databricks, Computer Vision, Feature Engineering
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Technical documentation, Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Falcon Ridge Consulting | Berlin, Germany | 2025 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 20% uplift in conversion rate.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Built a recommendation engine for an e-commerce client, contributing to a 45% increase in average order value.
+
+IT Consultant | Beacon Insight Consulting | Barcelona, Spain | 2024 - 2025
+- Built an NLP pipeline to automatically classify 8+ incoming customer messages per day, reducing manual triage time by 25%.
+- Led a proof-of-concept on demand forecasting for an e-commerce client, achieving a 28% reduction in forecast error versus the baseline.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Consultant | Falcon Ridge Consulting | Austin, USA | 2023 - 2024
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Developed a gradient boosting model to predict fraud risk for logistics clients, improving prediction accuracy by 40%.
+- Introduced Git-based workflows with code review for the analytics team.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 30%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Indian Institute of Technology Bombay, Mumbai, India (2018)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Polish (Native)
+- Portuguese (Professional working proficiency)

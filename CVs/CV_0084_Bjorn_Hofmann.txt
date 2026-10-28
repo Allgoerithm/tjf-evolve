@@ -1,0 +1,39 @@
+Bjorn Hofmann
+Vienna, Austria | bjorn.hofmann@example.com | +33 403 2774601
+
+PROFESSIONAL SUMMARY
+Versatile DevOps Consultant with 7 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Networking & VPC design, Infrastructure as Code, Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS)
+- Business Intelligence: Tableau
+- Tools & Ways of Working: Agile / Scrum, Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Vantage Point Consulting | Helsinki, Finland | 2023 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 30 teams.
+- Implemented a data lake on Databricks, ingesting and processing over 15 TB of data monthly from 15 source systems.
+
+DevOps Consultant | Fjord Digital Solutions | Cologne, Germany | 2021 - 2023
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Performed a cloud security audit for a logistics client, remediating 10 critical findings within the first quarter.
+
+DevOps Consultant | Pinnacle Business Intelligence GmbH | Dublin, Ireland | 2020 - 2021
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+- Designed a CI/CD pipeline that reduced release cycle time by 30% for a healthcare client's data platform.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+B.Eng. in Information Systems, National University of Singapore, Singapore, Singapore (2017)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Danish (Native)
+- Hindi (Professional working proficiency)
+- Italian (Conversational)

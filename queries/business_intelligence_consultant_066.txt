@@ -1,0 +1,30 @@
+SEARCH PROFILE #066
+Role Needed: Senior BI Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Logistics
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- JIRA / Confluence
+- Looker
+- dbt
+- DAX
+
+NICE-TO-HAVE SKILLS
+- Kubernetes
+- QlikView
+
+PREFERRED CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Swedish (native)
+
+Location / Remote Policy: On-site required (client site: Singapore, Singapore)
+
+PROJECT CONTEXT
+A logistics client is rolling out a new group-wide KPI framework and needs someone to translate it into production-grade dashboards.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 6 months, extension possible

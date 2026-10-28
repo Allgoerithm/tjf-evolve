@@ -1,0 +1,44 @@
+Felix Braun
+Warsaw, Poland | felix.braun@example.com | +33 172 2471018
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 13 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Data Warehouse design (Kimball/Inmon), Snowflake, Power BI, Looker, LookML
+- Cloud & Infrastructure: Apache Kafka, Networking & VPC design
+- Tools & Ways of Working: Requirements engineering, Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Pinnacle Business Intelligence GmbH | Stockholm, Sweden | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 28%.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Cobalt Data Labs | Copenhagen, Denmark | 2021 - 2024
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 5 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Designed and delivered 3 interactive Tableau dashboards for healthcare clients, reducing manual reporting effort by 20%.
+
+Business Intelligence Consultant | Evergreen Data Solutions | Zurich, Switzerland | 2018 - 2021
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the aviation business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Consultant | Falcon Ridge Consulting | Rotterdam, Netherlands | 2015 - 2018
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 8 regional entities.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 30 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+B.Sc. in Mathematics, University of Manchester, Manchester, United Kingdom (2011)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Danish (Native)
+- Mandarin (Professional working proficiency)
+- Portuguese (Conversational)

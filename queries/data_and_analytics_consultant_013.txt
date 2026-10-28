@@ -1,0 +1,31 @@
+SEARCH PROFILE #013
+Role Needed: Senior Data Platform Consultant
+Engagement Type: Permanent hire
+Client Industry: Aviation
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Snowflake
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Cloud cost optimization
+
+NICE-TO-HAVE SKILLS
+- Qlik Sense
+- JIRA / Confluence
+- A/B Testing & Experimentation
+- Computer Vision
+
+PREFERRED CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGE REQUIREMENTS
+- Mandarin (native)
+- Portuguese (fluent)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Madrid, Spain)
+
+PROJECT CONTEXT
+The client wants a proof-of-concept combining BI reporting and machine learning insights on a shared cloud data platform.
+
+Start Date: ASAP
+Duration: 2 months (short-term)

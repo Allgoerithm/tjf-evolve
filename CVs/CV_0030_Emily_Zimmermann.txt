@@ -1,0 +1,37 @@
+Emily Zimmermann
+Copenhagen, Denmark | emily.zimmermann@example.com | +45 440 9605636
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 4 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in aviation. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, KPI design, Stakeholder reporting & dashboarding
+- Data Science & Machine Learning: Feature Engineering, MLflow, Natural Language Processing
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration
+- Tools & Ways of Working: Data governance, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Solaris Data Engineering | Munich, Germany | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed and implemented a multi-account AWS landing zone for a retail client, improving security posture and cost visibility.
+- Trained and tuned TensorFlow models for customer churn, reducing error by 20% over the baseline.
+
+Senior Data Platform Consultant | Alpenglow Analytics | Bangalore, India | 2022 - 2025
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for a public sector client's data platform.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Sorbonne University, Paris, France (2021)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- French (Native)
+- German (Professional working proficiency)
+- Portuguese (Conversational)

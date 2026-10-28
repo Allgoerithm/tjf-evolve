@@ -1,0 +1,35 @@
+Greta Johansson
+Frankfurt, Germany | greta.johansson@example.com | +1 105 8171439
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 4 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: LookML, T-SQL, SSIS
+- Data Science & Machine Learning: R, Jupyter, Statistical Modeling
+- Cloud & Infrastructure: Networking & VPC design, Apache Airflow, Docker
+- Tools & Ways of Working: Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Falcon Ridge Consulting | London, United Kingdom | 2024 - Present
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Designed and delivered 30 interactive Power BI dashboards for telecommunications clients, reducing manual reporting effort by 45%.
+- Built an NLP pipeline to automatically classify 30+ incoming customer messages per day, reducing manual triage time by 22%.
+
+IT Consultant | Pinnacle Business Intelligence GmbH | Milan, Italy | 2022 - 2024
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Led a proof-of-concept on demand forecasting for a consumer goods client, achieving a 18% reduction in forecast error versus the baseline.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Computational Science, University of Manchester, Manchester, United Kingdom (2021)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Databricks Certified Machine Learning Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- French (Native)
+- Italian (Fluent)

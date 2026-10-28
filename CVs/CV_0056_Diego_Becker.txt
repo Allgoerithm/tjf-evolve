@@ -1,0 +1,28 @@
+Diego Becker
+Lyon, France | diego.becker@example.com | +49 512 4527878
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer specializing in data science and machine learning, with 2 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: MLflow, Model Deployment & Monitoring, TensorFlow, Computer Vision, XGBoost / LightGBM, Causal Inference
+- Cloud & Infrastructure: Cloud cost optimization, Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | BlueRiver Analytics | Madrid, Spain | 2024 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 35% uplift in conversion rate.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Developed a gradient boosting model to predict equipment failure for e-commerce clients, improving prediction accuracy by 15%.
+
+EDUCATION
+B.Sc. in Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2023)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Hindi (Native)
+- Italian (Conversational)

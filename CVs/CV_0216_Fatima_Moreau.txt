@@ -1,0 +1,35 @@
+Fatima Moreau
+Warsaw, Poland | fatima.moreau@example.com | +45 134 6167123
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Star schema & dimensional modeling, Power BI, DAX, KPI design, SSRS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Terraform
+- Tools & Ways of Working: Data quality management, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Nimbus Infrastructure Consulting | Pune, India | 2025 - Present
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built Kafka-based streaming ingestion for 30 operational systems.
+- Designed and delivered 10 interactive Databricks dashboards for insurance clients, reducing manual reporting effort by 20%.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the banking business.
+
+Analytics Consultant | Meridian Digital Partners | Pune, India | 2024 - 2025
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 22%.
+- Introduced dbt for transformation and testing, covering 8+ models in the analytics layer.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+
+EDUCATION
+B.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2022)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Hindi (Native)
+- Spanish (Professional working proficiency)

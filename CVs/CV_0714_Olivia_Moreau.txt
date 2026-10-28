@@ -1,0 +1,39 @@
+Olivia Moreau
+Manchester, United Kingdom | olivia.moreau@example.com | +31 824 8184823
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 9 years of experience delivering business intelligence and enterprise reporting solutions for clients in telecommunications. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), LookML, Qlik Sense, Star schema & dimensional modeling, SSRS, Power BI
+- Cloud & Infrastructure: Networking & VPC design, Docker
+- Tools & Ways of Working: Data quality management, Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Fjord Digital Solutions | Madrid, Spain | 2023 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 20 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Harborview Consulting | Lyon, France | 2019 - 2023
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 30 regional entities.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Harborview Consulting | Manchester, United Kingdom | 2016 - 2019
+- Automated the monthly reporting cycle for a healthcare client, freeing up 20 analyst days per month for higher-value analysis.
+- Designed and delivered 3 interactive Looker dashboards for retail clients, reducing manual reporting effort by 30%.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Oslo, Oslo, Norway (2017)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Hindi (Native)
+- Mandarin (Conversational)
+- Dutch (Fluent)

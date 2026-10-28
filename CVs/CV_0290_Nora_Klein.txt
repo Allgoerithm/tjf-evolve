@@ -1,0 +1,35 @@
+Nora Klein
+Singapore, Singapore | nora.klein@example.com | +45 678 7588673
+
+PROFESSIONAL SUMMARY
+Versatile Data & Analytics Consultant with 4 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: LookML, Stakeholder reporting & dashboarding, Tableau
+- Data Science & Machine Learning: TensorFlow, XGBoost / LightGBM, Natural Language Processing
+- Cloud & Infrastructure: Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Networking & VPC design
+- Tools & Ways of Working: Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Vantage Point Consulting | Madrid, Spain | 2025 - Present
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Trained 20 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+
+Lead Data & AI Consultant | Vertex Data Partners | Barcelona, Spain | 2023 - 2025
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the logistics business.
+- Built a recommendation engine for a healthcare client, contributing to a 20% increase in average order value.
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for a pharmaceuticals client's data platform.
+
+EDUCATION
+B.Sc. in Computer Science, University of Oslo, Oslo, Norway (2021)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Cloudera Certified Data Analyst
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Fluent)

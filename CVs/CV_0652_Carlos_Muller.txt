@@ -1,0 +1,35 @@
+Carlos Muller
+Prague, Czech Republic | carlos.muller@example.com | +49 384 2793936
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 4 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, Data Warehouse design (Kimball/Inmon), QlikView
+- Cloud & Infrastructure: Kubernetes, Apache Airflow, Linux system administration, Apache Kafka
+- Tools & Ways of Working: Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Silverline IT Consulting | Amsterdam, Netherlands | 2023 - Present
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 12%.
+
+Analyst | Riverbend Analytics | Hamburg, Germany | 2022 - 2023
+- Defined and documented 2 KPIs together with business owners as the basis of the new reporting suite.
+- Trained 15 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Performed a cloud security audit for an aviation client, remediating 3 critical findings within the first quarter.
+- Led a cloud cost optimization initiative, identifying savings of 20% across compute and storage resources.
+
+EDUCATION
+MBA with focus on Information Management, University of Hamburg, Hamburg, Germany (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- Portuguese (Professional working proficiency)
+- Mandarin (Conversational)

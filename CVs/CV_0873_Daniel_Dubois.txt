@@ -1,0 +1,36 @@
+Daniel Dubois
+Munich, Germany | daniel.dubois@example.com | +45 115 9513697
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, SSAS, SSIS
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow, Snowflake on cloud, Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Northstar Cloud Group | Cologne, Germany | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 30% and improving system uptime.
+- Rolled out data governance roles and policies across 2 departments.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+
+Data Engineer | Northstar Cloud Group | Toronto, Canada | 2024 - 2025
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Trained 15 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Universidad Politecnica de Madrid, Madrid, Spain (2024)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Certified Kubernetes Administrator (CKA)
+- SnowPro Core Certification
+
+LANGUAGES
+- Spanish (Native)
+- Italian (Conversational)
+- Dutch (Professional working proficiency)

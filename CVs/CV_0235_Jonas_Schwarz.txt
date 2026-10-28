@@ -1,0 +1,46 @@
+Jonas Schwarz
+Oslo, Norway | jonas.schwarz@example.com | +31 170 9684529
+
+PROFESSIONAL SUMMARY
+Versatile Senior BI Consultant with 12 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSAS, KPI design, SSIS, Snowflake, Power BI, DAX
+- Cloud & Infrastructure: Docker, Linux system administration
+- Tools & Ways of Working: Agile / Scrum, Technical documentation, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Nimbus Infrastructure Consulting | London, United Kingdom | 2024 - Present
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Managed backlog and documentation in JIRA and Confluence for 5 concurrent workstreams.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 2 regional entities.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 25%.
+
+Consultant | Orbis Technology Partners | Krakow, Poland | 2020 - 2024
+- Trained 50 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for an aviation client, freeing up 20 analyst days per month for higher-value analysis.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+
+BI Developer | Vertex Data Partners | Berlin, Germany | 2017 - 2020
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Designed and delivered 50 interactive Qlik Sense dashboards for insurance clients, reducing manual reporting effort by 45%.
+
+Consultant | Kestrel Data Solutions | Dublin, Ireland | 2013 - 2017
+- Built Kafka-based streaming ingestion for 20 operational systems.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the aviation business.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+MBA with focus on Information Management, University of Oslo, Oslo, Norway (2012)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- TOGAF 9 Certified
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Spanish (Fluent)

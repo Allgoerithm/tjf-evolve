@@ -1,0 +1,32 @@
+SEARCH PROFILE #081
+Role Needed: Analytics Consultant
+Engagement Type: Short-term project engagement
+Client Industry: Healthcare
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Stakeholder management
+- SSAS
+- LookML
+- SQL Server
+- Snowflake on cloud
+
+NICE-TO-HAVE SKILLS
+- QlikView
+- Data quality management
+
+PREFERRED CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGE REQUIREMENTS
+- German (native)
+- English (fluent)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Chicago, USA)
+
+PROJECT CONTEXT
+The client is replacing a legacy reporting tool with Tableau and needs support migrating 10+ existing reports.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 12 months, potential for permanent placement

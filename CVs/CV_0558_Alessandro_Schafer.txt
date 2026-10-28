@@ -1,0 +1,35 @@
+Alessandro Schafer
+Stuttgart, Germany | alessandro.schafer@example.com | +41 516 8478131
+
+PROFESSIONAL SUMMARY
+Versatile Data & Analytics Consultant with 3 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Star schema & dimensional modeling, dbt
+- Data Science & Machine Learning: Databricks, Computer Vision, MLflow
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Quantara Analytics | Hamburg, Germany | 2024 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Consultant | Northgate Technology Group | Austin, USA | 2023 - 2024
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 28%.
+- Defined and documented 8 KPIs together with business owners as the basis of the new reporting suite.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 40%.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 28%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Manchester, Manchester, United Kingdom (2023)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Italian (Native)
+- Dutch (Fluent)

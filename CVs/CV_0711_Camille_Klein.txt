@@ -1,0 +1,37 @@
+Camille Klein
+Chicago, USA | camille.klein@example.com | +34 996 2340358
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in telecommunications. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Power Query / M, Qlik Sense
+- Cloud & Infrastructure: Snowflake on cloud, Docker, Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Silverline IT Consulting | Bangalore, India | 2024 - Present
+- Designed and implemented a multi-account AWS landing zone for a logistics client, improving security posture and cost visibility.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Led the adoption of a self-service data platform on Power BI, onboarding 8+ internal teams within the first year.
+
+Consultant | Evergreen Data Solutions | London, United Kingdom | 2023 - 2024
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 30 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Automated the monthly reporting cycle for a logistics client, freeing up 15 analyst days per month for higher-value analysis.
+
+Consultant | Ironwood Cloud Services | London, United Kingdom | 2022 - 2023
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 40%.
+
+EDUCATION
+B.Sc. in Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2016)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- English (Native)
+- Mandarin (Conversational)

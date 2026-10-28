@@ -1,0 +1,41 @@
+Klaus Okafor
+Frankfurt, Germany | klaus.okafor@example.com | +31 299 7400494
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 7 years of experience delivering business intelligence and enterprise reporting solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), DAX, KPI design, Power Query / M, LookML, Looker
+- Cloud & Infrastructure: Snowflake on cloud, Apache Kafka
+- Tools & Ways of Working: Data quality management, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Ironwood Cloud Services | Rotterdam, Netherlands | 2024 - Present
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Developed Qlik Sense apps for operational reporting used by 5+ plant managers.
+- Designed and delivered 30 interactive Power BI dashboards for public sector clients, reducing manual reporting effort by 22%.
+
+BI Developer | Nordwind Consulting | Milan, Italy | 2022 - 2024
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 30 regional entities.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 30%.
+- Trained 8 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+IT Consultant | Greystone Data & AI | Stockholm, Sweden | 2020 - 2022
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+
+EDUCATION
+M.Sc. in Business Informatics, Politecnico di Milano, Milan, Italy (2019)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Spanish (Native)
+- Polish (Fluent)
+- Swedish (Fluent)

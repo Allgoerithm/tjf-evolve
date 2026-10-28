@@ -1,0 +1,30 @@
+SEARCH PROFILE #053
+Role Needed: Cloud Solutions Architect
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: E-commerce
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Terraform
+- JIRA / Confluence
+
+NICE-TO-HAVE SKILLS
+- Infrastructure as Code
+- Power BI
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Technical documentation
+
+PREFERRED CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGE REQUIREMENTS
+- Danish (business level)
+
+Location / Remote Policy: On-site required (client site: Bangalore, India)
+
+PROJECT CONTEXT
+A new CI/CD pipeline needs to be designed and rolled out across 20+ application teams.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 3 months, extension likely

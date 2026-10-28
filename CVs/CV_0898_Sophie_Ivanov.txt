@@ -1,0 +1,34 @@
+Sophie Ivanov
+Oslo, Norway | sophie.ivanov@example.com | +32 629 2227365
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (6 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: dbt, Qlik Sense, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code, Networking & VPC design
+- Tools & Ways of Working: Stakeholder management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Nordwind Consulting | Austin, USA | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for an e-commerce client's data platform.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Senior Data Engineer | Orbis Technology Partners | Milan, Italy | 2020 - 2023
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+EDUCATION
+M.Sc. in Data Science, ETH Zurich, Zurich, Switzerland (2020)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Qlik Sense Data Architect Certification
+- SnowPro Core Certification
+
+LANGUAGES
+- Portuguese (Native)
+- German (Professional working proficiency)

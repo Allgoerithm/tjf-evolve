@@ -1,0 +1,33 @@
+Nina Johansson
+Copenhagen, Denmark | nina.johansson@example.com | +32 498 9352271
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2 years of experience delivering data science and machine learning solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Databricks, A/B Testing & Experimentation, MLflow, Natural Language Processing, Statistical Modeling, R
+- Cloud & Infrastructure: Linux system administration, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Stakeholder management, Data quality management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | Stratos Cloud Consulting | Stuttgart, Germany | 2025 - Present
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 12% uplift in conversion rate.
+- Built a churn prediction model on 20+ customer records, enabling targeted retention campaigns for the consumer goods sector.
+
+Analyst | Vantage Point Consulting | London, United Kingdom | 2023 - 2025
+- Built an NLP pipeline to automatically classify 8+ incoming customer messages per day, reducing manual triage time by 35%.
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 18% reduction in forecast error versus the baseline.
+- Mentored a team of 15 junior data scientists on feature engineering and model evaluation best practices.
+
+EDUCATION
+M.Sc. in Statistics, Imperial College London, London, United Kingdom (2022)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Spanish (Native)
+- Polish (Fluent)

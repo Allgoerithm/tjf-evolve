@@ -1,0 +1,35 @@
+Felix Schafer
+Prague, Czech Republic | felix.schafer@example.com | +32 835 9101772
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (4 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Stakeholder reporting & dashboarding, SSRS
+- Data Science & Machine Learning: Causal Inference, Apache Spark / PySpark, PyTorch
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Cobalt Data Labs | Helsinki, Finland | 2025 - Present
+- Administered Linux servers hosting data services, including patching and hardening.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the banking sector.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+
+Senior Data Platform Consultant | Anchor Point Technologies | Manchester, United Kingdom | 2023 - 2025
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 25%.
+- Trained 15 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for an aviation client's data platform.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Humboldt University of Berlin, Berlin, Germany (2021)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Mandarin (Native)
+- Portuguese (Conversational)
+- Danish (Professional working proficiency)

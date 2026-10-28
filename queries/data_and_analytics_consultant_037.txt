@@ -1,0 +1,27 @@
+SEARCH PROFILE #037
+Role Needed: Senior Data Platform Consultant
+Engagement Type: Interim / bridge staffing
+Client Industry: Automotive manufacturing
+Minimum Experience: 8+ years
+
+MUST-HAVE SKILLS
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- SSRS
+
+NICE-TO-HAVE SKILLS
+- Python (pandas, NumPy, scikit-learn)
+- Databricks
+- Star schema & dimensional modeling
+- Agile / Scrum
+
+LANGUAGE REQUIREMENTS
+- Mandarin (business level)
+
+Location / Remote Policy: Fully remote (client site: Barcelona, Spain)
+
+PROJECT CONTEXT
+The client wants a proof-of-concept combining BI reporting and machine learning insights on a shared cloud data platform.
+
+Start Date: Within 2 weeks
+Duration: 3 months, extension likely

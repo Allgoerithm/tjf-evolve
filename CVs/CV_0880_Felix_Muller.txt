@@ -1,0 +1,44 @@
+Felix Muller
+Stuttgart, Germany | felix.muller@example.com | +33 232 9628787
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 10 years of experience delivering business intelligence and enterprise reporting solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Stakeholder reporting & dashboarding, DAX, Qlik Sense, QlikView, Tableau
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design
+- Tools & Ways of Working: Technical documentation, Git, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Ironwood Cloud Services | Hamburg, Germany | 2024 - Present
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the insurance business.
+
+Business Intelligence Consultant | BlueRiver Analytics | Lisbon, Portugal | 2022 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Designed and delivered 8 interactive Looker dashboards for healthcare clients, reducing manual reporting effort by 45%.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+BI Developer | Nordwind Consulting | Bangalore, India | 2021 - 2022
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+- Trained 20 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 12%.
+
+BI Developer | Fjord Digital Solutions | Lisbon, Portugal | 2019 - 2021
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 50 regional entities.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 5 disparate spreadsheets into a single source of truth.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+EDUCATION
+M.Sc. in Computational Science, Technical University of Denmark, Copenhagen, Denmark (2016)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- English (Native)
+- Mandarin (Conversational)

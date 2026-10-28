@@ -1,0 +1,29 @@
+Sophie Braun
+Manchester, United Kingdom | sophie.braun@example.com | +31 517 2294942
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Infrastructure Consultant (2 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Kafka, Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS), Terraform, Linux system administration, Networking & VPC design
+- Business Intelligence: Stakeholder reporting & dashboarding
+- Tools & Ways of Working: Data quality management, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Nordwind Consulting | Zurich, Switzerland | 2024 - Present
+- Performed a cloud security audit for a telecommunications client, remediating 10 critical findings within the first quarter.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 12%.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Delft University of Technology, Delft, Netherlands (2022)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Dutch (Native)
+- French (Fluent)
+- German (Professional working proficiency)

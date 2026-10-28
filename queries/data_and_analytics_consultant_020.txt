@@ -1,0 +1,30 @@
+SEARCH PROFILE #020
+Role Needed: Data & Analytics Consultant
+Engagement Type: Interim / bridge staffing
+Client Industry: Public sector
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- TensorFlow
+- Snowflake
+- Requirements engineering
+- Terraform
+
+NICE-TO-HAVE SKILLS
+- Statistical Modeling
+- Cloud cost optimization
+- SSIS
+
+PREFERRED CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGE REQUIREMENTS
+- German (business level)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Dublin, Ireland)
+
+PROJECT CONTEXT
+Following a data platform assessment, the client needs a consultant to help prioritize and execute the resulting roadmap.
+
+Start Date: Flexible, ideally within the next month
+Duration: 12 months, potential for permanent placement

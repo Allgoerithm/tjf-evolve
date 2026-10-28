@@ -1,0 +1,34 @@
+Isabelle Weber
+Lisbon, Portugal | isabelle.weber@example.com | +32 426 5837883
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4 years of experience delivering cloud infrastructure and platform engineering solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Kubernetes, Snowflake on cloud, Docker, Linux system administration, Apache Kafka, Cloud cost optimization
+- Business Intelligence: KPI design
+- Tools & Ways of Working: Requirements engineering, Data quality management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Nimbus Infrastructure Consulting | Dublin, Ireland | 2025 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for an aviation client's data platform.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+Cloud Engineer | Fjord Digital Solutions | Zurich, Switzerland | 2022 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 30% across compute and storage resources.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Standardized cloud tagging and cost allocation practices for an automotive manufacturing client, improving budget accountability across 10 teams.
+
+EDUCATION
+M.Sc. in Computer Science, Technical University of Munich, Munich, Germany (2022)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Project Management Professional (PMP)
+
+LANGUAGES
+- German (Native)
+- Polish (Professional working proficiency)

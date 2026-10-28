@@ -1,0 +1,32 @@
+Bjorn Kowalski
+Manchester, United Kingdom | bjorn.kowalski@example.com | +46 435 3400596
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across insurance and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, T-SQL, Star schema & dimensional modeling, Power BI, DAX, Snowflake
+- Cloud & Infrastructure: Infrastructure as Code, Apache Kafka
+- Tools & Ways of Working: Data governance, Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Clearwater Data Systems | Cologne, Germany | 2025 - Present
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 30 analyst days per month for higher-value analysis.
+- Trained 15 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+Business Intelligence Consultant | Northstar Cloud Group | Frankfurt, Germany | 2024 - 2025
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 28%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+EDUCATION
+B.Sc. in Mathematics, University of Hamburg, Hamburg, Germany (2023)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)

@@ -1,0 +1,36 @@
+Henrik Nowak
+Pune, India | henrik.nowak@example.com | +33 818 7695525
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (3 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: DAX, Stakeholder reporting & dashboarding, KPI design
+- Cloud & Infrastructure: Docker, Networking & VPC design, Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Nordwind Consulting | Munich, Germany | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 30 TB of data monthly from 30 source systems.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Built analytics workloads on Google Cloud Platform for 30 product teams.
+
+Data Engineer | Silverline IT Consulting | Amsterdam, Netherlands | 2023 - 2025
+- Designed a CI/CD pipeline that reduced release cycle time by 15% for a retail client's data platform.
+- Trained 20 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+
+EDUCATION
+M.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2023)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Project Management Professional (PMP)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Hindi (Native)
+- Swedish (Professional working proficiency)
+- English (Conversational)

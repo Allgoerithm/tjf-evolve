@@ -1,0 +1,35 @@
+Klaus Chen
+Prague, Czech Republic | klaus.chen@example.com | +39 842 9560039
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Platform Consultant with 3 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: dbt, Power BI, Star schema & dimensional modeling
+- Data Science & Machine Learning: MLOps, Python (pandas, NumPy, scikit-learn), R
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow, Networking & VPC design
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Brightfield Consulting | Helsinki, Finland | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 8 regional entities.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 35%.
+
+Senior Data Platform Consultant | Anchor Point Technologies | Stuttgart, Germany | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 15 disparate spreadsheets into a single source of truth.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Developed an anomaly detection system for logistics operations, flagging issues 45% faster than the previous manual process.
+
+EDUCATION
+M.Sc. in Data Science, University of Illinois, Chicago, USA (2021)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Dutch (Native)
+- German (Fluent)
+- English (Fluent)

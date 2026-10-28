@@ -1,0 +1,40 @@
+Pawel Lopez
+Copenhagen, Denmark | pawel.lopez@example.com | +34 435 9681977
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant with 5 years of experience delivering business intelligence and enterprise reporting solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Tableau, SQL Server, Power BI, Looker, Snowflake
+- Cloud & Infrastructure: Apache Kafka, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Anchor Point Technologies | Austin, USA | 2025 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Developed Qlik Sense apps for operational reporting used by 5+ plant managers.
+- Trained 20 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Riverbend Analytics | Munich, Germany | 2024 - 2025
+- Designed and delivered 50 interactive Databricks dashboards for energy and utilities clients, reducing manual reporting effort by 15%.
+- Built analytics workloads on Google Cloud Platform for 50 product teams.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+Analyst | Clearwater Data Systems | London, United Kingdom | 2023 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the banking business.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 2 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Amsterdam, Amsterdam, Netherlands (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- English (Native)
+- German (Professional working proficiency)

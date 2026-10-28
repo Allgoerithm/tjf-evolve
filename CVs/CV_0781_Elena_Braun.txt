@@ -1,0 +1,37 @@
+Elena Braun
+Stockholm, Sweden | elena.braun@example.com | +39 482 1834008
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 4 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, SQL Server, Star schema & dimensional modeling, Power BI, KPI design, dbt
+- Cloud & Infrastructure: Snowflake on cloud, Infrastructure as Code
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Nordwind Consulting | Paris, France | 2025 - Present
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 20 disparate spreadsheets into a single source of truth.
+
+Analyst | Northgate Technology Group | Oslo, Norway | 2023 - 2025
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 25%.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the banking business.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 20%.
+
+EDUCATION
+M.Sc. in Software Engineering, Charles University, Prague, Czech Republic (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Databricks Certified Machine Learning Associate
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Swedish (Native)
+- Danish (Conversational)
+- Spanish (Professional working proficiency)

@@ -1,0 +1,35 @@
+Emma Hofmann
+Rotterdam, Netherlands | emma.hofmann@example.com | +48 200 8262412
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, T-SQL, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Snowflake on cloud, Apache Airflow, Terraform, Kubernetes
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Silverline IT Consulting | Prague, Czech Republic | 2025 - Present
+- Rolled out data governance roles and policies across 3 departments.
+- Implemented a data lake on Tableau, ingesting and processing over 30 TB of data monthly from 30 source systems.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 50 teams.
+
+Data Engineer | Kestrel Data Solutions | Austin, USA | 2024 - 2025
+- Defined and documented 8 KPIs together with business owners as the basis of the new reporting suite.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Business Informatics, Imperial College London, London, United Kingdom (2024)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Fluent)

@@ -1,0 +1,33 @@
+Tobias Andersson
+Manchester, United Kingdom | tobias.andersson@example.com | +45 930 6427836
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 3 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: R, Databricks, Natural Language Processing, Python (pandas, NumPy, scikit-learn), TensorFlow, Model Deployment & Monitoring
+- Cloud & Infrastructure: Kubernetes, Docker
+- Tools & Ways of Working: Git, Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Nordwind Consulting | Amsterdam, Netherlands | 2024 - Present
+- Built a churn prediction model on 30+ customer records, enabling targeted retention campaigns for the automotive manufacturing sector.
+- Developed an anomaly detection system for healthcare operations, flagging issues 22% faster than the previous manual process.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Analyst | Nordwind Consulting | Austin, USA | 2023 - 2024
+- Mentored a team of 50 junior data scientists on feature engineering and model evaluation best practices.
+- Built an NLP pipeline to automatically classify 8+ incoming customer messages per day, reducing manual triage time by 15%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 40%.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Toronto, Toronto, Canada (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Spanish (Native)
+- Portuguese (Professional working proficiency)

@@ -1,0 +1,29 @@
+SEARCH PROFILE #050
+Role Needed: Data Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Healthcare
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- JIRA / Confluence
+- Snowflake
+- Apache Airflow
+- Qlik Sense
+- Docker
+
+NICE-TO-HAVE SKILLS
+- Infrastructure as Code
+
+PREFERRED CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGE REQUIREMENTS
+- German (fluent)
+
+Location / Remote Policy: On-site required (client site: Chicago, USA)
+
+PROJECT CONTEXT
+Data quality issues are undermining trust in downstream reporting and the client needs a data quality framework implemented.
+
+Start Date: Within 4 weeks
+Duration: 2 months (short-term)

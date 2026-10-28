@@ -1,0 +1,36 @@
+Kwame Larsen
+Bangalore, India | kwame.larsen@example.com | +46 969 2466593
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 3 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SSRS, KPI design
+- Data Science & Machine Learning: Statistical Modeling, MLOps, R
+- Cloud & Infrastructure: Infrastructure as Code, Apache Airflow, Kubernetes
+- Tools & Ways of Working: Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Brightfield Consulting | Paris, France | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 5 disparate spreadsheets into a single source of truth.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Designed and implemented a multi-account AWS landing zone for a logistics client, improving security posture and cost visibility.
+
+Consultant | Solaris Data Engineering | Dublin, Ireland | 2023 - 2025
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Mentored a team of 20 junior data scientists on feature engineering and model evaluation best practices.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Software Engineering, Sorbonne University, Paris, France (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Data Analytics - Specialty
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Dutch (Native)
+- Polish (Conversational)
+- English (Conversational)

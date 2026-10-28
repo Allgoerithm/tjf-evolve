@@ -1,0 +1,37 @@
+Diego Nielsen
+Oslo, Norway | diego.nielsen@example.com | +1 383 1142926
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (3 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, KPI design, DAX, SQL Server, Qlik Sense, QlikView
+- Cloud & Infrastructure: Kubernetes, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Cobalt Data Labs | Munich, Germany | 2025 - Present
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 40%.
+- Modeled core business entities in Looker so that 20 teams could explore governed metrics on their own.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the logistics business.
+- Introduced dbt for transformation and testing, covering 2+ models in the analytics layer.
+
+Business Intelligence Consultant | Stratos Cloud Consulting | Frankfurt, Germany | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 5 disparate spreadsheets into a single source of truth.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Designed and delivered 30 interactive Tableau dashboards for energy and utilities clients, reducing manual reporting effort by 30%.
+
+EDUCATION
+M.Sc. in Business Informatics, ETH Zurich, Zurich, Switzerland (2021)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Swedish (Native)
+- Danish (Conversational)
+- Dutch (Fluent)

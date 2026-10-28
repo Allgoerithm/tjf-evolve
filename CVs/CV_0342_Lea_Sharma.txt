@@ -1,0 +1,34 @@
+Lea Sharma
+Krakow, Poland | lea.sharma@example.com | +49 757 2887588
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect with 4 years of experience delivering cloud infrastructure and platform engineering solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Networking & VPC design, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Linux system administration, Docker, Infrastructure as Code, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Business Intelligence: Star schema & dimensional modeling
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Silverline IT Consulting | Cologne, Germany | 2024 - Present
+- Designed and implemented a multi-account AWS landing zone for a retail client, improving security posture and cost visibility.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+IT Consultant | Lumen Analytics Group | Manchester, United Kingdom | 2022 - 2024
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led the adoption of a self-service data platform on Databricks, onboarding 15+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for an e-commerce client's data platform.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Oslo, Oslo, Norway (2020)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Qlik Sense Data Architect Certification
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Hindi (Native)
+- Swedish (Conversational)

@@ -1,0 +1,31 @@
+SEARCH PROFILE #024
+Role Needed: Senior Data Engineer
+Engagement Type: Long-term client secondment
+Client Industry: Public sector
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- Apache Airflow
+- Snowflake on cloud
+- Data governance
+
+NICE-TO-HAVE SKILLS
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Infrastructure as Code
+- DAX
+- SQL Server
+
+PREFERRED CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGE REQUIREMENTS
+- Italian (native)
+
+Location / Remote Policy: Fully remote (client site: Barcelona, Spain)
+
+PROJECT CONTEXT
+Existing ETL jobs are fragile and poorly documented; the client needs them re-engineered on a modern orchestration stack.
+
+Start Date: Within 2 weeks
+Duration: 12 months, potential for permanent placement

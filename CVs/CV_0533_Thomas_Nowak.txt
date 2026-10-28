@@ -1,0 +1,39 @@
+Thomas Nowak
+Zurich, Switzerland | thomas.nowak@example.com | +1 888 2779143
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Solutions Architect with 7 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Linux system administration, Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka, Snowflake on cloud
+- Business Intelligence: Power Query / M
+- Tools & Ways of Working: Technical documentation, Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Evergreen Data Solutions | Zurich, Switzerland | 2023 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Led the adoption of a self-service data platform on Databricks, onboarding 3+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for a retail client's data platform.
+
+IT Consultant | Evergreen Data Solutions | Austin, USA | 2020 - 2023
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+Cloud Infrastructure Consultant | Quantara Analytics | Brussels, Belgium | 2017 - 2020
+- Introduced Git-based workflows with code review for the analytics team.
+- Implemented a data lake on Snowflake, ingesting and processing over 20 TB of data monthly from 20 source systems.
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+
+EDUCATION
+B.Sc. in Mathematics, University of Vienna, Vienna, Austria (2017)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Italian (Native)
+- Hindi (Professional working proficiency)

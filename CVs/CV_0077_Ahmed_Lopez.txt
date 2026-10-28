@@ -1,0 +1,35 @@
+Ahmed Lopez
+Oslo, Norway | ahmed.lopez@example.com | +41 117 7781584
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (2 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Tableau, SSRS, dbt
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud, Docker, Terraform
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Anchor Point Technologies | Frankfurt, Germany | 2025 - Present
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 20+ internal teams within the first year.
+- Designed and delivered 3 interactive Databricks dashboards for telecommunications clients, reducing manual reporting effort by 28%.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 8 teams.
+
+Analyst | TerraLogic Consulting | Vienna, Austria | 2024 - 2025
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 12%.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+
+EDUCATION
+B.Eng. in Information Systems, University of Warsaw, Warsaw, Poland (2024)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Polish (Fluent)
+- Hindi (Fluent)

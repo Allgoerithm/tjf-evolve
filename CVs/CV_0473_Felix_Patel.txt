@@ -1,0 +1,41 @@
+Felix Patel
+Chicago, USA | felix.patel@example.com | +34 511 2458090
+
+PROFESSIONAL SUMMARY
+BI Developer with 7 years of experience delivering business intelligence and enterprise reporting solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: LookML, SSRS, Star schema & dimensional modeling, Power BI, SSIS, SQL Server
+- Cloud & Infrastructure: Kubernetes, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Harborview Consulting | Austin, USA | 2024 - Present
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 15%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Built analytics workloads on Google Cloud Platform for 2 product teams.
+- Designed and delivered 20 interactive Looker dashboards for banking clients, reducing manual reporting effort by 25%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+Senior BI Consultant | Northstar Cloud Group | Hamburg, Germany | 2023 - 2024
+- Automated the monthly reporting cycle for a banking client, freeing up 50 analyst days per month for higher-value analysis.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 2 regional entities.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analytics Consultant | Lumen Analytics Group | Cologne, Germany | 2020 - 2023
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Trained 10 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 12%.
+- Implemented automated data quality checks on 50 critical tables.
+
+EDUCATION
+B.Eng. in Information Systems, KTH Royal Institute of Technology, Stockholm, Sweden (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Professional working proficiency)
+- Hindi (Conversational)

@@ -1,0 +1,40 @@
+Stefan Mensah
+Austin, USA | stefan.mensah@example.com | +41 457 4254058
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 9 years of experience delivering business intelligence and enterprise reporting solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Qlik Sense, SSRS, Snowflake, Data Warehouse design (Kimball/Inmon), Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Cloud cost optimization, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Northgate Technology Group | Vienna, Austria | 2023 - Present
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 50 analyst days per month for higher-value analysis.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 25%.
+
+BI Developer | Nimbus Infrastructure Consulting | Munich, Germany | 2020 - 2023
+- Modeled core business entities in Looker so that 15 teams could explore governed metrics on their own.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 2 disparate spreadsheets into a single source of truth.
+- Trained 30 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 30 regional entities.
+
+Analytics Consultant | Alpenglow Analytics | Vienna, Austria | 2016 - 2020
+- Rolled out data governance roles and policies across 20 departments.
+- Designed and delivered 30 interactive Power BI dashboards for public sector clients, reducing manual reporting effort by 18%.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, KTH Royal Institute of Technology, Stockholm, Sweden (2015)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Spanish (Native)
+- English (Conversational)

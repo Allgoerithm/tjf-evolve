@@ -1,0 +1,39 @@
+Jan Dubois
+Frankfurt, Germany | jan.dubois@example.com | +34 769 2073448
+
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Consultant specializing in cloud infrastructure and platform engineering, with 7 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Infrastructure as Code, Cloud cost optimization, Docker, Networking & VPC design, Snowflake on cloud
+- Business Intelligence: Star schema & dimensional modeling
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Beacon Insight Consulting | Toronto, Canada | 2023 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Built Azure-based data pipelines with orchestrated daily loads from 15 sources.
+
+Consultant | Cobalt Data Labs | Copenhagen, Denmark | 2020 - 2023
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Performed a cloud security audit for a healthcare client, remediating 10 critical findings within the first quarter.
+
+Consultant | Vertex Data Partners | Chicago, USA | 2019 - 2020
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Led the adoption of a self-service data platform on Databricks, onboarding 50+ internal teams within the first year.
+
+EDUCATION
+B.Sc. in Computer Science, Humboldt University of Berlin, Berlin, Germany (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- English (Native)
+- Dutch (Fluent)
+- Danish (Fluent)

@@ -1,0 +1,40 @@
+Simon Ivanov
+Munich, Germany | simon.ivanov@example.com | +39 752 6668675
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer with 7 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, QlikView, LookML
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Kubernetes, Networking & VPC design, Linux system administration
+- Tools & Ways of Working: Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Vertex Data Partners | Dublin, Ireland | 2024 - Present
+- Designed and implemented a multi-account AWS landing zone for a telecommunications client, improving security posture and cost visibility.
+- Trained 30 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 15 teams.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+
+Senior Data Engineer | Kestrel Data Solutions | Brussels, Belgium | 2022 - 2024
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for a pharmaceuticals client's data platform.
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+
+Consultant | Northstar Cloud Group | Cologne, Germany | 2020 - 2022
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+EDUCATION
+M.Sc. in Software Engineering, Sorbonne University, Paris, France (2018)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Spanish (Native)
+- Mandarin (Conversational)
+- German (Professional working proficiency)

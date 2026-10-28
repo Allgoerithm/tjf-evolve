@@ -1,0 +1,39 @@
+Olivia Hofmann
+Pune, India | olivia.hofmann@example.com | +33 588 7066397
+
+PROFESSIONAL SUMMARY
+Results-driven Machine Learning Engineer with 5 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: Databricks, Model Deployment & Monitoring, Computer Vision, Apache Spark / PySpark, Statistical Modeling, MLOps
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Terraform
+- Tools & Ways of Working: Data governance, Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Riverbend Analytics | Brussels, Belgium | 2025 - Present
+- Mentored a team of 20 junior data scientists on feature engineering and model evaluation best practices.
+- Developed a deep learning model to predict customer lifetime value for banking clients, improving prediction accuracy by 30%.
+- Built a churn prediction model on 2+ customer records, enabling targeted retention campaigns for the energy and utilities sector.
+
+Applied Data Scientist | Orbis Technology Partners | Singapore, Singapore | 2024 - 2025
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+Consultant | Northstar Cloud Group | Oslo, Norway | 2022 - 2024
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 22%.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Toronto, Toronto, Canada (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- AWS Certified Solutions Architect - Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Dutch (Native)
+- Hindi (Professional working proficiency)

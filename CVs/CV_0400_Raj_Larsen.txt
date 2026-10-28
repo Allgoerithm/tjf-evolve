@@ -1,0 +1,39 @@
+Raj Larsen
+London, United Kingdom | raj.larsen@example.com | +41 433 1915694
+
+PROFESSIONAL SUMMARY
+DevOps Consultant specializing in cloud infrastructure and platform engineering, with 5 years of consulting experience across insurance and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue), Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud, Infrastructure as Code
+- Business Intelligence: T-SQL
+- Tools & Ways of Working: JIRA / Confluence, Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Fjord Digital Solutions | Barcelona, Spain | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 3 teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+
+DevOps Consultant | Northgate Technology Group | Dublin, Ireland | 2023 - 2025
+- Performed a cloud security audit for an aviation client, remediating 15 critical findings within the first quarter.
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Analyst | Brightfield Consulting | Lyon, France | 2022 - 2023
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for an insurance client's data platform.
+- Led the adoption of a self-service data platform on Power BI, onboarding 8+ internal teams within the first year.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Amsterdam, Amsterdam, Netherlands (2019)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Certified Kubernetes Administrator (CKA)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- German (Native)
+- Swedish (Fluent)

@@ -1,0 +1,38 @@
+Charlotte Lopez
+Lisbon, Portugal | charlotte.lopez@example.com | +31 303 9089070
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 8 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Snowflake, KPI design
+- Cloud & Infrastructure: Linux system administration, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Airflow, Terraform
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Quantara Analytics | Oslo, Norway | 2025 - Present
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 20 analyst days per month for higher-value analysis.
+
+Consultant | TerraLogic Consulting | Zurich, Switzerland | 2022 - 2025
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 3 teams.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+IT Consultant | Fjord Digital Solutions | Berlin, Germany | 2020 - 2022
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Performed a cloud security audit for a pharmaceuticals client, remediating 20 critical findings within the first quarter.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 35%.
+
+EDUCATION
+M.Sc. in Business Informatics, Indian Institute of Technology Bombay, Mumbai, India (2017)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Conversational)
+- Swedish (Professional working proficiency)

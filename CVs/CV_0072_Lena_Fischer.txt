@@ -1,0 +1,35 @@
+Lena Fischer
+Krakow, Poland | lena.fischer@example.com | +45 841 4269899
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 3 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Qlik Sense, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Cloud cost optimization, Apache Airflow, Infrastructure as Code, Apache Kafka
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Clearwater Data Systems | London, United Kingdom | 2025 - Present
+- Led the adoption of a self-service data platform on Power BI, onboarding 3+ internal teams within the first year.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 3 teams.
+- Designed and delivered 15 interactive Power BI dashboards for pharmaceuticals clients, reducing manual reporting effort by 45%.
+
+Senior Data Engineer | Northgate Technology Group | Austin, USA | 2024 - 2025
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Managed cloud environments as code with Terraform modules shared across 20 teams.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Trinity College Dublin, Dublin, Ireland (2023)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Swedish (Native)
+- German (Fluent)
+- Mandarin (Fluent)

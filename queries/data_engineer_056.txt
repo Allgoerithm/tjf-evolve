@@ -1,0 +1,30 @@
+SEARCH PROFILE #056
+Role Needed: Senior Data Engineer
+Engagement Type: Long-term client secondment
+Client Industry: Telecommunications
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Terraform
+- Apache Kafka
+- Looker
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+
+NICE-TO-HAVE SKILLS
+- Client workshops & presentations
+- Star schema & dimensional modeling
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGE REQUIREMENTS
+- Swedish (native)
+- Danish (native)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Stockholm, Sweden)
+
+PROJECT CONTEXT
+The client is consolidating multiple regional data warehouses into a single enterprise platform.
+
+Start Date: Within 4 weeks
+Duration: 9 months with a defined project end date

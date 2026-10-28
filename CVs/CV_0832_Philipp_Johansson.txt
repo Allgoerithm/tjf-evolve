@@ -1,0 +1,38 @@
+Philipp Johansson
+Pune, India | philipp.johansson@example.com | +46 348 1265235
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer with 6 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), KPI design, Tableau
+- Cloud & Infrastructure: Apache Kafka, Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization
+- Tools & Ways of Working: Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Nimbus Infrastructure Consulting | Krakow, Poland | 2025 - Present
+- Performed a cloud security audit for an energy and utilities client, remediating 50 critical findings within the first quarter.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Consultant | Stratos Cloud Consulting | Copenhagen, Denmark | 2023 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 15% across compute and storage resources.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analyst | Riverbend Analytics | Zurich, Switzerland | 2021 - 2023
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 40%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Denmark, Copenhagen, Denmark (2019)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Italian (Native)
+- Portuguese (Conversational)

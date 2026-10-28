@@ -1,0 +1,38 @@
+Viktor Mensah
+Hamburg, Germany | viktor.mensah@example.com | +45 637 4131065
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 7 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, SSAS, Star schema & dimensional modeling
+- Cloud & Infrastructure: Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Infrastructure as Code, Apache Kafka
+- Tools & Ways of Working: Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | BlueRiver Analytics | Dublin, Ireland | 2023 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Consultant | Meridian Digital Partners | Vienna, Austria | 2022 - 2023
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Implemented a data lake on Snowflake, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+
+IT Consultant | Silverline IT Consulting | Munich, Germany | 2021 - 2022
+- Optimized Looker data models and DAX measures, improving dashboard load times by 30%.
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 30 teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Technical University of Munich, Munich, Germany (2018)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- English (Native)
+- German (Professional working proficiency)

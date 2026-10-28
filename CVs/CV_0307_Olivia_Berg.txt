@@ -1,0 +1,38 @@
+Olivia Berg
+Vienna, Austria | olivia.berg@example.com | +33 792 2694244
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 3 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, SQL Server, Qlik Sense
+- Data Science & Machine Learning: Databricks, Jupyter, PyTorch
+- Cloud & Infrastructure: Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS), Kubernetes
+- Tools & Ways of Working: JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Northgate Technology Group | Stockholm, Sweden | 2024 - Present
+- Performed a cloud security audit for a logistics client, remediating 30 critical findings within the first quarter.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 40% uplift in conversion rate.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+
+Lead Data & AI Consultant | Orbis Technology Partners | Krakow, Poland | 2023 - 2024
+- Trained 3 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+- Set up A/B tests for new product features and evaluated the results with the product team.
+
+EDUCATION
+M.Sc. in Computational Science, Humboldt University of Berlin, Berlin, Germany (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Cloudera Certified Data Analyst
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Conversational)
+- English (Conversational)

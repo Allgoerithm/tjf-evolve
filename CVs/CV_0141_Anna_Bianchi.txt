@@ -1,0 +1,39 @@
+Anna Bianchi
+Stuttgart, Germany | anna.bianchi@example.com | +33 275 7875860
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 8 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Qlik Sense, SQL Server
+- Data Science & Machine Learning: Jupyter, Time Series Forecasting, MLOps
+- Cloud & Infrastructure: Snowflake on cloud, Terraform, Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | BlueRiver Analytics | Lisbon, Portugal | 2025 - Present
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 15%.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 2 teams.
+
+Senior Data Platform Consultant | Meridian Digital Partners | Madrid, Spain | 2024 - 2025
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+- Built a churn prediction model on 10+ customer records, enabling targeted retention campaigns for the public sector sector.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+
+IT Consultant | Vertex Data Partners | Stuttgart, Germany | 2022 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Developed an anomaly detection system for automotive manufacturing operations, flagging issues 12% faster than the previous manual process.
+
+EDUCATION
+B.Sc. in Mathematics, National University of Singapore, Singapore, Singapore (2017)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- German (Native)
+- Polish (Professional working proficiency)

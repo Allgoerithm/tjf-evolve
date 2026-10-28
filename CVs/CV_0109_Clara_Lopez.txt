@@ -1,0 +1,46 @@
+Clara Lopez
+Paris, France | clara.lopez@example.com | +1 876 9285964
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 13 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Stakeholder reporting & dashboarding, DAX
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), R, Natural Language Processing
+- Cloud & Infrastructure: Terraform, Apache Airflow, Kubernetes
+- Tools & Ways of Working: Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Nimbus Infrastructure Consulting | Madrid, Spain | 2022 - Present
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+- Trained 30 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Designed and implemented a multi-account AWS landing zone for a healthcare client, improving security posture and cost visibility.
+
+Lead Data & AI Consultant | Silverline IT Consulting | Vienna, Austria | 2019 - 2022
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led a proof-of-concept on demand forecasting for a logistics client, achieving a 25% reduction in forecast error versus the baseline.
+
+Data & Analytics Consultant | Harborview Consulting | Rotterdam, Netherlands | 2017 - 2019
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Implemented a data lake on Tableau, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+Analyst | Alpenglow Analytics | Madrid, Spain | 2014 - 2017
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed and delivered 15 interactive Databricks dashboards for e-commerce clients, reducing manual reporting effort by 22%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Humboldt University of Berlin, Berlin, Germany (2012)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Qlik Sense Data Architect Certification
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Fluent)
+- Italian (Conversational)

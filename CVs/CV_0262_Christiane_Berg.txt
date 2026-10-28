@@ -1,0 +1,33 @@
+Christiane Berg
+Paris, France | christiane.berg@example.com | +47 955 5661596
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Power BI, LookML, T-SQL, Snowflake, Power Query / M
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes
+- Tools & Ways of Working: Technical documentation, Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Clearwater Data Systems | Brussels, Belgium | 2025 - Present
+- Designed and delivered 5 interactive Tableau dashboards for healthcare clients, reducing manual reporting effort by 28%.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 30%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+
+Analyst | Lumen Analytics Group | Hamburg, Germany | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 30 disparate spreadsheets into a single source of truth.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+
+EDUCATION
+M.Sc. in Computational Science, Sorbonne University, Paris, France (2023)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Conversational)

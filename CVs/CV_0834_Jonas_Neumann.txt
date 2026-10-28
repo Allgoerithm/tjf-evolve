@@ -1,0 +1,38 @@
+Jonas Neumann
+Helsinki, Finland | jonas.neumann@example.com | +47 493 3486535
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 7 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, KPI design, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Linux system administration, Apache Kafka, Apache Airflow, Infrastructure as Code
+- Tools & Ways of Working: Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Fjord Digital Solutions | Munich, Germany | 2023 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Performed a cloud security audit for an energy and utilities client, remediating 10 critical findings within the first quarter.
+- Trained 50 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+Senior Data Engineer | Brightfield Consulting | Amsterdam, Netherlands | 2021 - 2023
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+IT Consultant | Northgate Technology Group | Singapore, Singapore | 2019 - 2021
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Led a cloud cost optimization initiative, identifying savings of 45% across compute and storage resources.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Hamburg, Hamburg, Germany (2018)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Italian (Native)
+- English (Professional working proficiency)

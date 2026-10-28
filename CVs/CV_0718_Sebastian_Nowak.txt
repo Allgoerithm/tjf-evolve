@@ -1,0 +1,47 @@
+Sebastian Nowak
+London, United Kingdom | sebastian.nowak@example.com | +39 680 6859002
+
+PROFESSIONAL SUMMARY
+Experienced Data & Analytics Consultant (10 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Tableau, Power BI
+- Data Science & Machine Learning: MLOps, Feature Engineering, Statistical Modeling
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), AWS (EC2, S3, Lambda, Redshift, Glue), Docker
+- Tools & Ways of Working: Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Lumen Analytics Group | Rotterdam, Netherlands | 2025 - Present
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 25%.
+- Developed a gradient boosting model to predict customer lifetime value for insurance clients, improving prediction accuracy by 20%.
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+
+IT Consultant | Ironwood Cloud Services | Munich, Germany | 2024 - 2025
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led a proof-of-concept on demand forecasting for a healthcare client, achieving a 25% reduction in forecast error versus the baseline.
+
+Consultant | Riverbend Analytics | Chicago, USA | 2023 - 2024
+- Built a recommendation engine for a banking client, contributing to a 15% increase in average order value.
+- Standardized cloud tagging and cost allocation practices for a healthcare client, improving budget accountability across 30 teams.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Northstar Cloud Group | Cologne, Germany | 2021 - 2023
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 18%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Implemented a data lake on Databricks, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Built Kafka-based streaming ingestion for 50 operational systems.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Warsaw, Warsaw, Poland (2014)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- Swedish (Native)
+- Dutch (Professional working proficiency)

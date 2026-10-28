@@ -1,0 +1,27 @@
+SEARCH PROFILE #001
+Role Needed: Senior Data Scientist
+Engagement Type: Short-term project engagement
+Client Industry: E-commerce
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- MLflow
+- Git
+- PyTorch
+
+NICE-TO-HAVE SKILLS
+- Apache Airflow
+- Requirements engineering
+- Causal Inference
+
+LANGUAGE REQUIREMENTS
+- English (fluent)
+- Hindi (business level)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Frankfurt, Germany)
+
+PROJECT CONTEXT
+An e-commerce client wants to set up a proper experimentation framework for A/B testing across their digital products.
+
+Start Date: ASAP
+Duration: 12 months, potential for permanent placement

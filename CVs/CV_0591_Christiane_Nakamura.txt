@@ -1,0 +1,41 @@
+Christiane Nakamura
+Warsaw, Poland | christiane.nakamura@example.com | +31 840 3170668
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 6 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Power Query / M, SSAS
+- Cloud & Infrastructure: Kubernetes, Snowflake on cloud, Linux system administration, Apache Airflow
+- Tools & Ways of Working: Data governance, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Evergreen Data Solutions | Lyon, France | 2024 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for an aviation client's data platform.
+
+Analyst | Nordwind Consulting | Berlin, Germany | 2023 - 2024
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 20 regional entities.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Consultant | Northgate Technology Group | Oslo, Norway | 2021 - 2023
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 15 teams.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Performed a cloud security audit for an e-commerce client, remediating 5 critical findings within the first quarter.
+
+EDUCATION
+MBA with focus on Information Management, University of Manchester, Manchester, United Kingdom (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- AWS Certified Solutions Architect - Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- Polish (Native)
+- Portuguese (Professional working proficiency)
+- Mandarin (Fluent)

@@ -1,0 +1,29 @@
+Deepa de Vries
+Lisbon, Portugal | deepa.de.vries@example.com | +49 529 1224255
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, Tableau, T-SQL, Snowflake, DAX, SSIS
+- Cloud & Infrastructure: Infrastructure as Code, Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Stratos Cloud Consulting | Paris, France | 2024 - Present
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 3 disparate spreadsheets into a single source of truth.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+
+EDUCATION
+M.Sc. in Business Informatics, Humboldt University of Berlin, Berlin, Germany (2023)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- German (Native)
+- Spanish (Fluent)
+- Portuguese (Fluent)

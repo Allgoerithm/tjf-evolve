@@ -1,0 +1,39 @@
+Dieter Dubois
+Lyon, France | dieter.dubois@example.com | +48 236 9216842
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Engineer with 9 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Docker, Cloud cost optimization, Microsoft Azure (Data Factory, Synapse, AKS)
+- Business Intelligence: Power BI
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | BlueRiver Analytics | Warsaw, Poland | 2022 - Present
+- Implemented a data lake on Databricks, ingesting and processing over 15 TB of data monthly from 15 source systems.
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for a logistics client's data platform.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 2 teams.
+
+Cloud Solutions Architect | Stratos Cloud Consulting | Bangalore, India | 2019 - 2022
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Led a cloud cost optimization initiative, identifying savings of 30% across compute and storage resources.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Cloud Solutions Architect | Clearwater Data Systems | Warsaw, Poland | 2016 - 2019
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+
+EDUCATION
+B.Sc. in Mathematics, Politecnico di Milano, Milan, Italy (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Swedish (Native)
+- English (Conversational)

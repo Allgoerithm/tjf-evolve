@@ -1,0 +1,39 @@
+Nina Lindqvist
+Austin, USA | nina.lindqvist@example.com | +34 815 8619450
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (7 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: dbt, KPI design, QlikView
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Databricks, MLOps
+- Cloud & Infrastructure: Terraform, Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Falcon Ridge Consulting | Lisbon, Portugal | 2024 - Present
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 25%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 10 teams.
+
+IT Consultant | Lumen Analytics Group | Dublin, Ireland | 2021 - 2024
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+Data & Analytics Consultant | Riverbend Analytics | Cologne, Germany | 2019 - 2021
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 5 regional entities.
+- Built an NLP pipeline to automatically classify 10+ incoming customer messages per day, reducing manual triage time by 30%.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+
+EDUCATION
+B.Sc. in Computer Science, University of Amsterdam, Amsterdam, Netherlands (2018)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Dutch (Native)
+- German (Conversational)
+- English (Fluent)

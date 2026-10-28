@@ -1,0 +1,33 @@
+Fatima Zimmermann
+Manchester, United Kingdom | fatima.zimmermann@example.com | +33 390 4655829
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (4 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Star schema & dimensional modeling, Stakeholder reporting & dashboarding, LookML, SSIS, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Evergreen Data Solutions | Zurich, Switzerland | 2023 - Present
+- Trained 50 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the consumer goods business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+IT Consultant | Meridian Digital Partners | Oslo, Norway | 2021 - 2023
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 3 analyst days per month for higher-value analysis.
+- Built a tabular SSAS model that serves 15 departments with consistent KPIs.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 10 interactive Power BI dashboards for automotive manufacturing clients, reducing manual reporting effort by 12%.
+
+EDUCATION
+B.Sc. in Business Informatics, Trinity College Dublin, Dublin, Ireland (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- French (Native)
+- Dutch (Professional working proficiency)

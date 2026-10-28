@@ -1,0 +1,40 @@
+Dmitri Schafer
+Brussels, Belgium | dmitri.schafer@example.com | +45 848 2139676
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 8 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, SQL Server, Data Warehouse design (Kimball/Inmon), T-SQL, Looker, DAX
+- Cloud & Infrastructure: Networking & VPC design, Cloud cost optimization
+- Tools & Ways of Working: Technical documentation, Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Kestrel Data Solutions | Bangalore, India | 2023 - Present
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 12%.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 3 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+
+Senior BI Consultant | Riverbend Analytics | Chicago, USA | 2020 - 2023
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+
+Analyst | Quantara Analytics | Oslo, Norway | 2017 - 2020
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the retail business.
+- Migrated 8 legacy reports to Tableau and trained business users on self-service exploration.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 15 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Technical University of Denmark, Copenhagen, Denmark (2017)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Google Professional Data Engineer
+
+LANGUAGES
+- English (Native)
+- Danish (Professional working proficiency)

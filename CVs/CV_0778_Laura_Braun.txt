@@ -1,0 +1,32 @@
+Laura Braun
+Stockholm, Sweden | laura.braun@example.com | +44 884 2540531
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 3 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, Power BI, LookML, SQL Server, Snowflake, SSAS
+- Cloud & Infrastructure: Kubernetes, Apache Airflow
+- Tools & Ways of Working: Stakeholder management, Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Brightfield Consulting | Paris, France | 2025 - Present
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 10 regional entities.
+- Designed and delivered 5 interactive Tableau dashboards for pharmaceuticals clients, reducing manual reporting effort by 45%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+Consultant | Harborview Consulting | Bangalore, India | 2023 - 2025
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 50 analyst days per month for higher-value analysis.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 28%.
+
+EDUCATION
+B.Sc. in Business Informatics, Technical University of Denmark, Copenhagen, Denmark (2021)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Mandarin (Native)
+- Dutch (Fluent)

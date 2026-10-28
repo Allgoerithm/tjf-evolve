@@ -1,0 +1,30 @@
+SEARCH PROFILE #083
+Role Needed: Data & Analytics Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Retail
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- Snowflake
+- Causal Inference
+- Looker
+
+NICE-TO-HAVE SKILLS
+- Apache Airflow
+- Feature Engineering
+- Technical documentation
+- Apache Kafka
+
+PREFERRED CERTIFICATIONS
+- Project Management Professional (PMP)
+
+LANGUAGE REQUIREMENTS
+- Swedish (fluent)
+
+Location / Remote Policy: Fully remote (client site: Warsaw, Poland)
+
+PROJECT CONTEXT
+An internal data platform program is behind schedule and needs a senior consultant able to unblock issues across multiple workstreams.
+
+Start Date: Next quarter
+Duration: 12 months, potential for permanent placement

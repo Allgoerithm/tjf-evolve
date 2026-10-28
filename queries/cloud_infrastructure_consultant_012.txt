@@ -1,0 +1,31 @@
+SEARCH PROFILE #012
+Role Needed: Cloud Solutions Architect
+Engagement Type: Interim / bridge staffing
+Client Industry: Telecommunications
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Terraform
+- Infrastructure as Code
+- Data governance
+
+NICE-TO-HAVE SKILLS
+- dbt
+- Apache Kafka
+- Linux system administration
+- Networking & VPC design
+- Requirements engineering
+
+PREFERRED CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGE REQUIREMENTS
+- Spanish (conversational)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Vienna, Austria)
+
+PROJECT CONTEXT
+The client's security team flagged gaps in their cloud landing zone that need to be remediated before an upcoming audit.
+
+Start Date: Within 2 weeks
+Duration: 6 months

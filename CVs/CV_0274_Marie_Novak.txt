@@ -1,0 +1,39 @@
+Marie Novak
+Prague, Czech Republic | marie.novak@example.com | +34 926 3686254
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Infrastructure Consultant with 7 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Linux system administration, Apache Airflow, Terraform, Microsoft Azure (Data Factory, Synapse, AKS), Apache Kafka
+- Business Intelligence: Power Query / M
+- Tools & Ways of Working: Stakeholder management, Technical documentation, Git
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Vantage Point Consulting | Amsterdam, Netherlands | 2024 - Present
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 50 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+DevOps Consultant | Clearwater Data Systems | Pune, India | 2021 - 2024
+- Implemented a data lake on Tableau, ingesting and processing over 30 TB of data monthly from 30 source systems.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for a public sector client's data platform.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+
+DevOps Consultant | Orbis Technology Partners | Zurich, Switzerland | 2020 - 2021
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Designed and implemented a multi-account AWS landing zone for an e-commerce client, improving security posture and cost visibility.
+- Performed a cloud security audit for a pharmaceuticals client, remediating 8 critical findings within the first quarter.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 5+ internal teams within the first year.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Toronto, Toronto, Canada (2019)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- French (Native)
+- Mandarin (Conversational)
+- German (Conversational)

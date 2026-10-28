@@ -1,0 +1,43 @@
+Jan Garcia
+Berlin, Germany | jan.garcia@example.com | +49 397 7104256
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 10 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, SSRS, Qlik Sense, Tableau, T-SQL, Looker
+- Cloud & Infrastructure: Linux system administration, Apache Airflow
+- Tools & Ways of Working: Technical documentation, Git, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Vertex Data Partners | Krakow, Poland | 2025 - Present
+- Designed and delivered 8 interactive Looker dashboards for pharmaceuticals clients, reducing manual reporting effort by 18%.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated the monthly reporting cycle for a retail client, freeing up 5 analyst days per month for higher-value analysis.
+
+BI Developer | Alpenglow Analytics | Pune, India | 2024 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 5 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Stratos Cloud Consulting | Barcelona, Spain | 2022 - 2024
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 30%.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the insurance business.
+
+BI Developer | Anchor Point Technologies | Pune, India | 2021 - 2022
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 10 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 50 regional entities.
+
+EDUCATION
+M.Sc. in Statistics, Universidad Politecnica de Madrid, Madrid, Spain (2015)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Dutch (Native)
+- French (Fluent)

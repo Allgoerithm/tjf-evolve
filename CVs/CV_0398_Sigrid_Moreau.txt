@@ -1,0 +1,35 @@
+Sigrid Moreau
+Berlin, Germany | sigrid.moreau@example.com | +39 760 8343221
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 4 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Snowflake, Stakeholder reporting & dashboarding
+- Data Science & Machine Learning: Apache Spark / PySpark, Natural Language Processing, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Terraform, Infrastructure as Code, Docker
+- Tools & Ways of Working: Git, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Orbis Technology Partners | Cologne, Germany | 2024 - Present
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 25%.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 30 disparate spreadsheets into a single source of truth.
+- Led the adoption of a self-service data platform on Snowflake, onboarding 15+ internal teams within the first year.
+
+Consultant | Beacon Insight Consulting | Austin, USA | 2022 - 2024
+- Trained 50 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 20 teams.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 40%.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 25%.
+
+EDUCATION
+M.Sc. in Statistics, Delft University of Technology, Delft, Netherlands (2021)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- English (Native)
+- Spanish (Professional working proficiency)
+- Italian (Fluent)

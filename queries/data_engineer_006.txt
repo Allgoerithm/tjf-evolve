@@ -1,0 +1,27 @@
+SEARCH PROFILE #006
+Role Needed: Analytics Engineer
+Engagement Type: Long-term client secondment
+Client Industry: Logistics
+Minimum Experience: 8+ years
+
+MUST-HAVE SKILLS
+- Infrastructure as Code
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Requirements engineering
+- Git
+- Snowflake on cloud
+
+NICE-TO-HAVE SKILLS
+- Tableau
+- Star schema & dimensional modeling
+
+LANGUAGE REQUIREMENTS
+- English (business level)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Zurich, Switzerland)
+
+PROJECT CONTEXT
+Data quality issues are undermining trust in downstream reporting and the client needs a data quality framework implemented.
+
+Start Date: Flexible, ideally within the next month
+Duration: 6 months, extension possible

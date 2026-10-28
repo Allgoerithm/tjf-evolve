@@ -1,0 +1,39 @@
+Nora Weber
+Frankfurt, Germany | nora.weber@example.com | +49 340 5199699
+
+PROFESSIONAL SUMMARY
+Versatile Data Scientist with 7 years in the field, combining expertise in data science and machine learning to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Data Science & Machine Learning: PyTorch, R, XGBoost / LightGBM, MLOps, TensorFlow, Jupyter
+- Cloud & Infrastructure: Docker, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Stratos Cloud Consulting | Toronto, Canada | 2024 - Present
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 40%.
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the insurance sector.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 20% uplift in conversion rate.
+
+Machine Learning Engineer | Clearwater Data Systems | Barcelona, Spain | 2022 - 2024
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 22%.
+- Developed a deep learning model to predict equipment failure for automotive manufacturing clients, improving prediction accuracy by 22%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Data Scientist | Anchor Point Technologies | Stockholm, Sweden | 2021 - 2022
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 12%.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+EDUCATION
+M.Sc. in Computer Science, National University of Singapore, Singapore, Singapore (2019)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Portuguese (Native)
+- Dutch (Conversational)
+- Polish (Conversational)

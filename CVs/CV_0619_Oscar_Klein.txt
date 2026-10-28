@@ -1,0 +1,35 @@
+Oscar Klein
+Oslo, Norway | oscar.klein@example.com | +49 429 5623913
+
+PROFESSIONAL SUMMARY
+Versatile Data & Analytics Consultant with 4 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: LookML, Qlik Sense, DAX
+- Data Science & Machine Learning: MLOps, Statistical Modeling, MLflow
+- Cloud & Infrastructure: Kubernetes, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Lumen Analytics Group | Munich, Germany | 2023 - Present
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 40%.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+Data & Analytics Consultant | Alpenglow Analytics | Copenhagen, Denmark | 2020 - 2023
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Led a proof-of-concept on demand forecasting for an e-commerce client, achieving a 45% reduction in forecast error versus the baseline.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 3 teams.
+
+EDUCATION
+M.Sc. in Software Engineering, Politecnico di Milano, Milan, Italy (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Hindi (Native)
+- French (Fluent)
+- Polish (Conversational)

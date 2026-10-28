@@ -1,0 +1,42 @@
+Dmitri Nowak
+Warsaw, Poland | dmitri.nowak@example.com | +48 637 3096460
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Platform Consultant (8 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: DAX, SSAS, KPI design
+- Data Science & Machine Learning: TensorFlow, R, Causal Inference
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Nordwind Consulting | Amsterdam, Netherlands | 2024 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for an aviation client's data platform.
+- Trained 5 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Built a churn prediction model on 2+ customer records, enabling targeted retention campaigns for the pharmaceuticals sector.
+
+Lead Data & AI Consultant | Falcon Ridge Consulting | Milan, Italy | 2021 - 2024
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Replaced 8 manual Excel reports with paginated SSRS reports delivered on a schedule.
+
+IT Consultant | Quantara Analytics | Zurich, Switzerland | 2018 - 2021
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Built analytics workloads on Google Cloud Platform for 30 product teams.
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+MBA with focus on Information Management, Trinity College Dublin, Dublin, Ireland (2017)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Google Professional Cloud Architect
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Professional working proficiency)

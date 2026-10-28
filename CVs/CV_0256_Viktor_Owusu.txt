@@ -1,0 +1,34 @@
+Viktor Owusu
+Cologne, Germany | viktor.owusu@example.com | +46 714 5780177
+
+PROFESSIONAL SUMMARY
+Versatile Senior BI Consultant with 4 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSAS, QlikView, Power BI, dbt, SSIS, KPI design
+- Cloud & Infrastructure: Apache Airflow, Apache Kafka
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Riverbend Analytics | Copenhagen, Denmark | 2024 - Present
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 3 regional entities.
+- Designed and delivered 15 interactive Power BI dashboards for banking clients, reducing manual reporting effort by 22%.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 30%.
+
+Consultant | Solaris Data Engineering | Pune, India | 2022 - 2024
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the banking business.
+- Trained 2 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Illinois, Chicago, USA (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Mandarin (Native)
+- French (Fluent)

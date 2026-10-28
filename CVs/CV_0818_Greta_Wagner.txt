@@ -1,0 +1,43 @@
+Greta Wagner
+Berlin, Germany | greta.wagner@example.com | +33 732 7934016
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 15 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Snowflake, SQL Server, DAX, T-SQL, SSIS
+- Cloud & Infrastructure: Infrastructure as Code, Terraform
+- Tools & Ways of Working: JIRA / Confluence, Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Orbis Technology Partners | Krakow, Poland | 2022 - Present
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 30 regional entities.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the public sector business.
+
+BI Developer | Kestrel Data Solutions | Stuttgart, Germany | 2020 - 2022
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Trained 15 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for a logistics client, freeing up 50 analyst days per month for higher-value analysis.
+
+Senior BI Consultant | Meridian Digital Partners | Pune, India | 2017 - 2020
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Consultant | Riverbend Analytics | Munich, Germany | 2013 - 2017
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 3 disparate spreadsheets into a single source of truth.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Humboldt University of Berlin, Berlin, Germany (2011)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- English (Fluent)
+- Portuguese (Professional working proficiency)

@@ -1,0 +1,28 @@
+Noah Patel
+Brussels, Belgium | noah.patel@example.com | +41 754 5706129
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer (2 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud, Linux system administration, Kubernetes, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Business Intelligence: LookML
+- Tools & Ways of Working: Data quality management, Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Northgate Technology Group | Warsaw, Poland | 2024 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Computer Science, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Swedish (Native)
+- Polish (Professional working proficiency)

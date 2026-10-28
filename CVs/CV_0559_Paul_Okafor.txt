@@ -1,0 +1,40 @@
+Paul Okafor
+Lisbon, Portugal | paul.okafor@example.com | +31 693 2712619
+
+PROFESSIONAL SUMMARY
+Versatile Senior BI Consultant with 7 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSIS, SSAS, QlikView, Data Warehouse design (Kimball/Inmon), Qlik Sense, Star schema & dimensional modeling
+- Cloud & Infrastructure: Snowflake on cloud, Kubernetes
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Northstar Cloud Group | Bangalore, India | 2023 - Present
+- Designed and delivered 2 interactive Power BI dashboards for telecommunications clients, reducing manual reporting effort by 15%.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Trained 3 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+Analytics Consultant | Pinnacle Business Intelligence GmbH | Lisbon, Portugal | 2022 - 2023
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 8 regional entities.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Defined and documented 8 KPIs together with business owners as the basis of the new reporting suite.
+
+Consultant | Cobalt Data Labs | London, United Kingdom | 2020 - 2022
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 5 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Statistics, University of Vienna, Vienna, Austria (2017)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- German (Native)
+- English (Fluent)

@@ -1,0 +1,40 @@
+Raj Bianchi
+Bangalore, India | raj.bianchi@example.com | +48 711 6153795
+
+PROFESSIONAL SUMMARY
+Cloud Engineer specializing in cloud infrastructure and platform engineering, with 7 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Networking & VPC design, Terraform, Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Kafka
+- Business Intelligence: Star schema & dimensional modeling
+- Tools & Ways of Working: Requirements engineering, Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Silverline IT Consulting | Chicago, USA | 2023 - Present
+- Built Azure-based data pipelines with orchestrated daily loads from 5 sources.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led the adoption of a self-service data platform on Power BI, onboarding 3+ internal teams within the first year.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Operated production workloads on AWS, including S3-based data lakes and Lambda functions.
+
+IT Consultant | Clearwater Data Systems | Pune, India | 2020 - 2023
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 30% and improving system uptime.
+- Designed a CI/CD pipeline that reduced release cycle time by 20% for an automotive manufacturing client's data platform.
+
+IT Consultant | Anchor Point Technologies | Dublin, Ireland | 2018 - 2020
+- Introduced Infrastructure-as-Code to replace manual environment setup for 3 teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Designed and implemented a multi-account AWS landing zone for an energy and utilities client, improving security posture and cost visibility.
+- Performed a cloud security audit for a healthcare client, remediating 30 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Charles University, Prague, Czech Republic (2019)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- German (Native)
+- English (Fluent)

@@ -1,0 +1,33 @@
+Carlos Schroder
+Frankfurt, Germany | carlos.schroder@example.com | +31 844 7312602
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: dbt, Power BI, SQL Server, Stakeholder reporting & dashboarding, Data Warehouse design (Kimball/Inmon), Star schema & dimensional modeling
+- Cloud & Infrastructure: Kubernetes, Networking & VPC design
+- Tools & Ways of Working: Git, Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Harborview Consulting | Madrid, Spain | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 5 disparate spreadsheets into a single source of truth.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 15 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+Analytics Consultant | Pinnacle Business Intelligence GmbH | Pune, India | 2023 - 2025
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 5 interactive Databricks dashboards for public sector clients, reducing manual reporting effort by 28%.
+- Automated the monthly reporting cycle for an insurance client, freeing up 3 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Eng. in Information Systems, Technical University of Munich, Munich, Germany (2023)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- Mandarin (Native)
+- Italian (Fluent)

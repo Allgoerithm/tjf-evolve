@@ -1,0 +1,27 @@
+SEARCH PROFILE #049
+Role Needed: Machine Learning Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Aviation
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Git
+- Feature Engineering
+- Model Deployment & Monitoring
+- Technical documentation
+- Cloud cost optimization
+
+NICE-TO-HAVE SKILLS
+- Causal Inference
+- XGBoost / LightGBM
+
+LANGUAGE REQUIREMENTS
+- Danish (fluent)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Stockholm, Sweden)
+
+PROJECT CONTEXT
+The client is starting a new initiative around demand prediction and needs someone to define the modeling approach end-to-end.
+
+Start Date: Within 4 weeks
+Duration: 9 months with a defined project end date

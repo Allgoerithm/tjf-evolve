@@ -1,0 +1,36 @@
+Oscar Dvorak
+Barcelona, Spain | oscar.dvorak@example.com | +32 206 4503809
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across insurance and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), KPI design, SQL Server
+- Data Science & Machine Learning: R, Model Deployment & Monitoring, XGBoost / LightGBM
+- Cloud & Infrastructure: Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE), Networking & VPC design
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Vertex Data Partners | Manchester, United Kingdom | 2024 - Present
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 25%.
+- Trained 20 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+Analyst | Lumen Analytics Group | Prague, Czech Republic | 2022 - 2024
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for a banking client's data platform.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 3 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Statistics, University of Hamburg, Hamburg, Germany (2021)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Portuguese (Native)
+- French (Professional working proficiency)
+- Mandarin (Professional working proficiency)

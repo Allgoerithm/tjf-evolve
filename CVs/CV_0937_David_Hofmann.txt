@@ -1,0 +1,39 @@
+David Hofmann
+Berlin, Germany | david.hofmann@example.com | +39 318 2753318
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Infrastructure Consultant with 7 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Airflow, Docker, Infrastructure as Code, Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS), Terraform
+- Business Intelligence: DAX
+- Tools & Ways of Working: Git, Data governance, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Kestrel Data Solutions | Berlin, Germany | 2025 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+DevOps Consultant | Riverbend Analytics | Zurich, Switzerland | 2023 - 2025
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for an energy and utilities client's data platform.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 20 TB of data monthly from 20 source systems.
+
+IT Consultant | Orbis Technology Partners | Lyon, France | 2021 - 2023
+- Performed a cloud security audit for a logistics client, remediating 3 critical findings within the first quarter.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Statistics, Universidad Politecnica de Madrid, Madrid, Spain (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- German (Native)
+- Spanish (Fluent)

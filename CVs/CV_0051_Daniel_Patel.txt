@@ -1,0 +1,48 @@
+Daniel Patel
+Hamburg, Germany | daniel.patel@example.com | +39 748 8835419
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 12 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Stakeholder reporting & dashboarding, KPI design
+- Data Science & Machine Learning: Causal Inference, Databricks, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Vertex Data Partners | Helsinki, Finland | 2024 - Present
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Applied NLP techniques to classify support tickets, cutting manual triage by 40%.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Led a cloud cost optimization initiative, identifying savings of 20% across compute and storage resources.
+
+Data & Analytics Consultant | Ironwood Cloud Services | Cologne, Germany | 2021 - 2024
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 25%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Senior Data Platform Consultant | Ironwood Cloud Services | Hamburg, Germany | 2018 - 2021
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Consultant | Vertex Data Partners | Lisbon, Portugal | 2016 - 2018
+- Performed a cloud security audit for a pharmaceuticals client, remediating 5 critical findings within the first quarter.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 25%.
+- Built an NLP pipeline to automatically classify 50+ incoming customer messages per day, reducing manual triage time by 15%.
+- Designed and delivered 15 interactive Qlik Sense dashboards for pharmaceuticals clients, reducing manual reporting effort by 22%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, National University of Singapore, Singapore, Singapore (2014)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Swedish (Native)
+- German (Fluent)
+- Italian (Professional working proficiency)

@@ -1,0 +1,37 @@
+Viktor Lambert
+Vienna, Austria | viktor.lambert@example.com | +49 400 4365093
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 5 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Star schema & dimensional modeling, Qlik Sense, Looker, QlikView, Power Query / M
+- Cloud & Infrastructure: Infrastructure as Code, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Git, Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Solaris Data Engineering | Frankfurt, Germany | 2025 - Present
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 5 regional entities.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 8 disparate spreadsheets into a single source of truth.
+- Automated the monthly reporting cycle for a retail client, freeing up 2 analyst days per month for higher-value analysis.
+
+Business Intelligence Consultant | Stratos Cloud Consulting | Barcelona, Spain | 2024 - 2025
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Cobalt Data Labs | Krakow, Poland | 2023 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Indian Institute of Technology Bombay, Mumbai, India (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Italian (Native)
+- Hindi (Professional working proficiency)

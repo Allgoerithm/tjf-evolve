@@ -1,0 +1,33 @@
+Laura Nielsen
+Milan, Italy | laura.nielsen@example.com | +1 729 3959593
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Scientist with 4 years in the field, combining expertise in data science and machine learning to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Data Science & Machine Learning: Apache Spark / PySpark, TensorFlow, Time Series Forecasting, Python (pandas, NumPy, scikit-learn), Computer Vision, MLflow
+- Cloud & Infrastructure: Apache Airflow, Cloud cost optimization
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Kestrel Data Solutions | Amsterdam, Netherlands | 2024 - Present
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Developed a XGBoost model to predict customer churn for banking clients, improving prediction accuracy by 18%.
+- Built a recommendation engine for a logistics client, contributing to a 12% increase in average order value.
+
+Analyst | Stratos Cloud Consulting | Frankfurt, Germany | 2022 - 2024
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Led a proof-of-concept on demand forecasting for a consumer goods client, achieving a 45% reduction in forecast error versus the baseline.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+EDUCATION
+B.Eng. in Information Systems, University of Illinois, Chicago, USA (2022)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- German (Native)
+- Polish (Conversational)

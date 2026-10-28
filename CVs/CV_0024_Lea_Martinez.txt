@@ -1,0 +1,40 @@
+Lea Martinez
+Warsaw, Poland | lea.martinez@example.com | +48 589 2932698
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Tableau, Star schema & dimensional modeling
+- Cloud & Infrastructure: Infrastructure as Code, Docker, Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | BlueRiver Analytics | London, United Kingdom | 2025 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Led the adoption of a self-service data platform on Tableau, onboarding 50+ internal teams within the first year.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+
+Analytics Engineer | Alpenglow Analytics | Frankfurt, Germany | 2023 - 2025
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Designed and delivered 3 interactive Tableau dashboards for public sector clients, reducing manual reporting effort by 25%.
+
+Analytics Engineer | Evergreen Data Solutions | Manchester, United Kingdom | 2022 - 2023
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the healthcare business.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+EDUCATION
+M.Sc. in Statistics, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- French (Native)
+- English (Professional working proficiency)

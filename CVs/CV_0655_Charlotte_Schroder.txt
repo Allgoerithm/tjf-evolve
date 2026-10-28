@@ -1,0 +1,38 @@
+Charlotte Schroder
+Frankfurt, Germany | charlotte.schroder@example.com | +41 454 9107596
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Data Warehouse design (Kimball/Inmon), Qlik Sense
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Snowflake on cloud, Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Nordwind Consulting | Warsaw, Poland | 2025 - Present
+- Implemented automated data quality checks on 3 critical tables.
+- Implemented a data lake on Snowflake, ingesting and processing over 50 TB of data monthly from 50 source systems.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 8 teams.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+Consultant | Lumen Analytics Group | Stuttgart, Germany | 2024 - 2025
+- Packaged data services as Docker images to ensure consistent deployments.
+- Performed a cloud security audit for a public sector client, remediating 10 critical findings within the first quarter.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Managed cloud environments as code with Terraform modules shared across 10 teams.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Delft University of Technology, Delft, Netherlands (2024)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- HashiCorp Certified: Terraform Associate
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Dutch (Native)
+- Swedish (Fluent)

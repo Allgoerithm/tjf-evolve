@@ -1,0 +1,45 @@
+Matthias Dubois
+Hamburg, Germany | matthias.dubois@example.com | +45 611 3241098
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (10 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SSIS, Power BI
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data quality management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Stratos Cloud Consulting | Lisbon, Portugal | 2023 - Present
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 10 teams.
+- Trained 20 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 18%.
+
+IT Consultant | Anchor Point Technologies | London, United Kingdom | 2021 - 2023
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Led the adoption of a self-service data platform on Power BI, onboarding 5+ internal teams within the first year.
+- Designed and implemented a multi-account AWS landing zone for a logistics client, improving security posture and cost visibility.
+
+Senior Data Engineer | Nimbus Infrastructure Consulting | Milan, Italy | 2020 - 2021
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+
+IT Consultant | Falcon Ridge Consulting | London, United Kingdom | 2018 - 2020
+- Performed a cloud security audit for a pharmaceuticals client, remediating 50 critical findings within the first quarter.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for an energy and utilities client's data platform.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the energy and utilities business.
+
+EDUCATION
+M.Sc. in Data Science, Delft University of Technology, Delft, Netherlands (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Certified Data Analytics - Specialty
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- English (Native)
+- Dutch (Fluent)

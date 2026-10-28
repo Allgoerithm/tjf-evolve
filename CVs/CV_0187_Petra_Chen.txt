@@ -1,0 +1,33 @@
+Petra Chen
+London, United Kingdom | petra.chen@example.com | +48 183 7304831
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Data Warehouse design (Kimball/Inmon), Star schema & dimensional modeling
+- Cloud & Infrastructure: Docker, Terraform, Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | TerraLogic Consulting | Frankfurt, Germany | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 3 disparate spreadsheets into a single source of truth.
+- Led a cloud cost optimization initiative, identifying savings of 18% across compute and storage resources.
+- Led the adoption of a self-service data platform on Tableau, onboarding 15+ internal teams within the first year.
+
+Consultant | Quantara Analytics | Madrid, Spain | 2023 - 2025
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+B.Sc. in Business Informatics, KTH Royal Institute of Technology, Stockholm, Sweden (2022)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- French (Native)
+- Swedish (Conversational)
+- Portuguese (Conversational)

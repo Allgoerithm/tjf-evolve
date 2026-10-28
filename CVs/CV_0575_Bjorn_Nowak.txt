@@ -1,0 +1,38 @@
+Bjorn Nowak
+Hamburg, Germany | bjorn.nowak@example.com | +34 632 2474165
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 5 years of experience delivering business intelligence and enterprise reporting solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Snowflake, Star schema & dimensional modeling, SSIS, SQL Server, Tableau
+- Cloud & Infrastructure: Apache Kafka, Snowflake on cloud
+- Tools & Ways of Working: Technical documentation, Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Falcon Ridge Consulting | Amsterdam, Netherlands | 2024 - Present
+- Trained 20 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Defined and documented 5 KPIs together with business owners as the basis of the new reporting suite.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 18%.
+
+Senior BI Consultant | Meridian Digital Partners | Vienna, Austria | 2023 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 30 regional entities.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+
+BI Developer | TerraLogic Consulting | Cologne, Germany | 2022 - 2023
+- Designed and delivered 8 interactive Databricks dashboards for pharmaceuticals clients, reducing manual reporting effort by 28%.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 3 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Applied Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden (2020)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Spanish (Native)
+- German (Professional working proficiency)

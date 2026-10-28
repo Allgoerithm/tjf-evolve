@@ -1,0 +1,32 @@
+SEARCH PROFILE #070
+Role Needed: Cloud Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Banking
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Agile / Scrum
+- Networking & VPC design
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Looker
+
+NICE-TO-HAVE SKILLS
+- Client workshops & presentations
+- Terraform
+- Snowflake on cloud
+
+PREFERRED CERTIFICATIONS
+- SnowPro Core Certification
+- Google Professional Data Engineer
+
+LANGUAGE REQUIREMENTS
+- Spanish (fluent)
+- French (native)
+
+Location / Remote Policy: Fully remote (client site: Lyon, France)
+
+PROJECT CONTEXT
+A banking client's infrastructure costs have grown out of control and they need an optimization and governance initiative.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 6 months

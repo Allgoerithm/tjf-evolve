@@ -1,0 +1,28 @@
+Raj Moreau
+Hamburg, Germany | raj.moreau@example.com | +1 237 6545494
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Infrastructure Consultant with 2 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Kubernetes, Snowflake on cloud, Docker, Apache Airflow, Linux system administration, Networking & VPC design
+- Business Intelligence: Looker
+- Tools & Ways of Working: Git, Agile / Scrum, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Quantara Analytics | Brussels, Belgium | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 10 teams.
+- Led the adoption of a self-service data platform on Tableau, onboarding 50+ internal teams within the first year.
+
+EDUCATION
+M.Sc. in Business Informatics, Charles University, Prague, Czech Republic (2023)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGES
+- French (Native)
+- English (Fluent)
+- Spanish (Professional working proficiency)

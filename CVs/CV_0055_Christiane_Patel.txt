@@ -1,0 +1,36 @@
+Christiane Patel
+Rotterdam, Netherlands | christiane.patel@example.com | +1 142 8926364
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 3 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Qlik Sense, SSIS
+- Data Science & Machine Learning: Time Series Forecasting, MLflow, TensorFlow
+- Cloud & Infrastructure: Networking & VPC design, Kubernetes, Snowflake on cloud
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Falcon Ridge Consulting | Manchester, United Kingdom | 2025 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+- Built statistical models to explain the drivers of equipment failure and presented them to management.
+- Managed cloud environments as code with Terraform modules shared across 5 teams.
+
+Data & Analytics Consultant | Northstar Cloud Group | Stuttgart, Germany | 2024 - 2025
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 35%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Hamburg, Hamburg, Germany (2023)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Hindi (Native)
+- German (Conversational)

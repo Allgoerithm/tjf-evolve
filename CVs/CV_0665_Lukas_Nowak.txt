@@ -1,0 +1,41 @@
+Lukas Nowak
+Stockholm, Sweden | lukas.nowak@example.com | +33 651 6913549
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (7 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Stakeholder reporting & dashboarding, DAX
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Natural Language Processing, XGBoost / LightGBM
+- Cloud & Infrastructure: Snowflake on cloud, Cloud cost optimization, Terraform
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Vertex Data Partners | Toronto, Canada | 2025 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+- Introduced Git-based workflows with code review for the analytics team.
+- Automated the monthly reporting cycle for a banking client, freeing up 15 analyst days per month for higher-value analysis.
+- Designed and implemented a multi-account AWS landing zone for a consumer goods client, improving security posture and cost visibility.
+
+Analyst | Vertex Data Partners | Bangalore, India | 2022 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Built a recommendation engine for a consumer goods client, contributing to a 28% increase in average order value.
+- Standardized cloud tagging and cost allocation practices for a consumer goods client, improving budget accountability across 15 teams.
+
+Lead Data & AI Consultant | BlueRiver Analytics | Lisbon, Portugal | 2020 - 2022
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 50 regional entities.
+- Led the adoption of a self-service data platform on Snowflake, onboarding 8+ internal teams within the first year.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Statistics, Delft University of Technology, Delft, Netherlands (2019)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Microsoft Certified: Azure Data Engineer Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Dutch (Native)
+- Italian (Professional working proficiency)

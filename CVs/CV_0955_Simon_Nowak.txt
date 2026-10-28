@@ -1,0 +1,40 @@
+Simon Nowak
+Berlin, Germany | simon.nowak@example.com | +44 114 6287844
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 5 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Power Query / M, Power BI, Qlik Sense, Star schema & dimensional modeling, T-SQL
+- Cloud & Infrastructure: Infrastructure as Code, Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Nordwind Consulting | Milan, Italy | 2025 - Present
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 30%.
+- Designed and delivered 10 interactive Databricks dashboards for consumer goods clients, reducing manual reporting effort by 35%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 2 disparate spreadsheets into a single source of truth.
+
+BI Developer | BlueRiver Analytics | Hamburg, Germany | 2023 - 2025
+- Automated the monthly reporting cycle for a retail client, freeing up 10 analyst days per month for higher-value analysis.
+- Migrated 20 legacy reports to Tableau and trained business users on self-service exploration.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 2 regional entities.
+
+Business Intelligence Consultant | BlueRiver Analytics | Lyon, France | 2022 - 2023
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the retail business.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 15 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Business Informatics, National University of Singapore, Singapore, Singapore (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Spanish (Native)
+- Portuguese (Fluent)

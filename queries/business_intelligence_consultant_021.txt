@@ -1,0 +1,28 @@
+SEARCH PROFILE #021
+Role Needed: Analytics Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Energy and utilities
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- SSRS
+- Cloud cost optimization
+- Snowflake
+- Tableau
+
+NICE-TO-HAVE SKILLS
+- JIRA / Confluence
+- Data governance
+- Looker
+
+LANGUAGE REQUIREMENTS
+- English (native)
+- Italian (fluent)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Austin, USA)
+
+PROJECT CONTEXT
+The existing Looker environment has grown organically over several years and needs to be re-architected for performance and maintainability.
+
+Start Date: ASAP
+Duration: 12 months, potential for permanent placement

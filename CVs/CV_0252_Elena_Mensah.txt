@@ -1,0 +1,33 @@
+Elena Mensah
+Madrid, Spain | elena.mensah@example.com | +34 987 1371380
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Data Warehouse design (Kimball/Inmon), Power BI
+- Cloud & Infrastructure: Infrastructure as Code, Apache Kafka, Docker, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Clearwater Data Systems | Lisbon, Portugal | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 30 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analytics Engineer | Northgate Technology Group | London, United Kingdom | 2023 - 2025
+- Automated the monthly reporting cycle for a pharmaceuticals client, freeing up 20 analyst days per month for higher-value analysis.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Warsaw, Warsaw, Poland (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- TOGAF 9 Certified
+
+LANGUAGES
+- Swedish (Native)
+- Italian (Fluent)

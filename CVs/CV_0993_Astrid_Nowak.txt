@@ -1,0 +1,41 @@
+Astrid Nowak
+Toronto, Canada | astrid.nowak@example.com | +33 644 3053673
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 6 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Data Warehouse design (Kimball/Inmon), SSIS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Networking & VPC design, Docker, Kubernetes
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Northstar Cloud Group | Stockholm, Sweden | 2023 - Present
+- Standardized cloud tagging and cost allocation practices for an automotive manufacturing client, improving budget accountability across 8 teams.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Managed cloud environments as code with Terraform modules shared across 10 teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+
+IT Consultant | Riverbend Analytics | Cologne, Germany | 2021 - 2023
+- Orchestrated 5+ data pipelines with Apache Airflow, including alerting and backfills.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Built Kafka-based streaming ingestion for 15 operational systems.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Senior Data Engineer | BlueRiver Analytics | Zurich, Switzerland | 2019 - 2021
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for a public sector client's data platform.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Business Informatics, Trinity College Dublin, Dublin, Ireland (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- English (Native)
+- Polish (Conversational)
+- Mandarin (Fluent)

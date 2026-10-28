@@ -1,0 +1,41 @@
+Nina Neumann
+Austin, USA | nina.neumann@example.com | +33 790 4439877
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant with 6 years of experience delivering business intelligence and enterprise reporting solutions for clients in telecommunications. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, QlikView, Stakeholder reporting & dashboarding, SQL Server, Power Query / M, LookML
+- Cloud & Infrastructure: Infrastructure as Code, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Stakeholder management, Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Stratos Cloud Consulting | Madrid, Spain | 2025 - Present
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Trained 30 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+
+Analyst | Stratos Cloud Consulting | Paris, France | 2022 - 2025
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 50 regional entities.
+- Automated the monthly reporting cycle for an insurance client, freeing up 30 analyst days per month for higher-value analysis.
+- Implemented automated data quality checks on 8 critical tables.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Built a tabular SSAS model that serves 50 departments with consistent KPIs.
+
+Analytics Consultant | Harborview Consulting | London, United Kingdom | 2021 - 2022
+- Designed and delivered 20 interactive Power BI dashboards for healthcare clients, reducing manual reporting effort by 20%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Mathematics, University of Amsterdam, Amsterdam, Netherlands (2018)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- German (Native)
+- French (Fluent)
+- Hindi (Conversational)

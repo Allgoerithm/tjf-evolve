@@ -1,0 +1,41 @@
+Noah Neumann
+Prague, Czech Republic | noah.neumann@example.com | +47 991 3499027
+
+PROFESSIONAL SUMMARY
+Results-driven Machine Learning Engineer with 6 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: Causal Inference, R, MLflow, Feature Engineering, Python (pandas, NumPy, scikit-learn), XGBoost / LightGBM
+- Cloud & Infrastructure: Apache Airflow, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Client workshops & presentations, Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Orbis Technology Partners | Madrid, Spain | 2024 - Present
+- Set up A/B tests for new product features and evaluated the results with the product team.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 15% uplift in conversion rate.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+IT Consultant | Clearwater Data Systems | Zurich, Switzerland | 2021 - 2024
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+- Built an NLP pipeline to automatically classify 5+ incoming customer messages per day, reducing manual triage time by 25%.
+
+Applied Data Scientist | Orbis Technology Partners | Cologne, Germany | 2018 - 2021
+- Built a recommendation engine for a public sector client, contributing to a 12% increase in average order value.
+- Led a proof-of-concept on demand forecasting for a retail client, achieving a 25% reduction in forecast error versus the baseline.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 25%.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+
+EDUCATION
+B.Sc. in Business Informatics, Technical University of Munich, Munich, Germany (2018)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- Hindi (Conversational)
+- Dutch (Conversational)

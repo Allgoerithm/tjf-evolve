@@ -1,0 +1,45 @@
+Hiroshi Bianchi
+Stockholm, Sweden | hiroshi.bianchi@example.com | +47 511 6585933
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 11 years of experience delivering business intelligence and enterprise reporting solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Power Query / M, SSAS, SSRS, Stakeholder reporting & dashboarding, DAX
+- Cloud & Infrastructure: Apache Airflow, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Requirements engineering, Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Alpenglow Analytics | Frankfurt, Germany | 2024 - Present
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Automated the monthly reporting cycle for a banking client, freeing up 50 analyst days per month for higher-value analysis.
+- Introduced dbt for transformation and testing, covering 2+ models in the analytics layer.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Kestrel Data Solutions | Lyon, France | 2021 - 2024
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 18%.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Business Intelligence Consultant | Northstar Cloud Group | Dublin, Ireland | 2018 - 2021
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Designed and delivered 15 interactive Tableau dashboards for energy and utilities clients, reducing manual reporting effort by 25%.
+
+Business Intelligence Consultant | Brightfield Consulting | Madrid, Spain | 2016 - 2018
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the retail business.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 30 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Denmark, Copenhagen, Denmark (2013)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Hindi (Native)
+- Swedish (Professional working proficiency)
+- Danish (Conversational)

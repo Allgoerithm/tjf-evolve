@@ -1,0 +1,34 @@
+Camille Singh
+Cologne, Germany | camille.singh@example.com | +48 127 6326635
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 4 years of consulting experience across insurance and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Looker, SSRS
+- Cloud & Infrastructure: Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue), Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Technical documentation, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Fjord Digital Solutions | Toronto, Canada | 2024 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Implemented a data lake on Databricks, ingesting and processing over 2 TB of data monthly from 2 source systems.
+
+Data Engineer | Nordwind Consulting | Krakow, Poland | 2022 - 2024
+- Led the adoption of a self-service data platform on Power BI, onboarding 3+ internal teams within the first year.
+- Designed and implemented a multi-account AWS landing zone for a consumer goods client, improving security posture and cost visibility.
+- Trained 10 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Universidad Politecnica de Madrid, Madrid, Spain (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Tableau Desktop Specialist
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Fluent)

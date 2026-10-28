@@ -1,0 +1,35 @@
+Simon Wolf
+Munich, Germany | simon.wolf@example.com | +32 689 7130697
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (3 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Data Warehouse design (Kimball/Inmon), Looker
+- Cloud & Infrastructure: Snowflake on cloud, Docker, Kubernetes, Infrastructure as Code
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Quantara Analytics | Milan, Italy | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Consultant | Solaris Data Engineering | Toronto, Canada | 2024 - 2025
+- Automated the monthly reporting cycle for an aviation client, freeing up 10 analyst days per month for higher-value analysis.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 3 teams.
+- Implemented automated data quality checks on 15 critical tables.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Illinois, Chicago, USA (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Hindi (Native)
+- Portuguese (Fluent)
+- Italian (Conversational)

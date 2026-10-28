@@ -1,0 +1,30 @@
+SEARCH PROFILE #096
+Role Needed: Analytics Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Aviation
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- Snowflake
+- SSIS
+- KPI design
+- Tableau
+
+NICE-TO-HAVE SKILLS
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Requirements engineering
+
+PREFERRED CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGE REQUIREMENTS
+- German (business level)
+
+Location / Remote Policy: Fully remote (client site: Hamburg, Germany)
+
+PROJECT CONTEXT
+The BI team is understaffed ahead of a major annual planning cycle and needs additional hands-on dashboard development capacity.
+
+Start Date: Within 4 weeks
+Duration: 6 months

@@ -1,0 +1,34 @@
+Camille Chen
+Lisbon, Portugal | camille.chen@example.com | +34 492 8078070
+
+PROFESSIONAL SUMMARY
+DevOps Consultant with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Infrastructure as Code, Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE), Terraform, Docker
+- Business Intelligence: Looker
+- Tools & Ways of Working: JIRA / Confluence, Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Nordwind Consulting | Pune, India | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for an insurance client's data platform.
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+
+Cloud Solutions Architect | Alpenglow Analytics | Hamburg, Germany | 2023 - 2025
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+
+EDUCATION
+M.Sc. in Applied Mathematics, ETH Zurich, Zurich, Switzerland (2023)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- English (Native)
+- French (Conversational)

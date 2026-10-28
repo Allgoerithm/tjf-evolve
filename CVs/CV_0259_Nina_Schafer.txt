@@ -1,0 +1,35 @@
+Nina Schafer
+Krakow, Poland | nina.schafer@example.com | +47 732 7372236
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 3 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, SSIS, Looker
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Apache Kafka, AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud
+- Tools & Ways of Working: Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Stratos Cloud Consulting | Munich, Germany | 2025 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for an insurance client's data platform.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 50 disparate spreadsheets into a single source of truth.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 30 teams.
+
+Consultant | Fjord Digital Solutions | Paris, France | 2024 - 2025
+- Led the adoption of a self-service data platform on Tableau, onboarding 20+ internal teams within the first year.
+- Implemented a data lake on Tableau, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Hamburg, Hamburg, Germany (2022)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Project Management Professional (PMP)
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Polish (Native)
+- Italian (Conversational)
+- English (Professional working proficiency)

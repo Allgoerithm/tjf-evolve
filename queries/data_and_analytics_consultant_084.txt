@@ -1,0 +1,31 @@
+SEARCH PROFILE #084
+Role Needed: Data & Analytics Consultant
+Engagement Type: Permanent hire
+Client Industry: Logistics
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- TensorFlow
+- Docker
+- LookML
+- Data quality management
+
+NICE-TO-HAVE SKILLS
+- T-SQL
+- XGBoost / LightGBM
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGE REQUIREMENTS
+- Swedish (conversational)
+- French (business level)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Austin, USA)
+
+PROJECT CONTEXT
+An internal data platform program is behind schedule and needs a senior consultant able to unblock issues across multiple workstreams.
+
+Start Date: Flexible, ideally within the next month
+Duration: 2 months (short-term)

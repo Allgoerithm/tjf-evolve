@@ -1,0 +1,36 @@
+Wolfgang Bauer
+Frankfurt, Germany | wolfgang.bauer@example.com | +31 787 9497419
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 3 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, T-SQL, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue), Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Stratos Cloud Consulting | Copenhagen, Denmark | 2025 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 50 teams.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 5 teams.
+
+Consultant | Evergreen Data Solutions | Dublin, Ireland | 2023 - 2025
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Managed backlog and documentation in JIRA and Confluence for 8 concurrent workstreams.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Applied Mathematics, ETH Zurich, Zurich, Switzerland (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Google Professional Cloud Architect
+- TOGAF 9 Certified
+
+LANGUAGES
+- Dutch (Native)
+- Portuguese (Professional working proficiency)

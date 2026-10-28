@@ -1,0 +1,34 @@
+Sarah Kruger
+Barcelona, Spain | sarah.kruger@example.com | +45 291 3175384
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Power Query / M, SSAS
+- Cloud & Infrastructure: Docker, Apache Kafka, Linux system administration, Snowflake on cloud
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Stratos Cloud Consulting | Manchester, United Kingdom | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 2 teams.
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+- Trained 10 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+Data Engineer | BlueRiver Analytics | Bangalore, India | 2024 - 2025
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the healthcare business.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Toronto, Toronto, Canada (2023)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Databricks Certified Machine Learning Associate
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Italian (Native)
+- German (Fluent)

@@ -1,0 +1,39 @@
+Oscar Nielsen
+Vienna, Austria | oscar.nielsen@example.com | +48 662 5658935
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Consultant (7 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Kafka, AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud, Docker, Linux system administration, Networking & VPC design
+- Business Intelligence: dbt
+- Tools & Ways of Working: Git, Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Vertex Data Partners | Milan, Italy | 2024 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+Cloud Engineer | Fjord Digital Solutions | Stockholm, Sweden | 2021 - 2024
+- Led the adoption of a self-service data platform on Databricks, onboarding 3+ internal teams within the first year.
+- Managed cloud environments as code with Terraform modules shared across 2 teams.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Led a cloud cost optimization initiative, identifying savings of 20% across compute and storage resources.
+- Drove cloud cost optimization across 3 accounts through rightsizing and reserved capacity.
+
+Consultant | Quantara Analytics | Vienna, Austria | 2019 - 2021
+- Designed and implemented a multi-account AWS landing zone for a healthcare client, improving security posture and cost visibility.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Indian Institute of Technology Bombay, Mumbai, India (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- German (Native)
+- Hindi (Fluent)

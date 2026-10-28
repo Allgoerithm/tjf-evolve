@@ -1,0 +1,30 @@
+SEARCH PROFILE #022
+Role Needed: Senior BI Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Insurance
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- Technical documentation
+- Git
+- Snowflake
+- Infrastructure as Code
+
+NICE-TO-HAVE SKILLS
+- Data Warehouse design (Kimball/Inmon)
+- SSAS
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGE REQUIREMENTS
+- Dutch (conversational)
+- Polish (fluent)
+
+Location / Remote Policy: Fully remote (client site: Dublin, Ireland)
+
+PROJECT CONTEXT
+The existing Qlik Sense environment has grown organically over several years and needs to be re-architected for performance and maintainability.
+
+Start Date: ASAP
+Duration: 3 months, extension likely

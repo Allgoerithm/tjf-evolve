@@ -1,0 +1,37 @@
+Maximilian Petrov
+Milan, Italy | maximilian.petrov@example.com | +47 360 2367176
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 2 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Snowflake, Qlik Sense
+- Data Science & Machine Learning: MLOps, Natural Language Processing, Feature Engineering
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Brightfield Consulting | Austin, USA | 2025 - Present
+- Developed an anomaly detection system for healthcare operations, flagging issues 12% faster than the previous manual process.
+- Set up A/B tests for new product features and evaluated the results with the product team.
+- Performed a cloud security audit for an automotive manufacturing client, remediating 30 critical findings within the first quarter.
+- Trained 30 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Drove cloud cost optimization across 8 accounts through rightsizing and reserved capacity.
+
+IT Consultant | Greystone Data & AI | Paris, France | 2023 - 2025
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 30 disparate spreadsheets into a single source of truth.
+- Built a recommendation engine for a telecommunications client, contributing to a 45% increase in average order value.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Technical University of Munich, Munich, Germany (2024)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Polish (Native)
+- Mandarin (Fluent)
+- Dutch (Conversational)

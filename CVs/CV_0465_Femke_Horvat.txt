@@ -1,0 +1,28 @@
+Femke Horvat
+Dublin, Ireland | femke.horvat@example.com | +32 147 3533149
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: LookML, QlikView, Data Warehouse design (Kimball/Inmon), SSAS, Star schema & dimensional modeling, Qlik Sense
+- Cloud & Infrastructure: Docker, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Requirements engineering, Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Beacon Insight Consulting | Brussels, Belgium | 2024 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Computational Science, National University of Singapore, Singapore, Singapore (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Spanish (Native)
+- Polish (Professional working proficiency)

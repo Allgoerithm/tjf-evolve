@@ -1,0 +1,40 @@
+Viktor Novak
+Hamburg, Germany | viktor.novak@example.com | +48 730 3452025
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 5 years of experience delivering business intelligence and enterprise reporting solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, LookML, Power Query / M, QlikView, SSRS, SQL Server
+- Cloud & Infrastructure: Apache Airflow, Cloud cost optimization
+- Tools & Ways of Working: Technical documentation, Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | BlueRiver Analytics | Madrid, Spain | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Designed and delivered 50 interactive Power BI dashboards for banking clients, reducing manual reporting effort by 18%.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analytics Consultant | Evergreen Data Solutions | Zurich, Switzerland | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 20 disparate spreadsheets into a single source of truth.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+Analytics Consultant | Nimbus Infrastructure Consulting | Milan, Italy | 2022 - 2024
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the insurance business.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced dbt for transformation and testing, covering 50+ models in the analytics layer.
+
+EDUCATION
+M.Sc. in Computer Science, Technical University of Munich, Munich, Germany (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Conversational)
+- Polish (Professional working proficiency)

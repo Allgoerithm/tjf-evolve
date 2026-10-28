@@ -1,0 +1,44 @@
+Antoine Mensah
+Helsinki, Finland | antoine.mensah@example.com | +48 883 6702263
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 14 years of experience delivering business intelligence and enterprise reporting solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Qlik Sense, T-SQL, Snowflake, Power Query / M, KPI design
+- Cloud & Infrastructure: Linux system administration, Apache Kafka
+- Tools & Ways of Working: Git, JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Nordwind Consulting | Lyon, France | 2023 - Present
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 18%.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 3 regional entities.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 15 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Nimbus Infrastructure Consulting | Stuttgart, Germany | 2020 - 2023
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+Consultant | Orbis Technology Partners | Singapore, Singapore | 2017 - 2020
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the e-commerce business.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+Consultant | Northstar Cloud Group | Helsinki, Finland | 2014 - 2017
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 30 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+
+EDUCATION
+B.Sc. in Computer Science, Imperial College London, London, United Kingdom (2012)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Certified Kubernetes Administrator (CKA)
+- SnowPro Core Certification
+
+LANGUAGES
+- German (Native)
+- Spanish (Conversational)

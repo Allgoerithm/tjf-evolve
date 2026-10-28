@@ -1,0 +1,35 @@
+Pawel Ivanov
+London, United Kingdom | pawel.ivanov@example.com | +32 448 1562294
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 2 years of experience delivering data science and machine learning solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Model Deployment & Monitoring, Apache Spark / PySpark, Computer Vision, XGBoost / LightGBM, Python (pandas, NumPy, scikit-learn), PyTorch
+- Cloud & Infrastructure: Terraform, Infrastructure as Code
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Vertex Data Partners | Krakow, Poland | 2025 - Present
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Mentored a team of 8 junior data scientists on feature engineering and model evaluation best practices.
+- Developed a XGBoost model to predict equipment failure for consumer goods clients, improving prediction accuracy by 12%.
+
+Machine Learning Engineer | TerraLogic Consulting | Bangalore, India | 2023 - 2025
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Built a recommendation engine for a healthcare client, contributing to a 12% increase in average order value.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 22% uplift in conversion rate.
+
+EDUCATION
+M.Sc. in Applied Mathematics, National University of Singapore, Singapore, Singapore (2024)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Google Professional Data Engineer
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Portuguese (Native)
+- French (Conversational)
+- Swedish (Conversational)

@@ -1,0 +1,35 @@
+Simon Fischer
+Brussels, Belgium | simon.fischer@example.com | +32 251 6637850
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Consultant (3 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Terraform, Infrastructure as Code, Networking & VPC design, Docker, Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Business Intelligence: T-SQL
+- Tools & Ways of Working: Data governance, Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Anchor Point Technologies | Zurich, Switzerland | 2025 - Present
+- Performed a cloud security audit for an insurance client, remediating 5 critical findings within the first quarter.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+DevOps Consultant | TerraLogic Consulting | Cologne, Germany | 2024 - 2025
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Managed backlog and documentation in JIRA and Confluence for 15 concurrent workstreams.
+- Designed a CI/CD pipeline that reduced release cycle time by 20% for a retail client's data platform.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+B.Eng. in Information Systems, University of Warsaw, Warsaw, Poland (2023)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Swedish (Native)
+- German (Professional working proficiency)
+- Danish (Professional working proficiency)

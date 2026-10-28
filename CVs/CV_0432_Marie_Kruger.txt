@@ -1,0 +1,37 @@
+Marie Kruger
+Vienna, Austria | marie.kruger@example.com | +39 236 4925811
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 2 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, dbt, QlikView
+- Data Science & Machine Learning: Databricks, Statistical Modeling, TensorFlow
+- Cloud & Infrastructure: Terraform, Kubernetes, Docker
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Lumen Analytics Group | Brussels, Belgium | 2025 - Present
+- Led a proof-of-concept on demand forecasting for a consumer goods client, achieving a 35% reduction in forecast error versus the baseline.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Trained 5 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+Lead Data & AI Consultant | Vantage Point Consulting | Hamburg, Germany | 2024 - 2025
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 45%.
+- Developed a deep learning model to predict equipment failure for insurance clients, improving prediction accuracy by 12%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 2 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Manchester, Manchester, United Kingdom (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- French (Fluent)
+- German (Professional working proficiency)

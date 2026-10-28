@@ -1,0 +1,43 @@
+Lena Lopez
+Bangalore, India | lena.lopez@example.com | +48 424 4273121
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (11 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Snowflake, T-SQL
+- Data Science & Machine Learning: Causal Inference, XGBoost / LightGBM, Apache Spark / PySpark
+- Cloud & Infrastructure: Terraform, Linux system administration, Networking & VPC design
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Evergreen Data Solutions | Brussels, Belgium | 2024 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Automated the monthly reporting cycle for a retail client, freeing up 30 analyst days per month for higher-value analysis.
+- Developed a logistic regression model to predict fraud risk for energy and utilities clients, improving prediction accuracy by 12%.
+
+Lead Data & AI Consultant | Meridian Digital Partners | Berlin, Germany | 2021 - 2024
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 30%.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for a logistics client's data platform.
+- Designed and delivered 10 interactive Looker dashboards for public sector clients, reducing manual reporting effort by 22%.
+
+Consultant | Fjord Digital Solutions | Madrid, Spain | 2019 - 2021
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 35%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+Data & Analytics Consultant | Kestrel Data Solutions | Toronto, Canada | 2016 - 2019
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the retail business.
+- Led the adoption of a self-service data platform on Databricks, onboarding 50+ internal teams within the first year.
+
+EDUCATION
+MBA with focus on Information Management, University of Oslo, Oslo, Norway (2013)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Danish (Native)
+- Dutch (Fluent)

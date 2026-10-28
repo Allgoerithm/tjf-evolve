@@ -1,0 +1,38 @@
+Katarzyna Mensah
+Hamburg, Germany | katarzyna.mensah@example.com | +47 103 2359694
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 9 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, QlikView, T-SQL
+- Data Science & Machine Learning: Time Series Forecasting, Causal Inference, Feature Engineering
+- Cloud & Infrastructure: Cloud cost optimization, Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Alpenglow Analytics | Madrid, Spain | 2022 - Present
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the banking business.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 28%.
+
+IT Consultant | Harborview Consulting | Warsaw, Poland | 2019 - 2022
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 50 analyst days per month for higher-value analysis.
+- Built a recommendation engine for a pharmaceuticals client, contributing to a 45% increase in average order value.
+- Performed a cloud security audit for a healthcare client, remediating 5 critical findings within the first quarter.
+
+Senior Data Platform Consultant | Cobalt Data Labs | Frankfurt, Germany | 2016 - 2019
+- Trained 5 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Led the adoption of a self-service data platform on Power BI, onboarding 30+ internal teams within the first year.
+- Led a proof-of-concept on demand forecasting for a pharmaceuticals client, achieving a 12% reduction in forecast error versus the baseline.
+
+EDUCATION
+B.Sc. in Business Informatics, Technical University of Munich, Munich, Germany (2015)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Professional working proficiency)

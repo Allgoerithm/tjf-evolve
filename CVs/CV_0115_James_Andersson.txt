@@ -1,0 +1,36 @@
+James Andersson
+Copenhagen, Denmark | james.andersson@example.com | +46 182 6748231
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 2 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Looker, dbt
+- Data Science & Machine Learning: XGBoost / LightGBM, PyTorch, R
+- Cloud & Infrastructure: Docker, Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Git, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Beacon Insight Consulting | Austin, USA | 2025 - Present
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the aviation business.
+- Mentored a team of 10 junior data scientists on feature engineering and model evaluation best practices.
+- Led the adoption of a self-service data platform on Tableau, onboarding 50+ internal teams within the first year.
+
+Data & Analytics Consultant | BlueRiver Analytics | Singapore, Singapore | 2023 - 2025
+- Performed a cloud security audit for an insurance client, remediating 5 critical findings within the first quarter.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Led a proof-of-concept on demand forecasting for a banking client, achieving a 18% reduction in forecast error versus the baseline.
+
+EDUCATION
+MBA with focus on Information Management, University of Toronto, Toronto, Canada (2024)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Dutch (Native)
+- Mandarin (Professional working proficiency)
+- German (Conversational)

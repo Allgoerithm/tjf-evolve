@@ -1,0 +1,541 @@
+{
+ "labels": {
+  "business_intelligence_consultant_007": {
+   "CV_0009_Jan_Lopez": 2,
+   "CV_0099_Lena_Patel": 1,
+   "CV_0420_Charlotte_Chen": 1,
+   "CV_0600_Sebastian_Ivanov": 2,
+   "CV_0781_Elena_Braun": 1,
+   "CV_0955_Simon_Nowak": 1,
+   "CV_0977_Charlotte_Schwarz": 2
+  },
+  "business_intelligence_consultant_010": {
+   "CV_0152_Amara_Nielsen": 1,
+   "CV_0205_Jan_Moreau": 2,
+   "CV_0235_Jonas_Schwarz": 1,
+   "CV_0282_Oscar_Andersson": 1,
+   "CV_0394_Antoine_Mensah": 1,
+   "CV_0453_Priya_Hofmann": 2,
+   "CV_0862_Lukas_Larsen": 2,
+   "CV_0889_Jonas_Moreau": 1
+  },
+  "business_intelligence_consultant_016": {
+   "CV_0167_Lena_Nowak": 1,
+   "CV_0216_Fatima_Moreau": 1,
+   "CV_0581_Charlotte_Hoffmann": 2,
+   "CV_0909_Sophie_Singh": 1,
+   "CV_0987_Wei_Gupta": 1
+  },
+  "business_intelligence_consultant_021": {
+   "CV_0004_Stefan_Mensah": 1,
+   "CV_0161_Freya_Nowak": 1,
+   "CV_0162_Wei_Garcia": 2,
+   "CV_0413_Pawel_Sharma": 2,
+   "CV_0463_Kwame_Lopez": 1,
+   "CV_0580_Dieter_Nowak": 2,
+   "CV_0776_Maximilian_Bauer": 1,
+   "CV_0890_Dmitri_Schafer": 1
+  },
+  "business_intelligence_consultant_022": {
+   "CV_0512_Hannah_Berg": 2,
+   "CV_0611_Charlotte_Bauer": 1,
+   "CV_0641_Giulia_Berg": 1,
+   "CV_0794_Daniel_Nowak": 1,
+   "CV_0825_Marco_Owusu": 1
+  },
+  "business_intelligence_consultant_030": {
+   "CV_0229_Philipp_Owusu": 1,
+   "CV_0265_Pawel_Lopez": 1,
+   "CV_0355_Nora_Lindqvist": 1,
+   "CV_0375_Jan_Fischer": 1,
+   "CV_0391_Katarzyna_de_Vries": 1,
+   "CV_0726_Camille_Koch": 1,
+   "CV_0900_Thomas_Dubois": 2
+  },
+  "business_intelligence_consultant_045": {
+   "CV_0312_Viktor_Novak": 2,
+   "CV_0362_Marco_Schroder": 1,
+   "CV_0437_Petra_Patel": 1,
+   "CV_0443_Stefan_Rossi": 1,
+   "CV_0557_David_Kowalski": 1,
+   "CV_0854_Felix_Hoffmann": 1
+  },
+  "business_intelligence_consultant_052": {
+   "CV_0022_Ute_Horvat": 1,
+   "CV_0127_Tobias_Larsen": 1,
+   "CV_0364_Michael_Richter": 1,
+   "CV_0519_Kwame_Nakamura": 2,
+   "CV_0532_Aisha_Iyer": 1
+  },
+  "business_intelligence_consultant_065": {
+   "CV_0223_Bjorn_Weber": 1,
+   "CV_0261_Yuki_Neumann": 1,
+   "CV_0315_Lena_Sharma": 1,
+   "CV_0418_Simon_Bauer": 1,
+   "CV_0614_Yuki_Jansen": 2,
+   "CV_0870_Chloe_Fischer": 1
+  },
+  "business_intelligence_consultant_066": {
+   "CV_0096_Diego_Schroder": 1,
+   "CV_0178_Diego_Nielsen": 2,
+   "CV_0556_Sarah_Schmidt": 1,
+   "CV_0744_Matthias_de_Vries": 1,
+   "CV_0868_Michael_Neumann": 1,
+   "CV_0918_Carlos_Weber": 1
+  },
+  "business_intelligence_consultant_072": {
+   "CV_0221_Elena_Wagner": 1,
+   "CV_0379_Charlotte_Patel": 1,
+   "CV_0458_Nora_Jansen": 1,
+   "CV_0474_Antoine_Jansen": 2,
+   "CV_0544_Deepa_de_Vries": 1,
+   "CV_0721_Rosa_Larsen": 1,
+   "CV_0845_Wei_Zimmermann": 1
+  },
+  "business_intelligence_consultant_081": {
+   "CV_0175_Clara_Schafer": 1,
+   "CV_0408_Nina_Neumann": 2,
+   "CV_0517_Philipp_Gupta": 1,
+   "CV_0536_Viktor_Bianchi": 2,
+   "CV_0677_Laura_Weber": 1,
+   "CV_0770_Stefan_Schroder": 2,
+   "CV_0933_Dmitri_Fischer": 1
+  },
+  "business_intelligence_consultant_086": {
+   "CV_0094_Aisha_Nowak": 1,
+   "CV_0149_Liam_Johansson": 1,
+   "CV_0277_Charlotte_Neumann": 1,
+   "CV_0473_Felix_Patel": 1,
+   "CV_0648_Olivia_Schroder": 2,
+   "CV_0692_Ahmed_Hofmann": 1,
+   "CV_0746_Nora_Iyer": 1
+  },
+  "business_intelligence_consultant_094": {
+   "CV_0076_Alessandro_Horvat": 1,
+   "CV_0183_Charlotte_Garcia": 1,
+   "CV_0273_Paul_Owusu": 1,
+   "CV_0349_Elena_Singh": 2,
+   "CV_0504_Felix_Braun": 1,
+   "CV_0996_Femke_Lindqvist": 1
+  },
+  "business_intelligence_consultant_097": {
+   "CV_0104_Klaus_Okafor": 2,
+   "CV_0486_Felix_Hofmann": 1,
+   "CV_0527_Klaus_Moreau": 1,
+   "CV_0838_Dieter_Wolf": 1,
+   "CV_0880_Felix_Muller": 1,
+   "CV_0945_Rosa_Weber": 1
+  },
+  "cloud_infrastructure_consultant_004": {
+   "CV_0125_Henrik_Horvat": 1,
+   "CV_0190_Hannah_Richter": 2,
+   "CV_0213_Dieter_Weber": 1,
+   "CV_0305_Michael_Petrov": 2,
+   "CV_0445_Matthias_Horvat": 1,
+   "CV_0572_Lena_Rossi": 2,
+   "CV_0576_Matthias_Fischer": 1,
+   "CV_0720_Petra_Nakamura": 1,
+   "CV_0953_Katarzyna_Larsen": 1
+  },
+  "cloud_infrastructure_consultant_011": {
+   "CV_0012_Alessandro_Martinez": 1,
+   "CV_0035_Viktor_Sharma": 1,
+   "CV_0134_Bjorn_Patel": 1,
+   "CV_0329_Wolfgang_Nakamura": 1,
+   "CV_0523_Antoine_Petrov": 1,
+   "CV_0595_Ingrid_Fischer": 2,
+   "CV_0637_Julia_de_Vries": 2,
+   "CV_0860_Freya_Neumann": 1,
+   "CV_0964_Deepa_Schwarz": 2
+  },
+  "cloud_infrastructure_consultant_012": {
+   "CV_0250_Klaus_Johansson": 1,
+   "CV_0253_Sebastian_Nielsen": 2,
+   "CV_0358_Viktor_Singh": 1,
+   "CV_0467_Chloe_Neumann": 1,
+   "CV_0470_Petra_Iyer": 1,
+   "CV_0759_Felix_Kruger": 2,
+   "CV_0772_Fatima_Owusu": 2,
+   "CV_0905_Femke_Klein": 1,
+   "CV_0937_David_Hofmann": 1
+  },
+  "cloud_infrastructure_consultant_070": {
+   "CV_0032_Jan_Lindqvist": 1,
+   "CV_0203_Raj_Moreau": 1,
+   "CV_0226_Dmitri_Mensah": 1,
+   "CV_0597_Bjorn_Richter": 2,
+   "CV_0663_Sigrid_Sharma": 2,
+   "CV_0742_Ingrid_Petrov": 1,
+   "CV_0923_Lukas_Novak": 1
+  },
+  "cloud_infrastructure_consultant_077": {
+   "CV_0018_Laura_Mensah": 1,
+   "CV_0027_Maximilian_Schafer": 1,
+   "CV_0119_Hiroshi_Koch": 1,
+   "CV_0274_Marie_Novak": 1,
+   "CV_0317_Anna_Iyer": 1,
+   "CV_0593_Hannah_Johansson": 2,
+   "CV_0815_Tobias_Mensah": 1
+  },
+  "cloud_infrastructure_consultant_082": {
+   "CV_0129_Liam_Neumann": 1,
+   "CV_0246_Nina_Patel": 1,
+   "CV_0431_Priya_Fischer": 1,
+   "CV_0468_Olivia_Larsen": 1,
+   "CV_0602_Sarah_Muller": 2,
+   "CV_0741_Thomas_Iyer": 1
+  },
+  "cloud_infrastructure_consultant_092": {
+   "CV_0170_James_Kovac": 2,
+   "CV_0218_Wolfgang_Richter": 1,
+   "CV_0270_Marie_Moreau": 1,
+   "CV_0345_Priya_Johansson": 1,
+   "CV_0382_Jonas_Martinez": 2,
+   "CV_0696_Dieter_Ivanov": 1,
+   "CV_0735_Viktor_Jansen": 1,
+   "CV_0749_Clara_Chen": 2,
+   "CV_0853_Isabelle_Singh": 1
+  },
+  "data_and_analytics_consultant_002": {
+   "CV_0117_Pawel_Nielsen": 1,
+   "CV_0255_Sigrid_Fischer": 2,
+   "CV_0389_David_de_Vries": 1,
+   "CV_0414_Aisha_Larsen": 1,
+   "CV_0429_Stefan_Ivanov": 1,
+   "CV_0800_Camille_Gupta": 2,
+   "CV_0855_Pawel_Zimmermann": 2,
+   "CV_0974_Wei_Weber": 1
+  },
+  "data_and_analytics_consultant_008": {
+   "CV_0097_Priya_Muller": 2,
+   "CV_0306_Simon_Chen": 1,
+   "CV_0640_Katarzyna_Klein": 1,
+   "CV_0690_Priya_Zimmermann": 1,
+   "CV_0767_Bjorn_Gupta": 1
+  },
+  "data_and_analytics_consultant_009": {
+   "CV_0106_Lena_Schroder": 1,
+   "CV_0207_Kwame_Larsen": 1,
+   "CV_0377_Freya_Dubois": 1,
+   "CV_0405_Jan_Ivanov": 1,
+   "CV_0869_Felix_Iyer": 2
+  },
+  "data_and_analytics_consultant_013": {
+   "CV_0037_Clara_Sharma": 1,
+   "CV_0110_Nina_Okafor": 2,
+   "CV_0126_Daniel_Schafer": 1,
+   "CV_0365_Maximilian_Petrov": 1,
+   "CV_0399_Marie_Singh": 1,
+   "CV_0550_Carlos_Berg": 1,
+   "CV_0947_Rosa_Patel": 1
+  },
+  "data_and_analytics_consultant_014": {
+   "CV_0081_Nora_Dvorak": 1,
+   "CV_0150_Elena_Larsen": 2,
+   "CV_0369_James_Kruger": 1,
+   "CV_0619_Oscar_Klein": 1,
+   "CV_0622_Matthias_Neumann": 2,
+   "CV_0782_Camille_Muller": 2,
+   "CV_0808_Wolfgang_Chen": 1,
+   "CV_0989_Lea_Andersson": 1
+  },
+  "data_and_analytics_consultant_020": {
+   "CV_0020_Marco_Lambert": 1,
+   "CV_0055_Christiane_Patel": 1,
+   "CV_0340_Klaus_Novak": 2,
+   "CV_0417_Anna_Singh": 1,
+   "CV_0432_Marie_Kruger": 2,
+   "CV_0928_Klaus_Mensah": 1,
+   "CV_0980_Petra_Mensah": 1
+  },
+  "data_and_analytics_consultant_025": {
+   "CV_0066_Katarzyna_Mensah": 1,
+   "CV_0091_Wolfgang_Berg": 2,
+   "CV_0141_Anna_Bianchi": 1,
+   "CV_0268_Noah_de_Vries": 1,
+   "CV_0383_Paul_Rossi": 1,
+   "CV_0403_Lukas_Chen": 2,
+   "CV_0506_Lea_Lambert": 1,
+   "CV_0643_Sebastian_Hofmann": 2
+  },
+  "data_and_analytics_consultant_028": {
+   "CV_0180_Laura_Hofmann": 1,
+   "CV_0204_Bjorn_Fischer": 2,
+   "CV_0480_Bjorn_Mensah": 1,
+   "CV_0566_Antoine_Kruger": 1,
+   "CV_0647_Elena_Schwarz": 1,
+   "CV_0666_Priya_Nielsen": 1,
+   "CV_0796_Nora_Owusu": 2,
+   "CV_0882_Emma_Lindqvist": 2,
+   "CV_0886_Alessandro_Hofmann": 1
+  },
+  "data_and_analytics_consultant_042": {
+   "CV_0209_Freya_Horvat": 2,
+   "CV_0244_Sigrid_Rossi": 1,
+   "CV_0292_Marie_Berg": 2,
+   "CV_0410_James_Bauer": 1,
+   "CV_0514_Oscar_Dvorak": 1,
+   "CV_0787_Sigrid_Hofmann": 2,
+   "CV_0901_Petra_Petrov": 1
+  },
+  "data_and_analytics_consultant_046": {
+   "CV_0192_Philipp_Wagner": 2,
+   "CV_0425_Astrid_Bauer": 1,
+   "CV_0509_Michael_Ivanov": 1,
+   "CV_0548_Kwame_Iyer": 2,
+   "CV_0747_Greta_Johansson": 2,
+   "CV_0763_Simon_Mensah": 1,
+   "CV_0804_Ute_Okafor": 1,
+   "CV_0971_Diego_Braun": 1
+  },
+  "data_and_analytics_consultant_071": {
+   "CV_0016_Klaus_Martinez": 1,
+   "CV_0090_Sebastian_Kovac": 2,
+   "CV_0475_Katarzyna_Wolf": 1,
+   "CV_0719_Elena_Ivanov": 1,
+   "CV_0753_Carlos_de_Vries": 1,
+   "CV_0803_Petra_Nowak": 1
+  },
+  "data_engineer_006": {
+   "CV_0024_Lea_Martinez": 1,
+   "CV_0071_Tobias_Horvat": 1,
+   "CV_0105_Julia_Schafer": 2,
+   "CV_0397_Freya_Kowalski": 1,
+   "CV_0428_Carlos_Rossi": 2,
+   "CV_0940_Katarzyna_Chen": 1
+  },
+  "data_engineer_015": {
+   "CV_0039_Sophie_Wolf": 1,
+   "CV_0171_Kwame_Johansson": 1,
+   "CV_0462_David_Schmidt": 1,
+   "CV_0545_Lukas_Garcia": 1,
+   "CV_0578_Simon_Ivanov": 1,
+   "CV_0896_Hiroshi_Gupta": 1,
+   "CV_0934_Freya_Lambert": 2
+  },
+  "data_engineer_017": {
+   "CV_0089_Bjorn_Martinez": 1,
+   "CV_0137_Femke_Bauer": 1,
+   "CV_0230_Raj_Wagner": 1,
+   "CV_0259_Nina_Schafer": 1,
+   "CV_0540_Dieter_Neumann": 2,
+   "CV_0610_Ahmed_Johansson": 1,
+   "CV_0910_Laura_Horvat": 1
+  },
+  "data_engineer_019": {
+   "CV_0174_Matthias_Schwarz": 1,
+   "CV_0266_Grace_Dvorak": 1,
+   "CV_0460_Carlos_Kovac": 1,
+   "CV_0728_Ute_Petrov": 2,
+   "CV_0779_Yuki_Petrov": 1,
+   "CV_0844_Simon_Moreau": 1,
+   "CV_0929_Rosa_Iyer": 1
+  },
+  "data_engineer_023": {
+   "CV_0008_Marco_Okafor": 1,
+   "CV_0564_Elena_Rossi": 1,
+   "CV_0582_Freya_Andersson": 1,
+   "CV_0679_Grace_Owusu": 1,
+   "CV_0904_Ingrid_Lambert": 1,
+   "CV_0915_Sigrid_Jansen": 2,
+   "CV_0942_Jonas_Garcia": 1
+  },
+  "data_engineer_024": {
+   "CV_0070_Simon_Kovac": 2,
+   "CV_0111_Felix_de_Vries": 2,
+   "CV_0264_Yuki_Chen": 1,
+   "CV_0680_Sophie_Dubois": 1,
+   "CV_0681_David_Larsen": 1,
+   "CV_0873_Daniel_Dubois": 1,
+   "CV_0936_Wolfgang_Muller": 2
+  },
+  "data_engineer_026": {
+   "CV_0139_Yuki_Weber": 1,
+   "CV_0344_Wei_Nakamura": 2,
+   "CV_0565_Noah_Muller": 1,
+   "CV_0583_Jonas_Sharma": 1,
+   "CV_0591_Christiane_Nakamura": 1,
+   "CV_0708_Bjorn_Nakamura": 2,
+   "CV_0716_Chloe_Schwarz": 1,
+   "CV_0810_Emma_Schafer": 1,
+   "CV_0911_Sophie_Chen": 2
+  },
+  "data_engineer_036": {
+   "CV_0006_Oscar_Ivanov": 1,
+   "CV_0206_Clara_Jansen": 1,
+   "CV_0219_Mia_Muller": 1,
+   "CV_0406_Anna_Zimmermann": 1,
+   "CV_0481_Marco_Jansen": 1,
+   "CV_0609_Freya_Okafor": 2,
+   "CV_0697_Giulia_Nakamura": 1,
+   "CV_0903_Christiane_Hoffmann": 2
+  },
+  "data_engineer_040": {
+   "CV_0063_Camille_Lindqvist": 1,
+   "CV_0193_Fatima_Kruger": 1,
+   "CV_0254_Sebastian_Muller": 1,
+   "CV_0258_Mia_Weber": 2,
+   "CV_0586_Oscar_Gupta": 1
+  },
+  "data_engineer_048": {
+   "CV_0120_Lea_Patel": 2,
+   "CV_0208_Laura_Martinez": 1,
+   "CV_0316_Jonas_Gupta": 2,
+   "CV_0338_Oscar_Owusu": 1,
+   "CV_0452_Laura_Berg": 1,
+   "CV_0496_Paul_Wagner": 1,
+   "CV_0704_Nina_Hoffmann": 2,
+   "CV_0888_Daniel_Wolf": 1,
+   "CV_0919_Priya_Braun": 1
+  },
+  "data_engineer_050": {
+   "CV_0087_Elena_Gupta": 2,
+   "CV_0421_Deepa_Ivanov": 2,
+   "CV_0446_Dmitri_Rossi": 2,
+   "CV_0483_Olivia_Schwarz": 1,
+   "CV_0508_Emma_Sharma": 1,
+   "CV_0687_Hiroshi_Lopez": 1,
+   "CV_0991_Priya_Martinez": 1
+  },
+  "data_engineer_057": {
+   "CV_0040_Giulia_Singh": 2,
+   "CV_0085_Dmitri_Iyer": 1,
+   "CV_0444_Alessandro_Hoffmann": 1,
+   "CV_0598_Amara_Dubois": 2,
+   "CV_0879_Sigrid_Muller": 1,
+   "CV_0966_Felix_Wolf": 1
+  },
+  "data_engineer_059": {
+   "CV_0023_Alessandro_Nielsen": 1,
+   "CV_0088_Grace_Johansson": 1,
+   "CV_0147_Petra_Wagner": 1,
+   "CV_0384_Julia_Johansson": 1,
+   "CV_0401_Rosa_Owusu": 2,
+   "CV_0761_Sigrid_Owusu": 1,
+   "CV_0891_Greta_Hoffmann": 2,
+   "CV_0927_Giulia_Owusu": 1
+  },
+  "data_engineer_079": {
+   "CV_0002_James_Dubois": 1,
+   "CV_0079_Lena_Iyer": 2,
+   "CV_0118_Lena_Klein": 1,
+   "CV_0165_Wei_Sharma": 2,
+   "CV_0286_Viktor_Gupta": 2,
+   "CV_0438_Ingrid_Hoffmann": 1,
+   "CV_0621_Wolfgang_Bauer": 1,
+   "CV_0659_Marie_Koch": 1,
+   "CV_0788_Isabelle_Berg": 1
+  },
+  "data_engineer_100": {
+   "CV_0181_Femke_Lopez": 1,
+   "CV_0539_Charlotte_Lopez": 2,
+   "CV_0623_Noah_Koch": 1,
+   "CV_0652_Carlos_Muller": 1,
+   "CV_0662_Dieter_Lambert": 2,
+   "CV_0682_Ingrid_Neumann": 1,
+   "CV_0850_Petra_Martinez": 1,
+   "CV_0993_Astrid_Nowak": 2
+  },
+  "data_scientist_001": {
+   "CV_0146_Wei_Novak": 1,
+   "CV_0321_Camille_Lopez": 1,
+   "CV_0323_Sebastian_Owusu": 2,
+   "CV_0495_Raj_Andersson": 2,
+   "CV_0676_Viktor_Richter": 1,
+   "CV_0743_Oscar_Horvat": 1,
+   "CV_0986_Wei_Kovac": 1
+  },
+  "data_scientist_005": {
+   "CV_0156_Paul_Bianchi": 2,
+   "CV_0385_Emily_Andersson": 1,
+   "CV_0387_Yuki_Muller": 1,
+   "CV_0752_Pawel_Kowalski": 1,
+   "CV_0908_Marie_Horvat": 1,
+   "CV_0967_Felix_Klein": 1
+  },
+  "data_scientist_032": {
+   "CV_0078_Ahmed_Hoffmann": 1,
+   "CV_0275_Femke_Schafer": 1,
+   "CV_0374_Emily_Schmidt": 1,
+   "CV_0422_Daniel_Chen": 1,
+   "CV_0426_Fatima_Bauer": 2
+  },
+  "data_scientist_034": {
+   "CV_0019_James_Schmidt": 1,
+   "CV_0130_Wei_Martinez": 1,
+   "CV_0712_Lena_Andersson": 1,
+   "CV_0732_Carlos_Mensah": 2,
+   "CV_0733_Stefan_Schafer": 1,
+   "CV_0774_Felix_Dubois": 1,
+   "CV_0939_Marie_Mensah": 1
+  },
+  "data_scientist_038": {
+   "CV_0048_Dmitri_Johansson": 1,
+   "CV_0569_Simon_Petrov": 1,
+   "CV_0607_Hiroshi_Jansen": 1,
+   "CV_0698_Tobias_Andersson": 2,
+   "CV_0812_Olivia_Hofmann": 1,
+   "CV_0961_Klaus_Jansen": 1
+  },
+  "data_scientist_047": {
+   "CV_0044_Noah_Richter": 1,
+   "CV_0279_Chloe_Jansen": 1,
+   "CV_0354_Nina_Ivanov": 1,
+   "CV_0620_Viktor_Bauer": 2,
+   "CV_0645_Marie_Garcia": 2,
+   "CV_0740_Klaus_Horvat": 1,
+   "CV_0840_Simon_Lopez": 1
+  },
+  "data_scientist_051": {
+   "CV_0082_Petra_Richter": 1,
+   "CV_0324_Julia_Chen": 1,
+   "CV_0497_Fatima_Mensah": 2,
+   "CV_0563_Giulia_Schroder": 1,
+   "CV_0639_Diego_Petrov": 1,
+   "CV_0724_Michael_Dubois": 1,
+   "CV_0729_Astrid_Klein": 1
+  },
+  "data_scientist_055": {
+   "CV_0043_Lea_Kowalski": 1,
+   "CV_0092_Sigrid_Nowak": 1,
+   "CV_0095_Stefan_Lindqvist": 1,
+   "CV_0646_Lena_Nielsen": 1,
+   "CV_0984_Pawel_Bauer": 2
+  },
+  "data_scientist_064": {
+   "CV_0075_Aisha_Klein": 1,
+   "CV_0360_Felix_Schwarz": 1,
+   "CV_0393_Pawel_Nakamura": 2,
+   "CV_0542_Raj_Gupta": 1,
+   "CV_0616_Thomas_Kovac": 1,
+   "CV_0988_Giulia_Zimmermann": 1
+  },
+  "data_scientist_085": {
+   "CV_0038_Dieter_Lopez": 1,
+   "CV_0233_Petra_Lambert": 2,
+   "CV_0424_Felix_Andersson": 1,
+   "CV_0472_Lea_Weber": 1,
+   "CV_0587_Isabelle_Rossi": 1,
+   "CV_0835_Pieter_Zimmermann": 1,
+   "CV_0999_Matthias_Iyer": 2
+  },
+  "data_scientist_091": {
+   "CV_0047_Clara_Becker": 1,
+   "CV_0212_Grace_Moreau": 2,
+   "CV_0301_Michael_Horvat": 1,
+   "CV_0547_Elena_Schafer": 1,
+   "CV_0649_Hiroshi_Owusu": 1
+  },
+  "data_scientist_095": {
+   "CV_0318_Viktor_Fischer": 1,
+   "CV_0456_Simon_Schroder": 2,
+   "CV_0534_Amara_Okafor": 1,
+   "CV_0765_Diego_Kovac": 2,
+   "CV_0799_Deepa_Bauer": 1,
+   "CV_0861_Matthias_Schroder": 2,
+   "CV_0959_Mia_Owusu": 1,
+   "CV_1000_Anna_Bauer": 1
+  }
+ },
+ "top_k": 5
+}

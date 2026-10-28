@@ -1,0 +1,47 @@
+Sebastian Kovac
+Chicago, USA | sebastian.kovac@example.com | +39 860 3113637
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 10 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, T-SQL, Looker
+- Data Science & Machine Learning: Natural Language Processing, MLOps, R
+- Cloud & Infrastructure: Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Vantage Point Consulting | Austin, USA | 2024 - Present
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+Consultant | Riverbend Analytics | Dublin, Ireland | 2022 - 2024
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Consultant | Ironwood Cloud Services | London, United Kingdom | 2020 - 2022
+- Standardized cloud tagging and cost allocation practices for a logistics client, improving budget accountability across 30 teams.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 12%.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 25%.
+
+Analyst | Vertex Data Partners | Helsinki, Finland | 2017 - 2020
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Built an NLP pipeline to automatically classify 50+ incoming customer messages per day, reducing manual triage time by 20%.
+- Automated the monthly reporting cycle for a logistics client, freeing up 8 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Software Engineering, Imperial College London, London, United Kingdom (2016)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Certified Kubernetes Administrator (CKA)
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Professional working proficiency)

@@ -1,0 +1,39 @@
+Priya Muller
+Manchester, United Kingdom | priya.muller@example.com | +33 500 1531759
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant with 7 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), KPI design, DAX
+- Data Science & Machine Learning: Databricks, Model Deployment & Monitoring, Causal Inference
+- Cloud & Infrastructure: Linux system administration, Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Brightfield Consulting | Paris, France | 2024 - Present
+- Built a recommendation engine for a telecommunications client, contributing to a 18% increase in average order value.
+- Built a tabular SSAS model that serves 50 departments with consistent KPIs.
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+Lead Data & AI Consultant | Harborview Consulting | Chicago, USA | 2022 - 2024
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 8 disparate spreadsheets into a single source of truth.
+- Developed an anomaly detection system for retail operations, flagging issues 20% faster than the previous manual process.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+
+IT Consultant | BlueRiver Analytics | Stuttgart, Germany | 2019 - 2022
+- Developed a XGBoost model to predict demand for telecommunications clients, improving prediction accuracy by 15%.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+
+EDUCATION
+B.Eng. in Information Systems, University of Illinois, Chicago, USA (2018)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Italian (Native)
+- Mandarin (Professional working proficiency)

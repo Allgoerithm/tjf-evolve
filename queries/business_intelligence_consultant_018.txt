@@ -1,0 +1,30 @@
+SEARCH PROFILE #018
+Role Needed: Senior BI Consultant
+Engagement Type: Short-term project engagement
+Client Industry: Banking
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- SSAS
+- Data governance
+- Agile / Scrum
+- dbt
+
+NICE-TO-HAVE SKILLS
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Power BI
+- SSRS
+
+PREFERRED CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGE REQUIREMENTS
+- Hindi (business level)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Madrid, Spain)
+
+PROJECT CONTEXT
+A newly merged banking organization needs a unified reporting model spanning both legacy entities.
+
+Start Date: Next quarter
+Duration: 12 months, potential for permanent placement

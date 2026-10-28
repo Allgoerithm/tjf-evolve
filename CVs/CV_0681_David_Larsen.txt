@@ -1,0 +1,37 @@
+David Larsen
+Toronto, Canada | david.larsen@example.com | +44 385 5802681
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, SQL Server, T-SQL
+- Cloud & Infrastructure: Apache Airflow, Terraform, Apache Kafka, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Ironwood Cloud Services | Rotterdam, Netherlands | 2025 - Present
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 2 regional entities.
+- Designed and implemented a multi-account AWS landing zone for a public sector client, improving security posture and cost visibility.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+
+IT Consultant | Nimbus Infrastructure Consulting | Hamburg, Germany | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 30 disparate spreadsheets into a single source of truth.
+- Led the adoption of a self-service data platform on Databricks, onboarding 15+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a telecommunications client's data platform.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 12%.
+
+EDUCATION
+B.Eng. in Information Systems, Delft University of Technology, Delft, Netherlands (2022)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Certified Kubernetes Administrator (CKA)
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Italian (Native)
+- Mandarin (Professional working proficiency)
+- French (Professional working proficiency)

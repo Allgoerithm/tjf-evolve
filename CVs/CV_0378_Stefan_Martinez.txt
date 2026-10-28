@@ -1,0 +1,28 @@
+Stefan Martinez
+Rotterdam, Netherlands | stefan.martinez@example.com | +39 485 4176756
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Looker, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS), AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud
+- Tools & Ways of Working: Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Brightfield Consulting | Singapore, Singapore | 2024 - Present
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Computer Science, Technical University of Munich, Munich, Germany (2024)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Fluent)

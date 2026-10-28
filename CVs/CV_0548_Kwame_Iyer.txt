@@ -1,0 +1,34 @@
+Kwame Iyer
+Stuttgart, Germany | kwame.iyer@example.com | +45 564 1910220
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Data & AI Consultant with 2 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: LookML, Snowflake, SSIS
+- Data Science & Machine Learning: Natural Language Processing, Statistical Modeling, Causal Inference
+- Cloud & Infrastructure: Snowflake on cloud, Linux system administration, Networking & VPC design
+- Tools & Ways of Working: Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Solaris Data Engineering | Pune, India | 2025 - Present
+- Designed and delivered 30 interactive Power BI dashboards for logistics clients, reducing manual reporting effort by 12%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 12%.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 15 teams.
+
+Data & Analytics Consultant | Falcon Ridge Consulting | Paris, France | 2024 - 2025
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Developed a random forest model to predict fraud risk for consumer goods clients, improving prediction accuracy by 35%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+M.Sc. in Computational Science, Humboldt University of Berlin, Berlin, Germany (2023)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Italian (Native)
+- Mandarin (Fluent)
+- Swedish (Conversational)

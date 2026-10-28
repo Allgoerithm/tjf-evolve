@@ -1,0 +1,37 @@
+Diego Lopez
+Hamburg, Germany | diego.lopez@example.com | +31 402 7913678
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 3 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in aviation. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Looker, DAX
+- Data Science & Machine Learning: Apache Spark / PySpark, TensorFlow, XGBoost / LightGBM
+- Cloud & Infrastructure: Apache Airflow, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Nordwind Consulting | Frankfurt, Germany | 2025 - Present
+- Developed a random forest model to predict demand for automotive manufacturing clients, improving prediction accuracy by 40%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Senior Data Platform Consultant | Solaris Data Engineering | Brussels, Belgium | 2023 - 2025
+- Tracked experiments and registered models with MLflow across 50 data science projects.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 8 disparate spreadsheets into a single source of truth.
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+- Defined and documented 15 KPIs together with business owners as the basis of the new reporting suite.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Built analytics workloads on Google Cloud Platform for 30 product teams.
+
+EDUCATION
+M.Sc. in Data Science, Trinity College Dublin, Dublin, Ireland (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Conversational)

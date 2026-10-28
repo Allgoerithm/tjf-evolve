@@ -1,0 +1,30 @@
+Freya Neumann
+Madrid, Spain | freya.neumann@example.com | +1 262 1130839
+
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Consultant with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Docker, Microsoft Azure (Data Factory, Synapse, AKS), Cloud cost optimization, Infrastructure as Code, Apache Airflow
+- Business Intelligence: Tableau
+- Tools & Ways of Working: Data governance, Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Beacon Insight Consulting | Berlin, Germany | 2024 - Present
+- Managed backlog and documentation in JIRA and Confluence for 50 concurrent workstreams.
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Built Kafka-based streaming ingestion for 20 operational systems.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Data Science, University of Oslo, Oslo, Norway (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Professional Data Engineer
+
+LANGUAGES
+- Portuguese (Native)
+- Spanish (Fluent)

@@ -1,0 +1,36 @@
+Simon Bauer
+Munich, Germany | simon.bauer@example.com | +49 300 6526452
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 2 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Snowflake, Stakeholder reporting & dashboarding, SSIS, DAX, Power BI
+- Cloud & Infrastructure: Cloud cost optimization, Snowflake on cloud
+- Tools & Ways of Working: Git, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Ironwood Cloud Services | Berlin, Germany | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Implemented automated data quality checks on 2 critical tables.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 40%.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 50 analyst days per month for higher-value analysis.
+
+Senior BI Consultant | Vertex Data Partners | Prague, Czech Republic | 2024 - 2025
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 30%.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 10 disparate spreadsheets into a single source of truth.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+
+EDUCATION
+MBA with focus on Information Management, University of Warsaw, Warsaw, Poland (2024)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Polish (Native)
+- Spanish (Fluent)
+- French (Fluent)

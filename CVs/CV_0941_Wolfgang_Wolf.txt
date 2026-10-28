@@ -1,0 +1,35 @@
+Wolfgang Wolf
+Rotterdam, Netherlands | wolfgang.wolf@example.com | +32 517 9312366
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across insurance and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Power Query / M, DAX
+- Data Science & Machine Learning: XGBoost / LightGBM, Time Series Forecasting, Natural Language Processing
+- Cloud & Infrastructure: Linux system administration, Docker, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Solaris Data Engineering | Amsterdam, Netherlands | 2023 - Present
+- Led a proof-of-concept on demand forecasting for a banking client, achieving a 35% reduction in forecast error versus the baseline.
+- Trained 15 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+
+Senior Data Platform Consultant | Anchor Point Technologies | Berlin, Germany | 2021 - 2023
+- Rolled out data governance roles and policies across 20 departments.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 18%.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 25%.
+- Performed a cloud security audit for an insurance client, remediating 30 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Computer Science, Imperial College London, London, United Kingdom (2022)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- German (Native)
+- Portuguese (Fluent)
+- Swedish (Fluent)

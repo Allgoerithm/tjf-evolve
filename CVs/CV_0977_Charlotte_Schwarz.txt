@@ -1,0 +1,43 @@
+Charlotte Schwarz
+London, United Kingdom | charlotte.schwarz@example.com | +32 831 4744138
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 11 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Star schema & dimensional modeling, Snowflake, KPI design, Qlik Sense, T-SQL
+- Cloud & Infrastructure: Docker, Cloud cost optimization
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Silverline IT Consulting | Chicago, USA | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the healthcare business.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analyst | Stratos Cloud Consulting | Munich, Germany | 2023 - 2025
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Designed and delivered 2 interactive Looker dashboards for logistics clients, reducing manual reporting effort by 20%.
+
+Senior BI Consultant | Falcon Ridge Consulting | Lyon, France | 2021 - 2023
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Trained 10 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+IT Consultant | Meridian Digital Partners | Oslo, Norway | 2019 - 2021
+- Introduced Infrastructure-as-Code to replace manual environment setup for 20 teams.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 15 regional entities.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Automated the monthly reporting cycle for a retail client, freeing up 30 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Sc. in Computer Science, National University of Singapore, Singapore, Singapore (2013)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Spanish (Native)
+- Dutch (Conversational)

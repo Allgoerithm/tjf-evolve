@@ -1,0 +1,32 @@
+Ingrid Lindqvist
+Cologne, Germany | ingrid.lindqvist@example.com | +33 147 2968907
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 3 years of experience delivering cloud infrastructure and platform engineering solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE), Terraform, Cloud cost optimization, Docker, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Business Intelligence: QlikView
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Northstar Cloud Group | Berlin, Germany | 2025 - Present
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 15 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+IT Consultant | Stratos Cloud Consulting | Bangalore, India | 2024 - 2025
+- Led the adoption of a self-service data platform on Databricks, onboarding 50+ internal teams within the first year.
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Technical University of Munich, Munich, Germany (2023)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGES
+- Portuguese (Native)
+- Danish (Conversational)

@@ -1,0 +1,30 @@
+SEARCH PROFILE #014
+Role Needed: Data & Analytics Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Banking
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- DAX
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Statistical Modeling
+
+NICE-TO-HAVE SKILLS
+- Data governance
+- Linux system administration
+- Qlik Sense
+- Natural Language Processing
+
+PREFERRED CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGE REQUIREMENTS
+- Polish (fluent)
+
+Location / Remote Policy: Fully remote (client site: Copenhagen, Denmark)
+
+PROJECT CONTEXT
+Following a data platform assessment, the client needs a consultant to help prioritize and execute the resulting roadmap.
+
+Start Date: ASAP
+Duration: 12 months, potential for permanent placement

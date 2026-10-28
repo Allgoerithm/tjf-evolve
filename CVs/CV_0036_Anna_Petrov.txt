@@ -1,0 +1,42 @@
+Anna Petrov
+Austin, USA | anna.petrov@example.com | +41 798 7505976
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (14 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Snowflake, dbt
+- Cloud & Infrastructure: Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud
+- Tools & Ways of Working: Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | BlueRiver Analytics | Madrid, Spain | 2023 - Present
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 15 teams.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+
+Senior Data Engineer | Harborview Consulting | Berlin, Germany | 2019 - 2023
+- Designed and delivered 8 interactive Snowflake dashboards for insurance clients, reducing manual reporting effort by 20%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Data Engineer | Vertex Data Partners | Berlin, Germany | 2015 - 2019
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for a banking client's data platform.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+
+Consultant | Harborview Consulting | Dublin, Ireland | 2012 - 2015
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 20 disparate spreadsheets into a single source of truth.
+- Performed a cloud security audit for a pharmaceuticals client, remediating 15 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Computer Science, University of Illinois, Chicago, USA (2012)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+
+LANGUAGES
+- Polish (Native)
+- Swedish (Professional working proficiency)

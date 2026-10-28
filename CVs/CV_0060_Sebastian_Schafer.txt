@@ -1,0 +1,38 @@
+Sebastian Schafer
+Lyon, France | sebastian.schafer@example.com | +46 745 4565179
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (9 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, SSRS, SSIS, SQL Server, dbt, QlikView
+- Cloud & Infrastructure: Networking & VPC design, Infrastructure as Code
+- Tools & Ways of Working: Git, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Greystone Data & AI | Brussels, Belgium | 2023 - Present
+- Trained 15 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 50 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Stratos Cloud Consulting | Lyon, France | 2020 - 2023
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 30 analyst days per month for higher-value analysis.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Consultant | Anchor Point Technologies | Bangalore, India | 2017 - 2020
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 50 regional entities.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Imperial College London, London, United Kingdom (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- French (Native)
+- Spanish (Professional working proficiency)

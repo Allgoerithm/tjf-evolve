@@ -1,0 +1,39 @@
+David Schmidt
+Barcelona, Spain | david.schmidt@example.com | +46 810 7206945
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (8 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, Stakeholder reporting & dashboarding, SSAS
+- Cloud & Infrastructure: Docker, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow, Networking & VPC design
+- Tools & Ways of Working: Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Falcon Ridge Consulting | Amsterdam, Netherlands | 2025 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for an automotive manufacturing client's data platform.
+- Operated Kubernetes clusters for data workloads with autoscaling and monitoring.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 2 disparate spreadsheets into a single source of truth.
+- Performed a cloud security audit for an aviation client, remediating 15 critical findings within the first quarter.
+
+Analytics Engineer | Anchor Point Technologies | Barcelona, Spain | 2023 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+- Led the adoption of a self-service data platform on Power BI, onboarding 15+ internal teams within the first year.
+
+Consultant | Silverline IT Consulting | Stuttgart, Germany | 2020 - 2023
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 50 teams.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 15 regional entities.
+
+EDUCATION
+B.Sc. in Mathematics, Charles University, Prague, Czech Republic (2017)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)

@@ -1,0 +1,29 @@
+Wolfgang Andersson
+Krakow, Poland | wolfgang.andersson@example.com | +31 284 9596358
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, LookML, Power Query / M
+- Cloud & Infrastructure: Apache Kafka, Infrastructure as Code, Snowflake on cloud, Docker
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Quantara Analytics | Madrid, Spain | 2024 - Present
+- Led a cloud cost optimization initiative, identifying savings of 45% across compute and storage resources.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Politecnico di Milano, Milan, Italy (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Conversational)
+- English (Conversational)

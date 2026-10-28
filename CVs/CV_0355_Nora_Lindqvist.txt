@@ -1,0 +1,36 @@
+Nora Lindqvist
+Krakow, Poland | nora.lindqvist@example.com | +39 776 5960015
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 3 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: DAX, Qlik Sense, SQL Server, LookML, Tableau, SSIS
+- Cloud & Infrastructure: Apache Airflow, Snowflake on cloud
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Orbis Technology Partners | Toronto, Canada | 2025 - Present
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated the monthly reporting cycle for a retail client, freeing up 20 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+IT Consultant | Fjord Digital Solutions | Paris, France | 2023 - 2025
+- Designed and delivered 8 interactive Tableau dashboards for telecommunications clients, reducing manual reporting effort by 12%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Replaced 2 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+
+EDUCATION
+B.Eng. in Information Systems, KTH Royal Institute of Technology, Stockholm, Sweden (2021)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Google Professional Data Engineer
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- German (Native)
+- Hindi (Conversational)
+- Polish (Professional working proficiency)

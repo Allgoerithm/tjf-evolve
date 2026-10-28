@@ -1,0 +1,36 @@
+Jan Ivanov
+Oslo, Norway | jan.ivanov@example.com | +41 710 7136589
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SSRS, Tableau
+- Data Science & Machine Learning: Causal Inference, Databricks, Natural Language Processing
+- Cloud & Infrastructure: Apache Kafka, Apache Airflow, Cloud cost optimization
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Stratos Cloud Consulting | Stuttgart, Germany | 2025 - Present
+- Led a proof-of-concept on demand forecasting for a telecommunications client, achieving a 40% reduction in forecast error versus the baseline.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 30%.
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+
+Consultant | Anchor Point Technologies | Oslo, Norway | 2024 - 2025
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Developed an anomaly detection system for telecommunications operations, flagging issues 45% faster than the previous manual process.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 50 teams.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+B.Sc. in Mathematics, University of Manchester, Manchester, United Kingdom (2024)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Professional working proficiency)
+- Polish (Professional working proficiency)

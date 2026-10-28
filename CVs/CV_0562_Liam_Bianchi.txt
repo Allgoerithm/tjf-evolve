@@ -1,0 +1,33 @@
+Liam Bianchi
+Pune, India | liam.bianchi@example.com | +46 308 9085031
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 4 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, KPI design, SQL Server, dbt, Tableau, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Networking & VPC design, Cloud cost optimization
+- Tools & Ways of Working: Data quality management, Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Orbis Technology Partners | Berlin, Germany | 2024 - Present
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 8 regional entities.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Brightfield Consulting | Cologne, Germany | 2021 - 2024
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 3 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Amsterdam, Amsterdam, Netherlands (2022)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Spanish (Native)
+- Dutch (Professional working proficiency)

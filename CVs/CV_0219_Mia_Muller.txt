@@ -1,0 +1,34 @@
+Mia Muller
+Bangalore, India | mia.muller@example.com | +49 734 4268652
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSRS, SSAS, DAX
+- Cloud & Infrastructure: Infrastructure as Code, Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Pinnacle Business Intelligence GmbH | Singapore, Singapore | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 8 teams.
+
+Data Engineer | Anchor Point Technologies | Prague, Czech Republic | 2024 - 2025
+- Led the adoption of a self-service data platform on Snowflake, onboarding 3+ internal teams within the first year.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+EDUCATION
+B.Sc. in Computer Science, Charles University, Prague, Czech Republic (2023)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- English (Native)
+- Polish (Fluent)

@@ -1,0 +1,41 @@
+Tobias Larsen
+Bangalore, India | tobias.larsen@example.com | +49 159 8833355
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 5 years of consulting experience across consumer goods and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Looker, T-SQL, SSIS, SSAS, DAX
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes
+- Tools & Ways of Working: Git, Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Quantara Analytics | Pune, India | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Automated the monthly reporting cycle for a retail client, freeing up 3 analyst days per month for higher-value analysis.
+- Replaced 5 manual Excel reports with paginated SSRS reports delivered on a schedule.
+
+Analytics Consultant | Anchor Point Technologies | Prague, Czech Republic | 2024 - 2025
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 40%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Trained 5 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+Consultant | TerraLogic Consulting | Chicago, USA | 2023 - 2024
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the telecommunications business.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 8 regional entities.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Delft University of Technology, Delft, Netherlands (2020)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Dutch (Native)
+- Italian (Conversational)
+- French (Fluent)

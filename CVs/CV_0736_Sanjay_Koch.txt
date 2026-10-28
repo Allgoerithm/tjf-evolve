@@ -1,0 +1,45 @@
+Sanjay Koch
+Copenhagen, Denmark | sanjay.koch@example.com | +1 487 9100036
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 10 years of experience delivering business intelligence and enterprise reporting solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSRS, SQL Server, Data Warehouse design (Kimball/Inmon), Tableau, Looker, Star schema & dimensional modeling
+- Cloud & Infrastructure: Kubernetes, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Silverline IT Consulting | Warsaw, Poland | 2024 - Present
+- Automated the monthly reporting cycle for a retail client, freeing up 15 analyst days per month for higher-value analysis.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+Consultant | Evergreen Data Solutions | Lyon, France | 2023 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 30%.
+- Defined and documented 2 KPIs together with business owners as the basis of the new reporting suite.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+Analytics Consultant | Alpenglow Analytics | London, United Kingdom | 2021 - 2023
+- Trained 10 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 2 disparate spreadsheets into a single source of truth.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the banking business.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 22%.
+
+Analytics Consultant | Vertex Data Partners | Austin, USA | 2019 - 2021
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 15 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2015)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Mandarin (Native)
+- German (Conversational)

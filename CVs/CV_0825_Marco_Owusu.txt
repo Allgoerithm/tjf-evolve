@@ -1,0 +1,34 @@
+Marco Owusu
+Lisbon, Portugal | marco.owusu@example.com | +32 662 6527453
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 3 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: LookML, SSAS, Tableau, DAX, Power BI, Snowflake
+- Cloud & Infrastructure: Infrastructure as Code, Kubernetes
+- Tools & Ways of Working: Technical documentation, Git, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Falcon Ridge Consulting | Vienna, Austria | 2025 - Present
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 20 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Designed and delivered 10 interactive Qlik Sense dashboards for healthcare clients, reducing manual reporting effort by 15%.
+
+Analytics Consultant | Riverbend Analytics | Oslo, Norway | 2023 - 2025
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 10 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Eng. in Information Systems, Sorbonne University, Paris, France (2022)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Swedish (Native)
+- Spanish (Fluent)
+- Dutch (Fluent)

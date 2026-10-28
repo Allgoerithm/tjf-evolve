@@ -1,0 +1,35 @@
+Sophie Neumann
+Austin, USA | sophie.neumann@example.com | +41 578 1202264
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 4 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, Power Query / M, DAX
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Kafka
+- Tools & Ways of Working: JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Clearwater Data Systems | Prague, Czech Republic | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Led a cloud cost optimization initiative, identifying savings of 20% across compute and storage resources.
+
+Senior Data Engineer | Harborview Consulting | Madrid, Spain | 2022 - 2024
+- Modeled a star schema for the sales domain, enabling consistent slicing across 5 dimensions.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+- Managed cloud environments as code with Terraform modules shared across 3 teams.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+
+EDUCATION
+B.Eng. in Information Systems, KTH Royal Institute of Technology, Stockholm, Sweden (2021)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Swedish (Native)
+- Dutch (Fluent)

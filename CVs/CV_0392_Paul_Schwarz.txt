@@ -1,0 +1,27 @@
+Paul Schwarz
+Paris, France | paul.schwarz@example.com | +47 396 1573661
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, SSRS, Power Query / M, Data Warehouse design (Kimball/Inmon), Power BI, Looker
+- Cloud & Infrastructure: Cloud cost optimization, Docker
+- Tools & Ways of Working: Requirements engineering, Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Greystone Data & AI | London, United Kingdom | 2024 - Present
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 3 regional entities.
+- Automated the monthly reporting cycle for an aviation client, freeing up 8 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Computational Science, University of Warsaw, Warsaw, Poland (2024)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+
+LANGUAGES
+- Dutch (Native)
+- Polish (Conversational)

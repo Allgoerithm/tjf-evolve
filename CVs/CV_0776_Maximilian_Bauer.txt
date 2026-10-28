@@ -1,0 +1,45 @@
+Maximilian Bauer
+Stuttgart, Germany | maximilian.bauer@example.com | +32 275 1873904
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 10 years of experience delivering business intelligence and enterprise reporting solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, SSRS, SSAS, KPI design, Tableau, Star schema & dimensional modeling
+- Cloud & Infrastructure: Apache Kafka, Cloud cost optimization
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Meridian Digital Partners | Chicago, USA | 2024 - Present
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 8 disparate spreadsheets into a single source of truth.
+- Designed and delivered 10 interactive Databricks dashboards for logistics clients, reducing manual reporting effort by 18%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+Analytics Consultant | Meridian Digital Partners | Copenhagen, Denmark | 2023 - 2024
+- Optimized Looker data models and DAX measures, improving dashboard load times by 45%.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+BI Developer | Cobalt Data Labs | Zurich, Switzerland | 2022 - 2023
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 12%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Trained 20 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Managed backlog and documentation in JIRA and Confluence for 2 concurrent workstreams.
+
+IT Consultant | Anchor Point Technologies | Austin, USA | 2021 - 2022
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 2 analyst days per month for higher-value analysis.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+
+EDUCATION
+M.Sc. in Business Informatics, Indian Institute of Technology Bombay, Mumbai, India (2016)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- Danish (Native)
+- English (Professional working proficiency)

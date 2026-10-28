@@ -1,0 +1,35 @@
+Marie Singh
+Zurich, Switzerland | marie.singh@example.com | +47 935 6987912
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Platform Consultant (4 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power BI, SSAS, Star schema & dimensional modeling
+- Data Science & Machine Learning: R, Python (pandas, NumPy, scikit-learn), A/B Testing & Experimentation
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Falcon Ridge Consulting | Lyon, France | 2025 - Present
+- Automated the monthly reporting cycle for an aviation client, freeing up 20 analyst days per month for higher-value analysis.
+- Led a cloud cost optimization initiative, identifying savings of 20% across compute and storage resources.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 30%.
+
+Analyst | Stratos Cloud Consulting | Berlin, Germany | 2024 - 2025
+- Performed a cloud security audit for an energy and utilities client, remediating 8 critical findings within the first quarter.
+- Built an NLP pipeline to automatically classify 3+ incoming customer messages per day, reducing manual triage time by 12%.
+- Drove cloud cost optimization across 20 accounts through rightsizing and reserved capacity.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+
+EDUCATION
+B.Sc. in Computer Science, University of Vienna, Vienna, Austria (2020)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Portuguese (Native)
+- French (Conversational)
+- English (Conversational)

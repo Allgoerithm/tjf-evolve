@@ -1,0 +1,34 @@
+Thomas Hofmann
+Barcelona, Spain | thomas.hofmann@example.com | +48 336 4896832
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 4 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSAS, KPI design, DAX
+- Cloud & Infrastructure: Terraform, Apache Kafka, Kubernetes, Snowflake on cloud
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | BlueRiver Analytics | Lisbon, Portugal | 2024 - Present
+- Modeled a star schema for the sales domain, enabling consistent slicing across 30 dimensions.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+
+Consultant | Clearwater Data Systems | Rotterdam, Netherlands | 2023 - 2024
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 10 teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, National University of Singapore, Singapore, Singapore (2021)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Hindi (Native)
+- French (Professional working proficiency)

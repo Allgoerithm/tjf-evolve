@@ -1,0 +1,35 @@
+Paul Muller
+Helsinki, Finland | paul.muller@example.com | +39 643 5566586
+
+PROFESSIONAL SUMMARY
+Experienced Data & Analytics Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), KPI design, LookML
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Apache Spark / PySpark, PyTorch
+- Cloud & Infrastructure: Docker, Kubernetes, Infrastructure as Code
+- Tools & Ways of Working: Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Lumen Analytics Group | Munich, Germany | 2025 - Present
+- Drove cloud cost optimization across 30 accounts through rightsizing and reserved capacity.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Trained 3 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Set up A/B tests for new product features and evaluated the results with the product team.
+
+Consultant | Riverbend Analytics | Paris, France | 2023 - 2025
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 22%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+EDUCATION
+B.Eng. in Information Systems, University of Oslo, Oslo, Norway (2022)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Italian (Native)
+- German (Conversational)

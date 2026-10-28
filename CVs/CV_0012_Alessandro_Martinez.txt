@@ -1,0 +1,34 @@
+Alessandro Martinez
+Lyon, France | alessandro.martinez@example.com | +49 793 1768873
+
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Consultant with 3 years of experience delivering cloud infrastructure and platform engineering solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow, Kubernetes, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka, Terraform
+- Business Intelligence: Power BI
+- Tools & Ways of Working: Client workshops & presentations, Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Beacon Insight Consulting | Munich, Germany | 2024 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Led the adoption of a self-service data platform on Looker, onboarding 3+ internal teams within the first year.
+
+Cloud Solutions Architect | Alpenglow Analytics | Frankfurt, Germany | 2023 - 2024
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+B.Sc. in Mathematics, University of Vienna, Vienna, Austria (2022)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Conversational)
+- English (Professional working proficiency)

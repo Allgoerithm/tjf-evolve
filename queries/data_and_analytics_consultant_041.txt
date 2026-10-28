@@ -1,0 +1,30 @@
+SEARCH PROFILE #041
+Role Needed: Senior Data Platform Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Consumer goods
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- SSAS
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Docker
+
+NICE-TO-HAVE SKILLS
+- MLflow
+- Power Query / M
+- Statistical Modeling
+- Data governance
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGE REQUIREMENTS
+- Dutch (conversational)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Berlin, Germany)
+
+PROJECT CONTEXT
+A consumer goods client is launching a broader data & AI strategy and needs a generalist who can bridge BI, data science, and cloud infrastructure.
+
+Start Date: Next quarter
+Duration: 6 months

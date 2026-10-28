@@ -1,0 +1,35 @@
+Oscar Gupta
+Zurich, Switzerland | oscar.gupta@example.com | +32 472 5451874
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in telecommunications. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SSIS, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Linux system administration, Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: JIRA / Confluence, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Stratos Cloud Consulting | Bangalore, India | 2025 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced Git-based workflows with code review for the analytics team.
+
+Consultant | Greystone Data & AI | Amsterdam, Netherlands | 2024 - 2025
+- Trained 15 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 10 teams.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+
+EDUCATION
+MBA with focus on Information Management, Humboldt University of Berlin, Berlin, Germany (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Hindi (Fluent)

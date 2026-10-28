@@ -1,0 +1,38 @@
+Mia Patel
+Pune, India | mia.patel@example.com | +44 912 8256302
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (9 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power BI, SSRS, T-SQL, SSIS, QlikView, Tableau
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow
+- Tools & Ways of Working: Requirements engineering, Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Clearwater Data Systems | Copenhagen, Denmark | 2023 - Present
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 15 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Pinnacle Business Intelligence GmbH | Vienna, Austria | 2021 - 2023
+- Automated the monthly reporting cycle for a healthcare client, freeing up 2 analyst days per month for higher-value analysis.
+- Trained 3 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 45%.
+
+BI Developer | Vertex Data Partners | Lisbon, Portugal | 2017 - 2021
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Computer Science, University of Warsaw, Warsaw, Poland (2017)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Dutch (Native)
+- French (Fluent)

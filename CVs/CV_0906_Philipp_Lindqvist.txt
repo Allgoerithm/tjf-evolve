@@ -1,0 +1,44 @@
+Philipp Lindqvist
+Lisbon, Portugal | philipp.lindqvist@example.com | +39 627 2506766
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 12 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Data Warehouse design (Kimball/Inmon), Tableau
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Model Deployment & Monitoring, Apache Spark / PySpark
+- Cloud & Infrastructure: Snowflake on cloud, Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Brightfield Consulting | Warsaw, Poland | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+
+Senior Data Platform Consultant | Fjord Digital Solutions | Rotterdam, Netherlands | 2021 - 2023
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 8 regional entities.
+- Developed an anomaly detection system for retail operations, flagging issues 12% faster than the previous manual process.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+
+Consultant | Pinnacle Business Intelligence GmbH | Pune, India | 2019 - 2021
+- Performed a cloud security audit for an automotive manufacturing client, remediating 3 critical findings within the first quarter.
+- Automated the monthly reporting cycle for a retail client, freeing up 15 analyst days per month for higher-value analysis.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 22%.
+
+Data & Analytics Consultant | Harborview Consulting | Stuttgart, Germany | 2017 - 2019
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the e-commerce sector.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the telecommunications business.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Humboldt University of Berlin, Berlin, Germany (2013)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- English (Native)
+- Polish (Fluent)

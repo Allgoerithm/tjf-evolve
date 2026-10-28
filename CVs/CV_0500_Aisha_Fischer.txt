@@ -1,0 +1,39 @@
+Aisha Fischer
+Rotterdam, Netherlands | aisha.fischer@example.com | +33 319 2144825
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 5 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Tableau, DAX
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Infrastructure as Code, Kubernetes, Docker
+- Tools & Ways of Working: Data governance, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Cobalt Data Labs | Singapore, Singapore | 2025 - Present
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 20 analyst days per month for higher-value analysis.
+- Implemented a data lake on Power BI, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Data Engineer | Northgate Technology Group | Milan, Italy | 2023 - 2025
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 50 teams.
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for a public sector client's data platform.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analytics Engineer | Vertex Data Partners | Brussels, Belgium | 2021 - 2023
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+M.Sc. in Data Science, Trinity College Dublin, Dublin, Ireland (2021)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Google Professional Cloud Architect
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- German (Native)
+- French (Conversational)

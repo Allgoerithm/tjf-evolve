@@ -1,0 +1,39 @@
+James Hofmann
+Krakow, Poland | james.hofmann@example.com | +46 465 1026808
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 5 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: XGBoost / LightGBM, Apache Spark / PySpark, Computer Vision, PyTorch, Time Series Forecasting, R
+- Cloud & Infrastructure: Apache Airflow, Networking & VPC design
+- Tools & Ways of Working: Stakeholder management, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Greystone Data & AI | Lyon, France | 2025 - Present
+- Developed a logistic regression model to predict fraud risk for aviation clients, improving prediction accuracy by 22%.
+- Built a churn prediction model on 2+ customer records, enabling targeted retention campaigns for the public sector sector.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+Consultant | Quantara Analytics | Hamburg, Germany | 2023 - 2025
+- Mentored a team of 10 junior data scientists on feature engineering and model evaluation best practices.
+- Developed an anomaly detection system for consumer goods operations, flagging issues 22% faster than the previous manual process.
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 30%.
+
+Applied Data Scientist | Ironwood Cloud Services | Munich, Germany | 2022 - 2023
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 30% uplift in conversion rate.
+- Led a proof-of-concept on demand forecasting for an automotive manufacturing client, achieving a 30% reduction in forecast error versus the baseline.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Illinois, Chicago, USA (2021)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Swedish (Native)
+- Dutch (Fluent)
+- Hindi (Professional working proficiency)

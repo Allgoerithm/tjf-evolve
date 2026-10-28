@@ -1,0 +1,39 @@
+Amara Dubois
+Copenhagen, Denmark | amara.dubois@example.com | +45 384 7964527
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 7 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, QlikView, Qlik Sense
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), AWS (EC2, S3, Lambda, Redshift, Glue), Cloud cost optimization, Networking & VPC design
+- Tools & Ways of Working: Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Beacon Insight Consulting | Vienna, Austria | 2024 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+Senior Data Engineer | Orbis Technology Partners | Milan, Italy | 2022 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Implemented automated data quality checks on 3 critical tables.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Analyst | Alpenglow Analytics | Amsterdam, Netherlands | 2019 - 2022
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 10 teams.
+
+EDUCATION
+MBA with focus on Information Management, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Italian (Native)
+- English (Fluent)

@@ -1,0 +1,42 @@
+Sebastian Neumann
+Rotterdam, Netherlands | sebastian.neumann@example.com | +1 586 7126461
+
+PROFESSIONAL SUMMARY
+Experienced Data & Analytics Consultant (6 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SSRS, Power Query / M
+- Data Science & Machine Learning: Time Series Forecasting, Natural Language Processing, TensorFlow
+- Cloud & Infrastructure: Snowflake on cloud, Cloud cost optimization, Apache Kafka
+- Tools & Ways of Working: Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | BlueRiver Analytics | Frankfurt, Germany | 2025 - Present
+- Developed a random forest model to predict demand for public sector clients, improving prediction accuracy by 12%.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 2 teams.
+- Orchestrated 8+ data pipelines with Apache Airflow, including alerting and backfills.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+Data & Analytics Consultant | Orbis Technology Partners | Pune, India | 2023 - 2025
+- Built an NLP pipeline to automatically classify 50+ incoming customer messages per day, reducing manual triage time by 28%.
+- Designed and delivered 10 interactive Tableau dashboards for telecommunications clients, reducing manual reporting effort by 25%.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+IT Consultant | TerraLogic Consulting | Oslo, Norway | 2020 - 2023
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+EDUCATION
+M.Sc. in Statistics, Indian Institute of Technology Bombay, Mumbai, India (2019)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- TOGAF 9 Certified
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Conversational)

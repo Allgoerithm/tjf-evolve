@@ -1,0 +1,44 @@
+Ute Patel
+Singapore, Singapore | ute.patel@example.com | +33 544 2669549
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 11 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSAS, SSRS, Qlik Sense, SSIS, Tableau, SQL Server
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Anchor Point Technologies | Paris, France | 2024 - Present
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Automated the monthly reporting cycle for a pharmaceuticals client, freeing up 5 analyst days per month for higher-value analysis.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+
+Consultant | Clearwater Data Systems | Rotterdam, Netherlands | 2021 - 2024
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 8 interactive Databricks dashboards for automotive manufacturing clients, reducing manual reporting effort by 12%.
+- Trained 3 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+Business Intelligence Consultant | Orbis Technology Partners | Manchester, United Kingdom | 2019 - 2021
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 15%.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 3 regional entities.
+
+Analytics Consultant | Quantara Analytics | Copenhagen, Denmark | 2017 - 2019
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 50 disparate spreadsheets into a single source of truth.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Computational Science, Technical University of Denmark, Copenhagen, Denmark (2014)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Tableau Desktop Specialist
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Dutch (Native)
+- Swedish (Conversational)

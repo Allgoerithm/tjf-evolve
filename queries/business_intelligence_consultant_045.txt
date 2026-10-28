@@ -1,0 +1,27 @@
+SEARCH PROFILE #045
+Role Needed: Business Intelligence Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Pharmaceuticals
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- Apache Airflow
+- Technical documentation
+- SQL Server
+- dbt
+- SSRS
+
+NICE-TO-HAVE SKILLS
+- JIRA / Confluence
+
+LANGUAGE REQUIREMENTS
+- Danish (fluent)
+- Mandarin (native)
+
+Location / Remote Policy: On-site required (client site: Bangalore, India)
+
+PROJECT CONTEXT
+Leadership wants a self-service analytics capability so business users can build their own reports without IT involvement.
+
+Start Date: Within 2 weeks
+Duration: 3 months, extension likely

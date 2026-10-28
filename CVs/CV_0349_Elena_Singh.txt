@@ -1,0 +1,45 @@
+Elena Singh
+Hamburg, Germany | elena.singh@example.com | +46 675 1287151
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 14 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Snowflake, T-SQL, dbt, Power BI, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Apache Kafka, Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Kestrel Data Solutions | Munich, Germany | 2023 - Present
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the logistics business.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+Analytics Consultant | Lumen Analytics Group | London, United Kingdom | 2021 - 2023
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 50 regional entities.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Northstar Cloud Group | Stockholm, Sweden | 2017 - 2021
+- Built a tabular SSAS model that serves 20 departments with consistent KPIs.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 12%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Automated the monthly reporting cycle for a banking client, freeing up 20 analyst days per month for higher-value analysis.
+
+BI Developer | TerraLogic Consulting | Toronto, Canada | 2015 - 2017
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 8 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Business Informatics, Politecnico di Milano, Milan, Italy (2012)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Databricks Certified Machine Learning Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Mandarin (Native)
+- English (Fluent)

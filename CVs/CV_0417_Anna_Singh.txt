@@ -1,0 +1,34 @@
+Anna Singh
+Cologne, Germany | anna.singh@example.com | +45 486 8759967
+
+PROFESSIONAL SUMMARY
+Experienced Data & Analytics Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, Power BI, LookML
+- Data Science & Machine Learning: Databricks, Computer Vision, Causal Inference
+- Cloud & Infrastructure: Apache Kafka, Networking & VPC design, Terraform
+- Tools & Ways of Working: Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Fjord Digital Solutions | Pune, India | 2025 - Present
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 15%.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 5 disparate spreadsheets into a single source of truth.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+
+Analyst | Vertex Data Partners | Helsinki, Finland | 2023 - 2025
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 40%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+
+EDUCATION
+B.Sc. in Computer Science, ETH Zurich, Zurich, Switzerland (2024)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Dutch (Native)
+- German (Fluent)

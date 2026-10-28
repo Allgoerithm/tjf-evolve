@@ -1,0 +1,34 @@
+Michael Klein
+Pune, India | michael.klein@example.com | +41 921 6006942
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 4 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: DAX, Looker, Star schema & dimensional modeling, Power Query / M, Power BI, SSIS
+- Cloud & Infrastructure: Networking & VPC design, Terraform
+- Tools & Ways of Working: Technical documentation, Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Vantage Point Consulting | Lyon, France | 2024 - Present
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Replaced 3 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 50 regional entities.
+
+IT Consultant | Silverline IT Consulting | Berlin, Germany | 2021 - 2024
+- Designed and delivered 30 interactive Qlik Sense dashboards for aviation clients, reducing manual reporting effort by 40%.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Oslo, Oslo, Norway (2020)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Professional working proficiency)

@@ -1,0 +1,33 @@
+Viktor Dubois
+Vienna, Austria | viktor.dubois@example.com | +32 930 5312628
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (4 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, Data Warehouse design (Kimball/Inmon), dbt
+- Data Science & Machine Learning: MLflow, XGBoost / LightGBM, TensorFlow
+- Cloud & Infrastructure: Networking & VPC design, Cloud cost optimization, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Brightfield Consulting | Berlin, Germany | 2024 - Present
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built a recommendation engine for a pharmaceuticals client, contributing to a 15% increase in average order value.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 10 regional entities.
+
+Consultant | Greystone Data & AI | Chicago, USA | 2022 - 2024
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Statistics, Indian Institute of Technology Bombay, Mumbai, India (2020)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Swedish (Native)
+- Spanish (Conversational)

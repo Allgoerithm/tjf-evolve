@@ -1,0 +1,39 @@
+Marco Berg
+Madrid, Spain | marco.berg@example.com | +31 383 9929734
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 6 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: DAX, Snowflake, QlikView, Power Query / M, Data Warehouse design (Kimball/Inmon), Power BI
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Orbis Technology Partners | Austin, USA | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Built a tabular SSAS model that serves 2 departments with consistent KPIs.
+- Designed and delivered 5 interactive Power BI dashboards for banking clients, reducing manual reporting effort by 22%.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 8 regional entities.
+
+Consultant | Nordwind Consulting | Lyon, France | 2023 - 2025
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 20%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+
+BI Developer | Solaris Data Engineering | Manchester, United Kingdom | 2022 - 2023
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 8 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Amsterdam, Amsterdam, Netherlands (2020)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Mandarin (Native)
+- Polish (Fluent)

@@ -1,0 +1,45 @@
+Tobias Berg
+Helsinki, Finland | tobias.berg@example.com | +34 281 1377556
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 14 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Power Query / M, DAX, Stakeholder reporting & dashboarding, Qlik Sense, QlikView
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Kubernetes
+- Tools & Ways of Working: Data governance, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Alpenglow Analytics | Warsaw, Poland | 2023 - Present
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+
+IT Consultant | Brightfield Consulting | Prague, Czech Republic | 2019 - 2023
+- Trained 3 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 25%.
+
+Business Intelligence Consultant | Meridian Digital Partners | Lyon, France | 2017 - 2019
+- Automated the monthly reporting cycle for an aviation client, freeing up 10 analyst days per month for higher-value analysis.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 15 regional entities.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+Consultant | Brightfield Consulting | Dublin, Ireland | 2014 - 2017
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 15 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Applied Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden (2010)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Data Engineer Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- German (Conversational)
+- Portuguese (Conversational)

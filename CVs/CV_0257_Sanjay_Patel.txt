@@ -1,0 +1,39 @@
+Sanjay Patel
+Madrid, Spain | sanjay.patel@example.com | +39 172 2619077
+
+PROFESSIONAL SUMMARY
+Versatile Senior BI Consultant with 8 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, Star schema & dimensional modeling, Power Query / M, SSIS, SSAS, Qlik Sense
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Docker
+- Tools & Ways of Working: Data quality management, Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Anchor Point Technologies | Barcelona, Spain | 2025 - Present
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 8 regional entities.
+- Trained 50 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Migrated 50 legacy reports to Tableau and trained business users on self-service exploration.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+Senior BI Consultant | Pinnacle Business Intelligence GmbH | Zurich, Switzerland | 2023 - 2025
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Designed and delivered 8 interactive Power BI dashboards for energy and utilities clients, reducing manual reporting effort by 12%.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the insurance business.
+
+IT Consultant | Lumen Analytics Group | Chicago, USA | 2021 - 2023
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 10 disparate spreadsheets into a single source of truth.
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 50 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Charles University, Prague, Czech Republic (2017)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Danish (Native)
+- French (Fluent)

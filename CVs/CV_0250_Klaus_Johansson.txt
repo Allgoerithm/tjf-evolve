@@ -1,0 +1,39 @@
+Klaus Johansson
+Hamburg, Germany | klaus.johansson@example.com | +41 497 3676750
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Solutions Architect with 8 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Kubernetes, Apache Airflow, Cloud cost optimization, Infrastructure as Code, Networking & VPC design
+- Business Intelligence: dbt
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Vantage Point Consulting | Prague, Czech Republic | 2025 - Present
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 5 teams.
+- Rolled out data governance roles and policies across 15 departments.
+- Performed a cloud security audit for a pharmaceuticals client, remediating 30 critical findings within the first quarter.
+
+Cloud Solutions Architect | Northstar Cloud Group | Paris, France | 2024 - 2025
+- Managed cloud environments as code with Terraform modules shared across 3 teams.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for a public sector client's data platform.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+
+IT Consultant | Beacon Insight Consulting | Barcelona, Spain | 2023 - 2024
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+B.Sc. in Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden (2017)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Dutch (Native)
+- Spanish (Professional working proficiency)

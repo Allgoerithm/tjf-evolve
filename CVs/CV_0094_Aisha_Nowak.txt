@@ -1,0 +1,41 @@
+Aisha Nowak
+Munich, Germany | aisha.nowak@example.com | +33 819 5915659
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (8 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Star schema & dimensional modeling, Power Query / M, LookML, QlikView, Snowflake
+- Cloud & Infrastructure: Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Alpenglow Analytics | Oslo, Norway | 2024 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Designed and delivered 8 interactive Qlik Sense dashboards for logistics clients, reducing manual reporting effort by 30%.
+- Rolled out Power BI workspaces and certified datasets for 3 business units, standardizing self-service reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+
+BI Developer | Nordwind Consulting | Toronto, Canada | 2021 - 2024
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 5 regional entities.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+- Built analytics workloads on Google Cloud Platform for 2 product teams.
+
+Senior BI Consultant | Riverbend Analytics | Madrid, Spain | 2020 - 2021
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Trained 5 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 15 disparate spreadsheets into a single source of truth.
+- Implemented automated data quality checks on 3 critical tables.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Toronto, Toronto, Canada (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Conversational)

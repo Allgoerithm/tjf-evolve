@@ -1,0 +1,39 @@
+Diego Koch
+Prague, Czech Republic | diego.koch@example.com | +48 762 4998742
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 6 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: Model Deployment & Monitoring, MLflow, Jupyter, Causal Inference, Computer Vision, Feature Engineering
+- Cloud & Infrastructure: Cloud cost optimization, Networking & VPC design
+- Tools & Ways of Working: Data quality management, Technical documentation, Git
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Cobalt Data Labs | Amsterdam, Netherlands | 2024 - Present
+- Led a proof-of-concept on demand forecasting for a healthcare client, achieving a 30% reduction in forecast error versus the baseline.
+- Mentored a team of 5 junior data scientists on feature engineering and model evaluation best practices.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+IT Consultant | BlueRiver Analytics | Oslo, Norway | 2022 - 2024
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Built a churn prediction model on 20+ customer records, enabling targeted retention campaigns for the pharmaceuticals sector.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Data Scientist | Lumen Analytics Group | Prague, Czech Republic | 2019 - 2022
+- Built a recommendation engine for a consumer goods client, contributing to a 40% increase in average order value.
+- Developed a random forest model to predict equipment failure for banking clients, improving prediction accuracy by 18%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 28%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Indian Institute of Technology Bombay, Mumbai, India (2020)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Cloudera Certified Data Analyst
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Danish (Native)
+- Dutch (Fluent)

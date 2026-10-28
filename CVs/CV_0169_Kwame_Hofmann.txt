@@ -1,0 +1,39 @@
+Kwame Hofmann
+Stuttgart, Germany | kwame.hofmann@example.com | +33 538 3502803
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (6 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, T-SQL, SSAS, Tableau, QlikView, Qlik Sense
+- Cloud & Infrastructure: Terraform, Kubernetes
+- Tools & Ways of Working: Requirements engineering, Data quality management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Cobalt Data Labs | Milan, Italy | 2025 - Present
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 2 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Northstar Cloud Group | Paris, France | 2023 - 2025
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the consumer goods business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Business Intelligence Consultant | Meridian Digital Partners | Vienna, Austria | 2021 - 2023
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 15%.
+- Designed and delivered 2 interactive Databricks dashboards for e-commerce clients, reducing manual reporting effort by 28%.
+- Automated the monthly reporting cycle for a pharmaceuticals client, freeing up 30 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Computer Science, Charles University, Prague, Czech Republic (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Databricks Certified Data Engineer Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- French (Native)
+- German (Conversational)

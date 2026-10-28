@@ -1,0 +1,41 @@
+James Bauer
+Munich, Germany | james.bauer@example.com | +44 703 1506104
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant specializing in business intelligence, data science, and cloud data platforms, with 5 years of consulting experience across insurance and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Data Warehouse design (Kimball/Inmon), QlikView
+- Data Science & Machine Learning: Computer Vision, Natural Language Processing, Databricks
+- Cloud & Infrastructure: Terraform, Networking & VPC design, Linux system administration
+- Tools & Ways of Working: JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Riverbend Analytics | Helsinki, Finland | 2025 - Present
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 35%.
+
+IT Consultant | Vertex Data Partners | Bangalore, India | 2024 - 2025
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 2 teams.
+- Drove cloud cost optimization across 20 accounts through rightsizing and reserved capacity.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 25%.
+
+Lead Data & AI Consultant | Falcon Ridge Consulting | Cologne, Germany | 2023 - 2024
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 5 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Statistics, University of Illinois, Chicago, USA (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- French (Native)
+- Portuguese (Conversational)

@@ -1,0 +1,34 @@
+Fatima Schroder
+Barcelona, Spain | fatima.schroder@example.com | +1 639 6546581
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 2 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, LookML, Looker, Data Warehouse design (Kimball/Inmon), SSIS, Power BI
+- Cloud & Infrastructure: Infrastructure as Code, Apache Airflow
+- Tools & Ways of Working: Technical documentation, Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Stratos Cloud Consulting | Helsinki, Finland | 2025 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+Analyst | TerraLogic Consulting | Frankfurt, Germany | 2024 - 2025
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the retail business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 15 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Amsterdam, Amsterdam, Netherlands (2024)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Hindi (Native)
+- Danish (Conversational)
+- Dutch (Conversational)

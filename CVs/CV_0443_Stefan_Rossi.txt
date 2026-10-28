@@ -1,0 +1,36 @@
+Stefan Rossi
+Vienna, Austria | stefan.rossi@example.com | +49 610 9318344
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (3 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Tableau, SSAS, Snowflake, KPI design, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Apache Airflow, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Data quality management, JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Stratos Cloud Consulting | Manchester, United Kingdom | 2024 - Present
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Replaced 5 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Trained 20 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+
+Analyst | BlueRiver Analytics | Chicago, USA | 2023 - 2024
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced dbt for transformation and testing, covering 3+ models in the analytics layer.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Designed and delivered 50 interactive Power BI dashboards for retail clients, reducing manual reporting effort by 25%.
+
+EDUCATION
+M.Sc. in Statistics, University of Vienna, Vienna, Austria (2023)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- German (Native)
+- Swedish (Fluent)
+- Mandarin (Conversational)

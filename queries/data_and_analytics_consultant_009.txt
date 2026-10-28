@@ -1,0 +1,29 @@
+SEARCH PROFILE #009
+Role Needed: Senior Data Platform Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Automotive manufacturing
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- SSRS
+- Git
+- Infrastructure as Code
+- Snowflake
+
+NICE-TO-HAVE SKILLS
+- MLOps
+- Apache Airflow
+
+PREFERRED CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGE REQUIREMENTS
+- Polish (conversational)
+
+Location / Remote Policy: On-site required (client site: Stuttgart, Germany)
+
+PROJECT CONTEXT
+An internal data platform program is behind schedule and needs a senior consultant able to unblock issues across multiple workstreams.
+
+Start Date: Next quarter
+Duration: 3 months, extension likely

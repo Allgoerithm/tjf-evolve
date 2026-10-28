@@ -1,0 +1,39 @@
+Christiane Hoffmann
+Paris, France | christiane.hoffmann@example.com | +46 347 5081365
+
+PROFESSIONAL SUMMARY
+Data Engineer with 7 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Power Query / M, Looker
+- Cloud & Infrastructure: Linux system administration, Networking & VPC design, Infrastructure as Code, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Meridian Digital Partners | Krakow, Poland | 2024 - Present
+- Performed a cloud security audit for a banking client, remediating 10 critical findings within the first quarter.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analyst | Northgate Technology Group | Frankfurt, Germany | 2023 - 2024
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 3 disparate spreadsheets into a single source of truth.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+
+Consultant | Quantara Analytics | Bangalore, India | 2022 - 2023
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+
+EDUCATION
+B.Eng. in Information Systems, Imperial College London, London, United Kingdom (2018)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- SnowPro Core Certification
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Italian (Native)
+- Hindi (Professional working proficiency)

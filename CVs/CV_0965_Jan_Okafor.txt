@@ -1,0 +1,32 @@
+Jan Okafor
+Prague, Czech Republic | jan.okafor@example.com | +1 573 2996296
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 3 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Data Warehouse design (Kimball/Inmon), SSIS
+- Cloud & Infrastructure: Linux system administration, Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Kafka
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Kestrel Data Solutions | Prague, Czech Republic | 2025 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Designed and delivered 30 interactive Power BI dashboards for banking clients, reducing manual reporting effort by 45%.
+- Implemented a data lake on Tableau, ingesting and processing over 5 TB of data monthly from 5 source systems.
+
+IT Consultant | Beacon Insight Consulting | Chicago, USA | 2024 - 2025
+- Designed and implemented a multi-account AWS landing zone for an aviation client, improving security posture and cost visibility.
+- Performed a cloud security audit for an energy and utilities client, remediating 3 critical findings within the first quarter.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 2 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Eng. in Information Systems, University of Warsaw, Warsaw, Poland (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Dutch (Native)
+- German (Fluent)

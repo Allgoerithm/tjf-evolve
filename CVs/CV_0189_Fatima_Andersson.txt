@@ -1,0 +1,43 @@
+Fatima Andersson
+Toronto, Canada | fatima.andersson@example.com | +32 108 4807667
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 13 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Star schema & dimensional modeling, SSIS, T-SQL, Stakeholder reporting & dashboarding, KPI design
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Kestrel Data Solutions | Vienna, Austria | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Designed and delivered 2 interactive Qlik Sense dashboards for aviation clients, reducing manual reporting effort by 40%.
+
+Senior BI Consultant | Quantara Analytics | Cologne, Germany | 2021 - 2023
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 5 regional entities.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 25%.
+
+Analyst | Evergreen Data Solutions | Cologne, Germany | 2018 - 2021
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 50 analyst days per month for higher-value analysis.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Senior BI Consultant | BlueRiver Analytics | Milan, Italy | 2015 - 2018
+- Trained 8 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the energy and utilities business.
+
+EDUCATION
+M.Sc. in Computational Science, Humboldt University of Berlin, Berlin, Germany (2011)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- French (Professional working proficiency)

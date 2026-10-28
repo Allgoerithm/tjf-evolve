@@ -1,0 +1,38 @@
+Liam Patel
+Lisbon, Portugal | liam.patel@example.com | +33 564 4299717
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 9 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: DAX, Star schema & dimensional modeling, Qlik Sense, T-SQL, SSRS, dbt
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud
+- Tools & Ways of Working: JIRA / Confluence, Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Brightfield Consulting | Manchester, United Kingdom | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Trained 20 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 15%.
+
+Analytics Consultant | Pinnacle Business Intelligence GmbH | Barcelona, Spain | 2021 - 2023
+- Designed and delivered 8 interactive Qlik Sense dashboards for insurance clients, reducing manual reporting effort by 30%.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Business Intelligence Consultant | Silverline IT Consulting | Helsinki, Finland | 2018 - 2021
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Automated the monthly reporting cycle for a logistics client, freeing up 30 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Computer Science, ETH Zurich, Zurich, Switzerland (2015)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+
+LANGUAGES
+- German (Native)
+- Hindi (Fluent)
+- Portuguese (Conversational)

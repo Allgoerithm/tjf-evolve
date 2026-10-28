@@ -1,0 +1,31 @@
+SEARCH PROFILE #048
+Role Needed: Analytics Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Aviation
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Technical documentation
+- Data Warehouse design (Kimball/Inmon)
+- Apache Kafka
+- Snowflake on cloud
+
+NICE-TO-HAVE SKILLS
+- DAX
+- Power Query / M
+- Agile / Scrum
+
+PREFERRED CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGE REQUIREMENTS
+- French (fluent)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Milan, Italy)
+
+PROJECT CONTEXT
+An aviation client is building a data lake and needs support designing the ingestion, storage, and transformation layers.
+
+Start Date: ASAP
+Duration: 6 months

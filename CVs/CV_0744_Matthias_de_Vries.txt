@@ -1,0 +1,34 @@
+Matthias de Vries
+Oslo, Norway | matthias.de.vries@example.com | +1 799 8485043
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 2 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, DAX, QlikView, SSIS, Power Query / M, Snowflake
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes
+- Tools & Ways of Working: JIRA / Confluence, Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Silverline IT Consulting | Chicago, USA | 2025 - Present
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 5 regional entities.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 10 disparate spreadsheets into a single source of truth.
+- Introduced dbt for transformation and testing, covering 8+ models in the analytics layer.
+- Designed and delivered 2 interactive Databricks dashboards for energy and utilities clients, reducing manual reporting effort by 40%.
+
+Senior BI Consultant | Fjord Digital Solutions | Singapore, Singapore | 2024 - 2025
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the e-commerce business.
+- Modeled core business entities in Looker so that 20 teams could explore governed metrics on their own.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 2 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Statistics, Trinity College Dublin, Dublin, Ireland (2023)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- French (Native)
+- Swedish (Fluent)

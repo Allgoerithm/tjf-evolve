@@ -1,0 +1,40 @@
+Bjorn Gupta
+Bangalore, India | bjorn.gupta@example.com | +39 839 8697207
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 6 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Data Warehouse design (Kimball/Inmon), SQL Server
+- Data Science & Machine Learning: Causal Inference, R, TensorFlow
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Docker, Cloud cost optimization
+- Tools & Ways of Working: JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Pinnacle Business Intelligence GmbH | Munich, Germany | 2023 - Present
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 20% reduction in forecast error versus the baseline.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Designed and delivered 10 interactive Qlik Sense dashboards for automotive manufacturing clients, reducing manual reporting effort by 45%.
+
+Consultant | BlueRiver Analytics | Pune, India | 2021 - 2023
+- Tuned XGBoost models for fraud risk, improving recall by 35%.
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the e-commerce sector.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+
+Senior Data Platform Consultant | Alpenglow Analytics | Vienna, Austria | 2019 - 2021
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+
+EDUCATION
+B.Sc. in Mathematics, University of Illinois, Chicago, USA (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Italian (Native)
+- Spanish (Professional working proficiency)

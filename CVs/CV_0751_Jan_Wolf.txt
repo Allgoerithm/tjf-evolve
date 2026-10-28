@@ -1,0 +1,36 @@
+Jan Wolf
+Vienna, Austria | jan.wolf@example.com | +48 438 4091745
+
+PROFESSIONAL SUMMARY
+Experienced Applied Data Scientist (4 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: MLOps, Databricks, Natural Language Processing, Feature Engineering, Apache Spark / PySpark, XGBoost / LightGBM
+- Cloud & Infrastructure: Apache Airflow, Snowflake on cloud
+- Tools & Ways of Working: Git, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | Evergreen Data Solutions | Hamburg, Germany | 2024 - Present
+- Developed an anomaly detection system for consumer goods operations, flagging issues 12% faster than the previous manual process.
+- Built a recommendation engine for a healthcare client, contributing to a 40% increase in average order value.
+- Developed a random forest model to predict customer lifetime value for banking clients, improving prediction accuracy by 45%.
+
+Consultant | Alpenglow Analytics | Amsterdam, Netherlands | 2021 - 2024
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 45% reduction in forecast error versus the baseline.
+- Built a churn prediction model on 30+ customer records, enabling targeted retention campaigns for the healthcare sector.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 12%.
+
+EDUCATION
+M.Sc. in Data Science, Politecnico di Milano, Milan, Italy (2021)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- English (Native)
+- French (Professional working proficiency)
+- German (Professional working proficiency)

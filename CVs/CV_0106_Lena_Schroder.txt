@@ -1,0 +1,34 @@
+Lena Schroder
+Austin, USA | lena.schroder@example.com | +32 263 7504319
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SSRS, dbt
+- Data Science & Machine Learning: TensorFlow, Statistical Modeling, Feature Engineering
+- Cloud & Infrastructure: Kubernetes, Snowflake on cloud, Cloud cost optimization
+- Tools & Ways of Working: Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Falcon Ridge Consulting | Prague, Czech Republic | 2023 - Present
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 5 teams.
+- Designed and delivered 3 interactive Qlik Sense dashboards for telecommunications clients, reducing manual reporting effort by 28%.
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 35%.
+
+Analyst | Beacon Insight Consulting | Oslo, Norway | 2022 - 2023
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 18% uplift in conversion rate.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Implemented a data lake on Snowflake, ingesting and processing over 10 TB of data monthly from 10 source systems.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Sorbonne University, Paris, France (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Polish (Native)
+- English (Fluent)

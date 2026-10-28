@@ -1,0 +1,33 @@
+Maximilian Berg
+Warsaw, Poland | maximilian.berg@example.com | +46 516 4796717
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, Snowflake, DAX
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Vantage Point Consulting | Frankfurt, Germany | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Senior Data Engineer | Meridian Digital Partners | Helsinki, Finland | 2022 - 2023
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+
+EDUCATION
+B.Sc. in Mathematics, University of Amsterdam, Amsterdam, Netherlands (2021)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- English (Native)
+- German (Professional working proficiency)

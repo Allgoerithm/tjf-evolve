@@ -1,0 +1,35 @@
+Dmitri Johansson
+Warsaw, Poland | dmitri.johansson@example.com | +41 228 2496864
+
+PROFESSIONAL SUMMARY
+Results-driven Applied Data Scientist with 3 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: Model Deployment & Monitoring, Databricks, MLOps, MLflow, Python (pandas, NumPy, scikit-learn), TensorFlow
+- Cloud & Infrastructure: Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Technical documentation, Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Greystone Data & AI | Zurich, Switzerland | 2024 - Present
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Introduced Git-based workflows with code review for the analytics team.
+- Built a recommendation engine for an energy and utilities client, contributing to a 35% increase in average order value.
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 18%.
+- Operated Kubernetes clusters for data workloads with autoscaling and monitoring.
+
+Data Scientist | Fjord Digital Solutions | Helsinki, Finland | 2022 - 2024
+- Developed a deep learning model to predict fraud risk for healthcare clients, improving prediction accuracy by 22%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 15%.
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+
+EDUCATION
+B.Sc. in Mathematics, University of Toronto, Toronto, Canada (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Conversational)

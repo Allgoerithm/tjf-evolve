@@ -1,0 +1,35 @@
+Sarah Schmidt
+Zurich, Switzerland | sarah.schmidt@example.com | +47 358 9530469
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, dbt, Power Query / M, QlikView, Tableau, Qlik Sense
+- Cloud & Infrastructure: Terraform, Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Solaris Data Engineering | Warsaw, Poland | 2025 - Present
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 20 regional entities.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 40%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the logistics business.
+
+Analytics Consultant | Nimbus Infrastructure Consulting | Munich, Germany | 2024 - 2025
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Designed and delivered 15 interactive Power BI dashboards for pharmaceuticals clients, reducing manual reporting effort by 30%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Operated Kubernetes clusters for data workloads with autoscaling and monitoring.
+
+EDUCATION
+M.Sc. in Computational Science, University of Amsterdam, Amsterdam, Netherlands (2022)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- English (Native)
+- Swedish (Conversational)

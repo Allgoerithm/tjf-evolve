@@ -1,0 +1,33 @@
+Astrid Lambert
+Brussels, Belgium | astrid.lambert@example.com | +48 549 1828195
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, T-SQL, Tableau, Data Warehouse design (Kimball/Inmon), Qlik Sense, DAX
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Northstar Cloud Group | Dublin, Ireland | 2025 - Present
+- Designed and delivered 20 interactive Tableau dashboards for aviation clients, reducing manual reporting effort by 45%.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 20%.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+Analyst | Vertex Data Partners | Stuttgart, Germany | 2024 - 2025
+- Built a tabular SSAS model that serves 20 departments with consistent KPIs.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Mathematics, National University of Singapore, Singapore, Singapore (2023)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- French (Conversational)

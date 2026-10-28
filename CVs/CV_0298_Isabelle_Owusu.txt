@@ -1,0 +1,33 @@
+Isabelle Owusu
+Oslo, Norway | isabelle.owusu@example.com | +47 562 1685076
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (3 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SSIS, SSAS, Power Query / M, Power BI, Tableau
+- Cloud & Infrastructure: Terraform, Snowflake on cloud
+- Tools & Ways of Working: JIRA / Confluence, Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Northgate Technology Group | Madrid, Spain | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Senior BI Consultant | Brightfield Consulting | Lyon, France | 2024 - 2025
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 30%.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+
+EDUCATION
+M.Sc. in Software Engineering, National University of Singapore, Singapore, Singapore (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Polish (Native)
+- German (Professional working proficiency)

@@ -1,0 +1,39 @@
+Carlos Wolf
+Krakow, Poland | carlos.wolf@example.com | +1 595 5486350
+
+PROFESSIONAL SUMMARY
+Results-driven DevOps Consultant with 9 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Docker, Apache Kafka, AWS (EC2, S3, Lambda, Redshift, Glue), Terraform
+- Business Intelligence: SQL Server
+- Tools & Ways of Working: Git, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Pinnacle Business Intelligence GmbH | Berlin, Germany | 2024 - Present
+- Performed a cloud security audit for an insurance client, remediating 2 critical findings within the first quarter.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 8 teams.
+
+IT Consultant | Greystone Data & AI | Barcelona, Spain | 2020 - 2024
+- Implemented a data lake on Databricks, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Defined and documented 20 KPIs together with business owners as the basis of the new reporting suite.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+DevOps Consultant | Alpenglow Analytics | Manchester, United Kingdom | 2016 - 2020
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Led the adoption of a self-service data platform on Power BI, onboarding 10+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+
+EDUCATION
+M.Sc. in Statistics, University of Amsterdam, Amsterdam, Netherlands (2015)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Italian (Native)
+- Swedish (Conversational)

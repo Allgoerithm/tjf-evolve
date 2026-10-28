@@ -1,0 +1,36 @@
+Kwame Lopez
+Manchester, United Kingdom | kwame.lopez@example.com | +31 611 1278677
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 3 years of experience delivering business intelligence and enterprise reporting solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: DAX, T-SQL, Power Query / M, SQL Server, dbt, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Infrastructure as Code, Docker
+- Tools & Ways of Working: Git, Data quality management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Northgate Technology Group | Brussels, Belgium | 2024 - Present
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 45%.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 25%.
+- Automated the monthly reporting cycle for a logistics client, freeing up 3 analyst days per month for higher-value analysis.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 10 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Greystone Data & AI | Cologne, Germany | 2023 - 2024
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Drove cloud cost optimization across 8 accounts through rightsizing and reserved capacity.
+- Replaced 50 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Indian Institute of Technology Bombay, Mumbai, India (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- English (Native)
+- Danish (Professional working proficiency)

@@ -1,0 +1,39 @@
+Ahmed Rossi
+Munich, Germany | ahmed.rossi@example.com | +1 627 5372342
+
+PROFESSIONAL SUMMARY
+Results-driven DevOps Consultant with 9 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Terraform, Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud, Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Kafka
+- Business Intelligence: Star schema & dimensional modeling
+- Tools & Ways of Working: Stakeholder management, Data quality management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Ironwood Cloud Services | Hamburg, Germany | 2022 - Present
+- Led the adoption of a self-service data platform on Snowflake, onboarding 10+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Analyst | Pinnacle Business Intelligence GmbH | Cologne, Germany | 2019 - 2022
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 30 teams.
+
+Consultant | Lumen Analytics Group | Lyon, France | 2017 - 2019
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Performed a cloud security audit for an aviation client, remediating 5 critical findings within the first quarter.
+- Implemented a data lake on Tableau, ingesting and processing over 10 TB of data monthly from 10 source systems.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Toronto, Toronto, Canada (2016)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- SnowPro Core Certification
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Swedish (Native)
+- English (Fluent)

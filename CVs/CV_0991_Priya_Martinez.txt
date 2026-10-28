@@ -1,0 +1,45 @@
+Priya Martinez
+Berlin, Germany | priya.martinez@example.com | +31 579 3163764
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (12 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Looker, SQL Server
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Networking & VPC design, Snowflake on cloud, Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Meridian Digital Partners | Krakow, Poland | 2022 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+- Trained 3 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Performed a cloud security audit for an insurance client, remediating 2 critical findings within the first quarter.
+
+Senior Data Engineer | Northstar Cloud Group | Stockholm, Sweden | 2018 - 2022
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Packaged data services as Docker images to ensure consistent deployments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 3 teams.
+
+IT Consultant | Beacon Insight Consulting | Vienna, Austria | 2015 - 2018
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Implemented a data lake on Looker, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Led a cloud cost optimization initiative, identifying savings of 45% across compute and storage resources.
+
+Senior Data Engineer | Northstar Cloud Group | Stuttgart, Germany | 2012 - 2015
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for a consumer goods client's data platform.
+
+EDUCATION
+B.Eng. in Information Systems, KTH Royal Institute of Technology, Stockholm, Sweden (2012)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified Kubernetes Administrator (CKA)
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- Danish (Conversational)

@@ -1,0 +1,32 @@
+Grace Patel
+Cologne, Germany | grace.patel@example.com | +31 645 3124652
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 3 years of consulting experience across healthcare and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Qlik Sense, SQL Server, Data Warehouse design (Kimball/Inmon), Tableau, Power BI
+- Cloud & Infrastructure: Kubernetes, Linux system administration
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Cobalt Data Labs | Austin, USA | 2024 - Present
+- Automated the monthly reporting cycle for a logistics client, freeing up 15 analyst days per month for higher-value analysis.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 15 disparate spreadsheets into a single source of truth.
+
+Analyst | BlueRiver Analytics | Barcelona, Spain | 2023 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 20 regional entities.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 12%.
+
+EDUCATION
+B.Sc. in Business Informatics, Indian Institute of Technology Bombay, Mumbai, India (2022)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Danish (Native)
+- French (Fluent)

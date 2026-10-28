@@ -1,0 +1,39 @@
+Rosa Ivanov
+Chicago, USA | rosa.ivanov@example.com | +44 895 4480375
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (9 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, DAX, SSRS
+- Cloud & Infrastructure: Kubernetes, Cloud cost optimization, Apache Kafka, Networking & VPC design
+- Tools & Ways of Working: Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Quantara Analytics | Krakow, Poland | 2023 - Present
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+IT Consultant | Beacon Insight Consulting | Amsterdam, Netherlands | 2020 - 2023
+- Led a cloud cost optimization initiative, identifying savings of 35% across compute and storage resources.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 50 regional entities.
+
+IT Consultant | Alpenglow Analytics | Berlin, Germany | 2016 - 2020
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 15 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Eng. in Information Systems, ETH Zurich, Zurich, Switzerland (2017)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Databricks Certified Machine Learning Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- German (Native)
+- Polish (Conversational)

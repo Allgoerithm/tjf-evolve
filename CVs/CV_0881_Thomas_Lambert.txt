@@ -1,0 +1,39 @@
+Thomas Lambert
+Cologne, Germany | thomas.lambert@example.com | +39 940 3275434
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Engineer with 7 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Docker, Networking & VPC design, Kubernetes, Snowflake on cloud, Apache Kafka, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Business Intelligence: Power BI
+- Tools & Ways of Working: Client workshops & presentations, Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Falcon Ridge Consulting | Prague, Czech Republic | 2025 - Present
+- Performed a cloud security audit for a banking client, remediating 5 critical findings within the first quarter.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 8 teams.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 10+ internal teams within the first year.
+
+Cloud Engineer | Pinnacle Business Intelligence GmbH | Frankfurt, Germany | 2023 - 2025
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+
+DevOps Consultant | Kestrel Data Solutions | Manchester, United Kingdom | 2021 - 2023
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+- Implemented a data lake on Power BI, ingesting and processing over 15 TB of data monthly from 15 source systems.
+
+EDUCATION
+B.Eng. in Information Systems, Trinity College Dublin, Dublin, Ireland (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Hindi (Native)
+- Swedish (Professional working proficiency)
+- English (Fluent)

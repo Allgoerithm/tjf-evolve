@@ -1,0 +1,40 @@
+Anna Klein
+Manchester, United Kingdom | anna.klein@example.com | +44 588 4006090
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Solutions Architect (6 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Docker, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Cloud cost optimization, Snowflake on cloud, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Business Intelligence: Tableau
+- Tools & Ways of Working: Data governance, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Orbis Technology Partners | Rotterdam, Netherlands | 2025 - Present
+- Implemented a data lake on Tableau, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Cloud Engineer | Evergreen Data Solutions | Krakow, Poland | 2022 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Performed a cloud security audit for an aviation client, remediating 2 critical findings within the first quarter.
+
+Cloud Solutions Architect | Anchor Point Technologies | Paris, France | 2020 - 2022
+- Led the adoption of a self-service data platform on Databricks, onboarding 2+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 12%.
+- Built analytics workloads on Google Cloud Platform for 30 product teams.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Amsterdam, Amsterdam, Netherlands (2020)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- German (Native)
+- Portuguese (Conversational)
+- French (Professional working proficiency)

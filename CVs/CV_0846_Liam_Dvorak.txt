@@ -1,0 +1,41 @@
+Liam Dvorak
+Copenhagen, Denmark | liam.dvorak@example.com | +44 351 5560554
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (8 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Stakeholder reporting & dashboarding, Looker, QlikView, SSAS, LookML
+- Cloud & Infrastructure: Apache Kafka, Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Solaris Data Engineering | Cologne, Germany | 2025 - Present
+- Maintained SSIS packages that load 5 source systems into the enterprise data warehouse.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 30 disparate spreadsheets into a single source of truth.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+
+Business Intelligence Consultant | Meridian Digital Partners | Hamburg, Germany | 2022 - 2025
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+
+Analytics Consultant | Solaris Data Engineering | Bangalore, India | 2019 - 2022
+- Defined and documented 50 KPIs together with business owners as the basis of the new reporting suite.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 35%.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 25%.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 2 regional entities.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Technical University of Munich, Munich, Germany (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Danish (Native)
+- English (Conversational)
+- German (Fluent)

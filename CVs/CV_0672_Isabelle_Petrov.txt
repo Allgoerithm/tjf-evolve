@@ -1,0 +1,35 @@
+Isabelle Petrov
+Austin, USA | isabelle.petrov@example.com | +47 205 3839702
+
+PROFESSIONAL SUMMARY
+Versatile Lead Data & AI Consultant with 3 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, KPI design, Star schema & dimensional modeling
+- Data Science & Machine Learning: Natural Language Processing, Statistical Modeling, TensorFlow
+- Cloud & Infrastructure: Cloud cost optimization, Infrastructure as Code, Terraform
+- Tools & Ways of Working: Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Meridian Digital Partners | Helsinki, Finland | 2025 - Present
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Led a proof-of-concept on demand forecasting for an energy and utilities client, achieving a 30% reduction in forecast error versus the baseline.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Analyst | Orbis Technology Partners | Toronto, Canada | 2023 - 2025
+- Developed a deep learning model to predict demand for insurance clients, improving prediction accuracy by 12%.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Set up A/B tests for new product features and evaluated the results with the product team.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Amsterdam, Amsterdam, Netherlands (2022)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- German (Native)
+- Portuguese (Fluent)

@@ -1,0 +1,38 @@
+Sophie Dubois
+Zurich, Switzerland | sophie.dubois@example.com | +34 726 4070708
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, QlikView, SSIS
+- Cloud & Infrastructure: Kubernetes, Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization, Infrastructure as Code
+- Tools & Ways of Working: Data quality management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | TerraLogic Consulting | Helsinki, Finland | 2025 - Present
+- Rolled out data governance roles and policies across 2 departments.
+- Performed a cloud security audit for an insurance client, remediating 5 critical findings within the first quarter.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Led the adoption of a self-service data platform on Looker, onboarding 50+ internal teams within the first year.
+
+IT Consultant | Quantara Analytics | Prague, Czech Republic | 2024 - 2025
+- Orchestrated 3+ data pipelines with Apache Airflow, including alerting and backfills.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Designed and implemented a multi-account AWS landing zone for a public sector client, improving security posture and cost visibility.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+
+EDUCATION
+M.Sc. in Software Engineering, Politecnico di Milano, Milan, Italy (2024)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Tableau Desktop Specialist
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Italian (Native)
+- Mandarin (Professional working proficiency)

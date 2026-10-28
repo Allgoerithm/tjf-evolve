@@ -1,0 +1,40 @@
+Thomas Iyer
+Barcelona, Spain | thomas.iyer@example.com | +31 197 6807627
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Engineer with 8 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Cloud cost optimization, Apache Airflow, Linux system administration, Docker, Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design
+- Business Intelligence: SQL Server
+- Tools & Ways of Working: Agile / Scrum, Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Beacon Insight Consulting | Paris, France | 2024 - Present
+- Led a cloud cost optimization initiative, identifying savings of 35% across compute and storage resources.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+Consultant | Nimbus Infrastructure Consulting | Copenhagen, Denmark | 2022 - 2024
+- Performed a cloud security audit for a logistics client, remediating 15 critical findings within the first quarter.
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 2 teams.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+
+Cloud Solutions Architect | Lumen Analytics Group | Stockholm, Sweden | 2021 - 2022
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for an e-commerce client's data platform.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Technical University of Denmark, Copenhagen, Denmark (2018)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Microsoft Certified: Azure Solutions Architect Expert
+- TOGAF 9 Certified
+
+LANGUAGES
+- Swedish (Native)
+- Polish (Professional working proficiency)
+- Mandarin (Fluent)

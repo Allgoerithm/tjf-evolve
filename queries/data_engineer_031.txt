@@ -1,0 +1,28 @@
+SEARCH PROFILE #031
+Role Needed: Senior Data Engineer
+Engagement Type: Short-term project engagement
+Client Industry: Banking
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Data Warehouse design (Kimball/Inmon)
+- Infrastructure as Code
+- Data quality management
+- Client workshops & presentations
+
+NICE-TO-HAVE SKILLS
+- Apache Kafka
+- Terraform
+- SSRS
+- Docker
+
+LANGUAGE REQUIREMENTS
+- Italian (business level)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Cologne, Germany)
+
+PROJECT CONTEXT
+A banking client is building a data lake and needs support designing the ingestion, storage, and transformation layers.
+
+Start Date: Flexible, ideally within the next month
+Duration: 2 months (short-term)

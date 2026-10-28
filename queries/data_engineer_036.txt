@@ -1,0 +1,32 @@
+SEARCH PROFILE #036
+Role Needed: Senior Data Engineer
+Engagement Type: Interim / bridge staffing
+Client Industry: Healthcare
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Infrastructure as Code
+- Looker
+- SSRS
+- Client workshops & presentations
+- Networking & VPC design
+
+NICE-TO-HAVE SKILLS
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Agile / Scrum
+- Power Query / M
+
+PREFERRED CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGE REQUIREMENTS
+- Polish (conversational)
+- Italian (native)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Frankfurt, Germany)
+
+PROJECT CONTEXT
+The client is consolidating multiple regional data warehouses into a single enterprise platform.
+
+Start Date: Immediately
+Duration: 2 months (short-term)

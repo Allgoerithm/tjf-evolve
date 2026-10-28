@@ -1,0 +1,28 @@
+SEARCH PROFILE #100
+Role Needed: Analytics Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Insurance
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Data Warehouse design (Kimball/Inmon)
+- Apache Airflow
+- Technical documentation
+- KPI design
+- Terraform
+
+NICE-TO-HAVE SKILLS
+- Infrastructure as Code
+- Data governance
+- Apache Kafka
+
+LANGUAGE REQUIREMENTS
+- Mandarin (conversational)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Chicago, USA)
+
+PROJECT CONTEXT
+Data quality issues are undermining trust in downstream reporting and the client needs a data quality framework implemented.
+
+Start Date: Flexible, ideally within the next month
+Duration: Ongoing / open-ended

@@ -1,0 +1,37 @@
+Giulia Nakamura
+Toronto, Canada | giulia.nakamura@example.com | +39 294 7416015
+
+PROFESSIONAL SUMMARY
+Versatile Data Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, SSRS, SSIS
+- Cloud & Infrastructure: Docker, Cloud cost optimization, Terraform, Apache Kafka
+- Tools & Ways of Working: Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Fjord Digital Solutions | Paris, France | 2025 - Present
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 3 teams.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 2 teams.
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+
+Analytics Engineer | Quantara Analytics | Lisbon, Portugal | 2024 - 2025
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for a retail client's data platform.
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Modeled core business entities in Looker so that 50 teams could explore governed metrics on their own.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Warsaw, Warsaw, Poland (2024)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- SnowPro Core Certification
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- English (Native)
+- Italian (Conversational)

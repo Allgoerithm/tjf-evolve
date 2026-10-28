@@ -1,0 +1,38 @@
+Hannah Wolf
+Lisbon, Portugal | hannah.wolf@example.com | +32 773 5843943
+
+PROFESSIONAL SUMMARY
+Versatile Senior BI Consultant with 12 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, dbt, SSAS, Snowflake, Star schema & dimensional modeling, KPI design
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Requirements engineering, Data governance, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Evergreen Data Solutions | Madrid, Spain | 2022 - Present
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 45%.
+
+Analytics Consultant | Fjord Digital Solutions | Zurich, Switzerland | 2018 - 2022
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Trained 20 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+
+BI Developer | Nimbus Infrastructure Consulting | Manchester, United Kingdom | 2014 - 2018
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 3 regional entities.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 50 disparate spreadsheets into a single source of truth.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Vienna, Vienna, Austria (2013)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- French (Native)
+- German (Conversational)

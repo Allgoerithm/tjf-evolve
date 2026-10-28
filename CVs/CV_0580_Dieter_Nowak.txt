@@ -1,0 +1,34 @@
+Dieter Nowak
+Amsterdam, Netherlands | dieter.nowak@example.com | +44 731 7613383
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 6 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Tableau, Data Warehouse design (Kimball/Inmon), Looker, Snowflake, SSRS
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization
+- Tools & Ways of Working: Git, Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Meridian Digital Partners | Rotterdam, Netherlands | 2023 - Present
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 20%.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Managed backlog and documentation in JIRA and Confluence for 2 concurrent workstreams.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 15 regional entities.
+
+Analyst | Riverbend Analytics | Madrid, Spain | 2020 - 2023
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 8 interactive Snowflake dashboards for aviation clients, reducing manual reporting effort by 40%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+EDUCATION
+M.Sc. in Data Science, University of Hamburg, Hamburg, Germany (2018)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Project Management Professional (PMP)
+
+LANGUAGES
+- English (Native)
+- Danish (Fluent)

@@ -1,0 +1,35 @@
+Aisha Muller
+Dublin, Ireland | aisha.muller@example.com | +34 474 3096642
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Data Warehouse design (Kimball/Inmon), DAX
+- Cloud & Infrastructure: Apache Airflow, Networking & VPC design, Linux system administration, Apache Kafka
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | BlueRiver Analytics | Barcelona, Spain | 2025 - Present
+- Replaced 5 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Performed a cloud security audit for a retail client, remediating 5 critical findings within the first quarter.
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented automated data quality checks on 30 critical tables.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+
+IT Consultant | Nimbus Infrastructure Consulting | Manchester, United Kingdom | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 3 disparate spreadsheets into a single source of truth.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+
+EDUCATION
+MBA with focus on Information Management, University of Warsaw, Warsaw, Poland (2022)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Google Professional Data Engineer
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Conversational)

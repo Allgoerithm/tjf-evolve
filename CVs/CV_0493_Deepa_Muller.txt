@@ -1,0 +1,39 @@
+Deepa Muller
+Copenhagen, Denmark | deepa.muller@example.com | +34 188 6127803
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (5 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power BI, DAX, Stakeholder reporting & dashboarding, QlikView, LookML, Looker
+- Cloud & Infrastructure: Infrastructure as Code, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Nordwind Consulting | Berlin, Germany | 2024 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 50 regional entities.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 2 dimensions.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+Senior BI Consultant | Vertex Data Partners | Milan, Italy | 2023 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 5 disparate spreadsheets into a single source of truth.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+BI Developer | Falcon Ridge Consulting | Krakow, Poland | 2022 - 2023
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 50 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 15%.
+
+EDUCATION
+M.Sc. in Statistics, Charles University, Prague, Czech Republic (2021)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Conversational)

@@ -1,0 +1,42 @@
+Charlotte Lindqvist
+Frankfurt, Germany | charlotte.lindqvist@example.com | +1 567 2301912
+
+PROFESSIONAL SUMMARY
+Versatile Lead Data & AI Consultant with 8 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, LookML, Power BI
+- Data Science & Machine Learning: Model Deployment & Monitoring, Time Series Forecasting, Apache Spark / PySpark
+- Cloud & Infrastructure: Docker, Snowflake on cloud, Apache Kafka
+- Tools & Ways of Working: Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Anchor Point Technologies | Rotterdam, Netherlands | 2024 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Built analytics workloads on Google Cloud Platform for 3 product teams.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 20% uplift in conversion rate.
+- Trained and tuned TensorFlow models for customer churn, reducing error by 20% over the baseline.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Data & Analytics Consultant | Greystone Data & AI | Lyon, France | 2022 - 2024
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for an insurance client's data platform.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Mentored a team of 15 junior data scientists on feature engineering and model evaluation best practices.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 20%.
+
+Consultant | Pinnacle Business Intelligence GmbH | Toronto, Canada | 2020 - 2022
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented a data lake on Power BI, ingesting and processing over 15 TB of data monthly from 15 source systems.
+- Developed a random forest model to predict customer lifetime value for public sector clients, improving prediction accuracy by 20%.
+
+EDUCATION
+M.Sc. in Software Engineering, Trinity College Dublin, Dublin, Ireland (2018)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Conversational)

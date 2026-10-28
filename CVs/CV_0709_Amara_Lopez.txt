@@ -1,0 +1,34 @@
+Amara Lopez
+Helsinki, Finland | amara.lopez@example.com | +48 189 7561837
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 2 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Tableau, dbt
+- Data Science & Machine Learning: Causal Inference, PyTorch, Natural Language Processing
+- Cloud & Infrastructure: Docker, Cloud cost optimization, Apache Airflow
+- Tools & Ways of Working: Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Silverline IT Consulting | Madrid, Spain | 2025 - Present
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+IT Consultant | Cobalt Data Labs | Toronto, Canada | 2024 - 2025
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 22%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Trinity College Dublin, Dublin, Ireland (2023)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Italian (Native)
+- Hindi (Fluent)

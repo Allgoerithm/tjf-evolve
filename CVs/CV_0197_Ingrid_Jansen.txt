@@ -1,0 +1,45 @@
+Ingrid Jansen
+Madrid, Spain | ingrid.jansen@example.com | +33 133 7065816
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 13 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, LookML, Power BI
+- Data Science & Machine Learning: XGBoost / LightGBM, Apache Spark / PySpark, Feature Engineering
+- Cloud & Infrastructure: Docker, Kubernetes, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Greystone Data & AI | Rotterdam, Netherlands | 2024 - Present
+- Led the adoption of a self-service data platform on Power BI, onboarding 20+ internal teams within the first year.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 22%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+
+IT Consultant | Vantage Point Consulting | Warsaw, Poland | 2020 - 2024
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led a proof-of-concept on demand forecasting for a public sector client, achieving a 28% reduction in forecast error versus the baseline.
+- Trained and tuned TensorFlow models for equipment failure, reducing error by 28% over the baseline.
+
+Senior Data Platform Consultant | Greystone Data & AI | Bangalore, India | 2016 - 2020
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+
+Consultant | Stratos Cloud Consulting | Prague, Czech Republic | 2014 - 2016
+- Trained 20 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the telecommunications sector.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 20 teams.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Illinois, Chicago, USA (2011)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Hindi (Native)
+- French (Conversational)

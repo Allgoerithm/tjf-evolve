@@ -1,0 +1,30 @@
+SEARCH PROFILE #098
+Role Needed: BI Developer
+Engagement Type: Permanent hire
+Client Industry: Insurance
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- T-SQL
+- Power Query / M
+- JIRA / Confluence
+
+NICE-TO-HAVE SKILLS
+- Infrastructure as Code
+- Star schema & dimensional modeling
+- DAX
+- Requirements engineering
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Mandarin (native)
+
+Location / Remote Policy: Fully remote (client site: Dublin, Ireland)
+
+PROJECT CONTEXT
+Leadership wants a self-service analytics capability so business users can build their own reports without IT involvement.
+
+Start Date: Next quarter
+Duration: 3 months, extension likely

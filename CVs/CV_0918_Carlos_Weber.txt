@@ -1,0 +1,33 @@
+Carlos Weber
+Lyon, France | carlos.weber@example.com | +41 840 3969484
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (6 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Power Query / M, SSIS, Looker, SQL Server, Qlik Sense
+- Cloud & Infrastructure: Kubernetes, Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Nordwind Consulting | Lyon, France | 2023 - Present
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 20 disparate spreadsheets into a single source of truth.
+- Trained 3 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Designed and delivered 5 interactive Power BI dashboards for retail clients, reducing manual reporting effort by 35%.
+
+Analyst | Alpenglow Analytics | Chicago, USA | 2020 - 2023
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 12%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+B.Sc. in Mathematics, National University of Singapore, Singapore, Singapore (2019)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- Danish (Conversational)

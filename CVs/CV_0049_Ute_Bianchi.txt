@@ -1,0 +1,33 @@
+Ute Bianchi
+Warsaw, Poland | ute.bianchi@example.com | +44 338 3200675
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (2 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Data Warehouse design (Kimball/Inmon), Tableau
+- Cloud & Infrastructure: Docker, Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization
+- Tools & Ways of Working: Git, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Pinnacle Business Intelligence GmbH | Manchester, United Kingdom | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 15 teams.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+Analyst | Harborview Consulting | Chicago, USA | 2024 - 2025
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Designed and delivered 30 interactive Power BI dashboards for insurance clients, reducing manual reporting effort by 12%.
+
+EDUCATION
+M.Sc. in Business Informatics, Charles University, Prague, Czech Republic (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Italian (Native)
+- French (Conversational)

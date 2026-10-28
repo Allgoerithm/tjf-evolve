@@ -1,0 +1,38 @@
+Viktor Becker
+London, United Kingdom | viktor.becker@example.com | +32 188 9118486
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 5 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, Star schema & dimensional modeling, QlikView, Data Warehouse design (Kimball/Inmon), Power Query / M, KPI design
+- Cloud & Infrastructure: Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Northgate Technology Group | Stuttgart, Germany | 2025 - Present
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 20%.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analyst | Northstar Cloud Group | Berlin, Germany | 2024 - 2025
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 2 disparate spreadsheets into a single source of truth.
+- Trained 15 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+Business Intelligence Consultant | BlueRiver Analytics | Austin, USA | 2023 - 2024
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Designed and delivered 2 interactive Databricks dashboards for healthcare clients, reducing manual reporting effort by 30%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, National University of Singapore, Singapore, Singapore (2020)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- German (Native)
+- Italian (Fluent)

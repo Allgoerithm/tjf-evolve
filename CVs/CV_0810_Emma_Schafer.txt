@@ -1,0 +1,30 @@
+Emma Schafer
+Warsaw, Poland | emma.schafer@example.com | +46 963 5233438
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Power BI, SSAS
+- Cloud & Infrastructure: Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud, Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Meridian Digital Partners | Munich, Germany | 2024 - Present
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+
+EDUCATION
+M.Sc. in Applied Mathematics, National University of Singapore, Singapore, Singapore (2022)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Google Professional Data Engineer
+- TOGAF 9 Certified
+
+LANGUAGES
+- Polish (Native)
+- German (Conversational)
+- Portuguese (Professional working proficiency)

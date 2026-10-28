@@ -1,0 +1,37 @@
+Noah Lambert
+Cologne, Germany | noah.lambert@example.com | +39 171 3677151
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, KPI design, SSIS
+- Cloud & Infrastructure: Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow, Kubernetes
+- Tools & Ways of Working: Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Clearwater Data Systems | Copenhagen, Denmark | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Built analytics workloads on Google Cloud Platform for 15 product teams.
+
+IT Consultant | Falcon Ridge Consulting | Madrid, Spain | 2022 - 2024
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Trained 3 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Munich, Munich, Germany (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Certified ScrumMaster (CSM)
+- Project Management Professional (PMP)
+
+LANGUAGES
+- English (Native)
+- Polish (Conversational)
+- Spanish (Conversational)

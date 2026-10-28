@@ -1,0 +1,37 @@
+Alessandro Hofmann
+Munich, Germany | alessandro.hofmann@example.com | +49 456 1476335
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 2 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: dbt, Stakeholder reporting & dashboarding, Star schema & dimensional modeling
+- Data Science & Machine Learning: PyTorch, Natural Language Processing, A/B Testing & Experimentation
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Networking & VPC design, Linux system administration
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Kestrel Data Solutions | Prague, Czech Republic | 2025 - Present
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 15 teams.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+
+Data & Analytics Consultant | Cobalt Data Labs | Bangalore, India | 2024 - 2025
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+- Built a churn prediction model on 8+ customer records, enabling targeted retention campaigns for the aviation sector.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Vienna, Vienna, Austria (2024)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Dutch (Native)
+- French (Fluent)
+- Spanish (Fluent)

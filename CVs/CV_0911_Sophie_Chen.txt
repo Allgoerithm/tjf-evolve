@@ -1,0 +1,39 @@
+Sophie Chen
+Milan, Italy | sophie.chen@example.com | +47 977 4647034
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 8 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, SSAS, Star schema & dimensional modeling
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud
+- Tools & Ways of Working: Data quality management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Falcon Ridge Consulting | Prague, Czech Republic | 2024 - Present
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 2 teams.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Performed a cloud security audit for a retail client, remediating 8 critical findings within the first quarter.
+
+IT Consultant | Pinnacle Business Intelligence GmbH | Copenhagen, Denmark | 2022 - 2024
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Designed and delivered 15 interactive Looker dashboards for retail clients, reducing manual reporting effort by 35%.
+
+Consultant | Brightfield Consulting | Brussels, Belgium | 2020 - 2022
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for a retail client's data platform.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 3 regional entities.
+
+EDUCATION
+B.Sc. in Mathematics, Humboldt University of Berlin, Berlin, Germany (2018)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Project Management Professional (PMP)
+- TOGAF 9 Certified
+
+LANGUAGES
+- Polish (Native)
+- Hindi (Fluent)

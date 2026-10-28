@@ -1,0 +1,34 @@
+Sigrid Owusu
+London, United Kingdom | sigrid.owusu@example.com | +41 187 2738855
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: QlikView, LookML, T-SQL
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Kafka, Linux system administration, Cloud cost optimization
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Lumen Analytics Group | Krakow, Poland | 2025 - Present
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 45%.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for a retail client's data platform.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+
+Data Engineer | Northstar Cloud Group | Lyon, France | 2024 - 2025
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led the adoption of a self-service data platform on Tableau, onboarding 2+ internal teams within the first year.
+- Trained 30 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+MBA with focus on Information Management, Technical University of Denmark, Copenhagen, Denmark (2022)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Project Management Professional (PMP)
+
+LANGUAGES
+- English (Native)
+- Polish (Professional working proficiency)
+- Portuguese (Fluent)

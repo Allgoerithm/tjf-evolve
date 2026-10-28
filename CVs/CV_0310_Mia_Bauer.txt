@@ -1,0 +1,33 @@
+Mia Bauer
+Vienna, Austria | mia.bauer@example.com | +46 682 3676414
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Snowflake on cloud, Cloud cost optimization, Apache Airflow, Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Terraform
+- Business Intelligence: Snowflake
+- Tools & Ways of Working: Data governance, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Alpenglow Analytics | Rotterdam, Netherlands | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 3 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+
+Cloud Infrastructure Consultant | Northgate Technology Group | Helsinki, Finland | 2024 - 2025
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Performed a cloud security audit for a public sector client, remediating 50 critical findings within the first quarter.
+- Implemented a data lake on Power BI, ingesting and processing over 50 TB of data monthly from 50 source systems.
+
+EDUCATION
+M.Sc. in Statistics, Charles University, Prague, Czech Republic (2023)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Mandarin (Native)
+- French (Fluent)

@@ -1,0 +1,43 @@
+Viktor Horvat
+Brussels, Belgium | viktor.horvat@example.com | +48 866 9634579
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 11 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: DAX, Star schema & dimensional modeling, SSAS, dbt, Tableau, SSRS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design
+- Tools & Ways of Working: Git, Agile / Scrum, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Brightfield Consulting | Copenhagen, Denmark | 2024 - Present
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 30 disparate spreadsheets into a single source of truth.
+- Designed and delivered 20 interactive Looker dashboards for energy and utilities clients, reducing manual reporting effort by 25%.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 10 analyst days per month for higher-value analysis.
+
+Analyst | Northstar Cloud Group | Lyon, France | 2022 - 2024
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 20%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Evergreen Data Solutions | Copenhagen, Denmark | 2021 - 2022
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the logistics business.
+- Trained 5 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+Senior BI Consultant | Stratos Cloud Consulting | Singapore, Singapore | 2020 - 2021
+- Implemented row-level security in Looker, enabling secure self-service reporting across 10 regional entities.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+EDUCATION
+M.Sc. in Business Informatics, ETH Zurich, Zurich, Switzerland (2015)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Mandarin (Native)
+- Hindi (Conversational)

@@ -1,0 +1,40 @@
+Lena Patel
+Lisbon, Portugal | lena.patel@example.com | +1 863 7307957
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (5 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SSRS, Qlik Sense, Power Query / M, SSAS, Tableau
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Infrastructure as Code
+- Tools & Ways of Working: Git, JIRA / Confluence, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Brightfield Consulting | Lyon, France | 2025 - Present
+- Optimized Looker data models and DAX measures, improving dashboard load times by 30%.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+- Designed and delivered 30 interactive Databricks dashboards for pharmaceuticals clients, reducing manual reporting effort by 25%.
+
+Senior BI Consultant | Quantara Analytics | Zurich, Switzerland | 2024 - 2025
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 28%.
+- Trained 2 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+Analyst | Ironwood Cloud Services | Berlin, Germany | 2023 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+
+EDUCATION
+M.Sc. in Statistics, Humboldt University of Berlin, Berlin, Germany (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+- Google Professional Data Engineer
+
+LANGUAGES
+- Swedish (Native)
+- Spanish (Professional working proficiency)

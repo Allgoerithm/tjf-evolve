@@ -1,0 +1,39 @@
+Jonas Martinez
+Cologne, Germany | jonas.martinez@example.com | +45 380 7166588
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect specializing in cloud infrastructure and platform engineering, with 8 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Cloud cost optimization, Infrastructure as Code, Apache Kafka, Terraform, Apache Airflow, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Business Intelligence: SSAS
+- Tools & Ways of Working: Requirements engineering, Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Solaris Data Engineering | Zurich, Switzerland | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+- Designed a CI/CD pipeline that reduced release cycle time by 30% for an energy and utilities client's data platform.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+DevOps Consultant | Ironwood Cloud Services | London, United Kingdom | 2022 - 2025
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Performed a cloud security audit for an insurance client, remediating 30 critical findings within the first quarter.
+
+Cloud Engineer | Northgate Technology Group | Warsaw, Poland | 2019 - 2022
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 2+ internal teams within the first year.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+EDUCATION
+B.Sc. in Computer Science, University of Illinois, Chicago, USA (2017)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- TOGAF 9 Certified
+
+LANGUAGES
+- Swedish (Native)
+- English (Fluent)
+- Polish (Professional working proficiency)

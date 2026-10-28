@@ -1,0 +1,33 @@
+Charlotte Hoffmann
+Manchester, United Kingdom | charlotte.hoffmann@example.com | +39 993 8046521
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 3 years of experience delivering business intelligence and enterprise reporting solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Looker, SSRS, dbt, LookML, Power BI, SSAS
+- Cloud & Infrastructure: Docker, Apache Kafka
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Anchor Point Technologies | Frankfurt, Germany | 2025 - Present
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 50 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 10 analyst days per month for higher-value analysis.
+
+IT Consultant | Brightfield Consulting | Cologne, Germany | 2024 - 2025
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Business Informatics, Sorbonne University, Paris, France (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Spanish (Native)
+- German (Professional working proficiency)

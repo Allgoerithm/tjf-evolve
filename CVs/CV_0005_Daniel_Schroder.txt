@@ -1,0 +1,35 @@
+Daniel Schroder
+Vienna, Austria | daniel.schroder@example.com | +46 983 3392184
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code, Cloud cost optimization, Snowflake on cloud, Linux system administration
+- Business Intelligence: Power Query / M
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Riverbend Analytics | Munich, Germany | 2025 - Present
+- Performed a cloud security audit for a pharmaceuticals client, remediating 2 critical findings within the first quarter.
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for a retail client's data platform.
+- Rolled out data governance roles and policies across 3 departments.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+
+DevOps Consultant | Northgate Technology Group | Krakow, Poland | 2023 - 2025
+- Designed and implemented a multi-account AWS landing zone for an energy and utilities client, improving security posture and cost visibility.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+B.Eng. in Information Systems, University of Illinois, Chicago, USA (2023)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- SnowPro Core Certification
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Mandarin (Native)
+- English (Fluent)

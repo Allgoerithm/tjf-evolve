@@ -1,0 +1,38 @@
+Matthias Jansen
+Cologne, Germany | matthias.jansen@example.com | +47 657 6743054
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 5 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Tableau, LookML
+- Cloud & Infrastructure: Kubernetes, Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Terraform
+- Tools & Ways of Working: Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Anchor Point Technologies | Paris, France | 2024 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the energy and utilities business.
+
+Consultant | Anchor Point Technologies | Madrid, Spain | 2023 - 2024
+- Performed a cloud security audit for a healthcare client, remediating 15 critical findings within the first quarter.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+
+IT Consultant | Lumen Analytics Group | Pune, India | 2021 - 2023
+- Led the adoption of a self-service data platform on Snowflake, onboarding 8+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Designed and delivered 5 interactive Looker dashboards for logistics clients, reducing manual reporting effort by 15%.
+
+EDUCATION
+B.Sc. in Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2019)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Danish (Native)
+- Hindi (Professional working proficiency)

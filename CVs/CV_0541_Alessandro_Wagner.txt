@@ -1,0 +1,39 @@
+Alessandro Wagner
+Austin, USA | alessandro.wagner@example.com | +49 440 6971950
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 5 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, SSIS, KPI design, Star schema & dimensional modeling, Qlik Sense, Snowflake
+- Cloud & Infrastructure: Apache Airflow, Terraform
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Anchor Point Technologies | Copenhagen, Denmark | 2025 - Present
+- Designed and delivered 2 interactive Qlik Sense dashboards for consumer goods clients, reducing manual reporting effort by 45%.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+Consultant | Vantage Point Consulting | Austin, USA | 2024 - 2025
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 20 disparate spreadsheets into a single source of truth.
+- Migrated 5 legacy reports to Tableau and trained business users on self-service exploration.
+
+BI Developer | Brightfield Consulting | Berlin, Germany | 2022 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 35%.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 20 regional entities.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Politecnico di Milano, Milan, Italy (2021)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Portuguese (Native)
+- German (Conversational)

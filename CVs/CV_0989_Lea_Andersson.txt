@@ -1,0 +1,36 @@
+Lea Andersson
+Milan, Italy | lea.andersson@example.com | +33 694 5002757
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 3 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSRS, SSAS, QlikView
+- Data Science & Machine Learning: Statistical Modeling, A/B Testing & Experimentation, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Data governance, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Brightfield Consulting | Prague, Czech Republic | 2025 - Present
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 15%.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 20%.
+- Designed and implemented a multi-account AWS landing zone for a telecommunications client, improving security posture and cost visibility.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+
+IT Consultant | Beacon Insight Consulting | Vienna, Austria | 2024 - 2025
+- Performed a cloud security audit for a public sector client, remediating 5 critical findings within the first quarter.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Politecnico di Milano, Milan, Italy (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- French (Native)
+- Mandarin (Fluent)
+- Polish (Fluent)

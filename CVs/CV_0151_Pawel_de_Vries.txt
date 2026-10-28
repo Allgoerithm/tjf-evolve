@@ -1,0 +1,45 @@
+Pawel de Vries
+Lisbon, Portugal | pawel.de.vries@example.com | +34 800 7924233
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 13 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, SQL Server, KPI design, Tableau, Looker, dbt
+- Cloud & Infrastructure: Networking & VPC design, Apache Airflow
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Quantara Analytics | Lyon, France | 2024 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Evergreen Data Solutions | Barcelona, Spain | 2020 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 35%.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+IT Consultant | Harborview Consulting | Manchester, United Kingdom | 2017 - 2020
+- Designed and delivered 3 interactive Looker dashboards for banking clients, reducing manual reporting effort by 25%.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 10 analyst days per month for higher-value analysis.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+
+BI Developer | Alpenglow Analytics | Brussels, Belgium | 2014 - 2017
+- Trained 3 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the logistics business.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 8 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Manchester, Manchester, United Kingdom (2011)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Cloudera Certified Data Analyst
+- Project Management Professional (PMP)
+
+LANGUAGES
+- German (Native)
+- Danish (Conversational)
+- Polish (Fluent)

@@ -1,0 +1,40 @@
+Astrid Schroder
+Vienna, Austria | astrid.schroder@example.com | +45 639 8011202
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 7 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: DAX, SSIS, dbt
+- Cloud & Infrastructure: Linux system administration, Apache Airflow, Infrastructure as Code, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Data quality management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Alpenglow Analytics | Brussels, Belgium | 2025 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Data Engineer | Lumen Analytics Group | Munich, Germany | 2023 - 2025
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+IT Consultant | Pinnacle Business Intelligence GmbH | Oslo, Norway | 2022 - 2023
+- Performed a cloud security audit for a telecommunications client, remediating 5 critical findings within the first quarter.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+
+EDUCATION
+M.Sc. in Software Engineering, Technical University of Denmark, Copenhagen, Denmark (2018)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Certified ScrumMaster (CSM)
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Swedish (Native)
+- English (Conversational)

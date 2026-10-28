@@ -1,0 +1,36 @@
+Michael Sharma
+Singapore, Singapore | michael.sharma@example.com | +46 484 2326357
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (4 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Star schema & dimensional modeling, Looker, SQL Server, SSRS, dbt
+- Cloud & Infrastructure: Docker, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Evergreen Data Solutions | Lisbon, Portugal | 2024 - Present
+- Trained 20 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+
+Analyst | Vantage Point Consulting | Prague, Czech Republic | 2022 - 2024
+- Automated the monthly reporting cycle for a retail client, freeing up 8 analyst days per month for higher-value analysis.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Introduced Git-based workflows with code review for the analytics team.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Computer Science, Sorbonne University, Paris, France (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Project Management Professional (PMP)
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Professional working proficiency)
+- Italian (Professional working proficiency)

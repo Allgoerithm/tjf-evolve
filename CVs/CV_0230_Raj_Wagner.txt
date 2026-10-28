@@ -1,0 +1,34 @@
+Raj Wagner
+Lisbon, Portugal | raj.wagner@example.com | +49 605 5570191
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (3 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SQL Server, SSIS
+- Cloud & Infrastructure: Linux system administration, Terraform, Docker, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Pinnacle Business Intelligence GmbH | Prague, Czech Republic | 2025 - Present
+- Rolled out data governance roles and policies across 10 departments.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 10 regional entities.
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+
+IT Consultant | Evergreen Data Solutions | Manchester, United Kingdom | 2023 - 2025
+- Performed a cloud security audit for a pharmaceuticals client, remediating 20 critical findings within the first quarter.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 15%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+EDUCATION
+M.Sc. in Computer Science, Charles University, Prague, Czech Republic (2021)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Fluent)
+- German (Fluent)

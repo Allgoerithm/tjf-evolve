@@ -1,0 +1,40 @@
+Hiroshi Gupta
+Berlin, Germany | hiroshi.gupta@example.com | +31 798 6876578
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 7 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, QlikView, SQL Server
+- Cloud & Infrastructure: Docker, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes, Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | BlueRiver Analytics | Madrid, Spain | 2024 - Present
+- Performed a cloud security audit for a pharmaceuticals client, remediating 8 critical findings within the first quarter.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+
+Analyst | Quantara Analytics | Madrid, Spain | 2023 - 2024
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Orchestrated 30+ data pipelines with Apache Airflow, including alerting and backfills.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 30 regional entities.
+- Led the adoption of a self-service data platform on Power BI, onboarding 30+ internal teams within the first year.
+
+Data Engineer | Riverbend Analytics | Stockholm, Sweden | 2022 - 2023
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 20 teams.
+- Designed and delivered 3 interactive Qlik Sense dashboards for logistics clients, reducing manual reporting effort by 20%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+EDUCATION
+B.Sc. in Business Informatics, Charles University, Prague, Czech Republic (2017)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Spanish (Native)
+- Danish (Fluent)

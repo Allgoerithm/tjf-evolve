@@ -1,0 +1,36 @@
+Astrid Neumann
+Madrid, Spain | astrid.neumann@example.com | +45 805 5453801
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Platform Consultant with 3 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: dbt, Tableau, KPI design
+- Data Science & Machine Learning: Feature Engineering, Model Deployment & Monitoring, Jupyter
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE), Docker
+- Tools & Ways of Working: Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Beacon Insight Consulting | Madrid, Spain | 2025 - Present
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Built a tabular SSAS model that serves 3 departments with consistent KPIs.
+- Mentored a team of 5 junior data scientists on feature engineering and model evaluation best practices.
+
+Consultant | Lumen Analytics Group | Warsaw, Poland | 2023 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Tracked experiments and registered models with MLflow across 5 data science projects.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+EDUCATION
+M.Sc. in Data Science, Trinity College Dublin, Dublin, Ireland (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Mandarin (Native)
+- Dutch (Conversational)

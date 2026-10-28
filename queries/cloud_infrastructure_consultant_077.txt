@@ -1,0 +1,29 @@
+SEARCH PROFILE #077
+Role Needed: Cloud Engineer
+Engagement Type: Permanent hire
+Client Industry: Retail
+Minimum Experience: 8+ years
+
+MUST-HAVE SKILLS
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Data quality management
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Git
+
+NICE-TO-HAVE SKILLS
+- Networking & VPC design
+- Apache Airflow
+- Apache Kafka
+- Star schema & dimensional modeling
+
+LANGUAGE REQUIREMENTS
+- Mandarin (conversational)
+- French (business level)
+
+Location / Remote Policy: On-site required (client site: Bangalore, India)
+
+PROJECT CONTEXT
+The client's security team flagged gaps in their cloud landing zone that need to be remediated before an upcoming audit.
+
+Start Date: Flexible, ideally within the next month
+Duration: 3 months, extension likely

@@ -1,0 +1,27 @@
+SEARCH PROFILE #088
+Role Needed: Analytics Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Logistics
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Requirements engineering
+- SQL Server
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Data Warehouse design (Kimball/Inmon)
+
+NICE-TO-HAVE SKILLS
+- Client workshops & presentations
+- SSAS
+
+LANGUAGE REQUIREMENTS
+- French (business level)
+- Spanish (fluent)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Lyon, France)
+
+PROJECT CONTEXT
+The client is replacing a legacy reporting tool with Tableau and needs support migrating 15+ existing reports.
+
+Start Date: Immediately
+Duration: 9 months with a defined project end date

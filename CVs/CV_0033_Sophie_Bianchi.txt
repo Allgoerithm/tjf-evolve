@@ -1,0 +1,33 @@
+Sophie Bianchi
+Singapore, Singapore | sophie.bianchi@example.com | +45 881 1788414
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Tableau, QlikView, Snowflake
+- Data Science & Machine Learning: Feature Engineering, PyTorch, A/B Testing & Experimentation
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Terraform, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Kestrel Data Solutions | Oslo, Norway | 2024 - Present
+- Built a churn prediction model on 8+ customer records, enabling targeted retention campaigns for the aviation sector.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 2 disparate spreadsheets into a single source of truth.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Data & Analytics Consultant | Brightfield Consulting | Frankfurt, Germany | 2023 - 2024
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the healthcare business.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Manchester, Manchester, United Kingdom (2022)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- French (Native)
+- Portuguese (Fluent)

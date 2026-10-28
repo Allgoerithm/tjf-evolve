@@ -1,0 +1,32 @@
+SEARCH PROFILE #059
+Role Needed: Senior Data Engineer
+Engagement Type: Short-term project engagement
+Client Industry: Public sector
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- Cloud cost optimization
+- Infrastructure as Code
+- QlikView
+- T-SQL
+
+NICE-TO-HAVE SKILLS
+- Stakeholder management
+- Terraform
+
+PREFERRED CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Project Management Professional (PMP)
+
+LANGUAGE REQUIREMENTS
+- Polish (fluent)
+- Danish (business level)
+
+Location / Remote Policy: On-site required (client site: Manchester, United Kingdom)
+
+PROJECT CONTEXT
+The client is consolidating multiple regional data warehouses into a single enterprise platform.
+
+Start Date: ASAP
+Duration: Ongoing / open-ended

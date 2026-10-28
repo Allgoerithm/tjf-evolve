@@ -1,0 +1,35 @@
+Sarah Nakamura
+Brussels, Belgium | sarah.nakamura@example.com | +44 666 2606616
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 4 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SQL Server, Power Query / M, Star schema & dimensional modeling, LookML, DAX
+- Cloud & Infrastructure: Docker, Networking & VPC design
+- Tools & Ways of Working: Git, Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Greystone Data & AI | Stockholm, Sweden | 2025 - Present
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 3 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+BI Developer | Nimbus Infrastructure Consulting | Oslo, Norway | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 5 disparate spreadsheets into a single source of truth.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+EDUCATION
+M.Sc. in Computer Science, Imperial College London, London, United Kingdom (2020)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- AWS Certified Solutions Architect - Associate
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Dutch (Native)
+- Portuguese (Professional working proficiency)
+- Italian (Fluent)

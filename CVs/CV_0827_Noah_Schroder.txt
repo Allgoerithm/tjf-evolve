@@ -1,0 +1,34 @@
+Noah Schroder
+Rotterdam, Netherlands | noah.schroder@example.com | +34 962 9010573
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Engineer with 2 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Snowflake on cloud, Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Infrastructure as Code
+- Business Intelligence: KPI design
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Ironwood Cloud Services | Stockholm, Sweden | 2025 - Present
+- Performed a cloud security audit for an automotive manufacturing client, remediating 15 critical findings within the first quarter.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+
+Analyst | Clearwater Data Systems | Toronto, Canada | 2024 - 2025
+- Led the adoption of a self-service data platform on Databricks, onboarding 5+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 15% for a telecommunications client's data platform.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+EDUCATION
+M.Sc. in Data Science, Charles University, Prague, Czech Republic (2022)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Microsoft Certified: Azure Solutions Architect Expert
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Danish (Native)
+- Italian (Fluent)

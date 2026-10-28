@@ -1,0 +1,31 @@
+SEARCH PROFILE #076
+Role Needed: Lead Data & AI Consultant
+Engagement Type: Permanent hire
+Client Industry: Telecommunications
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Agile / Scrum
+- A/B Testing & Experimentation
+- Cloud cost optimization
+- Infrastructure as Code
+
+NICE-TO-HAVE SKILLS
+- T-SQL
+- KPI design
+- XGBoost / LightGBM
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGE REQUIREMENTS
+- German (fluent)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Barcelona, Spain)
+
+PROJECT CONTEXT
+The client wants a proof-of-concept combining BI reporting and machine learning insights on a shared cloud data platform.
+
+Start Date: Within 2 weeks
+Duration: Ongoing / open-ended

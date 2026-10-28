@@ -1,0 +1,34 @@
+Charlotte Bauer
+Milan, Italy | charlotte.bauer@example.com | +47 161 3844834
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 4 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: DAX, Stakeholder reporting & dashboarding, KPI design, SSAS, SQL Server, LookML
+- Cloud & Infrastructure: Infrastructure as Code, Cloud cost optimization
+- Tools & Ways of Working: Git, Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Ironwood Cloud Services | Brussels, Belgium | 2025 - Present
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 5 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 10 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Harborview Consulting | Milan, Italy | 2022 - 2025
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 18%.
+- Designed and delivered 3 interactive Qlik Sense dashboards for retail clients, reducing manual reporting effort by 35%.
+
+EDUCATION
+B.Sc. in Computer Science, University of Manchester, Manchester, United Kingdom (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Hindi (Native)
+- Polish (Fluent)

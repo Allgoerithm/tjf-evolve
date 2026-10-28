@@ -1,0 +1,35 @@
+Matthias Hoffmann
+Helsinki, Finland | matthias.hoffmann@example.com | +45 589 2508135
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect with 4 years of experience delivering cloud infrastructure and platform engineering solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Airflow, Terraform, Apache Kafka, Kubernetes, Networking & VPC design, Docker
+- Business Intelligence: Qlik Sense
+- Tools & Ways of Working: Agile / Scrum, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Meridian Digital Partners | Chicago, USA | 2024 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for a pharmaceuticals client's data platform.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Led the adoption of a self-service data platform on Looker, onboarding 50+ internal teams within the first year.
+
+DevOps Consultant | Solaris Data Engineering | Zurich, Switzerland | 2022 - 2024
+- Defined and documented 20 KPIs together with business owners as the basis of the new reporting suite.
+- Introduced Git-based workflows with code review for the analytics team.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 20 teams.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Illinois, Chicago, USA (2022)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Fluent)

@@ -1,0 +1,30 @@
+Philipp Gupta
+Lyon, France | philipp.gupta@example.com | +41 373 9737425
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Star schema & dimensional modeling, Data Warehouse design (Kimball/Inmon), SSAS, Snowflake, LookML
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Data governance, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Beacon Insight Consulting | Dublin, Ireland | 2024 - Present
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Trained 8 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Oslo, Oslo, Norway (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- Spanish (Native)
+- English (Conversational)
+- French (Professional working proficiency)

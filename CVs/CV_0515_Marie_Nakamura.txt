@@ -1,0 +1,33 @@
+Marie Nakamura
+Amsterdam, Netherlands | marie.nakamura@example.com | +34 414 1453134
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (2 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: DAX, Star schema & dimensional modeling, LookML
+- Cloud & Infrastructure: Kubernetes, AWS (EC2, S3, Lambda, Redshift, Glue), Cloud cost optimization, Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Alpenglow Analytics | Helsinki, Finland | 2025 - Present
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Implemented a data lake on Power BI, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+
+Senior Data Engineer | Harborview Consulting | Paris, France | 2024 - 2025
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Performed a cloud security audit for a logistics client, remediating 50 critical findings within the first quarter.
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+
+EDUCATION
+B.Sc. in Computer Science, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Mandarin (Native)
+- Danish (Conversational)

@@ -1,0 +1,40 @@
+Antoine Kruger
+Bangalore, India | antoine.kruger@example.com | +32 791 4396421
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 5 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, LookML, SSRS
+- Data Science & Machine Learning: Causal Inference, Apache Spark / PySpark, XGBoost / LightGBM
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud, Linux system administration
+- Tools & Ways of Working: Data governance, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Lumen Analytics Group | Stuttgart, Germany | 2024 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the logistics business.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+Data & Analytics Consultant | Nimbus Infrastructure Consulting | Austin, USA | 2022 - 2024
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 40%.
+- Performed a cloud security audit for an energy and utilities client, remediating 2 critical findings within the first quarter.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Senior Data Platform Consultant | TerraLogic Consulting | Toronto, Canada | 2020 - 2022
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Built a recommendation engine for an insurance client, contributing to a 22% increase in average order value.
+- Trained 5 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Software Engineering, Imperial College London, London, United Kingdom (2019)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- Spanish (Fluent)
+- Portuguese (Professional working proficiency)

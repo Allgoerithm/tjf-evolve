@@ -1,0 +1,37 @@
+Dieter Ivanov
+Warsaw, Poland | dieter.ivanov@example.com | +45 327 7108749
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer (4 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Terraform, Docker, AWS (EC2, S3, Lambda, Redshift, Glue), Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud
+- Business Intelligence: Qlik Sense
+- Tools & Ways of Working: Git, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Orbis Technology Partners | Prague, Czech Republic | 2024 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 20 TB of data monthly from 20 source systems.
+- Built Kafka-based streaming ingestion for 5 operational systems.
+- Led a cloud cost optimization initiative, identifying savings of 15% across compute and storage resources.
+
+Cloud Infrastructure Consultant | Northstar Cloud Group | Manchester, United Kingdom | 2022 - 2024
+- Drove cloud cost optimization across 2 accounts through rightsizing and reserved capacity.
+- Performed a cloud security audit for an energy and utilities client, remediating 5 critical findings within the first quarter.
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+
+EDUCATION
+B.Sc. in Computer Science, Humboldt University of Berlin, Berlin, Germany (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Project Management Professional (PMP)
+- TOGAF 9 Certified
+
+LANGUAGES
+- German (Native)
+- Hindi (Professional working proficiency)

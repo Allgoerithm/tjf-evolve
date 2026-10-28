@@ -1,0 +1,41 @@
+Thomas Okafor
+Chicago, USA | thomas.okafor@example.com | +49 909 1974653
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 7 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, QlikView, Snowflake
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Model Deployment & Monitoring, Computer Vision
+- Cloud & Infrastructure: Cloud cost optimization, Linux system administration, Kubernetes
+- Tools & Ways of Working: Git, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Stratos Cloud Consulting | Paris, France | 2023 - Present
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 18%.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 22%.
+- Led the adoption of a self-service data platform on Power BI, onboarding 15+ internal teams within the first year.
+
+Analyst | Orbis Technology Partners | Brussels, Belgium | 2021 - 2023
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Modeled core business entities in Looker so that 20 teams could explore governed metrics on their own.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Implemented a data lake on Snowflake, ingesting and processing over 15 TB of data monthly from 15 source systems.
+
+Consultant | Vantage Point Consulting | Prague, Czech Republic | 2019 - 2021
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the retail business.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Computer Science, University of Vienna, Vienna, Austria (2018)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- Dutch (Fluent)

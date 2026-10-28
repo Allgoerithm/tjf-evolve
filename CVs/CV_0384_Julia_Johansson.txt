@@ -1,0 +1,36 @@
+Julia Johansson
+Cologne, Germany | julia.johansson@example.com | +39 356 3430848
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, QlikView, Qlik Sense
+- Cloud & Infrastructure: Terraform, Infrastructure as Code, Cloud cost optimization, Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Harborview Consulting | Cologne, Germany | 2024 - Present
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+
+Senior Data Engineer | Falcon Ridge Consulting | Prague, Czech Republic | 2023 - 2024
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 2 regional entities.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 20%.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for an automotive manufacturing client's data platform.
+
+EDUCATION
+B.Sc. in Computer Science, University of Toronto, Toronto, Canada (2021)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Qlik Sense Data Architect Certification
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Conversational)
+- Italian (Professional working proficiency)

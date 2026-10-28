@@ -1,0 +1,39 @@
+Lena Petrov
+Chicago, USA | lena.petrov@example.com | +47 612 7114928
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (5 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, Power BI, Tableau
+- Cloud & Infrastructure: Kubernetes, Linux system administration, Docker, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Harborview Consulting | Paris, France | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 30 analyst days per month for higher-value analysis.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+
+Data Engineer | Falcon Ridge Consulting | Copenhagen, Denmark | 2024 - 2025
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Implemented a data lake on Snowflake, ingesting and processing over 5 TB of data monthly from 5 source systems.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 3 regional entities.
+
+Analyst | Silverline IT Consulting | Vienna, Austria | 2023 - 2024
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 25%.
+- Standardized cloud tagging and cost allocation practices for a logistics client, improving budget accountability across 50 teams.
+
+EDUCATION
+M.Sc. in Computer Science, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Polish (Native)
+- Dutch (Fluent)
+- Swedish (Fluent)

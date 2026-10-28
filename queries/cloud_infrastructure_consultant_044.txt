@@ -1,0 +1,30 @@
+SEARCH PROFILE #044
+Role Needed: Cloud Engineer
+Engagement Type: Permanent hire
+Client Industry: Insurance
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Data governance
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Stakeholder management
+- Power Query / M
+- Cloud cost optimization
+
+NICE-TO-HAVE SKILLS
+- Infrastructure as Code
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- TOGAF 9 Certified
+
+LANGUAGE REQUIREMENTS
+- French (fluent)
+
+Location / Remote Policy: Fully remote (client site: Berlin, Germany)
+
+PROJECT CONTEXT
+A new CI/CD pipeline needs to be designed and rolled out across 10+ application teams.
+
+Start Date: Within 2 weeks
+Duration: 3 months, extension likely

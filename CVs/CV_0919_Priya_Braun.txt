@@ -1,0 +1,34 @@
+Priya Braun
+Oslo, Norway | priya.braun@example.com | +32 261 9288724
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Snowflake, DAX
+- Cloud & Infrastructure: Apache Airflow, Apache Kafka, Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud
+- Tools & Ways of Working: Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | TerraLogic Consulting | Munich, Germany | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 30 disparate spreadsheets into a single source of truth.
+- Designed and implemented a multi-account AWS landing zone for a public sector client, improving security posture and cost visibility.
+
+Data Engineer | Greystone Data & AI | Amsterdam, Netherlands | 2024 - 2025
+- Standardized cloud tagging and cost allocation practices for a healthcare client, improving budget accountability across 30 teams.
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Computer Science, University of Oslo, Oslo, Norway (2022)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- TOGAF 9 Certified
+
+LANGUAGES
+- Danish (Native)
+- French (Professional working proficiency)
+- Italian (Conversational)

@@ -1,0 +1,31 @@
+SEARCH PROFILE #093
+Role Needed: Applied Data Scientist
+Engagement Type: Interim / bridge staffing
+Client Industry: Pharmaceuticals
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- Data quality management
+- MLflow
+- Time Series Forecasting
+
+NICE-TO-HAVE SKILLS
+- TensorFlow
+- XGBoost / LightGBM
+- Infrastructure as Code
+
+PREFERRED CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGE REQUIREMENTS
+- French (business level)
+- Mandarin (business level)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Prague, Czech Republic)
+
+PROJECT CONTEXT
+The client wants to move beyond descriptive reporting and build predictive models for fraud risk in the pharmaceuticals sector.
+
+Start Date: Immediately
+Duration: 2 months (short-term)

@@ -1,0 +1,34 @@
+Felix Hofmann
+Chicago, USA | felix.hofmann@example.com | +31 500 7658109
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (4 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SQL Server, Star schema & dimensional modeling, KPI design, Stakeholder reporting & dashboarding, LookML
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Kafka
+- Tools & Ways of Working: Data quality management, Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Lumen Analytics Group | Stockholm, Sweden | 2024 - Present
+- Designed and delivered 8 interactive Looker dashboards for healthcare clients, reducing manual reporting effort by 12%.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Trained 20 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+Analytics Consultant | Alpenglow Analytics | Manchester, United Kingdom | 2021 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Developed Qlik Sense apps for operational reporting used by 50+ plant managers.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Automated the monthly reporting cycle for a logistics client, freeing up 30 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Statistics, Charles University, Prague, Czech Republic (2022)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Spanish (Native)
+- Danish (Professional working proficiency)

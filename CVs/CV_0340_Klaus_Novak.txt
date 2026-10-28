@@ -1,0 +1,42 @@
+Klaus Novak
+Cologne, Germany | klaus.novak@example.com | +49 642 6580890
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Platform Consultant (6 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Star schema & dimensional modeling, SSIS
+- Data Science & Machine Learning: Databricks, A/B Testing & Experimentation, TensorFlow
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Terraform
+- Tools & Ways of Working: Data governance, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Evergreen Data Solutions | Chicago, USA | 2025 - Present
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Trained 20 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Analyst | Riverbend Analytics | London, United Kingdom | 2023 - 2025
+- Developed a random forest model to predict customer churn for automotive manufacturing clients, improving prediction accuracy by 25%.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 3 regional entities.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Consultant | Cobalt Data Labs | Manchester, United Kingdom | 2022 - 2023
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 35% uplift in conversion rate.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Built statistical models to explain the drivers of demand and presented them to management.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Illinois, Chicago, USA (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Certified Data Analytics - Specialty
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- German (Native)
+- Dutch (Conversational)
+- Danish (Conversational)

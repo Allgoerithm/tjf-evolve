@@ -1,0 +1,38 @@
+Thomas Dubois
+Lyon, France | thomas.dubois@example.com | +32 649 4326760
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 7 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, SSAS, Stakeholder reporting & dashboarding, Tableau, Qlik Sense, LookML
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Nordwind Consulting | Hamburg, Germany | 2023 - Present
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Trained 50 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 3 disparate spreadsheets into a single source of truth.
+
+IT Consultant | BlueRiver Analytics | Bangalore, India | 2021 - 2023
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 50 regional entities.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 28%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+
+Analytics Consultant | TerraLogic Consulting | Chicago, USA | 2018 - 2021
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Hamburg, Hamburg, Germany (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Italian (Native)
+- German (Fluent)

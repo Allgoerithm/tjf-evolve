@@ -1,0 +1,36 @@
+Amara Berg
+Toronto, Canada | amara.berg@example.com | +44 695 7619135
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 4 years of experience delivering data science and machine learning solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Time Series Forecasting, MLflow, Causal Inference, XGBoost / LightGBM, Statistical Modeling, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Apache Airflow, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | TerraLogic Consulting | Rotterdam, Netherlands | 2025 - Present
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the insurance sector.
+- Delivered a computer vision prototype for defect detection on the production line.
+- Developed an anomaly detection system for consumer goods operations, flagging issues 45% faster than the previous manual process.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Consultant | Kestrel Data Solutions | Singapore, Singapore | 2022 - 2025
+- Led a proof-of-concept on demand forecasting for a pharmaceuticals client, achieving a 25% reduction in forecast error versus the baseline.
+- Established MLOps practices for versioning, deployment and monitoring of 8 models.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 22%.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+- Implemented automated data quality checks on 10 critical tables.
+
+EDUCATION
+M.Sc. in Computer Science, University of Manchester, Manchester, United Kingdom (2020)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Swedish (Native)
+- English (Professional working proficiency)

@@ -1,0 +1,30 @@
+SEARCH PROFILE #064
+Role Needed: Senior Data Scientist
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Healthcare
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Feature Engineering
+- Model Deployment & Monitoring
+- A/B Testing & Experimentation
+- Snowflake on cloud
+
+NICE-TO-HAVE SKILLS
+- Git
+- TensorFlow
+- Data governance
+
+PREFERRED CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Portuguese (fluent)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Helsinki, Finland)
+
+PROJECT CONTEXT
+A healthcare client wants to set up a proper experimentation framework for A/B testing across their digital products.
+
+Start Date: Next quarter
+Duration: 3 months, extension likely

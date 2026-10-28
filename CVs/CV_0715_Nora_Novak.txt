@@ -1,0 +1,33 @@
+Nora Novak
+Bangalore, India | nora.novak@example.com | +31 335 7265577
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 4 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Looker, Stakeholder reporting & dashboarding, SQL Server, Power BI, DAX, Power Query / M
+- Cloud & Infrastructure: Cloud cost optimization, Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | BlueRiver Analytics | Lyon, France | 2023 - Present
+- Designed and delivered 20 interactive Qlik Sense dashboards for logistics clients, reducing manual reporting effort by 15%.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 25%.
+
+BI Developer | Vertex Data Partners | Lisbon, Portugal | 2020 - 2023
+- Replaced 5 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 20 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Illinois, Chicago, USA (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- German (Native)
+- French (Professional working proficiency)

@@ -1,0 +1,39 @@
+Sophie Garcia
+Brussels, Belgium | sophie.garcia@example.com | +45 540 4602064
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (7 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSIS, SSAS, Qlik Sense
+- Cloud & Infrastructure: Apache Kafka, Kubernetes, Docker, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Northstar Cloud Group | Bangalore, India | 2024 - Present
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 50 teams.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 40%.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for a logistics client's data platform.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+Data Engineer | Clearwater Data Systems | Cologne, Germany | 2023 - 2024
+- Led the adoption of a self-service data platform on Power BI, onboarding 15+ internal teams within the first year.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+
+Analyst | Pinnacle Business Intelligence GmbH | Frankfurt, Germany | 2022 - 2023
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Computer Science, Humboldt University of Berlin, Berlin, Germany (2017)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- Mandarin (Native)
+- Dutch (Conversational)

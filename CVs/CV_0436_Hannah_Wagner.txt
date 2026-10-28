@@ -1,0 +1,35 @@
+Hannah Wagner
+Paris, France | hannah.wagner@example.com | +46 445 1252366
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Qlik Sense, Power BI
+- Cloud & Infrastructure: Snowflake on cloud, Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: Data quality management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Northgate Technology Group | Zurich, Switzerland | 2025 - Present
+- Designed and delivered 50 interactive Power BI dashboards for energy and utilities clients, reducing manual reporting effort by 15%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 8 teams.
+
+Analyst | Solaris Data Engineering | Milan, Italy | 2023 - 2025
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 10 analyst days per month for higher-value analysis.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+
+EDUCATION
+M.Sc. in Statistics, Universidad Politecnica de Madrid, Madrid, Spain (2024)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Databricks Certified Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Conversational)
+- Spanish (Fluent)

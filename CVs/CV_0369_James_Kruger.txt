@@ -1,0 +1,36 @@
+James Kruger
+Manchester, United Kingdom | james.kruger@example.com | +31 820 6960348
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (4 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, DAX, Star schema & dimensional modeling
+- Data Science & Machine Learning: Statistical Modeling, R, TensorFlow
+- Cloud & Infrastructure: Infrastructure as Code, Apache Airflow, Terraform
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Cobalt Data Labs | Stuttgart, Germany | 2024 - Present
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 8 regional entities.
+- Designed and implemented a multi-account AWS landing zone for a healthcare client, improving security posture and cost visibility.
+
+Consultant | Greystone Data & AI | Madrid, Spain | 2022 - 2024
+- Developed a XGBoost model to predict customer lifetime value for logistics clients, improving prediction accuracy by 15%.
+- Rolled out data governance roles and policies across 50 departments.
+- Designed and delivered 50 interactive Databricks dashboards for consumer goods clients, reducing manual reporting effort by 25%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+MBA with focus on Information Management, University of Manchester, Manchester, United Kingdom (2020)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Data Analytics - Specialty
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- French (Native)
+- Polish (Fluent)

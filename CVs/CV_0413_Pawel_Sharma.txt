@@ -1,0 +1,41 @@
+Pawel Sharma
+Milan, Italy | pawel.sharma@example.com | +49 511 6256216
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 7 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Looker, Stakeholder reporting & dashboarding, SSIS, SSRS, Snowflake, DAX
+- Cloud & Infrastructure: Cloud cost optimization, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Agile / Scrum, Data quality management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Cobalt Data Labs | Dublin, Ireland | 2023 - Present
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the public sector business.
+- Migrated 2 legacy reports to Tableau and trained business users on self-service exploration.
+- Designed and delivered 3 interactive Power BI dashboards for logistics clients, reducing manual reporting effort by 28%.
+
+IT Consultant | Beacon Insight Consulting | Stockholm, Sweden | 2021 - 2023
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 2 disparate spreadsheets into a single source of truth.
+
+BI Developer | Harborview Consulting | Prague, Czech Republic | 2020 - 2021
+- Automated the monthly reporting cycle for a healthcare client, freeing up 3 analyst days per month for higher-value analysis.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+
+EDUCATION
+M.Sc. in Statistics, Delft University of Technology, Delft, Netherlands (2017)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- AWS Certified Solutions Architect - Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- English (Native)
+- Hindi (Professional working proficiency)
+- Danish (Conversational)

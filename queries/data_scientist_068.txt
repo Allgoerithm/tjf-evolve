@@ -1,0 +1,32 @@
+SEARCH PROFILE #068
+Role Needed: Applied Data Scientist
+Engagement Type: Managed service team augmentation
+Client Industry: Banking
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- TensorFlow
+- Data quality management
+- Computer Vision
+
+NICE-TO-HAVE SKILLS
+- Jupyter
+- Git
+- Apache Airflow
+- Natural Language Processing
+
+PREFERRED CERTIFICATIONS
+- Google Professional Cloud Architect
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGE REQUIREMENTS
+- Polish (native)
+- German (business level)
+
+Location / Remote Policy: Fully remote (client site: Prague, Czech Republic)
+
+PROJECT CONTEXT
+The data science team is exploring NLP use cases on unstructured customer feedback and needs additional modeling expertise.
+
+Start Date: ASAP
+Duration: 2 months (short-term)

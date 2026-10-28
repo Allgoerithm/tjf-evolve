@@ -1,0 +1,35 @@
+Freya Sharma
+Paris, France | freya.sharma@example.com | +39 991 7305627
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer with 4 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: LookML, Power Query / M, T-SQL
+- Cloud & Infrastructure: Docker, AWS (EC2, S3, Lambda, Redshift, Glue), Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Vertex Data Partners | Madrid, Spain | 2025 - Present
+- Automated the monthly reporting cycle for a logistics client, freeing up 15 analyst days per month for higher-value analysis.
+- Led the adoption of a self-service data platform on Databricks, onboarding 30+ internal teams within the first year.
+- Implemented a data lake on Looker, ingesting and processing over 15 TB of data monthly from 15 source systems.
+- Developed Qlik Sense apps for operational reporting used by 10+ plant managers.
+
+IT Consultant | Alpenglow Analytics | London, United Kingdom | 2022 - 2025
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and implemented a multi-account AWS landing zone for an aviation client, improving security posture and cost visibility.
+- Performed a cloud security audit for a logistics client, remediating 30 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Business Informatics, Universidad Politecnica de Madrid, Madrid, Spain (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- TOGAF 9 Certified
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- German (Native)
+- Swedish (Professional working proficiency)

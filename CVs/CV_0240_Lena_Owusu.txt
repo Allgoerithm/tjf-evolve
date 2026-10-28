@@ -1,0 +1,35 @@
+Lena Owusu
+Toronto, Canada | lena.owusu@example.com | +46 139 4610746
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, T-SQL, SSRS
+- Cloud & Infrastructure: Snowflake on cloud, Infrastructure as Code, Terraform, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Ironwood Cloud Services | Helsinki, Finland | 2024 - Present
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Performed a cloud security audit for a pharmaceuticals client, remediating 5 critical findings within the first quarter.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Northgate Technology Group | Oslo, Norway | 2022 - 2024
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+B.Eng. in Information Systems, Charles University, Prague, Czech Republic (2022)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Project Management Professional (PMP)
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Hindi (Native)
+- Italian (Professional working proficiency)
+- Danish (Professional working proficiency)

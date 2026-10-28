@@ -1,0 +1,33 @@
+Wei Zimmermann
+Oslo, Norway | wei.zimmermann@example.com | +49 614 7404720
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSIS, LookML, Looker, T-SQL, Stakeholder reporting & dashboarding, DAX
+- Cloud & Infrastructure: Docker, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Stakeholder management, Agile / Scrum, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Silverline IT Consulting | Rotterdam, Netherlands | 2025 - Present
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 50 interactive Power BI dashboards for logistics clients, reducing manual reporting effort by 18%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+Business Intelligence Consultant | Vantage Point Consulting | Paris, France | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 2 disparate spreadsheets into a single source of truth.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+
+EDUCATION
+B.Sc. in Mathematics, Politecnico di Milano, Milan, Italy (2022)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Dutch (Native)
+- Italian (Professional working proficiency)

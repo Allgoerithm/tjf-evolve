@@ -1,0 +1,36 @@
+Sigrid Sharma
+Milan, Italy | sigrid.sharma@example.com | +32 975 3679454
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Solutions Architect with 4 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Snowflake on cloud, Infrastructure as Code, Cloud cost optimization, Docker
+- Business Intelligence: Looker
+- Tools & Ways of Working: Requirements engineering, Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Silverline IT Consulting | Pune, India | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+- Operated production workloads on AWS, including S3-based data lakes and Lambda functions.
+- Led the adoption of a self-service data platform on Snowflake, onboarding 15+ internal teams within the first year.
+- Implemented a data lake on Power BI, ingesting and processing over 5 TB of data monthly from 5 source systems.
+
+Cloud Solutions Architect | Falcon Ridge Consulting | Paris, France | 2023 - 2024
+- Managed cloud environments as code with Terraform modules shared across 30 teams.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for an aviation client's data platform.
+- Designed and implemented a multi-account AWS landing zone for an e-commerce client, improving security posture and cost visibility.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+
+EDUCATION
+M.Sc. in Computational Science, University of Hamburg, Hamburg, Germany (2022)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Dutch (Native)
+- Spanish (Fluent)

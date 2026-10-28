@@ -1,0 +1,40 @@
+Isabelle Larsen
+Singapore, Singapore | isabelle.larsen@example.com | +39 452 2319653
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Engineer with 8 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Kafka, Linux system administration, Kubernetes, Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS), Apache Airflow
+- Business Intelligence: Tableau
+- Tools & Ways of Working: Technical documentation, Stakeholder management, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Ironwood Cloud Services | Prague, Czech Republic | 2023 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Designed and implemented a multi-account AWS landing zone for an e-commerce client, improving security posture and cost visibility.
+- Implemented a data lake on Looker, ingesting and processing over 3 TB of data monthly from 3 source systems.
+
+DevOps Consultant | Meridian Digital Partners | Warsaw, Poland | 2021 - 2023
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 20 teams.
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for an aviation client's data platform.
+
+Cloud Infrastructure Consultant | Solaris Data Engineering | Hamburg, Germany | 2019 - 2021
+- Performed a cloud security audit for a telecommunications client, remediating 2 critical findings within the first quarter.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led the adoption of a self-service data platform on Tableau, onboarding 5+ internal teams within the first year.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Hamburg, Hamburg, Germany (2016)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Professional Data Engineer
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Professional working proficiency)

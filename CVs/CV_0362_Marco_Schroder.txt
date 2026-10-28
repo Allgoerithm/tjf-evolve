@@ -1,0 +1,37 @@
+Marco Schroder
+Prague, Czech Republic | marco.schroder@example.com | +49 446 1878547
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across healthcare and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, SQL Server, Power BI, SSIS, SSAS, Tableau
+- Cloud & Infrastructure: Apache Kafka, Linux system administration
+- Tools & Ways of Working: Git, Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Alpenglow Analytics | Singapore, Singapore | 2025 - Present
+- Managed backlog and documentation in JIRA and Confluence for 50 concurrent workstreams.
+- Designed and delivered 20 interactive Power BI dashboards for logistics clients, reducing manual reporting effort by 35%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Trained 15 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+Analyst | Cobalt Data Labs | London, United Kingdom | 2024 - 2025
+- Replaced 30 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Orchestrated 3+ data pipelines with Apache Airflow, including alerting and backfills.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Introduced dbt for transformation and testing, covering 30+ models in the analytics layer.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Mathematics, Charles University, Prague, Czech Republic (2022)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Swedish (Native)
+- Danish (Fluent)
+- French (Professional working proficiency)

@@ -1,0 +1,38 @@
+Ingrid Richter
+Frankfurt, Germany | ingrid.richter@example.com | +47 532 8709598
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 8 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: DAX, Tableau, KPI design, SSIS, T-SQL, Power BI
+- Cloud & Infrastructure: Apache Airflow, Linux system administration
+- Tools & Ways of Working: Technical documentation, JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Northstar Cloud Group | Zurich, Switzerland | 2023 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+
+Senior BI Consultant | Cobalt Data Labs | Manchester, United Kingdom | 2021 - 2023
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 10 analyst days per month for higher-value analysis.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 20 disparate spreadsheets into a single source of truth.
+
+BI Developer | Vertex Data Partners | Pune, India | 2019 - 2021
+- Trained 2 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Business Informatics, Technical University of Munich, Munich, Germany (2016)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Spanish (Native)
+- French (Fluent)

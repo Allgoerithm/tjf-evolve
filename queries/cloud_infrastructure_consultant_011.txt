@@ -1,0 +1,28 @@
+SEARCH PROFILE #011
+Role Needed: Cloud Engineer
+Engagement Type: Long-term client secondment
+Client Industry: Insurance
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Stakeholder management
+- JIRA / Confluence
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+
+NICE-TO-HAVE SKILLS
+- Power BI
+- Apache Kafka
+- Apache Airflow
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Infrastructure as Code
+
+LANGUAGE REQUIREMENTS
+- Spanish (conversational)
+
+Location / Remote Policy: Fully remote (client site: Berlin, Germany)
+
+PROJECT CONTEXT
+A new CI/CD pipeline needs to be designed and rolled out across 15+ application teams.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 2 months (short-term)

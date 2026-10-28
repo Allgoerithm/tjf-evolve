@@ -1,0 +1,33 @@
+Carlos Owusu
+Stuttgart, Germany | carlos.owusu@example.com | +46 676 8882983
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 4 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSIS, dbt, SQL Server
+- Cloud & Infrastructure: Kubernetes, Docker, Snowflake on cloud, Terraform
+- Tools & Ways of Working: Data quality management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Clearwater Data Systems | London, United Kingdom | 2024 - Present
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Led the adoption of a self-service data platform on Tableau, onboarding 15+ internal teams within the first year.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Senior Data Engineer | BlueRiver Analytics | Toronto, Canada | 2023 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for a logistics client's data platform.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Denmark, Copenhagen, Denmark (2021)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- English (Native)
+- Mandarin (Fluent)

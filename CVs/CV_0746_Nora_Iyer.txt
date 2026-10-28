@@ -1,0 +1,40 @@
+Nora Iyer
+Stockholm, Sweden | nora.iyer@example.com | +48 460 8993591
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 8 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, SQL Server, Tableau, KPI design, Data Warehouse design (Kimball/Inmon), LookML
+- Cloud & Infrastructure: Kubernetes, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Alpenglow Analytics | Copenhagen, Denmark | 2024 - Present
+- Trained 30 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for a logistics client, freeing up 30 analyst days per month for higher-value analysis.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Consultant | Cobalt Data Labs | Vienna, Austria | 2022 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 40%.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the energy and utilities business.
+
+BI Developer | Lumen Analytics Group | Berlin, Germany | 2020 - 2022
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 2 regional entities.
+- Built a Power BI reporting layer on top of the finance data mart, replacing 30 manual spreadsheets.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Trinity College Dublin, Dublin, Ireland (2016)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- TOGAF 9 Certified
+
+LANGUAGES
+- Hindi (Native)
+- Portuguese (Fluent)

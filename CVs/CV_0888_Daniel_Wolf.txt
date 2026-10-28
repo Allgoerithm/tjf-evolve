@@ -1,0 +1,37 @@
+Daniel Wolf
+Dublin, Ireland | daniel.wolf@example.com | +44 704 9809586
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 6 years of consulting experience across insurance and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Data Warehouse design (Kimball/Inmon), T-SQL
+- Cloud & Infrastructure: Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design, Apache Kafka
+- Tools & Ways of Working: JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Northstar Cloud Group | Stockholm, Sweden | 2025 - Present
+- Performed a cloud security audit for an e-commerce client, remediating 30 critical findings within the first quarter.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+IT Consultant | Orbis Technology Partners | Stockholm, Sweden | 2023 - 2025
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 30 analyst days per month for higher-value analysis.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+
+Senior Data Engineer | Nimbus Infrastructure Consulting | Cologne, Germany | 2022 - 2023
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Designed and delivered 3 interactive Looker dashboards for logistics clients, reducing manual reporting effort by 35%.
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for an energy and utilities client's data platform.
+
+EDUCATION
+M.Sc. in Data Science, National University of Singapore, Singapore, Singapore (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- Dutch (Native)
+- French (Professional working proficiency)

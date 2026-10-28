@@ -1,0 +1,38 @@
+Sigrid Gupta
+Toronto, Canada | sigrid.gupta@example.com | +49 845 2489007
+
+PROFESSIONAL SUMMARY
+Data Engineer with 5 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: DAX, QlikView, Star schema & dimensional modeling
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Snowflake on cloud, Terraform, Linux system administration
+- Tools & Ways of Working: Client workshops & presentations, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Solaris Data Engineering | Stuttgart, Germany | 2024 - Present
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 50 teams.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+
+Analyst | Orbis Technology Partners | Copenhagen, Denmark | 2023 - 2024
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Implemented a data lake on Tableau, ingesting and processing over 30 TB of data monthly from 30 source systems.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 35%.
+
+Analyst | Vantage Point Consulting | Brussels, Belgium | 2022 - 2023
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 10 analyst days per month for higher-value analysis.
+- Led the adoption of a self-service data platform on Power BI, onboarding 10+ internal teams within the first year.
+
+EDUCATION
+M.Sc. in Business Informatics, Charles University, Prague, Czech Republic (2020)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Dutch (Native)
+- Italian (Fluent)

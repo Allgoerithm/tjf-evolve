@@ -1,0 +1,41 @@
+Sigrid Fischer
+Frankfurt, Germany | sigrid.fischer@example.com | +34 102 4461833
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Data & AI Consultant with 6 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Stakeholder reporting & dashboarding, SSRS
+- Data Science & Machine Learning: R, MLflow, PyTorch
+- Cloud & Infrastructure: Linux system administration, Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Pinnacle Business Intelligence GmbH | Vienna, Austria | 2023 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed and delivered 15 interactive Databricks dashboards for public sector clients, reducing manual reporting effort by 22%.
+- Orchestrated 2+ data pipelines with Apache Airflow, including alerting and backfills.
+
+Consultant | Vantage Point Consulting | Krakow, Poland | 2021 - 2023
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 40%.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Performed a cloud security audit for an energy and utilities client, remediating 30 critical findings within the first quarter.
+
+Analyst | Clearwater Data Systems | Barcelona, Spain | 2019 - 2021
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Computer Science, University of Illinois, Chicago, USA (2018)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- TOGAF 9 Certified
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Spanish (Native)
+- Portuguese (Conversational)

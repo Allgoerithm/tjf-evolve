@@ -1,0 +1,45 @@
+Astrid Iyer
+Madrid, Spain | astrid.iyer@example.com | +44 497 5481469
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (10 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSRS, LookML, QlikView, Qlik Sense, SSIS, Looker
+- Cloud & Infrastructure: Docker, Linux system administration
+- Tools & Ways of Working: Stakeholder management, Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Fjord Digital Solutions | Prague, Czech Republic | 2025 - Present
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the public sector business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Designed and delivered 10 interactive Qlik Sense dashboards for pharmaceuticals clients, reducing manual reporting effort by 30%.
+
+BI Developer | Nordwind Consulting | Singapore, Singapore | 2023 - 2025
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 50 disparate spreadsheets into a single source of truth.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+Senior BI Consultant | Northstar Cloud Group | Bangalore, India | 2022 - 2023
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Introduced dbt for transformation and testing, covering 2+ models in the analytics layer.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+
+IT Consultant | Alpenglow Analytics | Cologne, Germany | 2020 - 2022
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 5 regional entities.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Trained 20 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Business Informatics, ETH Zurich, Zurich, Switzerland (2015)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Cloudera Certified Data Analyst
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- English (Native)
+- Danish (Conversational)

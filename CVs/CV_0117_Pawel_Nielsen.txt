@@ -1,0 +1,41 @@
+Pawel Nielsen
+Toronto, Canada | pawel.nielsen@example.com | +48 867 3723239
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 5 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, QlikView, LookML
+- Data Science & Machine Learning: PyTorch, Statistical Modeling, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Docker, Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Ironwood Cloud Services | Copenhagen, Denmark | 2025 - Present
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Trained 8 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Led the adoption of a self-service data platform on Databricks, onboarding 5+ internal teams within the first year.
+- Delivered a computer vision prototype for defect detection on the production line.
+
+Data & Analytics Consultant | Cobalt Data Labs | London, United Kingdom | 2024 - 2025
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Designed a CI/CD pipeline that reduced release cycle time by 45% for an aviation client's data platform.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Orchestrated 30+ data pipelines with Apache Airflow, including alerting and backfills.
+
+Analyst | Silverline IT Consulting | Copenhagen, Denmark | 2023 - 2024
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Built a churn prediction model on 15+ customer records, enabling targeted retention campaigns for the automotive manufacturing sector.
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+M.Sc. in Statistics, University of Oslo, Oslo, Norway (2019)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Fluent)
+- Portuguese (Fluent)

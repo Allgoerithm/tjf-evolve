@@ -1,0 +1,44 @@
+Ahmed Hofmann
+Helsinki, Finland | ahmed.hofmann@example.com | +1 374 3142896
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (13 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, SSRS, KPI design, LookML, DAX, Power BI
+- Cloud & Infrastructure: Apache Airflow, Kubernetes
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | TerraLogic Consulting | Dublin, Ireland | 2022 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 28%.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+BI Developer | Alpenglow Analytics | Munich, Germany | 2018 - 2022
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 5 disparate spreadsheets into a single source of truth.
+- Trained 2 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+
+Consultant | Vantage Point Consulting | Vienna, Austria | 2014 - 2018
+- Designed and delivered 15 interactive Snowflake dashboards for energy and utilities clients, reducing manual reporting effort by 30%.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the logistics business.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 50 regional entities.
+
+Senior BI Consultant | Riverbend Analytics | Krakow, Poland | 2010 - 2014
+- Built analytics workloads on Google Cloud Platform for 15 product teams.
+- Automated the monthly reporting cycle for a public sector client, freeing up 20 analyst days per month for higher-value analysis.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+B.Sc. in Mathematics, Humboldt University of Berlin, Berlin, Germany (2011)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Portuguese (Native)
+- Danish (Professional working proficiency)

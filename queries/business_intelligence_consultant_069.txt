@@ -1,0 +1,29 @@
+SEARCH PROFILE #069
+Role Needed: Senior BI Consultant
+Engagement Type: Interim / bridge staffing
+Client Industry: Energy and utilities
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Power Query / M
+- Tableau
+- Data quality management
+
+NICE-TO-HAVE SKILLS
+- Kubernetes
+- Star schema & dimensional modeling
+- Requirements engineering
+
+PREFERRED CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGE REQUIREMENTS
+- French (fluent)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Prague, Czech Republic)
+
+PROJECT CONTEXT
+The client's finance department relies on a patchwork of spreadsheets and needs a consolidated, governed reporting layer built on Snowflake.
+
+Start Date: Within 4 weeks
+Duration: 9 months with a defined project end date

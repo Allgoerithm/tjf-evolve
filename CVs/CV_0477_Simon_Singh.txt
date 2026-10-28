@@ -1,0 +1,47 @@
+Simon Singh
+Lyon, France | simon.singh@example.com | +45 783 7264553
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant specializing in business intelligence, data science, and cloud data platforms, with 11 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Snowflake, QlikView
+- Data Science & Machine Learning: Causal Inference, Databricks, Feature Engineering
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Cloud cost optimization
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Beacon Insight Consulting | London, United Kingdom | 2024 - Present
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Mentored a team of 5 junior data scientists on feature engineering and model evaluation best practices.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 30 dimensions.
+
+Analyst | Fjord Digital Solutions | Brussels, Belgium | 2023 - 2024
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 28%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+IT Consultant | Northstar Cloud Group | Zurich, Switzerland | 2020 - 2023
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 8 analyst days per month for higher-value analysis.
+- Led a proof-of-concept on demand forecasting for a pharmaceuticals client, achieving a 18% reduction in forecast error versus the baseline.
+- Replaced 8 manual Excel reports with paginated SSRS reports delivered on a schedule.
+
+Consultant | Orbis Technology Partners | Cologne, Germany | 2018 - 2020
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 20 disparate spreadsheets into a single source of truth.
+- Performed a cloud security audit for a telecommunications client, remediating 2 critical findings within the first quarter.
+- Developed a deep learning model to predict fraud risk for telecommunications clients, improving prediction accuracy by 30%.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Amsterdam, Amsterdam, Netherlands (2013)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Power BI Data Analyst Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Danish (Native)
+- Mandarin (Professional working proficiency)

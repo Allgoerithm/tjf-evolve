@@ -1,0 +1,38 @@
+Liam Johansson
+Berlin, Germany | liam.johansson@example.com | +46 417 9574536
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (8 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Looker, SQL Server, Power Query / M, Power BI, LookML
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Technical documentation, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Pinnacle Business Intelligence GmbH | Amsterdam, Netherlands | 2025 - Present
+- Trained 10 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 5 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+IT Consultant | Quantara Analytics | Munich, Germany | 2024 - 2025
+- Optimized Looker data models and DAX measures, improving dashboard load times by 12%.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Alpenglow Analytics | Cologne, Germany | 2022 - 2024
+- Designed and delivered 3 interactive Databricks dashboards for telecommunications clients, reducing manual reporting effort by 22%.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the aviation business.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 10 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Data Science, Technical University of Munich, Munich, Germany (2017)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Portuguese (Native)
+- German (Professional working proficiency)
+- Italian (Conversational)

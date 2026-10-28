@@ -1,0 +1,29 @@
+SEARCH PROFILE #062
+Role Needed: Senior Data Scientist
+Engagement Type: Interim / bridge staffing
+Client Industry: E-commerce
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Computer Vision
+- Git
+- Jupyter
+- Stakeholder management
+
+NICE-TO-HAVE SKILLS
+- R
+- Microsoft Azure (Data Factory, Synapse, AKS)
+
+PREFERRED CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Polish (fluent)
+
+Location / Remote Policy: Fully remote (client site: Helsinki, Finland)
+
+PROJECT CONTEXT
+The client is starting a new initiative around customer lifetime value prediction and needs someone to define the modeling approach end-to-end.
+
+Start Date: ASAP
+Duration: 6 months, extension possible

@@ -1,0 +1,39 @@
+Femke Klein
+Austin, USA | femke.klein@example.com | +33 566 7683237
+
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Consultant specializing in cloud infrastructure and platform engineering, with 8 years of consulting experience across consumer goods and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Apache Airflow, Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design, Linux system administration, Snowflake on cloud
+- Business Intelligence: LookML
+- Tools & Ways of Working: Data governance, Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Clearwater Data Systems | Singapore, Singapore | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+
+Cloud Solutions Architect | Ironwood Cloud Services | Brussels, Belgium | 2023 - 2025
+- Led the adoption of a self-service data platform on Databricks, onboarding 2+ internal teams within the first year.
+- Implemented a data lake on Snowflake, ingesting and processing over 8 TB of data monthly from 8 source systems.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+- Managed cloud environments as code with Terraform modules shared across 8 teams.
+
+DevOps Consultant | Lumen Analytics Group | Stockholm, Sweden | 2021 - 2023
+- Designed and implemented a multi-account AWS landing zone for an energy and utilities client, improving security posture and cost visibility.
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 50 teams.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Toronto, Toronto, Canada (2017)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Professional working proficiency)

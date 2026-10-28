@@ -1,0 +1,40 @@
+Freya Andersson
+Milan, Italy | freya.andersson@example.com | +34 705 6827295
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 8 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Star schema & dimensional modeling, SSIS
+- Cloud & Infrastructure: Kubernetes, Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration
+- Tools & Ways of Working: Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | TerraLogic Consulting | Amsterdam, Netherlands | 2025 - Present
+- Performed a cloud security audit for an energy and utilities client, remediating 15 critical findings within the first quarter.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 15%.
+
+IT Consultant | Silverline IT Consulting | Cologne, Germany | 2022 - 2025
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+- Built Azure-based data pipelines with orchestrated daily loads from 10 sources.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Consultant | Cobalt Data Labs | Manchester, United Kingdom | 2019 - 2022
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Designed and implemented a multi-account AWS landing zone for a logistics client, improving security posture and cost visibility.
+
+EDUCATION
+M.Sc. in Computer Science, University of Vienna, Vienna, Austria (2017)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Microsoft Certified: Power BI Data Analyst Associate
+- TOGAF 9 Certified
+
+LANGUAGES
+- Italian (Native)
+- Dutch (Conversational)

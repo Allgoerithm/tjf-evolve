@@ -1,0 +1,44 @@
+Lena Kowalski
+Copenhagen, Denmark | lena.kowalski@example.com | +48 795 7756466
+
+PROFESSIONAL SUMMARY
+DevOps Consultant with 10 years of experience delivering cloud infrastructure and platform engineering solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Linux system administration, Cloud cost optimization, Docker, Infrastructure as Code, Apache Airflow, Networking & VPC design
+- Business Intelligence: DAX
+- Tools & Ways of Working: Client workshops & presentations, Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Alpenglow Analytics | Helsinki, Finland | 2023 - Present
+- Performed a cloud security audit for a logistics client, remediating 3 critical findings within the first quarter.
+- Implemented a data lake on Databricks, ingesting and processing over 3 TB of data monthly from 3 source systems.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+
+Consultant | Fjord Digital Solutions | Hamburg, Germany | 2022 - 2023
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+DevOps Consultant | Fjord Digital Solutions | Pune, India | 2019 - 2022
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for an aviation client's data platform.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 3 teams.
+- Rolled out data governance roles and policies across 2 departments.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Cloud Infrastructure Consultant | Vantage Point Consulting | Manchester, United Kingdom | 2016 - 2019
+- Led the adoption of a self-service data platform on Looker, onboarding 3+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+M.Sc. in Computational Science, University of Warsaw, Warsaw, Poland (2014)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Dutch (Native)
+- German (Professional working proficiency)

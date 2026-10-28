@@ -1,0 +1,34 @@
+Elena Wagner
+Stockholm, Sweden | elena.wagner@example.com | +48 717 1671242
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Tableau, KPI design, Data Warehouse design (Kimball/Inmon), T-SQL, dbt, LookML
+- Cloud & Infrastructure: Terraform, Infrastructure as Code
+- Tools & Ways of Working: Data governance, Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Vantage Point Consulting | Amsterdam, Netherlands | 2025 - Present
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+
+Analytics Consultant | Meridian Digital Partners | Toronto, Canada | 2024 - 2025
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 5 disparate spreadsheets into a single source of truth.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the banking business.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Indian Institute of Technology Bombay, Mumbai, India (2022)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Professional working proficiency)
+- French (Conversational)

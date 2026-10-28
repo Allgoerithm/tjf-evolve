@@ -1,0 +1,30 @@
+SEARCH PROFILE #026
+Role Needed: Analytics Engineer
+Engagement Type: Interim / bridge staffing
+Client Industry: Consumer goods
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- SSAS
+- Snowflake on cloud
+- Client workshops & presentations
+- SSIS
+
+NICE-TO-HAVE SKILLS
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Linux system administration
+
+PREFERRED CERTIFICATIONS
+- TOGAF 9 Certified
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGE REQUIREMENTS
+- Polish (native)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Pune, India)
+
+PROJECT CONTEXT
+The analytics engineering team needs support adopting dbt for transformation and testing within their cloud data warehouse.
+
+Start Date: Within 2 weeks
+Duration: 12 months, potential for permanent placement

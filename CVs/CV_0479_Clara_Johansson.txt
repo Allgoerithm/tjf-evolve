@@ -1,0 +1,41 @@
+Clara Johansson
+London, United Kingdom | clara.johansson@example.com | +48 998 3775038
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 5 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Tableau, DAX, QlikView
+- Data Science & Machine Learning: Statistical Modeling, Computer Vision, Causal Inference
+- Cloud & Infrastructure: Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes
+- Tools & Ways of Working: Git, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Cobalt Data Labs | Zurich, Switzerland | 2024 - Present
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+Lead Data & AI Consultant | Kestrel Data Solutions | Prague, Czech Republic | 2022 - 2024
+- Built a churn prediction model on 10+ customer records, enabling targeted retention campaigns for the insurance sector.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+
+IT Consultant | Falcon Ridge Consulting | Stuttgart, Germany | 2021 - 2022
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 8 teams.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 30% uplift in conversion rate.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 20 regional entities.
+
+EDUCATION
+M.Sc. in Business Informatics, Technical University of Munich, Munich, Germany (2021)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Qlik Sense Data Architect Certification
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- English (Native)
+- German (Conversational)

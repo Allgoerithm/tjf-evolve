@@ -1,0 +1,44 @@
+Charlotte Garcia
+Warsaw, Poland | charlotte.garcia@example.com | +1 427 7354100
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 12 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Tableau, Stakeholder reporting & dashboarding, Looker, Qlik Sense, SSRS
+- Cloud & Infrastructure: Apache Kafka, Networking & VPC design
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | TerraLogic Consulting | Singapore, Singapore | 2022 - Present
+- Trained 15 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated the monthly reporting cycle for a public sector client, freeing up 30 analyst days per month for higher-value analysis.
+
+BI Developer | Harborview Consulting | Manchester, United Kingdom | 2019 - 2022
+- Designed and delivered 2 interactive Qlik Sense dashboards for pharmaceuticals clients, reducing manual reporting effort by 45%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Vertex Data Partners | Paris, France | 2017 - 2019
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the healthcare business.
+- Built a tabular SSAS model that serves 20 departments with consistent KPIs.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 30 disparate spreadsheets into a single source of truth.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 25%.
+
+Analytics Consultant | Ironwood Cloud Services | Toronto, Canada | 2014 - 2017
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+
+EDUCATION
+M.Sc. in Statistics, National University of Singapore, Singapore, Singapore (2012)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Dutch (Native)
+- Mandarin (Conversational)

@@ -1,0 +1,44 @@
+Petra Klein
+Manchester, United Kingdom | petra.klein@example.com | +34 240 3875739
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (15 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Tableau, QlikView
+- Cloud & Infrastructure: Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code, Kubernetes
+- Tools & Ways of Working: Data governance, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Lumen Analytics Group | Prague, Czech Republic | 2023 - Present
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 10+ internal teams within the first year.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Designed and delivered 20 interactive Tableau dashboards for aviation clients, reducing manual reporting effort by 22%.
+
+Analytics Engineer | Riverbend Analytics | Pune, India | 2020 - 2023
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+
+Senior Data Engineer | Silverline IT Consulting | Brussels, Belgium | 2017 - 2020
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Standardized cloud tagging and cost allocation practices for a healthcare client, improving budget accountability across 50 teams.
+
+Consultant | Alpenglow Analytics | Barcelona, Spain | 2014 - 2017
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Technical University of Denmark, Copenhagen, Denmark (2009)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Danish (Native)
+- Swedish (Conversational)
+- Spanish (Conversational)

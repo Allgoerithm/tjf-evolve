@@ -1,0 +1,40 @@
+Katarzyna Schroder
+Vienna, Austria | katarzyna.schroder@example.com | +45 890 3746656
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 5 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Qlik Sense, Data Warehouse design (Kimball/Inmon), Looker, Star schema & dimensional modeling, Tableau
+- Cloud & Infrastructure: Linux system administration, Terraform
+- Tools & Ways of Working: Data quality management, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Brightfield Consulting | Zurich, Switzerland | 2025 - Present
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 5 regional entities.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 25%.
+
+BI Developer | Lumen Analytics Group | Lisbon, Portugal | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 2 disparate spreadsheets into a single source of truth.
+- Designed and delivered 50 interactive Qlik Sense dashboards for e-commerce clients, reducing manual reporting effort by 12%.
+- Rolled out data governance roles and policies across 5 departments.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Business Intelligence Consultant | Pinnacle Business Intelligence GmbH | Dublin, Ireland | 2022 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Trained 5 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Data Science, University of Warsaw, Warsaw, Poland (2019)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Portuguese (Native)
+- Hindi (Fluent)

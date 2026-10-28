@@ -1,0 +1,44 @@
+Dieter Gupta
+Zurich, Switzerland | dieter.gupta@example.com | +44 741 8595288
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (11 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Data Warehouse design (Kimball/Inmon), Power BI, KPI design, T-SQL, SSIS
+- Cloud & Infrastructure: Apache Kafka, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Requirements engineering, Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Nordwind Consulting | Copenhagen, Denmark | 2025 - Present
+- Automated the monthly reporting cycle for an aviation client, freeing up 2 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+BI Developer | Lumen Analytics Group | Chicago, USA | 2023 - 2025
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 3 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+Business Intelligence Consultant | Lumen Analytics Group | Copenhagen, Denmark | 2021 - 2023
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Designed and delivered 20 interactive Looker dashboards for energy and utilities clients, reducing manual reporting effort by 12%.
+
+Analyst | Quantara Analytics | Chicago, USA | 2019 - 2021
+- Optimized Looker data models and DAX measures, improving dashboard load times by 28%.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the aviation business.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 2 regional entities.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Illinois, Chicago, USA (2014)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Professional Data Engineer
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Spanish (Native)
+- Italian (Conversational)

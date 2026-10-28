@@ -1,0 +1,41 @@
+Priya Koch
+Dublin, Ireland | priya.koch@example.com | +1 562 8698351
+
+PROFESSIONAL SUMMARY
+Experienced Data & Analytics Consultant (9 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Snowflake, SSRS
+- Data Science & Machine Learning: A/B Testing & Experimentation, Causal Inference, MLflow
+- Cloud & Infrastructure: Networking & VPC design, Google Cloud Platform (BigQuery, Dataflow, GKE), Docker
+- Tools & Ways of Working: Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Beacon Insight Consulting | Chicago, USA | 2023 - Present
+- Trained and tuned TensorFlow models for fraud risk, reducing error by 45% over the baseline.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 25%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+
+Data & Analytics Consultant | TerraLogic Consulting | Madrid, Spain | 2021 - 2023
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Developed an anomaly detection system for retail operations, flagging issues 45% faster than the previous manual process.
+- Tuned XGBoost models for fraud risk, improving recall by 20%.
+
+Analyst | Riverbend Analytics | Hamburg, Germany | 2017 - 2021
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 12%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 30%.
+
+EDUCATION
+B.Sc. in Mathematics, Delft University of Technology, Delft, Netherlands (2017)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Mandarin (Native)
+- Swedish (Conversational)

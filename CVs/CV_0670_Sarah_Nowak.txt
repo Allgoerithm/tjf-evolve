@@ -1,0 +1,38 @@
+Sarah Nowak
+London, United Kingdom | sarah.nowak@example.com | +32 427 7895508
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 5 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Power BI, QlikView, LookML, SSAS, Power Query / M
+- Cloud & Infrastructure: Networking & VPC design, Apache Kafka
+- Tools & Ways of Working: Agile / Scrum, Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Brightfield Consulting | Munich, Germany | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Automated the monthly reporting cycle for a logistics client, freeing up 50 analyst days per month for higher-value analysis.
+
+IT Consultant | Nordwind Consulting | Barcelona, Spain | 2024 - 2025
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Designed and delivered 15 interactive Snowflake dashboards for pharmaceuticals clients, reducing manual reporting effort by 18%.
+
+BI Developer | Quantara Analytics | Oslo, Norway | 2023 - 2024
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 20 disparate spreadsheets into a single source of truth.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 40%.
+
+EDUCATION
+M.Sc. in Data Science, Politecnico di Milano, Milan, Italy (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Hindi (Native)
+- Portuguese (Fluent)

@@ -1,0 +1,35 @@
+Michael Petrov
+Lisbon, Portugal | michael.petrov@example.com | +47 852 8552568
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect with 3 years of experience delivering cloud infrastructure and platform engineering solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Airflow, Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Kafka
+- Business Intelligence: Stakeholder reporting & dashboarding
+- Tools & Ways of Working: Git, JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Nordwind Consulting | Hamburg, Germany | 2025 - Present
+- Packaged data services as Docker images to ensure consistent deployments.
+- Standardized cloud tagging and cost allocation practices for a healthcare client, improving budget accountability across 3 teams.
+- Led the adoption of a self-service data platform on Databricks, onboarding 15+ internal teams within the first year.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+
+Cloud Infrastructure Consultant | Fjord Digital Solutions | Paris, France | 2024 - 2025
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 22%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+
+EDUCATION
+B.Sc. in Mathematics, Indian Institute of Technology Bombay, Mumbai, India (2021)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Portuguese (Native)
+- Danish (Conversational)

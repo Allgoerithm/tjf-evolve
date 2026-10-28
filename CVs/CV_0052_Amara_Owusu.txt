@@ -1,0 +1,40 @@
+Amara Owusu
+Lyon, France | amara.owusu@example.com | +45 520 5353688
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 6 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSRS, SSAS, Power Query / M, LookML, Star schema & dimensional modeling, T-SQL
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Data governance, Data quality management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Ironwood Cloud Services | Amsterdam, Netherlands | 2024 - Present
+- Implemented row-level security in Looker, enabling secure self-service reporting across 10 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+Senior BI Consultant | Alpenglow Analytics | Stockholm, Sweden | 2022 - 2024
+- Trained 15 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for an aviation client, freeing up 2 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+Business Intelligence Consultant | Lumen Analytics Group | Lyon, France | 2021 - 2022
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 30 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed and delivered 3 interactive Tableau dashboards for telecommunications clients, reducing manual reporting effort by 35%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Humboldt University of Berlin, Berlin, Germany (2018)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Hindi (Native)
+- Danish (Professional working proficiency)
+- German (Fluent)

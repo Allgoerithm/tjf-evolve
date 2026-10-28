@@ -1,0 +1,42 @@
+Marco Muller
+Milan, Italy | marco.muller@example.com | +33 346 9966238
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (11 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, dbt, Power Query / M, Snowflake, Looker, T-SQL
+- Cloud & Infrastructure: Snowflake on cloud, Terraform
+- Tools & Ways of Working: Stakeholder management, Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Orbis Technology Partners | Manchester, United Kingdom | 2023 - Present
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 20 analyst days per month for higher-value analysis.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+BI Developer | Ironwood Cloud Services | Dublin, Ireland | 2020 - 2023
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 45%.
+- Trained 2 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+Business Intelligence Consultant | Vertex Data Partners | Milan, Italy | 2018 - 2020
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 50 disparate spreadsheets into a single source of truth.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+Analyst | Evergreen Data Solutions | Chicago, USA | 2017 - 2018
+- Designed and delivered 10 interactive Databricks dashboards for public sector clients, reducing manual reporting effort by 28%.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 10 regional entities.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the banking business.
+
+EDUCATION
+B.Eng. in Information Systems, Politecnico di Milano, Milan, Italy (2014)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Italian (Native)
+- Portuguese (Conversational)

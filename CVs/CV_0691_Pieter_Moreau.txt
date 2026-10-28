@@ -1,0 +1,34 @@
+Pieter Moreau
+Pune, India | pieter.moreau@example.com | +44 250 9779264
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSAS, SSIS, Power Query / M, SQL Server, Looker, T-SQL
+- Cloud & Infrastructure: Apache Kafka, Infrastructure as Code
+- Tools & Ways of Working: Stakeholder management, Git, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Riverbend Analytics | Rotterdam, Netherlands | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+Analyst | Brightfield Consulting | Madrid, Spain | 2024 - 2025
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 2 regional entities.
+- Designed and delivered 8 interactive Databricks dashboards for energy and utilities clients, reducing manual reporting effort by 18%.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Technical University of Munich, Munich, Germany (2022)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- German (Native)
+- Hindi (Fluent)
+- Mandarin (Conversational)

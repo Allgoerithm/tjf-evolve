@@ -1,0 +1,28 @@
+SEARCH PROFILE #097
+Role Needed: BI Developer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Consumer goods
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- Data quality management
+- Data Warehouse design (Kimball/Inmon)
+- LookML
+
+NICE-TO-HAVE SKILLS
+- Requirements engineering
+- Qlik Sense
+- Docker
+- Star schema & dimensional modeling
+
+LANGUAGE REQUIREMENTS
+- English (native)
+- Spanish (native)
+
+Location / Remote Policy: On-site required (client site: Chicago, USA)
+
+PROJECT CONTEXT
+A consumer goods client is rolling out a new group-wide KPI framework and needs someone to translate it into production-grade dashboards.
+
+Start Date: Next quarter
+Duration: 2 months (short-term)

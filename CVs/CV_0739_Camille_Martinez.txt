@@ -1,0 +1,38 @@
+Camille Martinez
+Barcelona, Spain | camille.martinez@example.com | +39 797 9773349
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Infrastructure Consultant with 5 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow, Cloud cost optimization, Kubernetes
+- Business Intelligence: dbt
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Meridian Digital Partners | Oslo, Norway | 2025 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+IT Consultant | Fjord Digital Solutions | Dublin, Ireland | 2023 - 2025
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 10+ internal teams within the first year.
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Analyst | Ironwood Cloud Services | Lyon, France | 2022 - 2023
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for a telecommunications client's data platform.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Data Science, Charles University, Prague, Czech Republic (2019)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Italian (Native)
+- German (Conversational)

@@ -1,0 +1,41 @@
+Dieter Richter
+Madrid, Spain | dieter.richter@example.com | +45 127 3275656
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Consultant (9 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Docker, Snowflake on cloud
+- Business Intelligence: KPI design
+- Tools & Ways of Working: Technical documentation, Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Riverbend Analytics | Dublin, Ireland | 2022 - Present
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Managed cloud environments as code with Terraform modules shared across 15 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+
+DevOps Consultant | Alpenglow Analytics | Lisbon, Portugal | 2018 - 2022
+- Led the adoption of a self-service data platform on Databricks, onboarding 2+ internal teams within the first year.
+- Standardized cloud tagging and cost allocation practices for a consumer goods client, improving budget accountability across 50 teams.
+- Designed and implemented a multi-account AWS landing zone for a consumer goods client, improving security posture and cost visibility.
+
+Analyst | Quantara Analytics | Pune, India | 2015 - 2018
+- Designed a CI/CD pipeline that reduced release cycle time by 15% for an energy and utilities client's data platform.
+- Built Kafka-based streaming ingestion for 3 operational systems.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+
+EDUCATION
+M.Sc. in Software Engineering, Sorbonne University, Paris, France (2015)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Google Professional Data Engineer
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Italian (Conversational)

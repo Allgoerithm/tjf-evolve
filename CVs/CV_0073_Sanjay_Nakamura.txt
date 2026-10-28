@@ -1,0 +1,41 @@
+Sanjay Nakamura
+Dublin, Ireland | sanjay.nakamura@example.com | +49 530 6013668
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 9 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Power BI, QlikView, Qlik Sense, DAX, Looker
+- Cloud & Infrastructure: Linux system administration, Apache Kafka
+- Tools & Ways of Working: Agile / Scrum, JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Pinnacle Business Intelligence GmbH | Zurich, Switzerland | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 50 disparate spreadsheets into a single source of truth.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+
+Consultant | TerraLogic Consulting | Vienna, Austria | 2021 - 2023
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 10 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Implemented automated data quality checks on 15 critical tables.
+
+Consultant | Quantara Analytics | Oslo, Norway | 2018 - 2021
+- Optimized Looker data models and DAX measures, improving dashboard load times by 28%.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Migrated 20 legacy reports to Tableau and trained business users on self-service exploration.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 15 regional entities.
+
+EDUCATION
+B.Sc. in Mathematics, Politecnico di Milano, Milan, Italy (2015)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Qlik Sense Data Architect Certification
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- French (Native)
+- Danish (Fluent)

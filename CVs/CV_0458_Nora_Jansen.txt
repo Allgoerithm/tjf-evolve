@@ -1,0 +1,31 @@
+Nora Jansen
+London, United Kingdom | nora.jansen@example.com | +31 793 5216977
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Data Warehouse design (Kimball/Inmon), dbt, LookML, Power BI, Tableau
+- Cloud & Infrastructure: Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data governance, Stakeholder management, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Alpenglow Analytics | Brussels, Belgium | 2024 - Present
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 15 regional entities.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 40%.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 25%.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Illinois, Chicago, USA (2024)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Spanish (Conversational)
+- French (Conversational)

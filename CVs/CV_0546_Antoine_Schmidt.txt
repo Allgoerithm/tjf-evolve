@@ -1,0 +1,45 @@
+Antoine Schmidt
+Pune, India | antoine.schmidt@example.com | +49 744 7378746
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 10 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, SSIS, Qlik Sense, SSAS, SSRS, DAX
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Kubernetes
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Northstar Cloud Group | Frankfurt, Germany | 2025 - Present
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Designed and delivered 50 interactive Databricks dashboards for automotive manufacturing clients, reducing manual reporting effort by 20%.
+- Rolled out data governance roles and policies across 15 departments.
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Consultant | BlueRiver Analytics | Hamburg, Germany | 2022 - 2025
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 10 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Nimbus Infrastructure Consulting | London, United Kingdom | 2020 - 2022
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 25%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Automated the monthly reporting cycle for a banking client, freeing up 30 analyst days per month for higher-value analysis.
+
+Business Intelligence Consultant | Greystone Data & AI | Copenhagen, Denmark | 2019 - 2020
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+
+EDUCATION
+M.Sc. in Business Informatics, Trinity College Dublin, Dublin, Ireland (2016)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Hindi (Native)
+- German (Fluent)

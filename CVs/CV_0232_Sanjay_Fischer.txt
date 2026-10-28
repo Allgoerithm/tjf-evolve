@@ -1,0 +1,34 @@
+Sanjay Fischer
+Lisbon, Portugal | sanjay.fischer@example.com | +34 719 5533668
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect with 4 years of experience delivering cloud infrastructure and platform engineering solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Infrastructure as Code, Snowflake on cloud, Apache Airflow
+- Business Intelligence: Power Query / M
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Harborview Consulting | Lyon, France | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 28%.
+- Led the adoption of a self-service data platform on Tableau, onboarding 15+ internal teams within the first year.
+- Built analytics workloads on Google Cloud Platform for 3 product teams.
+
+Cloud Solutions Architect | Vantage Point Consulting | Prague, Czech Republic | 2023 - 2024
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a consumer goods client's data platform.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- Polish (Native)
+- French (Conversational)
+- German (Professional working proficiency)

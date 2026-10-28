@@ -1,0 +1,39 @@
+Nora Chen
+Warsaw, Poland | nora.chen@example.com | +34 603 6159128
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 6 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: A/B Testing & Experimentation, Databricks, TensorFlow, MLOps, Feature Engineering, Causal Inference
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Data quality management, Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Beacon Insight Consulting | Bangalore, India | 2024 - Present
+- Developed a random forest model to predict equipment failure for retail clients, improving prediction accuracy by 22%.
+- Mentored a team of 15 junior data scientists on feature engineering and model evaluation best practices.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Consultant | Pinnacle Business Intelligence GmbH | Milan, Italy | 2021 - 2024
+- Built a recommendation engine for an aviation client, contributing to a 28% increase in average order value.
+- Developed an anomaly detection system for e-commerce operations, flagging issues 22% faster than the previous manual process.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Applied Data Scientist | BlueRiver Analytics | Cologne, Germany | 2020 - 2021
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 28%.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 28%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 18%.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Statistics, University of Manchester, Manchester, United Kingdom (2018)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Google Professional Data Engineer
+
+LANGUAGES
+- Italian (Native)
+- English (Conversational)

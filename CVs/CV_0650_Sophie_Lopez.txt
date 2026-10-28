@@ -1,0 +1,36 @@
+Sophie Lopez
+Lisbon, Portugal | sophie.lopez@example.com | +33 118 3249536
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 4 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Power BI, dbt, Tableau, LookML, Looker
+- Cloud & Infrastructure: Kubernetes, Docker
+- Tools & Ways of Working: Stakeholder management, Data quality management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Kestrel Data Solutions | Bangalore, India | 2023 - Present
+- Managed backlog and documentation in JIRA and Confluence for 2 concurrent workstreams.
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 15 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Greystone Data & AI | Amsterdam, Netherlands | 2021 - 2023
+- Designed and delivered 50 interactive Tableau dashboards for healthcare clients, reducing manual reporting effort by 35%.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 20 disparate spreadsheets into a single source of truth.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Built analytics workloads on Google Cloud Platform for 30 product teams.
+
+EDUCATION
+M.Sc. in Data Science, KTH Royal Institute of Technology, Stockholm, Sweden (2021)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Conversational)
+- Hindi (Professional working proficiency)

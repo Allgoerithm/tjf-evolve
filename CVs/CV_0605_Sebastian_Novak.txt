@@ -1,0 +1,43 @@
+Sebastian Novak
+Barcelona, Spain | sebastian.novak@example.com | +46 319 8409853
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 11 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, SSRS, Power Query / M, Data Warehouse design (Kimball/Inmon), Looker, Tableau
+- Cloud & Infrastructure: Linux system administration, Cloud cost optimization
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Harborview Consulting | London, United Kingdom | 2025 - Present
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the aviation business.
+- Trained 8 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Consultant | Lumen Analytics Group | Milan, Italy | 2023 - 2025
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Designed and delivered 20 interactive Databricks dashboards for aviation clients, reducing manual reporting effort by 35%.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+
+IT Consultant | Harborview Consulting | Zurich, Switzerland | 2022 - 2023
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 5 regional entities.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 50 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented automated data quality checks on 20 critical tables.
+
+Analyst | Brightfield Consulting | Cologne, Germany | 2020 - 2022
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 12%.
+
+EDUCATION
+MBA with focus on Information Management, University of Manchester, Manchester, United Kingdom (2014)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Portuguese (Native)
+- French (Fluent)

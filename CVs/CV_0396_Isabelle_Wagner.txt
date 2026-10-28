@@ -1,0 +1,40 @@
+Isabelle Wagner
+Lisbon, Portugal | isabelle.wagner@example.com | +32 616 1853264
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 9 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Tableau, Star schema & dimensional modeling
+- Data Science & Machine Learning: Natural Language Processing, XGBoost / LightGBM, Time Series Forecasting
+- Cloud & Infrastructure: Terraform, Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Orbis Technology Partners | Prague, Czech Republic | 2022 - Present
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 2 teams.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 45%.
+
+Data & Analytics Consultant | Fjord Digital Solutions | Frankfurt, Germany | 2020 - 2022
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 15%.
+- Developed an anomaly detection system for consumer goods operations, flagging issues 28% faster than the previous manual process.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 8 analyst days per month for higher-value analysis.
+
+Lead Data & AI Consultant | Orbis Technology Partners | Vienna, Austria | 2017 - 2020
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Mentored a team of 8 junior data scientists on feature engineering and model evaluation best practices.
+- Trained 50 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+
+EDUCATION
+M.Sc. in Software Engineering, Imperial College London, London, United Kingdom (2016)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Dutch (Conversational)

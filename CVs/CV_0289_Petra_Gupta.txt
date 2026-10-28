@@ -1,0 +1,29 @@
+Petra Gupta
+Lyon, France | petra.gupta@example.com | +39 648 7022036
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Scientist with 2 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: Computer Vision, Apache Spark / PySpark, R, Model Deployment & Monitoring, PyTorch, MLOps
+- Cloud & Infrastructure: Terraform, Infrastructure as Code
+- Tools & Ways of Working: Stakeholder management, Git, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Vantage Point Consulting | Rotterdam, Netherlands | 2024 - Present
+- Developed an anomaly detection system for pharmaceuticals operations, flagging issues 28% faster than the previous manual process.
+- Shared reproducible Jupyter notebooks with the analytics team.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Developed a XGBoost model to predict equipment failure for telecommunications clients, improving prediction accuracy by 40%.
+
+EDUCATION
+M.Sc. in Computer Science, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Italian (Native)
+- Dutch (Professional working proficiency)

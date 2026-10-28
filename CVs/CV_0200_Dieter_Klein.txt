@@ -1,0 +1,35 @@
+Dieter Klein
+Lisbon, Portugal | dieter.klein@example.com | +46 694 8537720
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 3 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, KPI design, Tableau
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Linux system administration, Snowflake on cloud, Apache Airflow
+- Tools & Ways of Working: Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Fjord Digital Solutions | Lisbon, Portugal | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 3 teams.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 20 regional entities.
+- Implemented a data lake on Power BI, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Built analytics workloads on Google Cloud Platform for 2 product teams.
+
+Analyst | Stratos Cloud Consulting | Rotterdam, Netherlands | 2024 - 2025
+- Designed a CI/CD pipeline that reduced release cycle time by 15% for a telecommunications client's data platform.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+
+EDUCATION
+M.Sc. in Applied Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden (2022)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Polish (Native)
+- Mandarin (Professional working proficiency)
+- English (Fluent)

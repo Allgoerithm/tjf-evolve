@@ -1,0 +1,44 @@
+Anna Owusu
+Copenhagen, Denmark | anna.owusu@example.com | +45 807 1820692
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (10 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: DAX, QlikView, LookML
+- Cloud & Infrastructure: Infrastructure as Code, Terraform, Docker, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Orbis Technology Partners | Toronto, Canada | 2025 - Present
+- Led the adoption of a self-service data platform on Looker, onboarding 50+ internal teams within the first year.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+Senior Data Engineer | BlueRiver Analytics | Frankfurt, Germany | 2022 - 2025
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for an e-commerce client's data platform.
+
+Consultant | Northstar Cloud Group | Chicago, USA | 2020 - 2022
+- Performed a cloud security audit for a healthcare client, remediating 10 critical findings within the first quarter.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+Analytics Engineer | Greystone Data & AI | Berlin, Germany | 2018 - 2020
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+B.Sc. in Mathematics, University of Illinois, Chicago, USA (2015)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Data Engineer Associate
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Mandarin (Native)
+- French (Conversational)

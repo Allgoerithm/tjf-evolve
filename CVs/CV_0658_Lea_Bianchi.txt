@@ -1,0 +1,40 @@
+Lea Bianchi
+Stockholm, Sweden | lea.bianchi@example.com | +48 495 3463124
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 5 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: LookML, dbt, Looker, SSIS, Power BI, Power Query / M
+- Cloud & Infrastructure: Apache Kafka, Linux system administration
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Silverline IT Consulting | Amsterdam, Netherlands | 2025 - Present
+- Rolled out data governance roles and policies across 50 departments.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 30 analyst days per month for higher-value analysis.
+- Trained 8 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 2 regional entities.
+
+BI Developer | Cobalt Data Labs | Oslo, Norway | 2024 - 2025
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 15%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Designed and delivered 50 interactive Qlik Sense dashboards for healthcare clients, reducing manual reporting effort by 18%.
+
+Consultant | Alpenglow Analytics | Lisbon, Portugal | 2023 - 2024
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Warsaw, Warsaw, Poland (2019)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Google Professional Data Engineer
+
+LANGUAGES
+- Hindi (Native)
+- French (Conversational)

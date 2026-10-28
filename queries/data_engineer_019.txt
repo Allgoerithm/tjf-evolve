@@ -1,0 +1,28 @@
+SEARCH PROFILE #019
+Role Needed: Data Engineer
+Engagement Type: Interim / bridge staffing
+Client Industry: Public sector
+Minimum Experience: 8+ years
+
+MUST-HAVE SKILLS
+- Networking & VPC design
+- Apache Kafka
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Requirements engineering
+- KPI design
+
+NICE-TO-HAVE SKILLS
+- Apache Airflow
+- QlikView
+- Agile / Scrum
+
+LANGUAGE REQUIREMENTS
+- Swedish (business level)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Chicago, USA)
+
+PROJECT CONTEXT
+The client needs a robust ingestion pipeline built to bring 30+ source systems into a central data platform.
+
+Start Date: Next quarter
+Duration: 12 months, potential for permanent placement

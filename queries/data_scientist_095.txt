@@ -1,0 +1,26 @@
+SEARCH PROFILE #095
+Role Needed: Senior Data Scientist
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Aviation
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Git
+- Data governance
+- MLflow
+
+NICE-TO-HAVE SKILLS
+- Model Deployment & Monitoring
+- Time Series Forecasting
+
+LANGUAGE REQUIREMENTS
+- Dutch (native)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Singapore, Singapore)
+
+PROJECT CONTEXT
+The data science team is exploring NLP use cases on unstructured customer feedback and needs additional modeling expertise.
+
+Start Date: ASAP
+Duration: 2 months (short-term)

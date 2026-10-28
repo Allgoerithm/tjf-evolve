@@ -1,0 +1,35 @@
+Hiroshi Kowalski
+Copenhagen, Denmark | hiroshi.kowalski@example.com | +34 477 6500480
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, T-SQL, Tableau
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Snowflake on cloud, Terraform, Apache Airflow
+- Tools & Ways of Working: Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Quantara Analytics | Hamburg, Germany | 2025 - Present
+- Packaged data services as Docker images to ensure consistent deployments.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 3 disparate spreadsheets into a single source of truth.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Consultant | Lumen Analytics Group | Manchester, United Kingdom | 2024 - 2025
+- Performed a cloud security audit for an e-commerce client, remediating 10 critical findings within the first quarter.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Vienna, Vienna, Austria (2023)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- German (Native)
+- Mandarin (Conversational)

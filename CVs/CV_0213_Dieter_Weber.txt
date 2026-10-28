@@ -1,0 +1,36 @@
+Dieter Weber
+Stuttgart, Germany | dieter.weber@example.com | +45 549 5812321
+
+PROFESSIONAL SUMMARY
+DevOps Consultant with 2 years of experience delivering cloud infrastructure and platform engineering solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Terraform, Docker, Apache Kafka, Kubernetes, Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS)
+- Business Intelligence: DAX
+- Tools & Ways of Working: Technical documentation, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Alpenglow Analytics | Manchester, United Kingdom | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Introduced Git-based workflows with code review for the analytics team.
+- Implemented a data lake on Tableau, ingesting and processing over 8 TB of data monthly from 8 source systems.
+- Orchestrated 20+ data pipelines with Apache Airflow, including alerting and backfills.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 35% and improving system uptime.
+
+Cloud Solutions Architect | Solaris Data Engineering | Berlin, Germany | 2024 - 2025
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for an energy and utilities client's data platform.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Amsterdam, Amsterdam, Netherlands (2022)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Portuguese (Native)
+- Swedish (Conversational)
+- Italian (Conversational)

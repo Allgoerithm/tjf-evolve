@@ -1,0 +1,40 @@
+Emily Berg
+London, United Kingdom | emily.berg@example.com | +33 623 5893423
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 6 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Power Query / M, dbt, Data Warehouse design (Kimball/Inmon), Power BI, KPI design
+- Cloud & Infrastructure: Apache Airflow, Linux system administration
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Riverbend Analytics | Pune, India | 2025 - Present
+- Replaced 8 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Automated the monthly reporting cycle for a retail client, freeing up 2 analyst days per month for higher-value analysis.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 5 disparate spreadsheets into a single source of truth.
+- Trained 2 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+Analytics Consultant | Riverbend Analytics | Helsinki, Finland | 2022 - 2025
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 15 regional entities.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+
+Analyst | Beacon Insight Consulting | Manchester, United Kingdom | 2021 - 2022
+- Designed and delivered 15 interactive Databricks dashboards for energy and utilities clients, reducing manual reporting effort by 45%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Computer Science, ETH Zurich, Zurich, Switzerland (2019)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- French (Native)
+- Italian (Fluent)
+- Danish (Conversational)

@@ -1,0 +1,30 @@
+SEARCH PROFILE #005
+Role Needed: Machine Learning Engineer
+Engagement Type: Interim / bridge staffing
+Client Industry: Logistics
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- TensorFlow
+- Natural Language Processing
+- Git
+
+NICE-TO-HAVE SKILLS
+- Computer Vision
+- Requirements engineering
+- Terraform
+
+PREFERRED CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGE REQUIREMENTS
+- Hindi (conversational)
+- Danish (business level)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Austin, USA)
+
+PROJECT CONTEXT
+The current model in production has degraded in accuracy and needs root-cause analysis plus a retraining strategy.
+
+Start Date: Immediately
+Duration: 9 months with a defined project end date

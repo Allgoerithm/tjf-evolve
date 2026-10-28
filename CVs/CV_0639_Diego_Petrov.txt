@@ -1,0 +1,39 @@
+Diego Petrov
+London, United Kingdom | diego.petrov@example.com | +49 633 7867409
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 5 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: Causal Inference, Python (pandas, NumPy, scikit-learn), MLflow, A/B Testing & Experimentation, Natural Language Processing, Apache Spark / PySpark
+- Cloud & Infrastructure: Apache Airflow, Kubernetes
+- Tools & Ways of Working: Stakeholder management, Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Northgate Technology Group | Warsaw, Poland | 2025 - Present
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 18%.
+
+Consultant | Orbis Technology Partners | Pune, India | 2024 - 2025
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Developed a gradient boosting model to predict equipment failure for e-commerce clients, improving prediction accuracy by 30%.
+- Built a recommendation engine for a banking client, contributing to a 25% increase in average order value.
+
+IT Consultant | Anchor Point Technologies | Singapore, Singapore | 2023 - 2024
+- Led a proof-of-concept on demand forecasting for a retail client, achieving a 28% reduction in forecast error versus the baseline.
+- Built an NLP pipeline to automatically classify 5+ incoming customer messages per day, reducing manual triage time by 35%.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 25%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+EDUCATION
+B.Sc. in Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2020)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Fluent)

@@ -1,0 +1,40 @@
+Dieter Lambert
+Bangalore, India | dieter.lambert@example.com | +34 801 6881023
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 8 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Data Warehouse design (Kimball/Inmon), KPI design
+- Cloud & Infrastructure: Apache Airflow, Terraform, Linux system administration, Apache Kafka
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Lumen Analytics Group | Austin, USA | 2023 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Led the adoption of a self-service data platform on Databricks, onboarding 8+ internal teams within the first year.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 30 teams.
+
+Analyst | Evergreen Data Solutions | Manchester, United Kingdom | 2020 - 2023
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Led a cloud cost optimization initiative, identifying savings of 30% across compute and storage resources.
+
+Analyst | Cobalt Data Labs | Amsterdam, Netherlands | 2019 - 2020
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+- Designed and delivered 30 interactive Qlik Sense dashboards for healthcare clients, reducing manual reporting effort by 18%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Delft University of Technology, Delft, Netherlands (2017)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Mandarin (Conversational)
+- Danish (Conversational)

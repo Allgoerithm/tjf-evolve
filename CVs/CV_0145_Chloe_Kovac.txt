@@ -1,0 +1,39 @@
+Chloe Kovac
+Toronto, Canada | chloe.kovac@example.com | +45 213 3468002
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 9 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, KPI design, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Networking & VPC design, Apache Airflow, Apache Kafka, Terraform
+- Tools & Ways of Working: Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | BlueRiver Analytics | Zurich, Switzerland | 2024 - Present
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for a retail client's data platform.
+- Performed a cloud security audit for an insurance client, remediating 30 critical findings within the first quarter.
+
+Consultant | Greystone Data & AI | Bangalore, India | 2020 - 2024
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Trained 10 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Implemented a data lake on Looker, ingesting and processing over 5 TB of data monthly from 5 source systems.
+
+Senior Data Engineer | Northstar Cloud Group | Lisbon, Portugal | 2016 - 2020
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Indian Institute of Technology Bombay, Mumbai, India (2016)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- German (Native)
+- Dutch (Conversational)

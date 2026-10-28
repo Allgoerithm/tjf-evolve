@@ -1,0 +1,43 @@
+Kwame Johansson
+Lyon, France | kwame.johansson@example.com | +39 111 7057962
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 12 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSRS, SSIS, SQL Server
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes, Cloud cost optimization, Terraform
+- Tools & Ways of Working: Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Riverbend Analytics | Austin, USA | 2022 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 3 regional entities.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+Data Engineer | Clearwater Data Systems | Rotterdam, Netherlands | 2020 - 2022
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 3 disparate spreadsheets into a single source of truth.
+- Standardized cloud tagging and cost allocation practices for a healthcare client, improving budget accountability across 2 teams.
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for a logistics client's data platform.
+
+Consultant | Beacon Insight Consulting | Berlin, Germany | 2017 - 2020
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the energy and utilities business.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Performed a cloud security audit for a retail client, remediating 2 critical findings within the first quarter.
+- Orchestrated 30+ data pipelines with Apache Airflow, including alerting and backfills.
+
+Senior Data Engineer | Nimbus Infrastructure Consulting | Oslo, Norway | 2013 - 2017
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 5 TB of data monthly from 5 source systems.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 22%.
+
+EDUCATION
+M.Sc. in Data Science, ETH Zurich, Zurich, Switzerland (2014)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- French (Native)
+- Spanish (Professional working proficiency)

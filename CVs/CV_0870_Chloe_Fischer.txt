@@ -1,0 +1,38 @@
+Chloe Fischer
+Amsterdam, Netherlands | chloe.fischer@example.com | +1 596 3958636
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 7 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, KPI design, Qlik Sense, QlikView, Power Query / M, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Greystone Data & AI | Frankfurt, Germany | 2023 - Present
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the banking business.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 3 disparate spreadsheets into a single source of truth.
+
+Senior BI Consultant | Harborview Consulting | Munich, Germany | 2021 - 2023
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 15 analyst days per month for higher-value analysis.
+- Trained 5 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+Analyst | Falcon Ridge Consulting | Paris, France | 2020 - 2021
+- Designed and delivered 2 interactive Power BI dashboards for consumer goods clients, reducing manual reporting effort by 18%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 8 regional entities.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Technical University of Denmark, Copenhagen, Denmark (2019)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+
+LANGUAGES
+- Spanish (Native)
+- Polish (Fluent)

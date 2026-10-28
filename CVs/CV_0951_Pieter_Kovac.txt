@@ -1,0 +1,40 @@
+Pieter Kovac
+Manchester, United Kingdom | pieter.kovac@example.com | +49 195 8463923
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 7 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: LookML, DAX, SSRS
+- Data Science & Machine Learning: Databricks, Computer Vision, Causal Inference
+- Cloud & Infrastructure: Networking & VPC design, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Kafka
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Solaris Data Engineering | Paris, France | 2024 - Present
+- Mentored a team of 10 junior data scientists on feature engineering and model evaluation best practices.
+- Designed and delivered 10 interactive Tableau dashboards for insurance clients, reducing manual reporting effort by 30%.
+- Led the adoption of a self-service data platform on Databricks, onboarding 50+ internal teams within the first year.
+- Built analytics workloads on Google Cloud Platform for 50 product teams.
+
+IT Consultant | Fjord Digital Solutions | Prague, Czech Republic | 2022 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Data & Analytics Consultant | Fjord Digital Solutions | Singapore, Singapore | 2019 - 2022
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Oslo, Oslo, Norway (2017)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Mandarin (Native)
+- English (Conversational)

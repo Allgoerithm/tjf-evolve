@@ -1,0 +1,39 @@
+Julia Chen
+London, United Kingdom | julia.chen@example.com | +46 830 3570131
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 7 years of experience delivering data science and machine learning solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: XGBoost / LightGBM, Natural Language Processing, A/B Testing & Experimentation, Feature Engineering, Apache Spark / PySpark, Causal Inference
+- Cloud & Infrastructure: Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Technical documentation, Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Nordwind Consulting | Warsaw, Poland | 2024 - Present
+- Built a recommendation engine for a public sector client, contributing to a 28% increase in average order value.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+
+Consultant | Orbis Technology Partners | Madrid, Spain | 2022 - 2024
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 30%.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Consultant | Falcon Ridge Consulting | Bangalore, India | 2021 - 2022
+- Prototyped models in Python with pandas and scikit-learn, handing them over to engineering after validation.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 18%.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 45%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 25%.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Toronto, Toronto, Canada (2019)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Mandarin (Native)
+- Portuguese (Professional working proficiency)

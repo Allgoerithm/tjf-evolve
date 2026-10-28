@@ -1,0 +1,46 @@
+Liam Lopez
+Austin, USA | liam.lopez@example.com | +45 983 8437071
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 13 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), dbt, Stakeholder reporting & dashboarding, Qlik Sense, KPI design, Star schema & dimensional modeling
+- Cloud & Infrastructure: Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data governance, Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Solaris Data Engineering | Chicago, USA | 2023 - Present
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 10 disparate spreadsheets into a single source of truth.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 30 regional entities.
+- Built a tabular SSAS model that serves 8 departments with consistent KPIs.
+- Automated the monthly reporting cycle for a public sector client, freeing up 30 analyst days per month for higher-value analysis.
+
+Analytics Consultant | Clearwater Data Systems | Toronto, Canada | 2020 - 2023
+- Trained 50 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analytics Consultant | Fjord Digital Solutions | Singapore, Singapore | 2017 - 2020
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the retail business.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+
+Business Intelligence Consultant | Northstar Cloud Group | Brussels, Belgium | 2015 - 2017
+- Worked in Scrum teams with two-week sprints and regular client demos.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Designed and delivered 2 interactive Snowflake dashboards for e-commerce clients, reducing manual reporting effort by 25%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Humboldt University of Berlin, Berlin, Germany (2012)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Microsoft Certified: Azure Data Engineer Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Danish (Native)
+- Hindi (Conversational)

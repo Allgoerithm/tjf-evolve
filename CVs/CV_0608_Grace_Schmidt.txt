@@ -1,0 +1,42 @@
+Grace Schmidt
+Oslo, Norway | grace.schmidt@example.com | +39 328 6152035
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 6 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Tableau, dbt
+- Data Science & Machine Learning: Causal Inference, Jupyter, Feature Engineering
+- Cloud & Infrastructure: Linux system administration, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Harborview Consulting | Paris, France | 2023 - Present
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and implemented a multi-account AWS landing zone for an insurance client, improving security posture and cost visibility.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+Analyst | Nordwind Consulting | Toronto, Canada | 2022 - 2023
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 45%.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Implemented a data lake on Tableau, ingesting and processing over 30 TB of data monthly from 30 source systems.
+
+Data & Analytics Consultant | Stratos Cloud Consulting | Manchester, United Kingdom | 2021 - 2022
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Rolled out data governance roles and policies across 5 departments.
+- Automated the monthly reporting cycle for a public sector client, freeing up 10 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Sorbonne University, Paris, France (2018)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Databricks Certified Data Engineer Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Polish (Native)
+- German (Conversational)

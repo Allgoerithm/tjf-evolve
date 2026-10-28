@@ -1,0 +1,37 @@
+David Braun
+Chicago, USA | david.braun@example.com | +34 610 2572601
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 6 years of consulting experience across consumer goods and related sectors.
+
+CORE SKILLS
+- Business Intelligence: KPI design, SSAS, Star schema & dimensional modeling, QlikView, Qlik Sense, LookML
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Technical documentation, Data quality management, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Nimbus Infrastructure Consulting | Amsterdam, Netherlands | 2025 - Present
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 8 analyst days per month for higher-value analysis.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 12%.
+
+Consultant | Falcon Ridge Consulting | Dublin, Ireland | 2024 - 2025
+- Designed and delivered 20 interactive Looker dashboards for banking clients, reducing manual reporting effort by 22%.
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Business Intelligence Consultant | Northstar Cloud Group | Brussels, Belgium | 2021 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+
+EDUCATION
+B.Sc. in Mathematics, University of Toronto, Toronto, Canada (2019)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGES
+- French (Native)
+- Danish (Conversational)

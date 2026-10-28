@@ -1,0 +1,38 @@
+Freya Kovac
+Paris, France | freya.kovac@example.com | +41 514 6916240
+
+PROFESSIONAL SUMMARY
+BI Developer with 9 years of experience delivering business intelligence and enterprise reporting solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, Qlik Sense, SSAS, T-SQL, LookML, DAX
+- Cloud & Infrastructure: Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Git, Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | BlueRiver Analytics | Manchester, United Kingdom | 2023 - Present
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the telecommunications business.
+- Trained 30 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 40%.
+
+Analyst | Cobalt Data Labs | Dublin, Ireland | 2020 - 2023
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 10 disparate spreadsheets into a single source of truth.
+
+Analyst | Pinnacle Business Intelligence GmbH | Bangalore, India | 2018 - 2020
+- Implemented row-level security in Looker, enabling secure self-service reporting across 5 regional entities.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Designed and delivered 5 interactive Tableau dashboards for automotive manufacturing clients, reducing manual reporting effort by 20%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Illinois, Chicago, USA (2015)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- English (Native)
+- Portuguese (Conversational)

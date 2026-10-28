@@ -1,0 +1,37 @@
+Wei Kovac
+Madrid, Spain | wei.kovac@example.com | +45 600 3630491
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer (5 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: MLflow, XGBoost / LightGBM, PyTorch, Causal Inference, Natural Language Processing, Statistical Modeling
+- Cloud & Infrastructure: Apache Airflow, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | Meridian Digital Partners | Paris, France | 2024 - Present
+- Developed a XGBoost model to predict fraud risk for consumer goods clients, improving prediction accuracy by 18%.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 22% uplift in conversion rate.
+- Built a churn prediction model on 50+ customer records, enabling targeted retention campaigns for the insurance sector.
+
+Data Scientist | Alpenglow Analytics | Lisbon, Portugal | 2023 - 2024
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 12%.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Senior Data Scientist | TerraLogic Consulting | Lyon, France | 2022 - 2023
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+- Developed an anomaly detection system for energy and utilities operations, flagging issues 20% faster than the previous manual process.
+- Led a proof-of-concept on demand forecasting for a logistics client, achieving a 18% reduction in forecast error versus the baseline.
+
+EDUCATION
+B.Eng. in Information Systems, ETH Zurich, Zurich, Switzerland (2019)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- English (Native)
+- Hindi (Professional working proficiency)

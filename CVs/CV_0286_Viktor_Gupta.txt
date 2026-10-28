@@ -1,0 +1,40 @@
+Viktor Gupta
+Prague, Czech Republic | viktor.gupta@example.com | +47 155 9654768
+
+PROFESSIONAL SUMMARY
+Data Engineer with 8 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Qlik Sense, SSIS
+- Cloud & Infrastructure: Infrastructure as Code, Kubernetes, Linux system administration, Terraform
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Beacon Insight Consulting | Amsterdam, Netherlands | 2025 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for a pharmaceuticals client's data platform.
+- Built Azure-based data pipelines with orchestrated daily loads from 30 sources.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Consultant | Meridian Digital Partners | Warsaw, Poland | 2023 - 2025
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+- Implemented a data lake on Databricks, ingesting and processing over 3 TB of data monthly from 3 source systems.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analytics Engineer | Northgate Technology Group | Manchester, United Kingdom | 2020 - 2023
+- Performed a cloud security audit for an automotive manufacturing client, remediating 5 critical findings within the first quarter.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+
+EDUCATION
+M.Sc. in Software Engineering, ETH Zurich, Zurich, Switzerland (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Certified Solutions Architect - Associate
+- SnowPro Core Certification
+
+LANGUAGES
+- Portuguese (Native)
+- Hindi (Professional working proficiency)

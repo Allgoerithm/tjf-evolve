@@ -1,0 +1,40 @@
+Hannah Berg
+Frankfurt, Germany | hannah.berg@example.com | +47 724 8753728
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (9 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Data Warehouse design (Kimball/Inmon), LookML, QlikView, SSIS, KPI design
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Linux system administration
+- Tools & Ways of Working: Technical documentation, Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Pinnacle Business Intelligence GmbH | Stockholm, Sweden | 2022 - Present
+- Introduced Git-based workflows with code review for the analytics team.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analyst | Greystone Data & AI | Manchester, United Kingdom | 2020 - 2022
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 2 disparate spreadsheets into a single source of truth.
+- Designed and delivered 15 interactive Qlik Sense dashboards for pharmaceuticals clients, reducing manual reporting effort by 18%.
+
+IT Consultant | Falcon Ridge Consulting | Madrid, Spain | 2018 - 2020
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 28%.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 20 teams.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the banking business.
+- Trained 10 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Mathematics, Imperial College London, London, United Kingdom (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Mandarin (Native)
+- Dutch (Fluent)

@@ -1,0 +1,34 @@
+Philipp Owusu
+Austin, USA | philipp.owusu@example.com | +33 491 1269985
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (3 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, DAX, SSRS, Star schema & dimensional modeling, SQL Server, Tableau
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Terraform
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Kestrel Data Solutions | Stuttgart, Germany | 2025 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Developed Qlik Sense apps for operational reporting used by 8+ plant managers.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+
+Business Intelligence Consultant | Solaris Data Engineering | Singapore, Singapore | 2024 - 2025
+- Designed and delivered 5 interactive Snowflake dashboards for aviation clients, reducing manual reporting effort by 20%.
+- Automated the monthly reporting cycle for a retail client, freeing up 8 analyst days per month for higher-value analysis.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 8 regional entities.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Delft University of Technology, Delft, Netherlands (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Danish (Native)
+- German (Professional working proficiency)

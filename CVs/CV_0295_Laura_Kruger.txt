@@ -1,0 +1,39 @@
+Laura Kruger
+Berlin, Germany | laura.kruger@example.com | +34 600 8699751
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (6 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Tableau, Snowflake, SSAS, SQL Server, SSIS
+- Cloud & Infrastructure: Kubernetes, Docker
+- Tools & Ways of Working: Agile / Scrum, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Greystone Data & AI | Brussels, Belgium | 2025 - Present
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed and delivered 50 interactive Looker dashboards for public sector clients, reducing manual reporting effort by 18%.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+IT Consultant | Orbis Technology Partners | Munich, Germany | 2024 - 2025
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the logistics business.
+
+Senior BI Consultant | Northgate Technology Group | Munich, Germany | 2022 - 2024
+- Trained 5 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 30%.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 15 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Computer Science, Trinity College Dublin, Dublin, Ireland (2020)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Project Management Professional (PMP)
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Professional working proficiency)

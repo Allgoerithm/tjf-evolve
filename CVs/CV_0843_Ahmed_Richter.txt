@@ -1,0 +1,32 @@
+Ahmed Richter
+Lisbon, Portugal | ahmed.richter@example.com | +31 526 2396061
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 4 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: DAX, Power BI, dbt, Qlik Sense, T-SQL, Snowflake
+- Cloud & Infrastructure: Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Data quality management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | TerraLogic Consulting | Hamburg, Germany | 2024 - Present
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 2 disparate spreadsheets into a single source of truth.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Senior BI Consultant | Fjord Digital Solutions | Vienna, Austria | 2021 - 2024
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 20 regional entities.
+- Trained 2 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for a banking client, freeing up 15 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Statistics, Imperial College London, London, United Kingdom (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Polish (Native)
+- Spanish (Professional working proficiency)

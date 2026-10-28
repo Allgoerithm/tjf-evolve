@@ -1,0 +1,28 @@
+SEARCH PROFILE #086
+Role Needed: Business Intelligence Consultant
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Insurance
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Requirements engineering
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- LookML
+- Data quality management
+- SQL Server
+
+NICE-TO-HAVE SKILLS
+- DAX
+- Power BI
+
+LANGUAGE REQUIREMENTS
+- Spanish (native)
+- Portuguese (fluent)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Frankfurt, Germany)
+
+PROJECT CONTEXT
+Leadership wants a self-service analytics capability so business users can build their own reports without IT involvement.
+
+Start Date: Immediately
+Duration: 2 months (short-term)

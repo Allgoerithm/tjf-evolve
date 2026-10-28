@@ -1,0 +1,40 @@
+Katarzyna Klein
+Copenhagen, Denmark | katarzyna.klein@example.com | +44 115 3797952
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 5 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Data Warehouse design (Kimball/Inmon), SSAS
+- Data Science & Machine Learning: Natural Language Processing, R, Causal Inference
+- Cloud & Infrastructure: Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Quantara Analytics | Hamburg, Germany | 2024 - Present
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the retail sector.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 15 disparate spreadsheets into a single source of truth.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+
+Consultant | TerraLogic Consulting | Stuttgart, Germany | 2023 - 2024
+- Automated the monthly reporting cycle for a banking client, freeing up 8 analyst days per month for higher-value analysis.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 30 teams.
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 35%.
+
+IT Consultant | Ironwood Cloud Services | Krakow, Poland | 2022 - 2023
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 25%.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 20%.
+- Led a cloud cost optimization initiative, identifying savings of 35% across compute and storage resources.
+
+EDUCATION
+B.Sc. in Mathematics, University of Oslo, Oslo, Norway (2019)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Italian (Native)
+- Polish (Conversational)

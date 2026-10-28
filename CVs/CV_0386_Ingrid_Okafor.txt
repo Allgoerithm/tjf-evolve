@@ -1,0 +1,35 @@
+Ingrid Okafor
+Prague, Czech Republic | ingrid.okafor@example.com | +34 328 1371519
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, DAX, SQL Server
+- Cloud & Infrastructure: Apache Airflow, Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud, Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Vertex Data Partners | Pune, India | 2025 - Present
+- Trained 20 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Packaged data services as Docker images to ensure consistent deployments.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 5+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for a public sector client's data platform.
+
+IT Consultant | Quantara Analytics | Rotterdam, Netherlands | 2024 - 2025
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Performed a cloud security audit for an aviation client, remediating 2 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Statistics, Imperial College London, London, United Kingdom (2023)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- English (Native)
+- Mandarin (Conversational)
+- Dutch (Fluent)

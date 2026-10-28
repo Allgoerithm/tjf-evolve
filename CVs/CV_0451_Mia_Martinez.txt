@@ -1,0 +1,29 @@
+Mia Martinez
+Munich, Germany | mia.martinez@example.com | +32 594 1944022
+
+PROFESSIONAL SUMMARY
+Results-driven Applied Data Scientist with 2 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: A/B Testing & Experimentation, Natural Language Processing, MLflow, Causal Inference, Apache Spark / PySpark, Feature Engineering
+- Cloud & Infrastructure: Apache Airflow, Terraform
+- Tools & Ways of Working: Agile / Scrum, Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | Stratos Cloud Consulting | Vienna, Austria | 2024 - Present
+- Developed an anomaly detection system for energy and utilities operations, flagging issues 45% faster than the previous manual process.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 35%.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2022)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Spanish (Native)
+- Italian (Conversational)
+- Mandarin (Professional working proficiency)

@@ -1,0 +1,30 @@
+SEARCH PROFILE #008
+Role Needed: Lead Data & AI Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Public sector
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Requirements engineering
+- Data Warehouse design (Kimball/Inmon)
+- Causal Inference
+
+NICE-TO-HAVE SKILLS
+- XGBoost / LightGBM
+- Snowflake on cloud
+- SSAS
+
+PREFERRED CERTIFICATIONS
+- Tableau Desktop Specialist
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGE REQUIREMENTS
+- Italian (native)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Prague, Czech Republic)
+
+PROJECT CONTEXT
+Following a data platform assessment, the client needs a consultant to help prioritize and execute the resulting roadmap.
+
+Start Date: As soon as a suitable candidate is found
+Duration: Ongoing / open-ended

@@ -1,0 +1,31 @@
+SEARCH PROFILE #082
+Role Needed: Cloud Engineer
+Engagement Type: Short-term project engagement
+Client Industry: Aviation
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Star schema & dimensional modeling
+- Technical documentation
+- Docker
+- Networking & VPC design
+
+NICE-TO-HAVE SKILLS
+- Cloud cost optimization
+- Kubernetes
+- JIRA / Confluence
+
+PREFERRED CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGE REQUIREMENTS
+- French (native)
+- Polish (business level)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Stuttgart, Germany)
+
+PROJECT CONTEXT
+The existing Kubernetes setup is unstable under load and needs a review of configuration, scaling, and observability.
+
+Start Date: Within 4 weeks
+Duration: 3 months, extension likely

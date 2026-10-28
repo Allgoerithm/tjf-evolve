@@ -1,0 +1,40 @@
+Yuki Moreau
+Barcelona, Spain | yuki.moreau@example.com | +48 722 4259336
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 9 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, SQL Server, Snowflake
+- Cloud & Infrastructure: Terraform, Apache Airflow, Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | BlueRiver Analytics | Frankfurt, Germany | 2023 - Present
+- Trained 5 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 2+ internal teams within the first year.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+
+IT Consultant | Solaris Data Engineering | Oslo, Norway | 2019 - 2023
+- Performed a cloud security audit for a telecommunications client, remediating 8 critical findings within the first quarter.
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+Analyst | Evergreen Data Solutions | Cologne, Germany | 2015 - 2019
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 30% and improving system uptime.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Delft University of Technology, Delft, Netherlands (2016)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Project Management Professional (PMP)
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Spanish (Native)
+- Dutch (Conversational)
+- Swedish (Conversational)

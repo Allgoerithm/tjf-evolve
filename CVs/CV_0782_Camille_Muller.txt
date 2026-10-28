@@ -1,0 +1,40 @@
+Camille Muller
+Manchester, United Kingdom | camille.muller@example.com | +1 893 6196614
+
+PROFESSIONAL SUMMARY
+Versatile Lead Data & AI Consultant with 5 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: DAX, SQL Server, Looker
+- Data Science & Machine Learning: Feature Engineering, Model Deployment & Monitoring, Statistical Modeling
+- Cloud & Infrastructure: Apache Airflow, Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Harborview Consulting | Madrid, Spain | 2024 - Present
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 28%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 8 analyst days per month for higher-value analysis.
+
+Analyst | Alpenglow Analytics | Toronto, Canada | 2022 - 2024
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for an energy and utilities client's data platform.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Meridian Digital Partners | Austin, USA | 2020 - 2022
+- Applied NLP techniques to classify support tickets, cutting manual triage by 40%.
+- Developed Qlik Sense apps for operational reporting used by 30+ plant managers.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and implemented a multi-account AWS landing zone for an aviation client, improving security posture and cost visibility.
+- Built a churn prediction model on 50+ customer records, enabling targeted retention campaigns for the pharmaceuticals sector.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Imperial College London, London, United Kingdom (2020)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Dutch (Native)
+- Polish (Fluent)

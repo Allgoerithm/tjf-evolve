@@ -1,0 +1,38 @@
+Sigrid Klein
+Stockholm, Sweden | sigrid.klein@example.com | +48 601 6996223
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 9 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, DAX, LookML
+- Data Science & Machine Learning: A/B Testing & Experimentation, Natural Language Processing, Time Series Forecasting
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Networking & VPC design, Cloud cost optimization
+- Tools & Ways of Working: Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Fjord Digital Solutions | Stuttgart, Germany | 2023 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Mentored a team of 20 junior data scientists on feature engineering and model evaluation best practices.
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+
+Senior Data Platform Consultant | TerraLogic Consulting | London, United Kingdom | 2020 - 2023
+- Built a recommendation engine for a healthcare client, contributing to a 20% increase in average order value.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+IT Consultant | Solaris Data Engineering | Madrid, Spain | 2018 - 2020
+- Trained 50 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Developed an anomaly detection system for aviation operations, flagging issues 15% faster than the previous manual process.
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a public sector client's data platform.
+
+EDUCATION
+M.Sc. in Business Informatics, National University of Singapore, Singapore, Singapore (2015)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+
+LANGUAGES
+- English (Native)
+- Hindi (Fluent)

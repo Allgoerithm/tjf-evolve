@@ -1,0 +1,35 @@
+Petra Patel
+Dublin, Ireland | petra.patel@example.com | +46 521 2577953
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (3 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power BI, DAX, LookML, Tableau, SSIS, SSRS
+- Cloud & Infrastructure: Apache Airflow, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Northstar Cloud Group | Amsterdam, Netherlands | 2025 - Present
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Managed backlog and documentation in JIRA and Confluence for 30 concurrent workstreams.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+
+Consultant | Cobalt Data Labs | Copenhagen, Denmark | 2023 - 2025
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 30 interactive Snowflake dashboards for aviation clients, reducing manual reporting effort by 28%.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Introduced dbt for transformation and testing, covering 20+ models in the analytics layer.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 15 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Manchester, Manchester, United Kingdom (2022)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+
+LANGUAGES
+- Mandarin (Native)
+- Portuguese (Professional working proficiency)

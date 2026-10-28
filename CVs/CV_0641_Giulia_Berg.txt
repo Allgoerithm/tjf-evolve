@@ -1,0 +1,39 @@
+Giulia Berg
+Krakow, Poland | giulia.berg@example.com | +34 223 1987010
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 9 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Tableau, T-SQL, dbt, Data Warehouse design (Kimball/Inmon), Power BI, SQL Server
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code
+- Tools & Ways of Working: Technical documentation, Git, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Vantage Point Consulting | Bangalore, India | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 30 regional entities.
+
+BI Developer | Nordwind Consulting | Austin, USA | 2021 - 2024
+- Trained 30 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+Senior BI Consultant | Ironwood Cloud Services | Rotterdam, Netherlands | 2017 - 2021
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the healthcare business.
+- Automated the monthly reporting cycle for a logistics client, freeing up 3 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Munich, Munich, Germany (2015)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- AWS Certified Solutions Architect - Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- French (Native)
+- Polish (Conversational)

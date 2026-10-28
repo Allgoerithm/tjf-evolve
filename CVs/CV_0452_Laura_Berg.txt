@@ -1,0 +1,38 @@
+Laura Berg
+Copenhagen, Denmark | laura.berg@example.com | +44 796 6540109
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 5 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), DAX, Snowflake
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE), Snowflake on cloud, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Agile / Scrum, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Harborview Consulting | Chicago, USA | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Led the adoption of a self-service data platform on Snowflake, onboarding 10+ internal teams within the first year.
+
+Analytics Engineer | Brightfield Consulting | Rotterdam, Netherlands | 2024 - 2025
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+- Built Kafka-based streaming ingestion for 30 operational systems.
+
+Senior Data Engineer | Ironwood Cloud Services | Lyon, France | 2023 - 2024
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+EDUCATION
+MBA with focus on Information Management, Sorbonne University, Paris, France (2021)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- English (Native)
+- French (Conversational)

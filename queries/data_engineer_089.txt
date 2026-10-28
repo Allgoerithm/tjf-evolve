@@ -1,0 +1,30 @@
+SEARCH PROFILE #089
+Role Needed: Data Engineer
+Engagement Type: Permanent hire
+Client Industry: Healthcare
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Snowflake on cloud
+- Data governance
+- Star schema & dimensional modeling
+- KPI design
+- Terraform
+
+NICE-TO-HAVE SKILLS
+- Apache Airflow
+
+PREFERRED CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGE REQUIREMENTS
+- Hindi (business level)
+- Dutch (native)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Austin, USA)
+
+PROJECT CONTEXT
+Existing ETL jobs are fragile and poorly documented; the client needs them re-engineered on a modern orchestration stack.
+
+Start Date: ASAP
+Duration: 12 months, potential for permanent placement

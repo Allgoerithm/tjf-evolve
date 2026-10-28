@@ -1,0 +1,34 @@
+Camille Koch
+Lyon, France | camille.koch@example.com | +45 366 9066815
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: LookML, SQL Server, Data Warehouse design (Kimball/Inmon), Stakeholder reporting & dashboarding, T-SQL, Power Query / M
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Brightfield Consulting | Munich, Germany | 2025 - Present
+- Designed and delivered 10 interactive Snowflake dashboards for retail clients, reducing manual reporting effort by 40%.
+- Automated the monthly reporting cycle for an aviation client, freeing up 30 analyst days per month for higher-value analysis.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the healthcare business.
+
+Analytics Consultant | Riverbend Analytics | Toronto, Canada | 2023 - 2025
+- Optimized Looker data models and DAX measures, improving dashboard load times by 20%.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 15 regional entities.
+
+EDUCATION
+M.Sc. in Statistics, University of Manchester, Manchester, United Kingdom (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Danish (Native)
+- German (Professional working proficiency)
+- Portuguese (Fluent)

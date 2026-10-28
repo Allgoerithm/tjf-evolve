@@ -1,0 +1,30 @@
+SEARCH PROFILE #027
+Role Needed: Data & Analytics Consultant
+Engagement Type: Interim / bridge staffing
+Client Industry: Aviation
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Stakeholder reporting & dashboarding
+- Natural Language Processing
+- Terraform
+- DAX
+- Python (pandas, NumPy, scikit-learn)
+
+NICE-TO-HAVE SKILLS
+- Git
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Qlik Sense Data Architect Certification
+
+LANGUAGE REQUIREMENTS
+- Italian (business level)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Madrid, Spain)
+
+PROJECT CONTEXT
+An aviation client is launching a broader data & AI strategy and needs a generalist who can bridge BI, data science, and cloud infrastructure.
+
+Start Date: Flexible, ideally within the next month
+Duration: 6 months

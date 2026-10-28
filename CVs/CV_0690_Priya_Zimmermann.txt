@@ -1,0 +1,36 @@
+Priya Zimmermann
+Barcelona, Spain | priya.zimmermann@example.com | +48 374 6040563
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 4 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Data Warehouse design (Kimball/Inmon), SSAS
+- Data Science & Machine Learning: PyTorch, Model Deployment & Monitoring, Apache Spark / PySpark
+- Cloud & Infrastructure: Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Northstar Cloud Group | Lyon, France | 2024 - Present
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 2 regional entities.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 8 teams.
+- Developed a deep learning model to predict customer lifetime value for automotive manufacturing clients, improving prediction accuracy by 22%.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+
+Senior Data Platform Consultant | TerraLogic Consulting | Dublin, Ireland | 2021 - 2024
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Trinity College Dublin, Dublin, Ireland (2020)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Italian (Native)
+- German (Fluent)

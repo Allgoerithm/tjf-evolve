@@ -1,0 +1,40 @@
+Carlos Mensah
+Paris, France | carlos.mensah@example.com | +1 781 1192128
+
+PROFESSIONAL SUMMARY
+Applied Data Scientist specializing in data science and machine learning, with 7 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: Apache Spark / PySpark, Time Series Forecasting, TensorFlow, MLflow, Computer Vision, Statistical Modeling
+- Cloud & Infrastructure: Terraform, Linux system administration
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Harborview Consulting | Munich, Germany | 2023 - Present
+- Mentored a team of 8 junior data scientists on feature engineering and model evaluation best practices.
+- Led a proof-of-concept on demand forecasting for a consumer goods client, achieving a 28% reduction in forecast error versus the baseline.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+IT Consultant | Beacon Insight Consulting | Stuttgart, Germany | 2020 - 2023
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 35% uplift in conversion rate.
+
+Analyst | Beacon Insight Consulting | Zurich, Switzerland | 2017 - 2020
+- Implemented a PyTorch model for demand and served it behind an internal API.
+- Developed a gradient boosting model to predict customer churn for insurance clients, improving prediction accuracy by 30%.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 45%.
+
+EDUCATION
+B.Sc. in Business Informatics, National University of Singapore, Singapore, Singapore (2019)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Swedish (Native)
+- Mandarin (Conversational)
+- Spanish (Conversational)

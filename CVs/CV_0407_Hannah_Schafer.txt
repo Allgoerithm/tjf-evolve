@@ -1,0 +1,34 @@
+Hannah Schafer
+Milan, Italy | hannah.schafer@example.com | +44 443 2601692
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, DAX, Star schema & dimensional modeling, T-SQL, QlikView, Looker
+- Cloud & Infrastructure: Infrastructure as Code, Linux system administration
+- Tools & Ways of Working: Git, Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Stratos Cloud Consulting | Amsterdam, Netherlands | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Trained 3 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+
+Senior BI Consultant | Quantara Analytics | Rotterdam, Netherlands | 2024 - 2025
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the public sector business.
+- Automated the monthly reporting cycle for a public sector client, freeing up 10 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Computer Science, University of Vienna, Vienna, Austria (2023)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Google Professional Data Engineer
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Portuguese (Native)
+- Swedish (Fluent)

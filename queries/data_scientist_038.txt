@@ -1,0 +1,30 @@
+SEARCH PROFILE #038
+Role Needed: Senior Data Scientist
+Engagement Type: Long-term client secondment
+Client Industry: Insurance
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- Git
+- Model Deployment & Monitoring
+- Stakeholder management
+
+NICE-TO-HAVE SKILLS
+- Apache Spark / PySpark
+- Time Series Forecasting
+- Kubernetes
+
+PREFERRED CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGE REQUIREMENTS
+- Hindi (native)
+- Spanish (business level)
+
+Location / Remote Policy: Fully remote (client site: Milan, Italy)
+
+PROJECT CONTEXT
+The client is starting a new initiative around equipment failure prediction and needs someone to define the modeling approach end-to-end.
+
+Start Date: Within 4 weeks
+Duration: 2 months (short-term)

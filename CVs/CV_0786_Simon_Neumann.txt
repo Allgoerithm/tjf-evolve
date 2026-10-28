@@ -1,0 +1,31 @@
+Simon Neumann
+Amsterdam, Netherlands | simon.neumann@example.com | +45 785 9372491
+
+PROFESSIONAL SUMMARY
+Experienced Business Intelligence Consultant (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, KPI design, Data Warehouse design (Kimball/Inmon), Looker, Tableau, Power BI
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Cloud cost optimization
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Greystone Data & AI | Warsaw, Poland | 2024 - Present
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 22%.
+- Replaced 5 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 5 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Sc. in Mathematics, National University of Singapore, Singapore, Singapore (2024)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Cloudera Certified Data Analyst
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Hindi (Native)
+- German (Fluent)
+- Italian (Fluent)

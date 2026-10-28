@@ -1,0 +1,40 @@
+Greta Okafor
+Milan, Italy | greta.okafor@example.com | +48 930 3660924
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 7 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Tableau, Data Warehouse design (Kimball/Inmon), QlikView, SSIS, Power BI
+- Cloud & Infrastructure: Infrastructure as Code, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Data quality management, Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Solaris Data Engineering | Rotterdam, Netherlands | 2024 - Present
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 8 disparate spreadsheets into a single source of truth.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+BI Developer | Meridian Digital Partners | Munich, Germany | 2022 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the insurance business.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+
+Senior BI Consultant | Evergreen Data Solutions | Lisbon, Portugal | 2020 - 2022
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Designed and delivered 15 interactive Tableau dashboards for aviation clients, reducing manual reporting effort by 20%.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 30 regional entities.
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 8 analyst days per month for higher-value analysis.
+- Developed Qlik Sense apps for operational reporting used by 5+ plant managers.
+
+EDUCATION
+M.Sc. in Computer Science, University of Hamburg, Hamburg, Germany (2019)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Fluent)

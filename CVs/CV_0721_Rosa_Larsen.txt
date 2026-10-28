@@ -1,0 +1,33 @@
+Rosa Larsen
+Oslo, Norway | rosa.larsen@example.com | +39 658 9870399
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (2 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Power Query / M, LookML, Qlik Sense, T-SQL, Snowflake
+- Cloud & Infrastructure: Infrastructure as Code, Networking & VPC design
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Kestrel Data Solutions | Prague, Czech Republic | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 8 disparate spreadsheets into a single source of truth.
+- Designed and delivered 5 interactive Qlik Sense dashboards for aviation clients, reducing manual reporting effort by 28%.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analytics Consultant | Vantage Point Consulting | Zurich, Switzerland | 2024 - 2025
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 10 analyst days per month for higher-value analysis.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 3 regional entities.
+- Trained 10 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Indian Institute of Technology Bombay, Mumbai, India (2022)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Italian (Native)
+- Danish (Fluent)

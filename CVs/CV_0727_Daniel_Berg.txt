@@ -1,0 +1,37 @@
+Daniel Berg
+Rotterdam, Netherlands | daniel.berg@example.com | +47 318 7593724
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: DAX, T-SQL, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Snowflake on cloud, Apache Kafka, Infrastructure as Code, Cloud cost optimization
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | TerraLogic Consulting | Oslo, Norway | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Built Azure-based data pipelines with orchestrated daily loads from 10 sources.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Built analytics workloads on Google Cloud Platform for 50 product teams.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+
+Data Engineer | Silverline IT Consulting | Zurich, Switzerland | 2023 - 2025
+- Standardized cloud tagging and cost allocation practices for a public sector client, improving budget accountability across 30 teams.
+- Designed and delivered 10 interactive Tableau dashboards for insurance clients, reducing manual reporting effort by 30%.
+- Designed and implemented a multi-account AWS landing zone for a public sector client, improving security posture and cost visibility.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Warsaw, Warsaw, Poland (2022)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Azure Data Engineer Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- English (Native)
+- Portuguese (Fluent)
+- Mandarin (Conversational)

@@ -1,0 +1,34 @@
+Michael Ivanov
+Manchester, United Kingdom | michael.ivanov@example.com | +45 694 8012131
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 2 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in insurance. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Tableau, Power Query / M
+- Data Science & Machine Learning: Apache Spark / PySpark, Python (pandas, NumPy, scikit-learn), Statistical Modeling
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Greystone Data & AI | Austin, USA | 2025 - Present
+- Maintained SSIS packages that load 50 source systems into the enterprise data warehouse.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the logistics business.
+
+Lead Data & AI Consultant | Lumen Analytics Group | Madrid, Spain | 2024 - 2025
+- Developed a gradient boosting model to predict demand for telecommunications clients, improving prediction accuracy by 40%.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Computer Science, University of Manchester, Manchester, United Kingdom (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Italian (Native)
+- French (Fluent)

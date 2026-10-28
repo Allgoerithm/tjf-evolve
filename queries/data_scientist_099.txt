@@ -1,0 +1,31 @@
+SEARCH PROFILE #099
+Role Needed: Data Scientist
+Engagement Type: Short-term project engagement
+Client Industry: Consumer goods
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- JIRA / Confluence
+- Time Series Forecasting
+- TensorFlow
+
+NICE-TO-HAVE SKILLS
+- Client workshops & presentations
+- Model Deployment & Monitoring
+- Docker
+- Statistical Modeling
+
+PREFERRED CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Dutch (business level)
+- Portuguese (conversational)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Dublin, Ireland)
+
+PROJECT CONTEXT
+The current model in production has degraded in accuracy and needs root-cause analysis plus a retraining strategy.
+
+Start Date: Within 2 weeks
+Duration: Ongoing / open-ended

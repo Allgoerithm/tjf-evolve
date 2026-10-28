@@ -1,0 +1,33 @@
+Lukas Petrov
+Chicago, USA | lukas.petrov@example.com | +31 449 4763884
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Solutions Architect (3 years) with a track record of delivering cloud infrastructure and platform engineering projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Apache Airflow, Cloud cost optimization, Docker, Kubernetes, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Business Intelligence: Data Warehouse design (Kimball/Inmon)
+- Tools & Ways of Working: Data governance, Stakeholder management, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Fjord Digital Solutions | Dublin, Ireland | 2025 - Present
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 15 teams.
+
+Cloud Infrastructure Consultant | Brightfield Consulting | Bangalore, India | 2024 - 2025
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+
+EDUCATION
+M.Sc. in Software Engineering, National University of Singapore, Singapore, Singapore (2023)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Google Professional Data Engineer
+
+LANGUAGES
+- French (Native)
+- Mandarin (Conversational)

@@ -1,0 +1,30 @@
+SEARCH PROFILE #034
+Role Needed: Machine Learning Engineer
+Engagement Type: Long-term client secondment
+Client Industry: Telecommunications
+Minimum Experience: 7+ years
+
+MUST-HAVE SKILLS
+- Requirements engineering
+- Statistical Modeling
+- PyTorch
+- JIRA / Confluence
+
+NICE-TO-HAVE SKILLS
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Jupyter
+- Time Series Forecasting
+
+PREFERRED CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGE REQUIREMENTS
+- Swedish (fluent)
+
+Location / Remote Policy: Fully remote (client site: Singapore, Singapore)
+
+PROJECT CONTEXT
+The client wants to move beyond descriptive reporting and build predictive models for demand in the telecommunications sector.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 6 months, extension possible

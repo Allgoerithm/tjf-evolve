@@ -1,0 +1,35 @@
+Nora Dvorak
+Rotterdam, Netherlands | nora.dvorak@example.com | +1 915 9909916
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 4 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Stakeholder reporting & dashboarding, QlikView
+- Data Science & Machine Learning: MLOps, Statistical Modeling, Natural Language Processing
+- Cloud & Infrastructure: Infrastructure as Code, Networking & VPC design, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Data governance, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Orbis Technology Partners | Vienna, Austria | 2025 - Present
+- Led the adoption of a self-service data platform on Databricks, onboarding 20+ internal teams within the first year.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 25%.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 18% uplift in conversion rate.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+Analyst | Falcon Ridge Consulting | Rotterdam, Netherlands | 2023 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 50 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Statistics, University of Amsterdam, Amsterdam, Netherlands (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Swedish (Native)
+- Polish (Fluent)

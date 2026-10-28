@@ -1,0 +1,41 @@
+Michael Patel
+Oslo, Norway | michael.patel@example.com | +33 119 9083155
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 8 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), DAX, QlikView
+- Data Science & Machine Learning: Natural Language Processing, Jupyter, XGBoost / LightGBM
+- Cloud & Infrastructure: Apache Kafka, Docker, Networking & VPC design
+- Tools & Ways of Working: Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Silverline IT Consulting | Singapore, Singapore | 2024 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 22% uplift in conversion rate.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+
+Data & Analytics Consultant | Evergreen Data Solutions | Pune, India | 2022 - 2024
+- Led the adoption of a self-service data platform on Tableau, onboarding 5+ internal teams within the first year.
+- Trained 2 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Tracked experiments and registered models with MLflow across 10 data science projects.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 30%.
+
+Senior Data Platform Consultant | TerraLogic Consulting | Bangalore, India | 2020 - 2022
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 28%.
+- Designed and delivered 8 interactive Databricks dashboards for consumer goods clients, reducing manual reporting effort by 40%.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Hamburg, Hamburg, Germany (2017)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Qlik Sense Data Architect Certification
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Hindi (Native)
+- Dutch (Professional working proficiency)

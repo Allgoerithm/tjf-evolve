@@ -1,0 +1,36 @@
+Felix Schwarz
+Austin, USA | felix.schwarz@example.com | +31 958 7597649
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer with 2 years of experience delivering data science and machine learning solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), A/B Testing & Experimentation, Feature Engineering, Natural Language Processing, Statistical Modeling, PyTorch
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Orbis Technology Partners | Barcelona, Spain | 2025 - Present
+- Built a recommendation engine for an aviation client, contributing to a 18% increase in average order value.
+- Developed an anomaly detection system for insurance operations, flagging issues 28% faster than the previous manual process.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+Machine Learning Engineer | Pinnacle Business Intelligence GmbH | Dublin, Ireland | 2023 - 2025
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 40%.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Led a proof-of-concept on demand forecasting for a logistics client, achieving a 22% reduction in forecast error versus the baseline.
+- Developed a XGBoost model to predict demand for aviation clients, improving prediction accuracy by 28%.
+
+EDUCATION
+B.Sc. in Business Informatics, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Polish (Professional working proficiency)
+- Dutch (Conversational)

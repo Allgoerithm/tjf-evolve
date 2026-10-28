@@ -1,0 +1,45 @@
+Astrid Berg
+Toronto, Canada | astrid.berg@example.com | +48 951 5687476
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 10 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Star schema & dimensional modeling, QlikView, Power Query / M, Tableau, DAX
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud
+- Tools & Ways of Working: Stakeholder management, Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Pinnacle Business Intelligence GmbH | Cologne, Germany | 2023 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Designed and delivered 8 interactive Databricks dashboards for retail clients, reducing manual reporting effort by 35%.
+
+Analyst | Quantara Analytics | Bangalore, India | 2022 - 2023
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the retail business.
+- Trained 2 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 15 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Harborview Consulting | London, United Kingdom | 2019 - 2022
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 5 regional entities.
+
+Analytics Consultant | Greystone Data & AI | Copenhagen, Denmark | 2016 - 2019
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Implemented automated data quality checks on 2 critical tables.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Munich, Munich, Germany (2015)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Hindi (Native)
+- Portuguese (Conversational)
+- Swedish (Conversational)

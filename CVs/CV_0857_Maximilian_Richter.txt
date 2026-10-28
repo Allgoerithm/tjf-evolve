@@ -1,0 +1,36 @@
+Maximilian Richter
+Chicago, USA | maximilian.richter@example.com | +39 683 4802607
+
+PROFESSIONAL SUMMARY
+Versatile Data & Analytics Consultant with 3 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, T-SQL, KPI design
+- Data Science & Machine Learning: MLOps, TensorFlow, Apache Spark / PySpark
+- Cloud & Infrastructure: Cloud cost optimization, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: Data quality management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Nordwind Consulting | Amsterdam, Netherlands | 2025 - Present
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 18%.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 30 regional entities.
+- Set up A/B tests for new product features and evaluated the results with the product team.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+Analyst | Lumen Analytics Group | Milan, Italy | 2024 - 2025
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 3 teams.
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 15 teams.
+- Mentored a team of 20 junior data scientists on feature engineering and model evaluation best practices.
+
+EDUCATION
+M.Sc. in Computational Science, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Dutch (Native)
+- German (Professional working proficiency)

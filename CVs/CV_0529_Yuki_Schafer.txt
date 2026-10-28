@@ -1,0 +1,32 @@
+Yuki Schafer
+Helsinki, Finland | yuki.schafer@example.com | +48 767 9279908
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 3 years of consulting experience across healthcare and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, QlikView, SSRS, Power Query / M, Power BI, KPI design
+- Cloud & Infrastructure: Docker, Cloud cost optimization
+- Tools & Ways of Working: Agile / Scrum, Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Greystone Data & AI | Dublin, Ireland | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Trained 3 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Designed and delivered 3 interactive Snowflake dashboards for retail clients, reducing manual reporting effort by 30%.
+
+IT Consultant | Clearwater Data Systems | Lyon, France | 2024 - 2025
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 5 disparate spreadsheets into a single source of truth.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 50 regional entities.
+
+EDUCATION
+B.Eng. in Information Systems, Technical University of Denmark, Copenhagen, Denmark (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- French (Conversational)

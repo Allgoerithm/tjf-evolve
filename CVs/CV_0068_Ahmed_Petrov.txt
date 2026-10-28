@@ -1,0 +1,33 @@
+Ahmed Petrov
+Munich, Germany | ahmed.petrov@example.com | +41 164 5110947
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 4 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: Statistical Modeling, PyTorch, Computer Vision, Causal Inference, MLOps, MLflow
+- Cloud & Infrastructure: Infrastructure as Code, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Technical documentation, JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Evergreen Data Solutions | London, United Kingdom | 2023 - Present
+- Mentored a team of 15 junior data scientists on feature engineering and model evaluation best practices.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 25%.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 45% uplift in conversion rate.
+
+Applied Data Scientist | Lumen Analytics Group | Toronto, Canada | 2021 - 2023
+- Led a proof-of-concept on demand forecasting for a telecommunications client, achieving a 35% reduction in forecast error versus the baseline.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Developed an anomaly detection system for insurance operations, flagging issues 25% faster than the previous manual process.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, ETH Zurich, Zurich, Switzerland (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Danish (Native)
+- Mandarin (Professional working proficiency)

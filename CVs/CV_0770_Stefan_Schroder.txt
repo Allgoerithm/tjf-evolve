@@ -1,0 +1,40 @@
+Stefan Schroder
+Rotterdam, Netherlands | stefan.schroder@example.com | +33 929 7986989
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 6 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SSIS, KPI design, Power Query / M, SQL Server, LookML
+- Cloud & Infrastructure: Snowflake on cloud, Infrastructure as Code
+- Tools & Ways of Working: Data quality management, Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Kestrel Data Solutions | Prague, Czech Republic | 2024 - Present
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 20 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+
+BI Developer | Brightfield Consulting | Chicago, USA | 2022 - 2024
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Built a tabular SSAS model that serves 20 departments with consistent KPIs.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Designed and delivered 5 interactive Snowflake dashboards for aviation clients, reducing manual reporting effort by 28%.
+
+Analytics Consultant | Clearwater Data Systems | Manchester, United Kingdom | 2019 - 2022
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the retail business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Automated the monthly reporting cycle for a retail client, freeing up 8 analyst days per month for higher-value analysis.
+
+EDUCATION
+MBA with focus on Information Management, Politecnico di Milano, Milan, Italy (2018)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Project Management Professional (PMP)
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- German (Native)
+- French (Conversational)

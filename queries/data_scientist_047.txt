@@ -1,0 +1,26 @@
+SEARCH PROFILE #047
+Role Needed: Applied Data Scientist
+Engagement Type: Short-term project engagement
+Client Industry: Public sector
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- A/B Testing & Experimentation
+- Networking & VPC design
+- Feature Engineering
+
+NICE-TO-HAVE SKILLS
+- Databricks
+- Technical documentation
+- Requirements engineering
+
+LANGUAGE REQUIREMENTS
+- German (fluent)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Brussels, Belgium)
+
+PROJECT CONTEXT
+An existing proof-of-concept model needs to be hardened, validated, and prepared for production deployment.
+
+Start Date: ASAP
+Duration: 3 months, extension likely

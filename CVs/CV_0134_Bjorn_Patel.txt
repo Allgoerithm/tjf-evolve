@@ -1,0 +1,35 @@
+Bjorn Patel
+Lisbon, Portugal | bjorn.patel@example.com | +45 208 5047168
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Engineer with 2 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Linux system administration, Snowflake on cloud, Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS)
+- Business Intelligence: Power Query / M
+- Tools & Ways of Working: Requirements engineering, Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Orbis Technology Partners | Cologne, Germany | 2025 - Present
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Cloud Solutions Architect | Pinnacle Business Intelligence GmbH | Madrid, Spain | 2023 - 2025
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 8 teams.
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for a healthcare client's data platform.
+
+EDUCATION
+MBA with focus on Information Management, Technical University of Denmark, Copenhagen, Denmark (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Project Management Professional (PMP)
+- Google Professional Cloud Architect
+
+LANGUAGES
+- French (Native)
+- Portuguese (Fluent)
+- Spanish (Fluent)

@@ -1,0 +1,39 @@
+Michael Schroder
+Stockholm, Sweden | michael.schroder@example.com | +1 376 2957491
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant with 5 years of experience delivering business intelligence and enterprise reporting solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: dbt, Looker, SSIS, KPI design, Power BI, SSAS
+- Cloud & Infrastructure: Apache Airflow, Kubernetes
+- Tools & Ways of Working: JIRA / Confluence, Data quality management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | TerraLogic Consulting | Lisbon, Portugal | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 35%.
+- Trained 50 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Business Intelligence Consultant | Northstar Cloud Group | Vienna, Austria | 2024 - 2025
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 50 regional entities.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 20 disparate spreadsheets into a single source of truth.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+IT Consultant | Pinnacle Business Intelligence GmbH | Rotterdam, Netherlands | 2023 - 2024
+- Optimized Looker data models and DAX measures, improving dashboard load times by 12%.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the aviation business.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+
+EDUCATION
+B.Sc. in Business Informatics, National University of Singapore, Singapore, Singapore (2019)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Hindi (Native)
+- German (Professional working proficiency)

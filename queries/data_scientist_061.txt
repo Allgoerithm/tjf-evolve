@@ -1,0 +1,30 @@
+SEARCH PROFILE #061
+Role Needed: Senior Data Scientist
+Engagement Type: Interim / bridge staffing
+Client Industry: Energy and utilities
+Minimum Experience: 3+ years
+
+MUST-HAVE SKILLS
+- MLOps
+- Time Series Forecasting
+- Feature Engineering
+- Git
+
+NICE-TO-HAVE SKILLS
+- Apache Airflow
+- Agile / Scrum
+- TensorFlow
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGE REQUIREMENTS
+- English (business level)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Toronto, Canada)
+
+PROJECT CONTEXT
+The client wants to establish MLOps practices to make model deployment and monitoring repeatable across teams.
+
+Start Date: Flexible, ideally within the next month
+Duration: 12 months, potential for permanent placement

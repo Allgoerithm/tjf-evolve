@@ -1,0 +1,37 @@
+Rosa Patel
+Brussels, Belgium | rosa.patel@example.com | +49 880 7406796
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 3 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Power BI, Data Warehouse design (Kimball/Inmon)
+- Data Science & Machine Learning: Time Series Forecasting, Python (pandas, NumPy, scikit-learn), Databricks
+- Cloud & Infrastructure: Terraform, Kubernetes, Cloud cost optimization
+- Tools & Ways of Working: JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | BlueRiver Analytics | Barcelona, Spain | 2025 - Present
+- Developed Qlik Sense apps for operational reporting used by 20+ plant managers.
+- Implemented a data lake on Power BI, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 18%.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+Data & Analytics Consultant | Solaris Data Engineering | Frankfurt, Germany | 2024 - 2025
+- Designed and delivered 20 interactive Power BI dashboards for insurance clients, reducing manual reporting effort by 35%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+EDUCATION
+B.Eng. in Information Systems, Indian Institute of Technology Bombay, Mumbai, India (2023)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Tableau Desktop Specialist
+- TOGAF 9 Certified
+
+LANGUAGES
+- Hindi (Native)
+- Portuguese (Professional working proficiency)

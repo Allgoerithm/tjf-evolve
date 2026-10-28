@@ -1,0 +1,31 @@
+Lena Sharma
+Madrid, Spain | lena.sharma@example.com | +48 614 5652617
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 2 years of experience delivering business intelligence and enterprise reporting solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: dbt, LookML, SSAS, SQL Server, Power BI, Star schema & dimensional modeling
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Requirements engineering, Data quality management, Git
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Alpenglow Analytics | Vienna, Austria | 2024 - Present
+- Designed and delivered 20 interactive Tableau dashboards for e-commerce clients, reducing manual reporting effort by 18%.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 35%.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 12%.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+B.Sc. in Business Informatics, Technical University of Denmark, Copenhagen, Denmark (2023)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Project Management Professional (PMP)
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Polish (Native)
+- French (Fluent)

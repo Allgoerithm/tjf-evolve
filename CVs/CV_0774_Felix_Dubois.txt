@@ -1,0 +1,40 @@
+Felix Dubois
+Toronto, Canada | felix.dubois@example.com | +1 811 9454220
+
+PROFESSIONAL SUMMARY
+Machine Learning Engineer specializing in data science and machine learning, with 6 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: Feature Engineering, PyTorch, XGBoost / LightGBM, Natural Language Processing, Causal Inference, Time Series Forecasting
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Technical documentation, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Beacon Insight Consulting | Brussels, Belgium | 2024 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 12% uplift in conversion rate.
+- Led a proof-of-concept on demand forecasting for a public sector client, achieving a 28% reduction in forecast error versus the baseline.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+Applied Data Scientist | Brightfield Consulting | Brussels, Belgium | 2021 - 2024
+- Built statistical models to explain the drivers of customer churn and presented them to management.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 30%.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 22%.
+
+Machine Learning Engineer | Evergreen Data Solutions | Rotterdam, Netherlands | 2019 - 2021
+- Built a churn prediction model on 15+ customer records, enabling targeted retention campaigns for the consumer goods sector.
+- Developed an anomaly detection system for insurance operations, flagging issues 30% faster than the previous manual process.
+- Mentored a team of 2 junior data scientists on feature engineering and model evaluation best practices.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Illinois, Chicago, USA (2020)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Certified ScrumMaster (CSM)
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Portuguese (Native)
+- Swedish (Conversational)

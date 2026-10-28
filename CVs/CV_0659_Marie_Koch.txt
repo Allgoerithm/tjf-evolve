@@ -1,0 +1,37 @@
+Marie Koch
+Pune, India | marie.koch@example.com | +44 282 8241819
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, T-SQL, Star schema & dimensional modeling
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow, Apache Kafka
+- Tools & Ways of Working: Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Meridian Digital Partners | Manchester, United Kingdom | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Trained 8 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 30 teams.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+
+Analytics Engineer | Alpenglow Analytics | Stockholm, Sweden | 2022 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Managed backlog and documentation in JIRA and Confluence for 50 concurrent workstreams.
+- Led the adoption of a self-service data platform on Tableau, onboarding 3+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for an automotive manufacturing client's data platform.
+
+EDUCATION
+M.Sc. in Statistics, University of Warsaw, Warsaw, Poland (2022)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Certified Kubernetes Administrator (CKA)
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Polish (Native)
+- Hindi (Conversational)
+- Spanish (Fluent)

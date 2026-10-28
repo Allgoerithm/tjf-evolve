@@ -1,0 +1,39 @@
+Giulia Weber
+Lyon, France | giulia.weber@example.com | +34 879 6068615
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer with 5 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Tableau, KPI design, Star schema & dimensional modeling
+- Cloud & Infrastructure: Apache Airflow, Terraform, Linux system administration, Infrastructure as Code
+- Tools & Ways of Working: JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | TerraLogic Consulting | Pune, India | 2025 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+- Performed a cloud security audit for an energy and utilities client, remediating 30 critical findings within the first quarter.
+
+Senior Data Engineer | Brightfield Consulting | Lisbon, Portugal | 2024 - 2025
+- Automated the monthly reporting cycle for a banking client, freeing up 10 analyst days per month for higher-value analysis.
+- Led the adoption of a self-service data platform on Looker, onboarding 15+ internal teams within the first year.
+- Designed and implemented a multi-account AWS landing zone for a logistics client, improving security posture and cost visibility.
+
+Analytics Engineer | BlueRiver Analytics | Madrid, Spain | 2022 - 2024
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Standardized cloud tagging and cost allocation practices for an e-commerce client, improving budget accountability across 3 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+
+EDUCATION
+M.Sc. in Data Science, University of Warsaw, Warsaw, Poland (2019)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- French (Native)
+- Dutch (Fluent)

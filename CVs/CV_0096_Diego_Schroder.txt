@@ -1,0 +1,34 @@
+Diego Schroder
+Lyon, France | diego.schroder@example.com | +49 361 1440118
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, DAX, Looker, Qlik Sense, QlikView, KPI design
+- Cloud & Infrastructure: Docker, Snowflake on cloud
+- Tools & Ways of Working: Data governance, Client workshops & presentations, Git
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Alpenglow Analytics | Stockholm, Sweden | 2025 - Present
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced dbt for transformation and testing, covering 15+ models in the analytics layer.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+
+Consultant | BlueRiver Analytics | Lisbon, Portugal | 2024 - 2025
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 2 disparate spreadsheets into a single source of truth.
+- Managed backlog and documentation in JIRA and Confluence for 15 concurrent workstreams.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 15 analyst days per month for higher-value analysis.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 50 regional entities.
+
+EDUCATION
+B.Sc. in Business Informatics, Imperial College London, London, United Kingdom (2024)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- English (Fluent)

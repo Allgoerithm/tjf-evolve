@@ -1,0 +1,39 @@
+James Kovac
+Stockholm, Sweden | james.kovac@example.com | +34 995 5113531
+
+PROFESSIONAL SUMMARY
+Results-driven DevOps Consultant with 8 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes, AWS (EC2, S3, Lambda, Redshift, Glue), Cloud cost optimization, Snowflake on cloud, Apache Airflow
+- Business Intelligence: LookML
+- Tools & Ways of Working: JIRA / Confluence, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | BlueRiver Analytics | Munich, Germany | 2024 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Designed a CI/CD pipeline that reduced release cycle time by 18% for a telecommunications client's data platform.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+
+DevOps Consultant | Riverbend Analytics | Singapore, Singapore | 2023 - 2024
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Built Kafka-based streaming ingestion for 2 operational systems.
+- Performed a cloud security audit for an energy and utilities client, remediating 5 critical findings within the first quarter.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Cloud Solutions Architect | Kestrel Data Solutions | Cologne, Germany | 2021 - 2023
+- Led a cloud cost optimization initiative, identifying savings of 35% across compute and storage resources.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Oslo, Oslo, Norway (2017)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- French (Native)
+- English (Fluent)

@@ -1,0 +1,36 @@
+Noah Koch
+Lisbon, Portugal | noah.koch@example.com | +34 722 7621405
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 4 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Data Warehouse design (Kimball/Inmon), SSIS
+- Cloud & Infrastructure: Apache Kafka, Google Cloud Platform (BigQuery, Dataflow, GKE), AWS (EC2, S3, Lambda, Redshift, Glue), Infrastructure as Code
+- Tools & Ways of Working: Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Pinnacle Business Intelligence GmbH | Amsterdam, Netherlands | 2024 - Present
+- Managed cloud environments as code with Terraform modules shared across 15 teams.
+- Orchestrated 15+ data pipelines with Apache Airflow, including alerting and backfills.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 20 disparate spreadsheets into a single source of truth.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Performed a cloud security audit for an insurance client, remediating 8 critical findings within the first quarter.
+
+Consultant | Meridian Digital Partners | Oslo, Norway | 2021 - 2024
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+B.Sc. in Mathematics, Politecnico di Milano, Milan, Italy (2021)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- HashiCorp Certified: Terraform Associate
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Swedish (Native)
+- Mandarin (Fluent)

@@ -1,0 +1,29 @@
+SEARCH PROFILE #073
+Role Needed: Senior BI Consultant
+Engagement Type: Long-term client secondment
+Client Industry: Insurance
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Technical documentation
+- dbt
+- Git
+
+NICE-TO-HAVE SKILLS
+- Qlik Sense
+- Looker
+- Docker
+
+PREFERRED CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGE REQUIREMENTS
+- Danish (business level)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Lyon, France)
+
+PROJECT CONTEXT
+The client's finance department relies on a patchwork of spreadsheets and needs a consolidated, governed reporting layer built on Power BI.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 6 months

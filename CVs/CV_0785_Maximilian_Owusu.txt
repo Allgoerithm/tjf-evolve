@@ -1,0 +1,27 @@
+Maximilian Owusu
+Warsaw, Poland | maximilian.owusu@example.com | +45 655 9021594
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Engineer (2 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSRS, SSAS, Star schema & dimensional modeling
+- Cloud & Infrastructure: Cloud cost optimization, Terraform, Infrastructure as Code, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Data quality management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | BlueRiver Analytics | Madrid, Spain | 2024 - Present
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+EDUCATION
+M.Sc. in Data Science, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- German (Native)
+- Italian (Fluent)

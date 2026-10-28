@@ -1,0 +1,33 @@
+Yuki Chen
+Munich, Germany | yuki.chen@example.com | +45 660 4812976
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in pharmaceuticals. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: LookML, Stakeholder reporting & dashboarding, Power Query / M
+- Cloud & Infrastructure: Snowflake on cloud, Microsoft Azure (Data Factory, Synapse, AKS), Kubernetes, Apache Airflow
+- Tools & Ways of Working: Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Northgate Technology Group | Oslo, Norway | 2025 - Present
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the aviation business.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+
+Analytics Engineer | Meridian Digital Partners | Lisbon, Portugal | 2024 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Mathematics, University of Vienna, Vienna, Austria (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- SnowPro Core Certification
+
+LANGUAGES
+- Italian (Native)
+- French (Conversational)

@@ -1,0 +1,38 @@
+Camille Lindqvist
+Madrid, Spain | camille.lindqvist@example.com | +41 410 4304742
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 4 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Business Intelligence: DAX, SSIS, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Apache Airflow, Networking & VPC design, Snowflake on cloud, Cloud cost optimization
+- Tools & Ways of Working: Agile / Scrum, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Vertex Data Partners | Madrid, Spain | 2024 - Present
+- Built Azure-based data pipelines with orchestrated daily loads from 20 sources.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Managed backlog and documentation in JIRA and Confluence for 50 concurrent workstreams.
+- Performed a cloud security audit for an automotive manufacturing client, remediating 20 critical findings within the first quarter.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+
+Analyst | TerraLogic Consulting | Cologne, Germany | 2022 - 2024
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 50 teams.
+- Automated the monthly reporting cycle for an insurance client, freeing up 10 analyst days per month for higher-value analysis.
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 30 teams.
+
+EDUCATION
+B.Sc. in Mathematics, Trinity College Dublin, Dublin, Ireland (2020)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Professional working proficiency)
+- Dutch (Fluent)

@@ -1,0 +1,39 @@
+Petra Martinez
+Amsterdam, Netherlands | petra.martinez@example.com | +49 647 9405100
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 5 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, KPI design, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Cloud cost optimization, Kubernetes, Infrastructure as Code
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Alpenglow Analytics | Stockholm, Sweden | 2025 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 18%.
+
+Consultant | Clearwater Data Systems | Austin, USA | 2023 - 2025
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Orchestrated 20+ data pipelines with Apache Airflow, including alerting and backfills.
+
+Consultant | Northstar Cloud Group | Zurich, Switzerland | 2022 - 2023
+- Managed cloud environments as code with Terraform modules shared across 8 teams.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Designed and delivered 15 interactive Databricks dashboards for logistics clients, reducing manual reporting effort by 28%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+
+EDUCATION
+M.Sc. in Applied Mathematics, National University of Singapore, Singapore, Singapore (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Hindi (Fluent)

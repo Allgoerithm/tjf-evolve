@@ -1,0 +1,39 @@
+Pawel Schroder
+Prague, Czech Republic | pawel.schroder@example.com | +39 133 7290244
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 6 years of experience delivering business intelligence and enterprise reporting solutions for clients in public sector. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Snowflake, Power Query / M, Qlik Sense, QlikView, Tableau
+- Cloud & Infrastructure: Docker, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Vertex Data Partners | Dublin, Ireland | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Trained 3 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+
+IT Consultant | Cobalt Data Labs | Manchester, United Kingdom | 2023 - 2025
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 15 regional entities.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Built a tabular SSAS model that serves 2 departments with consistent KPIs.
+
+Analytics Consultant | Anchor Point Technologies | Lisbon, Portugal | 2021 - 2023
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Oslo, Oslo, Norway (2019)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Portuguese (Native)
+- English (Professional working proficiency)
+- German (Fluent)

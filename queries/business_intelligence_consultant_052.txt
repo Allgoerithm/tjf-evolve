@@ -1,0 +1,30 @@
+SEARCH PROFILE #052
+Role Needed: Analytics Consultant
+Engagement Type: Interim / bridge staffing
+Client Industry: Aviation
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- SSIS
+- QlikView
+- SSRS
+- Requirements engineering
+
+NICE-TO-HAVE SKILLS
+- Cloud cost optimization
+- Looker
+- Stakeholder management
+
+PREFERRED CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGE REQUIREMENTS
+- French (fluent)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Lyon, France)
+
+PROJECT CONTEXT
+An aviation client is rolling out a new group-wide KPI framework and needs someone to translate it into production-grade dashboards.
+
+Start Date: Next quarter
+Duration: 6 months

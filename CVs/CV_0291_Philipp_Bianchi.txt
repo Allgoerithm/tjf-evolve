@@ -1,0 +1,34 @@
+Philipp Bianchi
+Lisbon, Portugal | philipp.bianchi@example.com | +47 646 6041649
+
+PROFESSIONAL SUMMARY
+Versatile Senior BI Consultant with 6 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Star schema & dimensional modeling, dbt, KPI design, SQL Server, Looker
+- Cloud & Infrastructure: Networking & VPC design, Linux system administration
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum, Git
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Northstar Cloud Group | Berlin, Germany | 2023 - Present
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the public sector business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+
+IT Consultant | Lumen Analytics Group | Berlin, Germany | 2020 - 2023
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 10 disparate spreadsheets into a single source of truth.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 15%.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Oslo, Oslo, Norway (2018)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Google Professional Cloud Architect
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Italian (Conversational)

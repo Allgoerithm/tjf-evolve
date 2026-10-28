@@ -1,0 +1,28 @@
+SEARCH PROFILE #057
+Role Needed: Senior Data Engineer
+Engagement Type: Interim / bridge staffing
+Client Industry: Logistics
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- Qlik Sense
+- Networking & VPC design
+- Data quality management
+- Cloud cost optimization
+
+NICE-TO-HAVE SKILLS
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Data governance
+- Snowflake
+
+LANGUAGE REQUIREMENTS
+- French (native)
+- Italian (fluent)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Stuttgart, Germany)
+
+PROJECT CONTEXT
+A logistics client is building a data lake and needs support designing the ingestion, storage, and transformation layers.
+
+Start Date: Next quarter
+Duration: 12 months, potential for permanent placement

@@ -1,0 +1,41 @@
+Freya Okafor
+Hamburg, Germany | freya.okafor@example.com | +33 800 8596871
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (8 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSRS, SSIS, DAX
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Google Cloud Platform (BigQuery, Dataflow, GKE), Networking & VPC design
+- Tools & Ways of Working: Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Orbis Technology Partners | Krakow, Poland | 2024 - Present
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Data Engineer | Pinnacle Business Intelligence GmbH | Cologne, Germany | 2022 - 2024
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 5 teams.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+
+Analyst | Nimbus Infrastructure Consulting | Krakow, Poland | 2021 - 2022
+- Introduced Infrastructure-as-Code to replace manual environment setup for 20 teams.
+- Led the adoption of a self-service data platform on Power BI, onboarding 50+ internal teams within the first year.
+- Performed a cloud security audit for an automotive manufacturing client, remediating 50 critical findings within the first quarter.
+- Modeled core business entities in Looker so that 5 teams could explore governed metrics on their own.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+EDUCATION
+B.Sc. in Business Informatics, Universidad Politecnica de Madrid, Madrid, Spain (2016)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- SnowPro Core Certification
+
+LANGUAGES
+- Italian (Native)
+- Mandarin (Conversational)
+- German (Fluent)

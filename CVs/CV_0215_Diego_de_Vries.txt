@@ -1,0 +1,28 @@
+Diego de Vries
+Prague, Czech Republic | diego.de.vries@example.com | +33 447 3758219
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Power BI, QlikView, Looker
+- Cloud & Infrastructure: Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS), Terraform, Networking & VPC design
+- Tools & Ways of Working: Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Nimbus Infrastructure Consulting | Paris, France | 2024 - Present
+- Performed a cloud security audit for a pharmaceuticals client, remediating 10 critical findings within the first quarter.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 40%.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 3 teams.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Warsaw, Warsaw, Poland (2023)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Swedish (Native)
+- Danish (Conversational)

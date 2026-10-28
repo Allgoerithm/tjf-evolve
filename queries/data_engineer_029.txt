@@ -1,0 +1,31 @@
+SEARCH PROFILE #029
+Role Needed: Analytics Engineer
+Engagement Type: Long-term client secondment
+Client Industry: Banking
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- Looker
+- Linux system administration
+- Client workshops & presentations
+
+NICE-TO-HAVE SKILLS
+- Terraform
+- SSRS
+- Requirements engineering
+- Networking & VPC design
+
+PREFERRED CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGE REQUIREMENTS
+- Polish (fluent)
+
+Location / Remote Policy: Fully remote (client site: Milan, Italy)
+
+PROJECT CONTEXT
+Data quality issues are undermining trust in downstream reporting and the client needs a data quality framework implemented.
+
+Start Date: Next quarter
+Duration: 2 months (short-term)

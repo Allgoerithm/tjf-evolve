@@ -1,0 +1,38 @@
+Michael Chen
+Warsaw, Poland | michael.chen@example.com | +31 792 6815258
+
+PROFESSIONAL SUMMARY
+Results-driven Data Scientist with 7 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: MLOps, Python (pandas, NumPy, scikit-learn), Feature Engineering, Natural Language Processing, XGBoost / LightGBM, Causal Inference
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes
+- Tools & Ways of Working: Requirements engineering, Stakeholder management, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Applied Data Scientist | Meridian Digital Partners | Chicago, USA | 2024 - Present
+- Developed a deep learning model to predict customer lifetime value for automotive manufacturing clients, improving prediction accuracy by 20%.
+- Built an NLP pipeline to automatically classify 20+ incoming customer messages per day, reducing manual triage time by 12%.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+Machine Learning Engineer | Orbis Technology Partners | Madrid, Spain | 2022 - 2024
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 18%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 12%.
+
+Data Scientist | BlueRiver Analytics | Toronto, Canada | 2019 - 2022
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 45% uplift in conversion rate.
+- Built a churn prediction model on 8+ customer records, enabling targeted retention campaigns for the pharmaceuticals sector.
+- Built a recommendation engine for a telecommunications client, contributing to a 28% increase in average order value.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Illinois, Chicago, USA (2017)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Danish (Native)
+- Spanish (Conversational)

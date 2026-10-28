@@ -1,0 +1,34 @@
+Antoine Petrov
+Barcelona, Spain | antoine.petrov@example.com | +34 261 8025975
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect specializing in cloud infrastructure and platform engineering, with 2 years of consulting experience across consumer goods and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Cloud cost optimization, Networking & VPC design, Terraform, Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration
+- Business Intelligence: Power BI
+- Tools & Ways of Working: Technical documentation, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Nimbus Infrastructure Consulting | Cologne, Germany | 2025 - Present
+- Designed and implemented a multi-account AWS landing zone for a public sector client, improving security posture and cost visibility.
+- Containerized 10+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led the adoption of a self-service data platform on Power BI, onboarding 5+ internal teams within the first year.
+
+Analyst | Silverline IT Consulting | Madrid, Spain | 2024 - 2025
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 40% and improving system uptime.
+- Operated production workloads on AWS, including S3-based data lakes and Lambda functions.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Performed a cloud security audit for an automotive manufacturing client, remediating 15 critical findings within the first quarter.
+
+EDUCATION
+B.Sc. in Mathematics, University of Toronto, Toronto, Canada (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- German (Native)
+- Spanish (Conversational)

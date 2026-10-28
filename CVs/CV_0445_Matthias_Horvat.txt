@@ -1,0 +1,35 @@
+Matthias Horvat
+Bangalore, India | matthias.horvat@example.com | +33 694 8971073
+
+PROFESSIONAL SUMMARY
+Cloud Engineer specializing in cloud infrastructure and platform engineering, with 3 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Terraform, Linux system administration, Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code, Kubernetes
+- Business Intelligence: Power BI
+- Tools & Ways of Working: Requirements engineering, Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Orbis Technology Partners | Madrid, Spain | 2025 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Implemented a data lake on Tableau, ingesting and processing over 50 TB of data monthly from 50 source systems.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 30%.
+
+Analyst | TerraLogic Consulting | Zurich, Switzerland | 2024 - 2025
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 35%.
+- Led a cloud cost optimization initiative, identifying savings of 45% across compute and storage resources.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 40%.
+- Built Azure-based data pipelines with orchestrated daily loads from 10 sources.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Introduced Git-based workflows with code review for the analytics team.
+
+EDUCATION
+B.Eng. in Information Systems, University of Toronto, Toronto, Canada (2021)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Dutch (Native)
+- Portuguese (Fluent)

@@ -1,0 +1,44 @@
+Sebastian Patel
+Pune, India | sebastian.patel@example.com | +41 134 5185568
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 12 years of experience delivering business intelligence and enterprise reporting solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: DAX, SQL Server, SSAS, Power Query / M, LookML, Qlik Sense
+- Cloud & Infrastructure: Cloud cost optimization, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | TerraLogic Consulting | Madrid, Spain | 2022 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the banking business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+
+BI Developer | Cobalt Data Labs | Frankfurt, Germany | 2019 - 2022
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 30 disparate spreadsheets into a single source of truth.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Consultant | Meridian Digital Partners | London, United Kingdom | 2016 - 2019
+- Trained 2 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+Analytics Consultant | Beacon Insight Consulting | London, United Kingdom | 2014 - 2016
+- Designed and delivered 2 interactive Tableau dashboards for healthcare clients, reducing manual reporting effort by 15%.
+- Consolidated 5 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+B.Sc. in Computer Science, Indian Institute of Technology Bombay, Mumbai, India (2014)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect - Associate
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Spanish (Native)
+- Danish (Conversational)

@@ -1,0 +1,32 @@
+SEARCH PROFILE #087
+Role Needed: Cloud Solutions Architect
+Engagement Type: Permanent hire
+Client Industry: Retail
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Technical documentation
+- Docker
+- Infrastructure as Code
+- Looker
+
+NICE-TO-HAVE SKILLS
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Linux system administration
+- Data governance
+
+PREFERRED CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGE REQUIREMENTS
+- French (business level)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: London, United Kingdom)
+
+PROJECT CONTEXT
+A retail client's infrastructure costs have grown out of control and they need an optimization and governance initiative.
+
+Start Date: Flexible, ideally within the next month
+Duration: 6 months

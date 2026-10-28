@@ -1,0 +1,38 @@
+Diego Zimmermann
+Hamburg, Germany | diego.zimmermann@example.com | +39 107 7008450
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Consultant (8 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, SSIS, Star schema & dimensional modeling, Looker, Qlik Sense, DAX
+- Cloud & Infrastructure: Linux system administration, Networking & VPC design
+- Tools & Ways of Working: Technical documentation, JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Beacon Insight Consulting | Manchester, United Kingdom | 2023 - Present
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 8 regional entities.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+
+BI Developer | Alpenglow Analytics | Amsterdam, Netherlands | 2020 - 2023
+- Designed and delivered 10 interactive Snowflake dashboards for public sector clients, reducing manual reporting effort by 15%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 22%.
+
+Business Intelligence Consultant | Falcon Ridge Consulting | Barcelona, Spain | 2017 - 2020
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 15 analyst days per month for higher-value analysis.
+- Trained 10 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Technical University of Denmark, Copenhagen, Denmark (2016)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Google Professional Data Engineer
+
+LANGUAGES
+- Spanish (Native)
+- Dutch (Conversational)

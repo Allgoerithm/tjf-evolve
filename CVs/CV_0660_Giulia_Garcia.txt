@@ -1,0 +1,33 @@
+Giulia Garcia
+Milan, Italy | giulia.garcia@example.com | +46 920 3646185
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 4 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, DAX, Star schema & dimensional modeling
+- Cloud & Infrastructure: Networking & VPC design, Apache Kafka, Apache Airflow, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Alpenglow Analytics | Munich, Germany | 2025 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for an aviation client's data platform.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+Consultant | Orbis Technology Partners | Stockholm, Sweden | 2024 - 2025
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+- Trained 10 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Technical University of Denmark, Copenhagen, Denmark (2022)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- German (Native)
+- Mandarin (Fluent)

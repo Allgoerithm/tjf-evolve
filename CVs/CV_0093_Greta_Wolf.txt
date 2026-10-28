@@ -1,0 +1,34 @@
+Greta Wolf
+Cologne, Germany | greta.wolf@example.com | +45 614 5193470
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 2 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, dbt, SQL Server, KPI design, LookML, Tableau
+- Cloud & Infrastructure: Kubernetes, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Meridian Digital Partners | Manchester, United Kingdom | 2025 - Present
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the e-commerce business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Designed and delivered 8 interactive Qlik Sense dashboards for retail clients, reducing manual reporting effort by 28%.
+
+Consultant | Lumen Analytics Group | Copenhagen, Denmark | 2024 - 2025
+- Trained 2 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+EDUCATION
+M.Sc. in Software Engineering, Charles University, Prague, Czech Republic (2022)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Conversational)
+- Spanish (Professional working proficiency)

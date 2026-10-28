@@ -1,0 +1,37 @@
+Hiroshi Berg
+Copenhagen, Denmark | hiroshi.berg@example.com | +47 377 9783259
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 4 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, SSIS, LookML
+- Cloud & Infrastructure: Infrastructure as Code, Docker, Networking & VPC design, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Stakeholder management, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Northgate Technology Group | Madrid, Spain | 2023 - Present
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the retail business.
+- Performed a cloud security audit for a logistics client, remediating 30 critical findings within the first quarter.
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+
+Analytics Engineer | Silverline IT Consulting | Copenhagen, Denmark | 2020 - 2023
+- Designed and delivered 15 interactive Tableau dashboards for consumer goods clients, reducing manual reporting effort by 18%.
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 30 teams.
+- Developed Qlik Sense apps for operational reporting used by 30+ plant managers.
+- Operated Kubernetes clusters for data workloads with autoscaling and monitoring.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+
+EDUCATION
+M.Sc. in Business Informatics, Humboldt University of Berlin, Berlin, Germany (2021)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Google Professional Cloud Architect
+
+LANGUAGES
+- English (Native)
+- Mandarin (Professional working proficiency)
+- Dutch (Professional working proficiency)

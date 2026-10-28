@@ -1,0 +1,36 @@
+Jonas Gupta
+Cologne, Germany | jonas.gupta@example.com | +48 176 6488091
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 3 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SQL Server, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Snowflake on cloud, Cloud cost optimization, Infrastructure as Code, Terraform
+- Tools & Ways of Working: Technical documentation, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Harborview Consulting | Paris, France | 2024 - Present
+- Built Azure-based data pipelines with orchestrated daily loads from 3 sources.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built Kafka-based streaming ingestion for 30 operational systems.
+
+Analyst | Falcon Ridge Consulting | Milan, Italy | 2023 - 2024
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 30%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for a banking client's data platform.
+
+EDUCATION
+B.Eng. in Information Systems, Trinity College Dublin, Dublin, Ireland (2021)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Project Management Professional (PMP)
+
+LANGUAGES
+- French (Native)
+- Danish (Fluent)
+- German (Conversational)

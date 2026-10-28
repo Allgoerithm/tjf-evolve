@@ -1,0 +1,46 @@
+Paul Owusu
+Bangalore, India | paul.owusu@example.com | +45 436 8700804
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 12 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, SQL Server, Power BI, T-SQL, SSIS, DAX
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Kubernetes
+- Tools & Ways of Working: Stakeholder management, Agile / Scrum, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Anchor Point Technologies | Krakow, Poland | 2022 - Present
+- Automated the monthly reporting cycle for a retail client, freeing up 10 analyst days per month for higher-value analysis.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 20%.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 30 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Anchor Point Technologies | Helsinki, Finland | 2019 - 2022
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+Senior BI Consultant | Vantage Point Consulting | Warsaw, Poland | 2016 - 2019
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the telecommunications business.
+- Designed and delivered 8 interactive Looker dashboards for aviation clients, reducing manual reporting effort by 35%.
+
+BI Developer | Lumen Analytics Group | Rotterdam, Netherlands | 2013 - 2016
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Trained 5 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Built Kafka-based streaming ingestion for 10 operational systems.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Business Informatics, University of Manchester, Manchester, United Kingdom (2014)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Portuguese (Professional working proficiency)
+- Hindi (Professional working proficiency)

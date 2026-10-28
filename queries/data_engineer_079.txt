@@ -1,0 +1,30 @@
+SEARCH PROFILE #079
+Role Needed: Data Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Pharmaceuticals
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- T-SQL
+- JIRA / Confluence
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Infrastructure as Code
+
+NICE-TO-HAVE SKILLS
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Stakeholder reporting & dashboarding
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Portuguese (business level)
+- Hindi (native)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Lyon, France)
+
+PROJECT CONTEXT
+The client is consolidating multiple regional data warehouses into a single enterprise platform.
+
+Start Date: Within 4 weeks
+Duration: 12 months, potential for permanent placement

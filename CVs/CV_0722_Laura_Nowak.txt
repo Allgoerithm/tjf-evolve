@@ -1,0 +1,34 @@
+Laura Nowak
+Stockholm, Sweden | laura.nowak@example.com | +34 143 4883437
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 4 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: LookML, T-SQL, SSIS
+- Data Science & Machine Learning: Statistical Modeling, Feature Engineering, Apache Spark / PySpark
+- Cloud & Infrastructure: Kubernetes, Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | TerraLogic Consulting | Pune, India | 2023 - Present
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 15 analyst days per month for higher-value analysis.
+- Led the adoption of a self-service data platform on Power BI, onboarding 15+ internal teams within the first year.
+- Built a recommendation engine for a pharmaceuticals client, contributing to a 35% increase in average order value.
+
+Analyst | Clearwater Data Systems | Cologne, Germany | 2021 - 2023
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+- Trained 20 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Computer Science, Indian Institute of Technology Bombay, Mumbai, India (2021)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Polish (Native)
+- Italian (Professional working proficiency)

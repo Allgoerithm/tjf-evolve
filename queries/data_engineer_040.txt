@@ -1,0 +1,27 @@
+SEARCH PROFILE #040
+Role Needed: Senior Data Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Banking
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Networking & VPC design
+- Infrastructure as Code
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Git
+- Data Warehouse design (Kimball/Inmon)
+
+NICE-TO-HAVE SKILLS
+- JIRA / Confluence
+- SQL Server
+
+LANGUAGE REQUIREMENTS
+- Mandarin (native)
+
+Location / Remote Policy: Fully remote (client site: Amsterdam, Netherlands)
+
+PROJECT CONTEXT
+The analytics engineering team needs support adopting dbt for transformation and testing within their cloud data warehouse.
+
+Start Date: Within 2 weeks
+Duration: 3 months, extension likely

@@ -1,0 +1,38 @@
+Henrik Larsen
+Amsterdam, Netherlands | henrik.larsen@example.com | +32 518 7589960
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Platform Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Data Warehouse design (Kimball/Inmon), Snowflake
+- Data Science & Machine Learning: Time Series Forecasting, Jupyter, Databricks
+- Cloud & Infrastructure: Apache Airflow, Networking & VPC design, Infrastructure as Code
+- Tools & Ways of Working: Data governance, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Pinnacle Business Intelligence GmbH | Dublin, Ireland | 2025 - Present
+- Trained 50 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Packaged data services as Docker images to ensure consistent deployments.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+Lead Data & AI Consultant | Lumen Analytics Group | Madrid, Spain | 2024 - 2025
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 40% uplift in conversion rate.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 3 disparate spreadsheets into a single source of truth.
+- Built analytics workloads on Google Cloud Platform for 2 product teams.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+
+EDUCATION
+M.Sc. in Data Science, Technical University of Denmark, Copenhagen, Denmark (2024)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Fluent)
+- Spanish (Conversational)

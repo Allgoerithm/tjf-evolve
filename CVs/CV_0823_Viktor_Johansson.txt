@@ -1,0 +1,41 @@
+Viktor Johansson
+Prague, Czech Republic | viktor.johansson@example.com | +41 713 6816480
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 7 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, QlikView, SQL Server
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE), Docker, Terraform
+- Tools & Ways of Working: Stakeholder management, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Lumen Analytics Group | Toronto, Canada | 2024 - Present
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 25%.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Trained 5 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+IT Consultant | Evergreen Data Solutions | Stuttgart, Germany | 2022 - 2024
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+
+IT Consultant | Greystone Data & AI | Madrid, Spain | 2020 - 2022
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Drove cloud cost optimization across 15 accounts through rightsizing and reserved capacity.
+- Implemented a data lake on Power BI, ingesting and processing over 5 TB of data monthly from 5 source systems.
+- Designed a CI/CD pipeline that reduced release cycle time by 30% for a banking client's data platform.
+
+EDUCATION
+B.Sc. in Computer Science, University of Hamburg, Hamburg, Germany (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Professional Cloud Architect
+
+LANGUAGES
+- French (Native)
+- English (Fluent)

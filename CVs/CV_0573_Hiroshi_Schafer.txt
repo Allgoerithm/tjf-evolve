@@ -1,0 +1,36 @@
+Hiroshi Schafer
+Chicago, USA | hiroshi.schafer@example.com | +46 292 8003345
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 4 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Star schema & dimensional modeling, SSIS
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization, Apache Airflow, Terraform
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Brightfield Consulting | Bangalore, India | 2024 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 25%.
+- Built Kafka-based streaming ingestion for 3 operational systems.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+
+Senior Data Engineer | Riverbend Analytics | Stuttgart, Germany | 2022 - 2024
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 3 disparate spreadsheets into a single source of truth.
+- Led a cloud cost optimization initiative, identifying savings of 35% across compute and storage resources.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Universidad Politecnica de Madrid, Madrid, Spain (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Dutch (Native)
+- Swedish (Conversational)

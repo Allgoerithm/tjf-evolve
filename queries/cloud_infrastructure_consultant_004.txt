@@ -1,0 +1,27 @@
+SEARCH PROFILE #004
+Role Needed: Cloud Engineer
+Engagement Type: Interim / bridge staffing
+Client Industry: Healthcare
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Docker
+- Git
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Snowflake
+
+NICE-TO-HAVE SKILLS
+- Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Apache Airflow
+- Requirements engineering
+
+LANGUAGE REQUIREMENTS
+- Portuguese (native)
+
+Location / Remote Policy: Remote within Europe, occasional on-site visits (client site: Copenhagen, Denmark)
+
+PROJECT CONTEXT
+The platform team needs support designing a multi-region disaster recovery strategy for their cloud data infrastructure.
+
+Start Date: Within 4 weeks
+Duration: Ongoing / open-ended

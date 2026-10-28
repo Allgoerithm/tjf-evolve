@@ -1,0 +1,39 @@
+Sanjay Lopez
+Barcelona, Spain | sanjay.lopez@example.com | +39 532 5592188
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 5 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSIS, KPI design, SQL Server, Stakeholder reporting & dashboarding, LookML, Snowflake
+- Cloud & Infrastructure: Networking & VPC design, Kubernetes
+- Tools & Ways of Working: Technical documentation, Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Quantara Analytics | Singapore, Singapore | 2025 - Present
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated the monthly reporting cycle for a healthcare client, freeing up 30 analyst days per month for higher-value analysis.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Falcon Ridge Consulting | Lisbon, Portugal | 2024 - 2025
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Designed and delivered 2 interactive Qlik Sense dashboards for banking clients, reducing manual reporting effort by 30%.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 20%.
+
+IT Consultant | Evergreen Data Solutions | Copenhagen, Denmark | 2023 - 2024
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 45%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Illinois, Chicago, USA (2020)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Hindi (Native)
+- German (Professional working proficiency)

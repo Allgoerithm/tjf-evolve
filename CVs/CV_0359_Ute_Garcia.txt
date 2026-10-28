@@ -1,0 +1,39 @@
+Ute Garcia
+Berlin, Germany | ute.garcia@example.com | +31 639 3959556
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 7 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Looker, SSAS, DAX
+- Cloud & Infrastructure: Docker, Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE), Linux system administration
+- Tools & Ways of Working: Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | BlueRiver Analytics | Milan, Italy | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Trained 20 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+
+IT Consultant | Vantage Point Consulting | Manchester, United Kingdom | 2023 - 2024
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 35%.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Standardized cloud tagging and cost allocation practices for an energy and utilities client, improving budget accountability across 15 teams.
+
+Data Engineer | Brightfield Consulting | Stockholm, Sweden | 2020 - 2023
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Performed a cloud security audit for an energy and utilities client, remediating 20 critical findings within the first quarter.
+
+EDUCATION
+B.Sc. in Computer Science, University of Illinois, Chicago, USA (2017)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Dutch (Native)
+- Polish (Fluent)
+- Portuguese (Fluent)

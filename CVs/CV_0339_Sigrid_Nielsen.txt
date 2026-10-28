@@ -1,0 +1,39 @@
+Sigrid Nielsen
+Austin, USA | sigrid.nielsen@example.com | +44 430 2325966
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 5 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Data Warehouse design (Kimball/Inmon), SSRS, SQL Server, Snowflake, Looker
+- Cloud & Infrastructure: Linux system administration, Apache Airflow
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | TerraLogic Consulting | Chicago, USA | 2024 - Present
+- Implemented row-level security in Looker, enabling secure self-service reporting across 15 regional entities.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+- Designed and delivered 10 interactive Power BI dashboards for energy and utilities clients, reducing manual reporting effort by 12%.
+
+Analyst | Pinnacle Business Intelligence GmbH | Stuttgart, Germany | 2023 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Trained 8 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 22%.
+- Introduced dbt for transformation and testing, covering 20+ models in the analytics layer.
+
+Business Intelligence Consultant | Pinnacle Business Intelligence GmbH | Stockholm, Sweden | 2022 - 2023
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Data Science, Humboldt University of Berlin, Berlin, Germany (2021)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Fluent)

@@ -1,0 +1,39 @@
+Marie Garcia
+Dublin, Ireland | marie.garcia@example.com | +39 535 8375035
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 6 years of experience delivering data science and machine learning solutions for clients in banking. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Databricks, R, Time Series Forecasting, Model Deployment & Monitoring, A/B Testing & Experimentation
+- Cloud & Infrastructure: Kubernetes, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Vertex Data Partners | Berlin, Germany | 2023 - Present
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Developed a gradient boosting model to predict customer lifetime value for aviation clients, improving prediction accuracy by 40%.
+- Built an NLP pipeline to automatically classify 30+ incoming customer messages per day, reducing manual triage time by 15%.
+
+Analyst | Clearwater Data Systems | Singapore, Singapore | 2021 - 2023
+- Mentored a team of 5 junior data scientists on feature engineering and model evaluation best practices.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 30% uplift in conversion rate.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Invested in feature engineering on transactional data, creating 5+ predictive features for the scoring model.
+
+Consultant | Quantara Analytics | Paris, France | 2019 - 2021
+- Built a recommendation engine for a healthcare client, contributing to a 40% increase in average order value.
+- Developed an anomaly detection system for aviation operations, flagging issues 22% faster than the previous manual process.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 18%.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+
+EDUCATION
+B.Sc. in Industrial Engineering, National University of Singapore, Singapore, Singapore (2019)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- German (Fluent)

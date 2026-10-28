@@ -1,0 +1,37 @@
+Laura Weber
+Dublin, Ireland | laura.weber@example.com | +1 845 3283605
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 5 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, LookML, QlikView, Tableau, Power Query / M, SSAS
+- Cloud & Infrastructure: Snowflake on cloud, Kubernetes
+- Tools & Ways of Working: Data governance, Requirements engineering, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Clearwater Data Systems | Austin, USA | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 15+ business users.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 2 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Riverbend Analytics | Austin, USA | 2023 - 2025
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 10 regional entities.
+
+Analyst | Kestrel Data Solutions | Lisbon, Portugal | 2022 - 2023
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 15 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+M.Sc. in Computational Science, National University of Singapore, Singapore, Singapore (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Danish (Native)
+- German (Professional working proficiency)

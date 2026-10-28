@@ -1,0 +1,36 @@
+Petra Lambert
+Copenhagen, Denmark | petra.lambert@example.com | +39 500 3656340
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist (6 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Computer Vision, Databricks, Feature Engineering, PyTorch, Model Deployment & Monitoring
+- Cloud & Infrastructure: Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Technical documentation, Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Fjord Digital Solutions | Paris, France | 2023 - Present
+- Built a churn prediction model on 20+ customer records, enabling targeted retention campaigns for the telecommunications sector.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 15%.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+Applied Data Scientist | Northgate Technology Group | Singapore, Singapore | 2020 - 2023
+- Developed a gradient boosting model to predict equipment failure for public sector clients, improving prediction accuracy by 15%.
+- Built a recommendation engine for an insurance client, contributing to a 35% increase in average order value.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 12% reduction in forecast error versus the baseline.
+- Applied causal inference methods to estimate the uplift of pricing changes.
+
+EDUCATION
+B.Sc. in Business Informatics, Trinity College Dublin, Dublin, Ireland (2018)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Hindi (Native)
+- Swedish (Professional working proficiency)
+- Dutch (Professional working proficiency)

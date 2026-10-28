@@ -1,0 +1,31 @@
+Matthias Moreau
+Singapore, Singapore | matthias.moreau@example.com | +48 565 5887066
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Data & AI Consultant with 2 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, Tableau, SSIS
+- Data Science & Machine Learning: Natural Language Processing, TensorFlow, Databricks
+- Cloud & Infrastructure: Linux system administration, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Harborview Consulting | Singapore, Singapore | 2024 - Present
+- Designed and implemented a multi-account AWS landing zone for an e-commerce client, improving security posture and cost visibility.
+- Implemented a PyTorch model for equipment failure and served it behind an internal API.
+- Mentored a team of 10 junior data scientists on feature engineering and model evaluation best practices.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+
+EDUCATION
+M.Sc. in Software Engineering, Imperial College London, London, United Kingdom (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Microsoft Certified: Power BI Data Analyst Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Dutch (Native)
+- Mandarin (Professional working proficiency)

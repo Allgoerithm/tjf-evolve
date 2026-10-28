@@ -1,0 +1,45 @@
+Christiane Hofmann
+Stuttgart, Germany | christiane.hofmann@example.com | +46 472 4166557
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 10 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, SSIS, Qlik Sense, Looker, T-SQL, Power Query / M
+- Cloud & Infrastructure: Snowflake on cloud, Docker
+- Tools & Ways of Working: Stakeholder management, Technical documentation, Git
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Silverline IT Consulting | Chicago, USA | 2024 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 12%.
+
+Senior BI Consultant | Meridian Digital Partners | Oslo, Norway | 2023 - 2024
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 15 analyst days per month for higher-value analysis.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the logistics business.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analyst | Evergreen Data Solutions | Amsterdam, Netherlands | 2021 - 2023
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Designed and delivered 3 interactive Databricks dashboards for automotive manufacturing clients, reducing manual reporting effort by 35%.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+BI Developer | Northgate Technology Group | Amsterdam, Netherlands | 2018 - 2021
+- Introduced dbt for transformation and testing, covering 3+ models in the analytics layer.
+- Trained 5 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 3 disparate spreadsheets into a single source of truth.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 15 regional entities.
+
+EDUCATION
+M.Sc. in Software Engineering, Delft University of Technology, Delft, Netherlands (2014)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Databricks Certified Data Engineer Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- English (Native)
+- Danish (Professional working proficiency)

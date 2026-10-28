@@ -1,0 +1,33 @@
+Yuki Neumann
+Barcelona, Spain | yuki.neumann@example.com | +34 379 9278611
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 4 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Snowflake, SSRS, SSAS, Looker, Tableau
+- Cloud & Infrastructure: Docker, Terraform
+- Tools & Ways of Working: JIRA / Confluence, Data governance, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Pinnacle Business Intelligence GmbH | Hamburg, Germany | 2025 - Present
+- Trained 15 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Standardized KPI definitions across 10 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analyst | Silverline IT Consulting | Lisbon, Portugal | 2024 - 2025
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the logistics business.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Automated the monthly reporting cycle for a pharmaceuticals client, freeing up 50 analyst days per month for higher-value analysis.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Humboldt University of Berlin, Berlin, Germany (2022)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- French (Native)
+- Polish (Conversational)

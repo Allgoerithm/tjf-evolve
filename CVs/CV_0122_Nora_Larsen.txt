@@ -1,0 +1,45 @@
+Nora Larsen
+Vienna, Austria | nora.larsen@example.com | +48 161 2655160
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Scientist (13 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: Model Deployment & Monitoring, A/B Testing & Experimentation, Natural Language Processing, MLOps, R, Databricks
+- Cloud & Infrastructure: Snowflake on cloud, Networking & VPC design
+- Tools & Ways of Working: Data quality management, JIRA / Confluence, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Meridian Digital Partners | Lyon, France | 2023 - Present
+- Mentored a team of 15 junior data scientists on feature engineering and model evaluation best practices.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+Consultant | BlueRiver Analytics | Barcelona, Spain | 2021 - 2023
+- Built a recommendation engine for a logistics client, contributing to a 28% increase in average order value.
+- Developed a logistic regression model to predict fraud risk for insurance clients, improving prediction accuracy by 18%.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Data Scientist | Silverline IT Consulting | Austin, USA | 2018 - 2021
+- Developed an anomaly detection system for consumer goods operations, flagging issues 45% faster than the previous manual process.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 15%.
+- Implemented a PyTorch model for fraud risk and served it behind an internal API.
+
+Senior Data Scientist | Brightfield Consulting | Warsaw, Poland | 2016 - 2018
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 18%.
+- Led a proof-of-concept on demand forecasting for a consumer goods client, achieving a 18% reduction in forecast error versus the baseline.
+- Built a churn prediction model on 10+ customer records, enabling targeted retention campaigns for the e-commerce sector.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Warsaw, Warsaw, Poland (2013)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- TOGAF 9 Certified
+
+LANGUAGES
+- Italian (Native)
+- Mandarin (Professional working proficiency)
+- Danish (Fluent)

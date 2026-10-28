@@ -1,0 +1,35 @@
+Sigrid Hofmann
+Barcelona, Spain | sigrid.hofmann@example.com | +39 876 1530836
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 2 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), T-SQL, LookML
+- Data Science & Machine Learning: R, PyTorch, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Apache Airflow, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Cloud cost optimization
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Alpenglow Analytics | Singapore, Singapore | 2025 - Present
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the aviation sector.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Data & Analytics Consultant | Northgate Technology Group | Toronto, Canada | 2024 - 2025
+- Standardized cloud tagging and cost allocation practices for a logistics client, improving budget accountability across 30 teams.
+- Built a recommendation engine for a logistics client, contributing to a 15% increase in average order value.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+
+EDUCATION
+M.Sc. in Computational Science, University of Toronto, Toronto, Canada (2023)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Tableau Desktop Specialist
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Dutch (Native)
+- Portuguese (Fluent)

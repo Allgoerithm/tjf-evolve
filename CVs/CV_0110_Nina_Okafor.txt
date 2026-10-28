@@ -1,0 +1,36 @@
+Nina Okafor
+Munich, Germany | nina.okafor@example.com | +34 422 9452457
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 3 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Qlik Sense, Snowflake
+- Data Science & Machine Learning: Computer Vision, MLOps, Time Series Forecasting
+- Cloud & Infrastructure: Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: JIRA / Confluence, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Evergreen Data Solutions | Stockholm, Sweden | 2025 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Drove cloud cost optimization across 50 accounts through rightsizing and reserved capacity.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 25%.
+
+IT Consultant | Vantage Point Consulting | Berlin, Germany | 2024 - 2025
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Developed an anomaly detection system for healthcare operations, flagging issues 22% faster than the previous manual process.
+
+EDUCATION
+B.Eng. in Information Systems, National University of Singapore, Singapore, Singapore (2023)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Google Professional Data Engineer
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Portuguese (Native)
+- Hindi (Conversational)

@@ -1,0 +1,40 @@
+Ute Okafor
+London, United Kingdom | ute.okafor@example.com | +49 862 5752742
+
+PROFESSIONAL SUMMARY
+Results-driven Data & Analytics Consultant with 5 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, SSRS, QlikView
+- Data Science & Machine Learning: Feature Engineering, Python (pandas, NumPy, scikit-learn), Statistical Modeling
+- Cloud & Infrastructure: Apache Kafka, Apache Airflow, Snowflake on cloud
+- Tools & Ways of Working: Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | BlueRiver Analytics | Hamburg, Germany | 2025 - Present
+- Designed and delivered 3 interactive Power BI dashboards for healthcare clients, reducing manual reporting effort by 20%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+- Maintained SSIS packages that load 3 source systems into the enterprise data warehouse.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+Lead Data & AI Consultant | Quantara Analytics | Hamburg, Germany | 2024 - 2025
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 15 regional entities.
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 10 teams.
+
+Lead Data & AI Consultant | Nordwind Consulting | Dublin, Ireland | 2023 - 2024
+- Designed a CI/CD pipeline that reduced release cycle time by 22% for an aviation client's data platform.
+- Developed an anomaly detection system for logistics operations, flagging issues 12% faster than the previous manual process.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 20%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Sorbonne University, Paris, France (2020)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Swedish (Native)
+- Italian (Conversational)

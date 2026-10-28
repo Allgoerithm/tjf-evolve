@@ -1,0 +1,31 @@
+SEARCH PROFILE #028
+Role Needed: Senior Data Platform Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: E-commerce
+Minimum Experience: 5+ years
+
+MUST-HAVE SKILLS
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Causal Inference
+
+NICE-TO-HAVE SKILLS
+- A/B Testing & Experimentation
+- SSAS
+- Data governance
+- dbt
+
+PREFERRED CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGE REQUIREMENTS
+- Dutch (native)
+- Spanish (fluent)
+
+Location / Remote Policy: On-site required (client site: Dublin, Ireland)
+
+PROJECT CONTEXT
+An internal data platform program is behind schedule and needs a senior consultant able to unblock issues across multiple workstreams.
+
+Start Date: Within 2 weeks
+Duration: 2 months (short-term)

@@ -1,0 +1,35 @@
+Ute Horvat
+Dublin, Ireland | ute.horvat@example.com | +33 639 7777693
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 2 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), QlikView, dbt, Tableau, SSIS, KPI design
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Terraform
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Greystone Data & AI | Warsaw, Poland | 2025 - Present
+- Replaced 50 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Trained 50 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 3 regional entities.
+
+Analytics Consultant | Nimbus Infrastructure Consulting | Prague, Czech Republic | 2024 - 2025
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the public sector business.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Drove cloud cost optimization across 2 accounts through rightsizing and reserved capacity.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Oslo, Oslo, Norway (2022)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- German (Native)
+- French (Fluent)

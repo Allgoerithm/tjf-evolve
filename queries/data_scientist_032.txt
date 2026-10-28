@@ -1,0 +1,28 @@
+SEARCH PROFILE #032
+Role Needed: Machine Learning Engineer
+Engagement Type: Managed service team augmentation
+Client Industry: Telecommunications
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- Python (pandas, NumPy, scikit-learn)
+- TensorFlow
+
+NICE-TO-HAVE SKILLS
+- Infrastructure as Code
+- R
+- A/B Testing & Experimentation
+- Technical documentation
+
+LANGUAGE REQUIREMENTS
+- Danish (business level)
+- French (conversational)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Helsinki, Finland)
+
+PROJECT CONTEXT
+The data science team is exploring NLP use cases on unstructured customer feedback and needs additional modeling expertise.
+
+Start Date: Within 2 weeks
+Duration: 6 months, extension possible

@@ -1,0 +1,41 @@
+Marco Braun
+Chicago, USA | marco.braun@example.com | +47 360 5506760
+
+PROFESSIONAL SUMMARY
+Versatile Lead Data & AI Consultant with 9 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Star schema & dimensional modeling, DAX
+- Data Science & Machine Learning: MLflow, Time Series Forecasting, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Terraform, Google Cloud Platform (BigQuery, Dataflow, GKE), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Stratos Cloud Consulting | Helsinki, Finland | 2022 - Present
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 22% uplift in conversion rate.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+
+Analyst | Beacon Insight Consulting | Hamburg, Germany | 2019 - 2022
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Trained 3 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Developed a gradient boosting model to predict fraud risk for aviation clients, improving prediction accuracy by 40%.
+- Applied NLP techniques to classify support tickets, cutting manual triage by 12%.
+
+Consultant | Northstar Cloud Group | Chicago, USA | 2017 - 2019
+- Implemented a data lake on Power BI, ingesting and processing over 8 TB of data monthly from 8 source systems.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 30%.
+- Built a churn prediction model on 2+ customer records, enabling targeted retention campaigns for the e-commerce sector.
+
+EDUCATION
+M.Sc. in Statistics, University of Vienna, Vienna, Austria (2016)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Italian (Native)
+- German (Conversational)
+- French (Fluent)

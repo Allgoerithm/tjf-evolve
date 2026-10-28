@@ -1,0 +1,34 @@
+Priya Johansson
+Stuttgart, Germany | priya.johansson@example.com | +48 375 1720860
+
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Consultant with 3 years of experience delivering cloud infrastructure and platform engineering solutions for clients in automotive manufacturing. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Google Cloud Platform (BigQuery, Dataflow, GKE), Cloud cost optimization, Apache Kafka, Apache Airflow, Snowflake on cloud
+- Business Intelligence: dbt
+- Tools & Ways of Working: Stakeholder management, Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Northgate Technology Group | Helsinki, Finland | 2024 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a public sector client's data platform.
+- Operated production workloads on AWS, including S3-based data lakes and Lambda functions.
+
+Analyst | Nordwind Consulting | Paris, France | 2023 - 2024
+- Designed and implemented a multi-account AWS landing zone for an aviation client, improving security posture and cost visibility.
+- Containerized 2+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+
+EDUCATION
+M.Sc. in Computational Science, National University of Singapore, Singapore, Singapore (2023)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- SnowPro Core Certification
+
+LANGUAGES
+- Swedish (Native)
+- English (Professional working proficiency)

@@ -1,0 +1,35 @@
+Yuki Muller
+Madrid, Spain | yuki.muller@example.com | +31 524 4165273
+
+PROFESSIONAL SUMMARY
+Data Scientist specializing in data science and machine learning, with 3 years of consulting experience across healthcare and related sectors.
+
+CORE SKILLS
+- Data Science & Machine Learning: Apache Spark / PySpark, Jupyter, TensorFlow, Computer Vision, Statistical Modeling, Databricks
+- Cloud & Infrastructure: Kubernetes, Cloud cost optimization
+- Tools & Ways of Working: Technical documentation, Data governance, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Brightfield Consulting | Barcelona, Spain | 2025 - Present
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Managed cloud environments as code with Terraform modules shared across 30 teams.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 18% uplift in conversion rate.
+- Mentored a team of 10 junior data scientists on feature engineering and model evaluation best practices.
+
+Machine Learning Engineer | Quantara Analytics | Hamburg, Germany | 2024 - 2025
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Built a churn prediction model on 2+ customer records, enabling targeted retention campaigns for the telecommunications sector.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Applied NLP techniques to classify support tickets, cutting manual triage by 40%.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Warsaw, Warsaw, Poland (2021)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- English (Native)
+- Hindi (Conversational)
+- French (Fluent)

@@ -1,0 +1,45 @@
+Paul de Vries
+Prague, Czech Republic | paul.de.vries@example.com | +39 538 5519044
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 13 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Business Intelligence: LookML, SQL Server, Tableau
+- Data Science & Machine Learning: Time Series Forecasting, Databricks, Model Deployment & Monitoring
+- Cloud & Infrastructure: Apache Airflow, Docker, Infrastructure as Code
+- Tools & Ways of Working: Data governance, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Harborview Consulting | Singapore, Singapore | 2024 - Present
+- Led a proof-of-concept on demand forecasting for an aviation client, achieving a 20% reduction in forecast error versus the baseline.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+
+Consultant | TerraLogic Consulting | Cologne, Germany | 2020 - 2024
+- Implemented a data lake on Snowflake, ingesting and processing over 30 TB of data monthly from 30 source systems.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+Lead Data & AI Consultant | Orbis Technology Partners | Chicago, USA | 2017 - 2020
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 50 disparate spreadsheets into a single source of truth.
+- Performed a cloud security audit for a banking client, remediating 15 critical findings within the first quarter.
+- Developed an anomaly detection system for public sector operations, flagging issues 28% faster than the previous manual process.
+
+Consultant | Ironwood Cloud Services | Stockholm, Sweden | 2014 - 2017
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Developed a gradient boosting model to predict demand for healthcare clients, improving prediction accuracy by 18%.
+
+EDUCATION
+MBA with focus on Information Management, Sorbonne University, Paris, France (2013)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Portuguese (Conversational)
+- Mandarin (Fluent)

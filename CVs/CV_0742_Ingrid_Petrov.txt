@@ -1,0 +1,35 @@
+Ingrid Petrov
+Toronto, Canada | ingrid.petrov@example.com | +44 504 9055279
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Solutions Architect with 2 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Kubernetes, Linux system administration, Apache Airflow, Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Business Intelligence: KPI design
+- Tools & Ways of Working: JIRA / Confluence, Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Kestrel Data Solutions | Munich, Germany | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 8 teams.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+- Performed a cloud security audit for an energy and utilities client, remediating 50 critical findings within the first quarter.
+
+DevOps Consultant | Kestrel Data Solutions | Dublin, Ireland | 2024 - 2025
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+- Modeled core business entities in Looker so that 15 teams could explore governed metrics on their own.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 2+ internal teams within the first year.
+
+EDUCATION
+M.Sc. in Data Science, Technical University of Munich, Munich, Germany (2023)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Google Professional Data Engineer
+
+LANGUAGES
+- French (Native)
+- German (Conversational)

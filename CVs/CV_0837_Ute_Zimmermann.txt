@@ -1,0 +1,39 @@
+Ute Zimmermann
+Singapore, Singapore | ute.zimmermann@example.com | +31 132 3148987
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 5 years of experience delivering business intelligence and enterprise reporting solutions for clients in retail. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, SQL Server, QlikView, SSRS, dbt, Qlik Sense
+- Cloud & Infrastructure: Docker, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Nordwind Consulting | Amsterdam, Netherlands | 2024 - Present
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the telecommunications business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Introduced Git-based workflows with code review for the analytics team.
+
+Senior BI Consultant | Falcon Ridge Consulting | Warsaw, Poland | 2022 - 2024
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 2 disparate spreadsheets into a single source of truth.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+Consultant | Meridian Digital Partners | Lyon, France | 2021 - 2022
+- Modeled a star schema for the sales domain, enabling consistent slicing across 3 dimensions.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 20 analyst days per month for higher-value analysis.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 5 regional entities.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Charles University, Prague, Czech Republic (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Hindi (Native)
+- Italian (Conversational)

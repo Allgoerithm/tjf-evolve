@@ -1,0 +1,43 @@
+Ahmed Becker
+Zurich, Switzerland | ahmed.becker@example.com | +31 269 8743986
+
+PROFESSIONAL SUMMARY
+Versatile BI Developer with 11 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, SSRS, SSIS, Looker, Star schema & dimensional modeling, LookML
+- Cloud & Infrastructure: Apache Airflow, Networking & VPC design
+- Tools & Ways of Working: Git, JIRA / Confluence, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Silverline IT Consulting | Toronto, Canada | 2024 - Present
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+IT Consultant | Lumen Analytics Group | Copenhagen, Denmark | 2021 - 2024
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 50 analyst days per month for higher-value analysis.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+
+Consultant | Kestrel Data Solutions | Warsaw, Poland | 2019 - 2021
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 10 regional entities.
+- Trained 3 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+Analyst | Fjord Digital Solutions | Barcelona, Spain | 2016 - 2019
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 15 disparate spreadsheets into a single source of truth.
+- Designed and delivered 30 interactive Power BI dashboards for retail clients, reducing manual reporting effort by 22%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+EDUCATION
+MBA with focus on Information Management, Sorbonne University, Paris, France (2015)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Tableau Desktop Specialist
+
+LANGUAGES
+- French (Native)
+- Mandarin (Fluent)

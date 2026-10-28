@@ -1,0 +1,43 @@
+Lukas Larsen
+Krakow, Poland | lukas.larsen@example.com | +44 861 1577622
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 14 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, Snowflake, KPI design, T-SQL, Data Warehouse design (Kimball/Inmon), Tableau
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Stratos Cloud Consulting | Austin, USA | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 3 analyst days per month for higher-value analysis.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+
+BI Developer | Cobalt Data Labs | Toronto, Canada | 2021 - 2024
+- Trained 20 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 15 interactive Qlik Sense dashboards for energy and utilities clients, reducing manual reporting effort by 30%.
+
+Senior BI Consultant | Brightfield Consulting | Paris, France | 2017 - 2021
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the retail business.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+Senior BI Consultant | TerraLogic Consulting | Helsinki, Finland | 2013 - 2017
+- Optimized Looker data models and DAX measures, improving dashboard load times by 15%.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 50 disparate spreadsheets into a single source of truth.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+
+EDUCATION
+M.Sc. in Business Informatics, Indian Institute of Technology Bombay, Mumbai, India (2011)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Italian (Native)
+- Dutch (Professional working proficiency)

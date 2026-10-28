@@ -1,0 +1,46 @@
+Paul Becker
+Lyon, France | paul.becker@example.com | +45 608 3301159
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 11 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Qlik Sense, Power BI, LookML, dbt, Snowflake
+- Cloud & Infrastructure: Terraform, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data governance, Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Beacon Insight Consulting | Amsterdam, Netherlands | 2024 - Present
+- Automated the monthly reporting cycle for an e-commerce client, freeing up 15 analyst days per month for higher-value analysis.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+
+Analyst | Kestrel Data Solutions | Austin, USA | 2022 - 2024
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 20 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Trained 10 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Built a tabular SSAS model that serves 5 departments with consistent KPIs.
+
+Analytics Consultant | BlueRiver Analytics | Warsaw, Poland | 2020 - 2022
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the banking business.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+
+Business Intelligence Consultant | Evergreen Data Solutions | Rotterdam, Netherlands | 2018 - 2020
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 15 regional entities.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 10 interactive Looker dashboards for pharmaceuticals clients, reducing manual reporting effort by 35%.
+
+EDUCATION
+M.Sc. in Software Engineering, Sorbonne University, Paris, France (2014)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Certified Kubernetes Administrator (CKA)
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Mandarin (Native)
+- Hindi (Conversational)
+- French (Professional working proficiency)

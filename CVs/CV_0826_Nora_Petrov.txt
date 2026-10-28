@@ -1,0 +1,39 @@
+Nora Petrov
+Brussels, Belgium | nora.petrov@example.com | +47 429 6637978
+
+PROFESSIONAL SUMMARY
+Cloud Infrastructure Consultant specializing in cloud infrastructure and platform engineering, with 5 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design, Infrastructure as Code, Linux system administration, Apache Airflow, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Business Intelligence: Star schema & dimensional modeling
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Greystone Data & AI | Lisbon, Portugal | 2025 - Present
+- Designed a CI/CD pipeline that reduced release cycle time by 25% for an insurance client's data platform.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+
+Consultant | Solaris Data Engineering | Amsterdam, Netherlands | 2024 - 2025
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 40%.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+
+Cloud Infrastructure Consultant | Falcon Ridge Consulting | Stuttgart, Germany | 2022 - 2024
+- Performed a cloud security audit for a public sector client, remediating 2 critical findings within the first quarter.
+- Implemented a data lake on Snowflake, ingesting and processing over 8 TB of data monthly from 8 source systems.
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 20 teams.
+
+EDUCATION
+B.Eng. in Information Systems, Charles University, Prague, Czech Republic (2020)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Spanish (Conversational)
+- English (Fluent)

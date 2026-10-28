@@ -1,0 +1,36 @@
+Felix Andersson
+Zurich, Switzerland | felix.andersson@example.com | +32 850 9176333
+
+PROFESSIONAL SUMMARY
+Versatile Data Scientist with 3 years in the field, combining expertise in data science and machine learning to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Data Science & Machine Learning: Time Series Forecasting, Apache Spark / PySpark, Feature Engineering, R, Causal Inference, Statistical Modeling
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Northgate Technology Group | Vienna, Austria | 2025 - Present
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Prototyped models in Python with pandas and scikit-learn, handing them over to engineering after validation.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+
+Data Scientist | Cobalt Data Labs | Chicago, USA | 2024 - 2025
+- Led a proof-of-concept on demand forecasting for a logistics client, achieving a 18% reduction in forecast error versus the baseline.
+- Built a recommendation engine for an automotive manufacturing client, contributing to a 15% increase in average order value.
+- Built a churn prediction model on 30+ customer records, enabling targeted retention campaigns for the public sector sector.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Humboldt University of Berlin, Berlin, Germany (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Tableau Desktop Specialist
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Dutch (Native)
+- Portuguese (Conversational)
+- Hindi (Conversational)

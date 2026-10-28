@@ -1,0 +1,30 @@
+Oscar Owusu
+Warsaw, Poland | oscar.owusu@example.com | +32 349 6365720
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Data Warehouse design (Kimball/Inmon), Power Query / M
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Microsoft Azure (Data Factory, Synapse, AKS), Apache Kafka, Linux system administration
+- Tools & Ways of Working: JIRA / Confluence, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Harborview Consulting | Vienna, Austria | 2024 - Present
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 5 regional entities.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Optimized complex DAX measures in the sales model, cutting report refresh times by 15%.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Denmark, Copenhagen, Denmark (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- SnowPro Core Certification
+
+LANGUAGES
+- Spanish (Native)
+- French (Professional working proficiency)

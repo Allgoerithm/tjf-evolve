@@ -1,0 +1,32 @@
+Oscar Horvat
+Prague, Czech Republic | oscar.horvat@example.com | +45 882 5288196
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Scientist (2 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: Feature Engineering, MLflow, PyTorch, Causal Inference, Computer Vision, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Infrastructure as Code, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Silverline IT Consulting | Rotterdam, Netherlands | 2025 - Present
+- Built a recommendation engine for a banking client, contributing to a 28% increase in average order value.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Senior Data Scientist | Pinnacle Business Intelligence GmbH | Madrid, Spain | 2023 - 2025
+- Led a proof-of-concept on demand forecasting for an insurance client, achieving a 18% reduction in forecast error versus the baseline.
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 35% uplift in conversion rate.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Oslo, Oslo, Norway (2023)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- English (Native)
+- Dutch (Fluent)

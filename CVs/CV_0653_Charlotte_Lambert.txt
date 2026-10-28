@@ -1,0 +1,34 @@
+Charlotte Lambert
+Oslo, Norway | charlotte.lambert@example.com | +46 347 6844772
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, Snowflake, T-SQL
+- Cloud & Infrastructure: Apache Airflow, Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Terraform
+- Tools & Ways of Working: Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Stratos Cloud Consulting | Amsterdam, Netherlands | 2025 - Present
+- Modeled a star schema for the sales domain, enabling consistent slicing across 30 dimensions.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 28%.
+- Defined and documented 15 KPIs together with business owners as the basis of the new reporting suite.
+
+Analytics Engineer | Pinnacle Business Intelligence GmbH | Helsinki, Finland | 2024 - 2025
+- Designed a CI/CD pipeline that reduced release cycle time by 28% for an insurance client's data platform.
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 30 teams.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+EDUCATION
+MBA with focus on Information Management, Delft University of Technology, Delft, Netherlands (2023)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Dutch (Native)
+- Hindi (Professional working proficiency)

@@ -1,0 +1,29 @@
+Bjorn Weber
+Bangalore, India | bjorn.weber@example.com | +44 960 5808636
+
+PROFESSIONAL SUMMARY
+BI Developer specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across energy and utilities and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, Power Query / M, Star schema & dimensional modeling, T-SQL, dbt, LookML
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Data quality management, Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Nordwind Consulting | Rotterdam, Netherlands | 2024 - Present
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 45%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 10 regional entities.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+EDUCATION
+M.Sc. in Statistics, Universidad Politecnica de Madrid, Madrid, Spain (2023)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- German (Native)
+- Polish (Conversational)

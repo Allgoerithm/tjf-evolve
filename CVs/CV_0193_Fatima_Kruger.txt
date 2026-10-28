@@ -1,0 +1,34 @@
+Fatima Kruger
+London, United Kingdom | fatima.kruger@example.com | +41 395 7687657
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 2 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Snowflake, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Snowflake on cloud, Linux system administration, Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Git, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Brightfield Consulting | Amsterdam, Netherlands | 2025 - Present
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Performed a cloud security audit for a banking client, remediating 8 critical findings within the first quarter.
+
+Analytics Engineer | Vertex Data Partners | Frankfurt, Germany | 2024 - 2025
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 15 teams.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+
+EDUCATION
+B.Eng. in Information Systems, Imperial College London, London, United Kingdom (2024)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Mandarin (Native)
+- Dutch (Fluent)

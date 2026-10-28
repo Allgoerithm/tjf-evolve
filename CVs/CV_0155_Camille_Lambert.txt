@@ -1,0 +1,32 @@
+Camille Lambert
+Brussels, Belgium | camille.lambert@example.com | +46 407 3205654
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Solutions Architect with 4 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: Snowflake on cloud, Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Apache Kafka, Docker, Linux system administration
+- Business Intelligence: LookML
+- Tools & Ways of Working: JIRA / Confluence, Data governance, Git
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Nimbus Infrastructure Consulting | Berlin, Germany | 2025 - Present
+- Led a cloud cost optimization initiative, identifying savings of 45% across compute and storage resources.
+- Performed a cloud security audit for a consumer goods client, remediating 5 critical findings within the first quarter.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Cloud Infrastructure Consultant | Vantage Point Consulting | Berlin, Germany | 2023 - 2025
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Standardized cloud tagging and cost allocation practices for a pharmaceuticals client, improving budget accountability across 8 teams.
+
+EDUCATION
+M.Sc. in Statistics, Trinity College Dublin, Dublin, Ireland (2021)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGES
+- German (Native)
+- Danish (Conversational)

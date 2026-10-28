@@ -1,0 +1,35 @@
+Greta Kovac
+Austin, USA | greta.kovac@example.com | +46 314 7054562
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Scientist (2 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: PyTorch, MLflow, MLOps, Computer Vision, Python (pandas, NumPy, scikit-learn), Feature Engineering
+- Cloud & Infrastructure: Snowflake on cloud, Kubernetes
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Greystone Data & AI | London, United Kingdom | 2025 - Present
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the public sector sector.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 35%.
+
+Machine Learning Engineer | Alpenglow Analytics | Vienna, Austria | 2024 - 2025
+- Developed an anomaly detection system for retail operations, flagging issues 20% faster than the previous manual process.
+- Built a recommendation engine for an energy and utilities client, contributing to a 22% increase in average order value.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 15%.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 18%.
+
+EDUCATION
+M.Sc. in Software Engineering, Delft University of Technology, Delft, Netherlands (2024)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Polish (Native)
+- Portuguese (Conversational)
+- Dutch (Professional working proficiency)

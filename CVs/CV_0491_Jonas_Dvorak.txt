@@ -1,0 +1,38 @@
+Jonas Dvorak
+Brussels, Belgium | jonas.dvorak@example.com | +49 573 2162676
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (8 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Tableau, SSAS, Power Query / M, Data Warehouse design (Kimball/Inmon), LookML
+- Cloud & Infrastructure: Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Harborview Consulting | Manchester, United Kingdom | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+
+IT Consultant | Stratos Cloud Consulting | Amsterdam, Netherlands | 2021 - 2024
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 30 analyst days per month for higher-value analysis.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 50 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analytics Consultant | Nimbus Infrastructure Consulting | Copenhagen, Denmark | 2020 - 2021
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 2 regional entities.
+- Trained 20 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Mathematics, Indian Institute of Technology Bombay, Mumbai, India (2018)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- German (Native)
+- French (Fluent)

@@ -1,0 +1,39 @@
+Petra Becker
+Berlin, Germany | petra.becker@example.com | +48 551 6225673
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 8 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, KPI design, SSIS, QlikView, Tableau, Qlik Sense
+- Cloud & Infrastructure: Networking & VPC design, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Client workshops & presentations, Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Stratos Cloud Consulting | Munich, Germany | 2024 - Present
+- Built a tabular SSAS model that serves 10 departments with consistent KPIs.
+- Trained 3 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 10 disparate spreadsheets into a single source of truth.
+- Designed and delivered 15 interactive Databricks dashboards for healthcare clients, reducing manual reporting effort by 28%.
+
+Senior BI Consultant | Evergreen Data Solutions | Manchester, United Kingdom | 2023 - 2024
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 15 regional entities.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 18%.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+
+BI Developer | Clearwater Data Systems | Manchester, United Kingdom | 2020 - 2023
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+MBA with focus on Information Management, University of Manchester, Manchester, United Kingdom (2016)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Swedish (Native)
+- English (Professional working proficiency)
+- Hindi (Conversational)

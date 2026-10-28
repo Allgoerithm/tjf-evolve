@@ -1,0 +1,44 @@
+Camille Ivanov
+Amsterdam, Netherlands | camille.ivanov@example.com | +34 688 4569539
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 10 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Power Query / M, Tableau, SQL Server, dbt, LookML
+- Cloud & Infrastructure: Infrastructure as Code, Docker
+- Tools & Ways of Working: Git, Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Silverline IT Consulting | Warsaw, Poland | 2024 - Present
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 15 disparate spreadsheets into a single source of truth.
+- Designed and delivered 2 interactive Snowflake dashboards for retail clients, reducing manual reporting effort by 30%.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the healthcare business.
+
+Senior BI Consultant | BlueRiver Analytics | Stockholm, Sweden | 2022 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 50 departments.
+- Consolidated 10 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Automated the monthly reporting cycle for a pharmaceuticals client, freeing up 30 analyst days per month for higher-value analysis.
+
+Business Intelligence Consultant | Ironwood Cloud Services | Warsaw, Poland | 2020 - 2022
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Consultant | Vertex Data Partners | Madrid, Spain | 2019 - 2020
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 40%.
+- Trained 10 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Oslo, Oslo, Norway (2015)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Mandarin (Native)
+- Hindi (Conversational)
+- German (Conversational)

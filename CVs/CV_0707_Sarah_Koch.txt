@@ -1,0 +1,33 @@
+Sarah Koch
+Rotterdam, Netherlands | sarah.koch@example.com | +48 838 7074685
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: SSIS, SSRS, SSAS
+- Cloud & Infrastructure: Kubernetes, Terraform, Linux system administration, Cloud cost optimization
+- Tools & Ways of Working: Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Solaris Data Engineering | Zurich, Switzerland | 2024 - Present
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the insurance business.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+- Performed a cloud security audit for an e-commerce client, remediating 50 critical findings within the first quarter.
+
+Analyst | Silverline IT Consulting | Austin, USA | 2023 - 2024
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 50 teams.
+- Led the adoption of a self-service data platform on Databricks, onboarding 30+ internal teams within the first year.
+
+EDUCATION
+M.Sc. in Statistics, University of Hamburg, Hamburg, Germany (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGES
+- Polish (Native)
+- English (Fluent)
+- Danish (Conversational)

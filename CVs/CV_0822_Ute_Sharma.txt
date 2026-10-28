@@ -1,0 +1,39 @@
+Ute Sharma
+Chicago, USA | ute.sharma@example.com | +44 686 3004830
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (9 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, Data Warehouse design (Kimball/Inmon), dbt, SQL Server, SSAS, KPI design
+- Cloud & Infrastructure: Snowflake on cloud, Docker
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Meridian Digital Partners | Krakow, Poland | 2022 - Present
+- Designed and delivered 15 interactive Databricks dashboards for insurance clients, reducing manual reporting effort by 12%.
+- Automated the monthly reporting cycle for a retail client, freeing up 8 analyst days per month for higher-value analysis.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 10 disparate spreadsheets into a single source of truth.
+
+Business Intelligence Consultant | Brightfield Consulting | Dublin, Ireland | 2020 - 2022
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+IT Consultant | TerraLogic Consulting | Stuttgart, Germany | 2018 - 2020
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 30 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the retail business.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Humboldt University of Berlin, Berlin, Germany (2017)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Google Professional Cloud Architect
+
+LANGUAGES
+- German (Native)
+- French (Conversational)
+- Portuguese (Professional working proficiency)

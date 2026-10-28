@@ -1,0 +1,31 @@
+Pawel Nowak
+Frankfurt, Germany | pawel.nowak@example.com | +31 539 6584720
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 2 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: KPI design, DAX, SQL Server
+- Cloud & Infrastructure: Snowflake on cloud, Infrastructure as Code, Apache Airflow, Apache Kafka
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Harborview Consulting | Frankfurt, Germany | 2024 - Present
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Led the adoption of a self-service data platform on Tableau, onboarding 20+ internal teams within the first year.
+- Packaged data services as Docker images to ensure consistent deployments.
+
+EDUCATION
+B.Eng. in Information Systems, Politecnico di Milano, Milan, Italy (2022)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- SnowPro Core Certification
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- German (Native)
+- Mandarin (Conversational)
+- Polish (Professional working proficiency)

@@ -1,0 +1,29 @@
+Sanjay Hoffmann
+Pune, India | sanjay.hoffmann@example.com | +31 689 2389480
+
+PROFESSIONAL SUMMARY
+Results-driven DevOps Consultant with 2 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Linux system administration, Cloud cost optimization, Networking & VPC design, Kubernetes, Snowflake on cloud
+- Business Intelligence: KPI design
+- Tools & Ways of Working: JIRA / Confluence, Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Pinnacle Business Intelligence GmbH | Singapore, Singapore | 2024 - Present
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 5 teams.
+
+EDUCATION
+M.Sc. in Computer Science, KTH Royal Institute of Technology, Stockholm, Sweden (2024)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- Microsoft Certified: Power BI Data Analyst Associate
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Italian (Native)
+- English (Conversational)

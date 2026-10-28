@@ -1,0 +1,30 @@
+SEARCH PROFILE #094
+Role Needed: Senior BI Consultant
+Engagement Type: Permanent hire
+Client Industry: Insurance
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Power BI
+- Snowflake
+- Apache Kafka
+- SSAS
+- Stakeholder management
+
+NICE-TO-HAVE SKILLS
+- Stakeholder reporting & dashboarding
+- Client workshops & presentations
+
+PREFERRED CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+
+LANGUAGE REQUIREMENTS
+- Mandarin (native)
+
+Location / Remote Policy: On-site required (client site: Brussels, Belgium)
+
+PROJECT CONTEXT
+A newly merged insurance organization needs a unified reporting model spanning both legacy entities.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 9 months with a defined project end date

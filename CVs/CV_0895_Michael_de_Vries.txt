@@ -1,0 +1,45 @@
+Michael de Vries
+Stockholm, Sweden | michael.de.vries@example.com | +49 871 6120456
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 10 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Data Warehouse design (Kimball/Inmon), Looker, Power Query / M, SSAS, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Apache Airflow
+- Tools & Ways of Working: JIRA / Confluence, Git, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Orbis Technology Partners | Barcelona, Spain | 2023 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 5 dimensions.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the e-commerce business.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 8 disparate spreadsheets into a single source of truth.
+
+Analytics Consultant | Evergreen Data Solutions | Barcelona, Spain | 2020 - 2023
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 3 regional entities.
+- Trained 8 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+
+Analyst | Vantage Point Consulting | Berlin, Germany | 2018 - 2020
+- Automated the monthly reporting cycle for an automotive manufacturing client, freeing up 2 analyst days per month for higher-value analysis.
+- Designed and delivered 8 interactive Power BI dashboards for retail clients, reducing manual reporting effort by 35%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+BI Developer | Brightfield Consulting | Pune, India | 2015 - 2018
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 15%.
+
+EDUCATION
+B.Sc. in Computer Science, Universidad Politecnica de Madrid, Madrid, Spain (2014)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Data Engineer Associate
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- Swedish (Native)
+- Mandarin (Conversational)

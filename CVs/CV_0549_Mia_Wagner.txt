@@ -1,0 +1,45 @@
+Mia Wagner
+Barcelona, Spain | mia.wagner@example.com | +31 977 3962934
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 11 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, Power BI, QlikView, SSAS, dbt, Tableau
+- Cloud & Infrastructure: Linux system administration, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Fjord Digital Solutions | Berlin, Germany | 2025 - Present
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 15%.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 20%.
+- Designed and delivered 20 interactive Power BI dashboards for e-commerce clients, reducing manual reporting effort by 40%.
+
+Senior BI Consultant | Vertex Data Partners | Pune, India | 2022 - 2025
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 3 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Managed backlog and documentation in JIRA and Confluence for 20 concurrent workstreams.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+IT Consultant | Ironwood Cloud Services | London, United Kingdom | 2019 - 2022
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 10 disparate spreadsheets into a single source of truth.
+
+Senior BI Consultant | Lumen Analytics Group | Berlin, Germany | 2018 - 2019
+- Modeled a star schema for the sales domain, enabling consistent slicing across 15 dimensions.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the aviation business.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 30 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+
+EDUCATION
+B.Sc. in Computer Science, Indian Institute of Technology Bombay, Mumbai, India (2013)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Dutch (Native)
+- Mandarin (Fluent)

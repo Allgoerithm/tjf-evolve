@@ -1,0 +1,29 @@
+SEARCH PROFILE #085
+Role Needed: Data Scientist
+Engagement Type: Interim / bridge staffing
+Client Industry: Logistics
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Causal Inference
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Agile / Scrum
+- Python (pandas, NumPy, scikit-learn)
+- Feature Engineering
+
+NICE-TO-HAVE SKILLS
+- Git
+
+PREFERRED CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGE REQUIREMENTS
+- Hindi (business level)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Lisbon, Portugal)
+
+PROJECT CONTEXT
+The client wants to move beyond descriptive reporting and build predictive models for customer lifetime value in the logistics sector.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 12 months, potential for permanent placement

@@ -1,0 +1,34 @@
+Antoine Jansen
+Dublin, Ireland | antoine.jansen@example.com | +49 957 2271901
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Consultant with 3 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Tableau, T-SQL, Snowflake, LookML, Looker, QlikView
+- Cloud & Infrastructure: Snowflake on cloud, Terraform
+- Tools & Ways of Working: Git, Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Fjord Digital Solutions | Pune, India | 2025 - Present
+- Designed and delivered 5 interactive Qlik Sense dashboards for retail clients, reducing manual reporting effort by 40%.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analyst | Orbis Technology Partners | Lyon, France | 2023 - 2025
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Automated the monthly reporting cycle for a logistics client, freeing up 2 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Hamburg, Hamburg, Germany (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Tableau Desktop Specialist
+
+LANGUAGES
+- French (Native)
+- Italian (Professional working proficiency)
+- Hindi (Fluent)

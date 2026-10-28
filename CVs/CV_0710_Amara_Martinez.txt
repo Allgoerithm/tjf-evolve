@@ -1,0 +1,42 @@
+Amara Martinez
+Vienna, Austria | amara.martinez@example.com | +48 401 7937425
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 14 years of experience delivering business intelligence and enterprise reporting solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: LookML, dbt, SSAS, Tableau, SQL Server, Looker
+- Cloud & Infrastructure: Docker, Apache Airflow
+- Tools & Ways of Working: Requirements engineering, Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Vertex Data Partners | Dublin, Ireland | 2022 - Present
+- Trained 10 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 20 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+
+Analyst | Ironwood Cloud Services | Oslo, Norway | 2018 - 2022
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+
+Consultant | Orbis Technology Partners | Prague, Czech Republic | 2015 - 2018
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 15 interactive Qlik Sense dashboards for telecommunications clients, reducing manual reporting effort by 40%.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 15 disparate spreadsheets into a single source of truth.
+
+Business Intelligence Consultant | Orbis Technology Partners | Barcelona, Spain | 2012 - 2015
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the consumer goods business.
+
+EDUCATION
+M.Sc. in Computational Science, University of Vienna, Vienna, Austria (2012)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Hindi (Native)
+- Danish (Professional working proficiency)

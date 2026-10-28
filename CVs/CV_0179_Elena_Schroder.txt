@@ -1,0 +1,34 @@
+Elena Schroder
+Helsinki, Finland | elena.schroder@example.com | +34 974 3618532
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 4 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Snowflake, Looker
+- Cloud & Infrastructure: Linux system administration, Docker, Infrastructure as Code, Kubernetes
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Greystone Data & AI | Austin, USA | 2025 - Present
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+Senior Data Engineer | Beacon Insight Consulting | Barcelona, Spain | 2022 - 2025
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+- Designed and implemented a multi-account AWS landing zone for a telecommunications client, improving security posture and cost visibility.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Amsterdam, Amsterdam, Netherlands (2022)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- German (Native)
+- Dutch (Fluent)
+- Italian (Professional working proficiency)

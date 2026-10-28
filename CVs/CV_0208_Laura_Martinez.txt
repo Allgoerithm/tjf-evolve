@@ -1,0 +1,40 @@
+Laura Martinez
+Manchester, United Kingdom | laura.martinez@example.com | +49 477 7653971
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 5 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Data Warehouse design (Kimball/Inmon), DAX
+- Cloud & Infrastructure: Apache Airflow, Apache Kafka, Microsoft Azure (Data Factory, Synapse, AKS), Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Evergreen Data Solutions | Stockholm, Sweden | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 10 disparate spreadsheets into a single source of truth.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Implemented a data lake on Looker, ingesting and processing over 3 TB of data monthly from 3 source systems.
+
+IT Consultant | Harborview Consulting | Milan, Italy | 2024 - 2025
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Architected a serverless event-driven data pipeline processing 15+ events per second in near real time.
+- Designed a CI/CD pipeline that reduced release cycle time by 15% for an aviation client's data platform.
+
+Senior Data Engineer | Kestrel Data Solutions | Zurich, Switzerland | 2023 - 2024
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 30% and improving system uptime.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Performed a cloud security audit for a consumer goods client, remediating 10 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Illinois, Chicago, USA (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Qlik Sense Data Architect Certification
+- Google Professional Data Engineer
+
+LANGUAGES
+- Dutch (Native)
+- Mandarin (Fluent)
+- French (Professional working proficiency)

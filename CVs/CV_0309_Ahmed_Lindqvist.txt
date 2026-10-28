@@ -1,0 +1,34 @@
+Ahmed Lindqvist
+Amsterdam, Netherlands | ahmed.lindqvist@example.com | +33 487 5609352
+
+PROFESSIONAL SUMMARY
+Results-driven DevOps Consultant with 6 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes, Docker, Google Cloud Platform (BigQuery, Dataflow, GKE), Infrastructure as Code, Apache Airflow
+- Business Intelligence: QlikView
+- Tools & Ways of Working: Data quality management, Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+DevOps Consultant | Northstar Cloud Group | Cologne, Germany | 2023 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Implemented a data lake on Looker, ingesting and processing over 2 TB of data monthly from 2 source systems.
+- Designed and implemented a multi-account AWS landing zone for a pharmaceuticals client, improving security posture and cost visibility.
+
+Cloud Engineer | Anchor Point Technologies | Oslo, Norway | 2020 - 2023
+- Led a cloud cost optimization initiative, identifying savings of 45% across compute and storage resources.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Denmark, Copenhagen, Denmark (2020)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Certified ScrumMaster (CSM)
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Portuguese (Native)
+- Polish (Conversational)

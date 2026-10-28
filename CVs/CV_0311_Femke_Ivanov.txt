@@ -1,0 +1,35 @@
+Femke Ivanov
+Stuttgart, Germany | femke.ivanov@example.com | +46 633 6775202
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Engineer with 2 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SSIS, Snowflake
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), AWS (EC2, S3, Lambda, Redshift, Glue), Infrastructure as Code, Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Solaris Data Engineering | Madrid, Spain | 2025 - Present
+- Built Kafka-based streaming ingestion for 30 operational systems.
+- Led a cloud cost optimization initiative, identifying savings of 25% across compute and storage resources.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 35%.
+
+Analytics Engineer | Kestrel Data Solutions | Helsinki, Finland | 2024 - 2025
+- Designed and delivered 3 interactive Qlik Sense dashboards for telecommunications clients, reducing manual reporting effort by 30%.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Standardized cloud tagging and cost allocation practices for a telecommunications client, improving budget accountability across 2 teams.
+
+EDUCATION
+M.Sc. in Computational Science, University of Amsterdam, Amsterdam, Netherlands (2023)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Polish (Native)
+- German (Conversational)
+- Italian (Professional working proficiency)

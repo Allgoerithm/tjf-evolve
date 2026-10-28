@@ -1,0 +1,38 @@
+Grace Ivanov
+Stockholm, Sweden | grace.ivanov@example.com | +48 243 8559090
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 8 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Power Query / M, Looker, Tableau, Data Warehouse design (Kimball/Inmon), SSIS
+- Cloud & Infrastructure: Apache Kafka, Cloud cost optimization
+- Tools & Ways of Working: Technical documentation, JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Anchor Point Technologies | Copenhagen, Denmark | 2023 - Present
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the consumer goods business.
+- Rolled out Power BI workspaces and certified datasets for 10 business units, standardizing self-service reporting.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 3 million records daily.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Analyst | Solaris Data Engineering | Krakow, Poland | 2021 - 2023
+- Implemented row-level security in Looker, enabling secure self-service reporting across 2 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+Analyst | Orbis Technology Partners | Toronto, Canada | 2019 - 2021
+- Trained 8 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 35%.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 30 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+MBA with focus on Information Management, ETH Zurich, Zurich, Switzerland (2016)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Dutch (Native)
+- Danish (Conversational)

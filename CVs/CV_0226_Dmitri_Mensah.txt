@@ -1,0 +1,34 @@
+Dmitri Mensah
+Krakow, Poland | dmitri.mensah@example.com | +49 146 4346152
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Solutions Architect with 2 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Infrastructure as Code, Apache Airflow, Linux system administration, Terraform, Snowflake on cloud
+- Business Intelligence: Looker
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Solaris Data Engineering | Stockholm, Sweden | 2025 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Led the adoption of a self-service data platform on Power BI, onboarding 20+ internal teams within the first year.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+
+IT Consultant | Vertex Data Partners | Cologne, Germany | 2024 - 2025
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 45% and improving system uptime.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 2 teams.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 28%.
+
+EDUCATION
+MBA with focus on Information Management, Humboldt University of Berlin, Berlin, Germany (2023)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Google Professional Data Engineer
+
+LANGUAGES
+- French (Native)
+- Spanish (Professional working proficiency)

@@ -1,0 +1,40 @@
+Emma Owusu
+Austin, USA | emma.owusu@example.com | +1 916 4246484
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 9 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: SSRS, KPI design, Stakeholder reporting & dashboarding, Snowflake, SSIS, Power Query / M
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Infrastructure as Code
+- Tools & Ways of Working: Data quality management, Agile / Scrum, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Orbis Technology Partners | Zurich, Switzerland | 2022 - Present
+- Trained 30 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 8 analyst days per month for higher-value analysis.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 8 regional entities.
+
+Senior BI Consultant | Harborview Consulting | Frankfurt, Germany | 2019 - 2022
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 30 disparate spreadsheets into a single source of truth.
+
+IT Consultant | Cobalt Data Labs | Madrid, Spain | 2015 - 2019
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 15%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+
+EDUCATION
+B.Sc. in Business Informatics, National University of Singapore, Singapore, Singapore (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Mandarin (Conversational)

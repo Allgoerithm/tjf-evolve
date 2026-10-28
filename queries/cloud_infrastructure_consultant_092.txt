@@ -1,0 +1,27 @@
+SEARCH PROFILE #092
+Role Needed: Cloud Engineer
+Engagement Type: Permanent hire
+Client Industry: Consumer goods
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Stakeholder management
+- Cloud cost optimization
+
+NICE-TO-HAVE SKILLS
+- AWS (EC2, S3, Lambda, Redshift, Glue)
+- Requirements engineering
+- Apache Kafka
+
+LANGUAGE REQUIREMENTS
+- English (fluent)
+- Hindi (business level)
+
+Location / Remote Policy: Fully remote (client site: Vienna, Austria)
+
+PROJECT CONTEXT
+The platform team needs support designing a multi-region disaster recovery strategy for their cloud data infrastructure.
+
+Start Date: Next quarter
+Duration: 2 months (short-term)

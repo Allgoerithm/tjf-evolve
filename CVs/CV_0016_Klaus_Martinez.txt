@@ -1,0 +1,40 @@
+Klaus Martinez
+Lyon, France | klaus.martinez@example.com | +34 131 1299711
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 5 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSRS, Power Query / M, T-SQL
+- Data Science & Machine Learning: Causal Inference, MLOps, Computer Vision
+- Cloud & Infrastructure: Apache Airflow, Terraform, Linux system administration
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | TerraLogic Consulting | Rotterdam, Netherlands | 2024 - Present
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 45%.
+- Standardized KPI definitions across 50 business units, resolving long-standing discrepancies between departmental reports.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Consultant | Clearwater Data Systems | Lisbon, Portugal | 2023 - 2024
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+IT Consultant | Northstar Cloud Group | Prague, Czech Republic | 2022 - 2023
+- Mentored a team of 15 junior data scientists on feature engineering and model evaluation best practices.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 18%.
+
+EDUCATION
+B.Sc. in Mathematics, University of Hamburg, Hamburg, Germany (2020)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Danish (Native)
+- Hindi (Conversational)
+- Portuguese (Professional working proficiency)

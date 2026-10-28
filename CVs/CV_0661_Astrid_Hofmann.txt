@@ -1,0 +1,45 @@
+Astrid Hofmann
+Milan, Italy | astrid.hofmann@example.com | +49 436 5798973
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 12 years of consulting experience across public sector and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Tableau, DAX, LookML, SSRS, SQL Server, Looker
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Cloud cost optimization
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Meridian Digital Partners | Helsinki, Finland | 2022 - Present
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the banking business.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Automated the monthly reporting cycle for a retail client, freeing up 20 analyst days per month for higher-value analysis.
+
+Analytics Consultant | Silverline IT Consulting | Berlin, Germany | 2019 - 2022
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 28%.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Built a Power BI reporting layer on top of the finance data mart, replacing 20 manual spreadsheets.
+
+BI Developer | Nimbus Infrastructure Consulting | Singapore, Singapore | 2015 - 2019
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+- Trained 20 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Built analytics workloads on Google Cloud Platform for 30 product teams.
+
+Business Intelligence Consultant | Northgate Technology Group | Oslo, Norway | 2012 - 2015
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 50 regional entities.
+
+EDUCATION
+B.Sc. in Mathematics, Sorbonne University, Paris, France (2014)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Danish (Native)
+- Hindi (Fluent)

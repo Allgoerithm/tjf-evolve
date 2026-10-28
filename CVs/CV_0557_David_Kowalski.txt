@@ -1,0 +1,30 @@
+David Kowalski
+London, United Kingdom | david.kowalski@example.com | +31 575 4753148
+
+PROFESSIONAL SUMMARY
+Analytics Consultant specializing in business intelligence and enterprise reporting, with 2 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Snowflake, LookML, Power BI, SQL Server, KPI design
+- Cloud & Infrastructure: Apache Airflow, Apache Kafka
+- Tools & Ways of Working: Technical documentation, JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | BlueRiver Analytics | Brussels, Belgium | 2024 - Present
+- Introduced dbt for transformation and testing, covering 3+ models in the analytics layer.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the healthcare business.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 30 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Statistics, Technical University of Denmark, Copenhagen, Denmark (2022)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Project Management Professional (PMP)
+
+LANGUAGES
+- Danish (Native)
+- Swedish (Fluent)
+- French (Conversational)

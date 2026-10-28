@@ -1,0 +1,42 @@
+Katarzyna Iyer
+Chicago, USA | katarzyna.iyer@example.com | +1 249 9110824
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 9 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, Qlik Sense, DAX
+- Data Science & Machine Learning: A/B Testing & Experimentation, Natural Language Processing, MLOps
+- Cloud & Infrastructure: Linux system administration, Infrastructure as Code, Apache Kafka
+- Tools & Ways of Working: Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Silverline IT Consulting | Stuttgart, Germany | 2023 - Present
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 10 teams.
+- Developed an anomaly detection system for retail operations, flagging issues 25% faster than the previous manual process.
+
+Analyst | Cobalt Data Labs | Chicago, USA | 2019 - 2023
+- Prototyped models in Python with pandas and scikit-learn, handing them over to engineering after validation.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Developed a XGBoost model to predict customer churn for e-commerce clients, improving prediction accuracy by 30%.
+- Managed cloud environments as code with Terraform modules shared across 50 teams.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 5 regional entities.
+
+Consultant | BlueRiver Analytics | Singapore, Singapore | 2016 - 2019
+- Implemented a data lake on Tableau, ingesting and processing over 30 TB of data monthly from 30 source systems.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+
+EDUCATION
+M.Sc. in Software Engineering, Indian Institute of Technology Bombay, Mumbai, India (2016)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Italian (Native)
+- English (Fluent)

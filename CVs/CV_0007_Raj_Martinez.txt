@@ -1,0 +1,42 @@
+Raj Martinez
+Paris, France | raj.martinez@example.com | +34 569 3786809
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 6 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, QlikView, SSIS, Power BI, Star schema & dimensional modeling, dbt
+- Cloud & Infrastructure: CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation, Git
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Vantage Point Consulting | Rotterdam, Netherlands | 2023 - Present
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 50 disparate spreadsheets into a single source of truth.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Rolled out data governance roles and policies across 50 departments.
+
+Analyst | Meridian Digital Partners | Oslo, Norway | 2021 - 2023
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Worked in Scrum teams with two-week sprints and regular client demos.
+- Built a tabular SSAS model that serves 2 departments with consistent KPIs.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Designed and delivered 15 interactive Databricks dashboards for public sector clients, reducing manual reporting effort by 15%.
+
+IT Consultant | Cobalt Data Labs | Chicago, USA | 2020 - 2021
+- Built Azure-based data pipelines with orchestrated daily loads from 10 sources.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the banking business.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 5 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Software Engineering, Trinity College Dublin, Dublin, Ireland (2019)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Dutch (Native)
+- Hindi (Fluent)

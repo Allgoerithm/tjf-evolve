@@ -1,0 +1,35 @@
+Laura Lopez
+Lyon, France | laura.lopez@example.com | +47 549 5970750
+
+PROFESSIONAL SUMMARY
+Versatile Business Intelligence Consultant with 3 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Tableau, Snowflake, Star schema & dimensional modeling, QlikView, Qlik Sense, SSAS
+- Cloud & Infrastructure: Networking & VPC design, Linux system administration
+- Tools & Ways of Working: Client workshops & presentations, Data governance, Git
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | BlueRiver Analytics | Hamburg, Germany | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 5 disparate spreadsheets into a single source of truth.
+- Standardized KPI definitions across 3 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 50 interactive Qlik Sense dashboards for banking clients, reducing manual reporting effort by 28%.
+
+Analyst | Kestrel Data Solutions | Manchester, United Kingdom | 2024 - 2025
+- Automated the monthly reporting cycle for a public sector client, freeing up 8 analyst days per month for higher-value analysis.
+- Implemented automated data quality checks on 20 critical tables.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 20 departments.
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Data Science, Technical University of Munich, Munich, Germany (2023)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Tableau Desktop Specialist
+
+LANGUAGES
+- German (Native)
+- Spanish (Conversational)
+- Portuguese (Fluent)

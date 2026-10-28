@@ -1,0 +1,40 @@
+Emma Singh
+Zurich, Switzerland | emma.singh@example.com | +31 109 9890197
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant specializing in business intelligence, data science, and cloud data platforms, with 8 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Business Intelligence: DAX, LookML, SSAS
+- Data Science & Machine Learning: TensorFlow, XGBoost / LightGBM, MLOps
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Microsoft Azure (Data Factory, Synapse, AKS), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Technical documentation, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Orbis Technology Partners | Zurich, Switzerland | 2023 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Optimized Looker data models and DAX measures, improving dashboard load times by 28%.
+- Built an NLP pipeline to automatically classify 8+ incoming customer messages per day, reducing manual triage time by 35%.
+
+Data & Analytics Consultant | BlueRiver Analytics | Toronto, Canada | 2021 - 2023
+- Built a churn prediction model on 20+ customer records, enabling targeted retention campaigns for the automotive manufacturing sector.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Designed and implemented a multi-account AWS landing zone for a banking client, improving security posture and cost visibility.
+
+Consultant | TerraLogic Consulting | Amsterdam, Netherlands | 2019 - 2021
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 8 disparate spreadsheets into a single source of truth.
+- Implemented a data lake on Looker, ingesting and processing over 10 TB of data monthly from 10 source systems.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 40%.
+
+EDUCATION
+M.Sc. in Statistics, University of Illinois, Chicago, USA (2016)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- AWS Certified Data Analytics - Specialty
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Portuguese (Conversational)

@@ -1,0 +1,34 @@
+Sebastian Muller
+Lyon, France | sebastian.muller@example.com | +46 614 7901032
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 3 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Power BI, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Infrastructure as Code, Snowflake on cloud, Networking & VPC design, Terraform
+- Tools & Ways of Working: Git, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Harborview Consulting | Toronto, Canada | 2024 - Present
+- Built Azure-based data pipelines with orchestrated daily loads from 3 sources.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Architected a serverless event-driven data pipeline processing 30+ events per second in near real time.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the e-commerce business.
+
+Analyst | Ironwood Cloud Services | Madrid, Spain | 2023 - 2024
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 50 regional entities.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Manchester, Manchester, United Kingdom (2021)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Mandarin (Native)
+- Polish (Professional working proficiency)

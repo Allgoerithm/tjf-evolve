@@ -1,0 +1,45 @@
+Katarzyna Wolf
+Cologne, Germany | katarzyna.wolf@example.com | +44 965 6170732
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 12 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Tableau, SSIS
+- Data Science & Machine Learning: MLOps, Natural Language Processing, Causal Inference
+- Cloud & Infrastructure: Networking & VPC design, Docker, Terraform
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Quantara Analytics | Cologne, Germany | 2024 - Present
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Designed and delivered 10 interactive Tableau dashboards for e-commerce clients, reducing manual reporting effort by 20%.
+
+Analyst | Kestrel Data Solutions | Krakow, Poland | 2022 - 2024
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 22%.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the banking business.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+
+Data & Analytics Consultant | Vertex Data Partners | Chicago, USA | 2018 - 2022
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 20%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Analyst | Quantara Analytics | Pune, India | 2015 - 2018
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Trained 50 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Led a proof-of-concept on demand forecasting for an automotive manufacturing client, achieving a 12% reduction in forecast error versus the baseline.
+
+EDUCATION
+M.Sc. in Computational Science, University of Vienna, Vienna, Austria (2012)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Dutch (Native)
+- Portuguese (Conversational)
+- Danish (Fluent)

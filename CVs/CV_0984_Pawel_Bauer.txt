@@ -1,0 +1,39 @@
+Pawel Bauer
+Munich, Germany | pawel.bauer@example.com | +32 932 6081275
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Scientist with 7 years in the field, combining expertise in data science and machine learning to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Data Science & Machine Learning: Statistical Modeling, Databricks, Model Deployment & Monitoring, Jupyter, Feature Engineering, Causal Inference
+- Cloud & Infrastructure: Kubernetes, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: JIRA / Confluence, Git, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Northgate Technology Group | Milan, Italy | 2023 - Present
+- Developed a logistic regression model to predict customer churn for retail clients, improving prediction accuracy by 20%.
+- Led a proof-of-concept on demand forecasting for a public sector client, achieving a 25% reduction in forecast error versus the baseline.
+- Produced weekly demand forecasts with time series models, improving planning accuracy by 40%.
+- Built a churn prediction model on 5+ customer records, enabling targeted retention campaigns for the logistics sector.
+
+IT Consultant | Quantara Analytics | Barcelona, Spain | 2021 - 2023
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Mentored a team of 30 junior data scientists on feature engineering and model evaluation best practices.
+
+Senior Data Scientist | Nordwind Consulting | Oslo, Norway | 2018 - 2021
+- Developed an anomaly detection system for e-commerce operations, flagging issues 40% faster than the previous manual process.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 22%.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+
+EDUCATION
+MBA with focus on Information Management, Technical University of Munich, Munich, Germany (2019)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Danish (Native)
+- Swedish (Fluent)

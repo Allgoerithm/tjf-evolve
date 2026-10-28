@@ -1,0 +1,34 @@
+Bjorn Fischer
+Berlin, Germany | bjorn.fischer@example.com | +1 524 8064535
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant specializing in business intelligence, data science, and cloud data platforms, with 4 years of consulting experience across telecommunications and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Tableau, KPI design
+- Data Science & Machine Learning: Natural Language Processing, Model Deployment & Monitoring, Causal Inference
+- Cloud & Infrastructure: Terraform, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | TerraLogic Consulting | Amsterdam, Netherlands | 2024 - Present
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 15 disparate spreadsheets into a single source of truth.
+- Architected a serverless event-driven data pipeline processing 10+ events per second in near real time.
+
+Data & Analytics Consultant | Meridian Digital Partners | Stuttgart, Germany | 2021 - 2024
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 22% uplift in conversion rate.
+- Trained 3 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+EDUCATION
+MBA with focus on Information Management, KTH Royal Institute of Technology, Stockholm, Sweden (2021)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)

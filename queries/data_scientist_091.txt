@@ -1,0 +1,27 @@
+SEARCH PROFILE #091
+Role Needed: Applied Data Scientist
+Engagement Type: Interim / bridge staffing
+Client Industry: E-commerce
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- Technical documentation
+- MLflow
+- Networking & VPC design
+- Python (pandas, NumPy, scikit-learn)
+- MLOps
+
+NICE-TO-HAVE SKILLS
+- Data quality management
+- Computer Vision
+
+LANGUAGE REQUIREMENTS
+- Italian (fluent)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Copenhagen, Denmark)
+
+PROJECT CONTEXT
+The current model in production has degraded in accuracy and needs root-cause analysis plus a retraining strategy.
+
+Start Date: Immediately
+Duration: 2 months (short-term)

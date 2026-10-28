@@ -1,0 +1,35 @@
+Wolfgang Richter
+Paris, France | wolfgang.richter@example.com | +47 337 7674762
+
+PROFESSIONAL SUMMARY
+Cloud Engineer specializing in cloud infrastructure and platform engineering, with 3 years of consulting experience across banking and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Infrastructure as Code, Networking & VPC design, Cloud cost optimization, Apache Kafka, AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Business Intelligence: Tableau
+- Tools & Ways of Working: Git, Technical documentation, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Clearwater Data Systems | Vienna, Austria | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Led the adoption of a self-service data platform on Looker, onboarding 3+ internal teams within the first year.
+- Built CI/CD pipelines for data jobs with automated testing and release gates.
+
+Consultant | Alpenglow Analytics | Austin, USA | 2023 - 2025
+- Designed and implemented a multi-account AWS landing zone for an e-commerce client, improving security posture and cost visibility.
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Performed a cloud security audit for a consumer goods client, remediating 50 critical findings within the first quarter.
+
+EDUCATION
+B.Sc. in Industrial Engineering, University of Toronto, Toronto, Canada (2021)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- TOGAF 9 Certified
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Hindi (Native)
+- English (Fluent)

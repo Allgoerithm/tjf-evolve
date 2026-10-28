@@ -1,0 +1,35 @@
+Isabelle Berg
+Austin, USA | isabelle.berg@example.com | +41 780 8959063
+
+PROFESSIONAL SUMMARY
+Results-driven Data Engineer with 3 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, DAX, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Kubernetes, Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow, Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Vantage Point Consulting | Rotterdam, Netherlands | 2025 - Present
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 15 regional entities.
+- Led the adoption of a self-service data platform on Tableau, onboarding 3+ internal teams within the first year.
+- Managed backlog and documentation in JIRA and Confluence for 5 concurrent workstreams.
+- Implemented a data lake on Snowflake, ingesting and processing over 2 TB of data monthly from 2 source systems.
+
+Analyst | Clearwater Data Systems | Manchester, United Kingdom | 2023 - 2025
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+EDUCATION
+M.Sc. in Statistics, Politecnico di Milano, Milan, Italy (2023)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Spanish (Native)
+- Portuguese (Professional working proficiency)
+- Hindi (Fluent)

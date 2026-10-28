@@ -1,0 +1,38 @@
+Lena Gupta
+Singapore, Singapore | lena.gupta@example.com | +45 568 6738583
+
+PROFESSIONAL SUMMARY
+DevOps Consultant with 7 years of experience delivering cloud infrastructure and platform engineering solutions for clients in public sector. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Apache Airflow, Linux system administration, Terraform, AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud, Networking & VPC design
+- Business Intelligence: Power Query / M
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Evergreen Data Solutions | Warsaw, Poland | 2025 - Present
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 2+ internal teams within the first year.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+
+Cloud Engineer | Cobalt Data Labs | Toronto, Canada | 2024 - 2025
+- Standardized cloud tagging and cost allocation practices for a consumer goods client, improving budget accountability across 5 teams.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 12% and improving system uptime.
+- Performed a cloud security audit for an automotive manufacturing client, remediating 2 critical findings within the first quarter.
+
+Cloud Engineer | Quantara Analytics | Austin, USA | 2022 - 2024
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+- Designed and implemented a multi-account AWS landing zone for an aviation client, improving security posture and cost visibility.
+- Led a cloud cost optimization initiative, identifying savings of 40% across compute and storage resources.
+
+EDUCATION
+MBA with focus on Information Management, Indian Institute of Technology Bombay, Mumbai, India (2018)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Professional working proficiency)

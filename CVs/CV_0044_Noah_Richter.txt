@@ -1,0 +1,28 @@
+Noah Richter
+Stockholm, Sweden | noah.richter@example.com | +44 811 1349435
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Scientist with 2 years of hands-on experience in data science and machine learning, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Data Science & Machine Learning: XGBoost / LightGBM, R, Apache Spark / PySpark, A/B Testing & Experimentation, Feature Engineering, PyTorch
+- Cloud & Infrastructure: Docker, Snowflake on cloud
+- Tools & Ways of Working: Technical documentation, Stakeholder management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | Northgate Technology Group | Amsterdam, Netherlands | 2024 - Present
+- Built a recommendation engine for an energy and utilities client, contributing to a 30% increase in average order value.
+- Mentored a team of 20 junior data scientists on feature engineering and model evaluation best practices.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Computer Science, Imperial College London, London, United Kingdom (2023)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Polish (Native)
+- Italian (Fluent)
+- German (Conversational)

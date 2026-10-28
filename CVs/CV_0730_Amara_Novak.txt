@@ -1,0 +1,43 @@
+Amara Novak
+Milan, Italy | amara.novak@example.com | +48 473 4942443
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 12 years of experience delivering business intelligence and enterprise reporting solutions for clients in public sector. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: dbt, Star schema & dimensional modeling, LookML, SSAS, Data Warehouse design (Kimball/Inmon), Power BI
+- Cloud & Infrastructure: Linux system administration, Terraform
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Evergreen Data Solutions | Brussels, Belgium | 2024 - Present
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 50 analyst days per month for higher-value analysis.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+
+Consultant | Ironwood Cloud Services | Stockholm, Sweden | 2022 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 20+ business users.
+
+Analytics Consultant | Greystone Data & AI | Singapore, Singapore | 2018 - 2022
+- Designed and delivered 15 interactive Tableau dashboards for logistics clients, reducing manual reporting effort by 12%.
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Trained 15 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+
+BI Developer | Vantage Point Consulting | Toronto, Canada | 2015 - 2018
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 12%.
+- Implemented row-level security in Qlik Sense, enabling secure self-service reporting across 8 regional entities.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 10 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+B.Eng. in Information Systems, University of Hamburg, Hamburg, Germany (2013)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- French (Native)
+- Hindi (Professional working proficiency)

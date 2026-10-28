@@ -1,0 +1,38 @@
+Grace Wagner
+Krakow, Poland | grace.wagner@example.com | +46 851 3683920
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 9 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Stakeholder reporting & dashboarding, Snowflake, KPI design, Looker, QlikView, LookML
+- Cloud & Infrastructure: Docker, Networking & VPC design
+- Tools & Ways of Working: Data quality management, Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | BlueRiver Analytics | Chicago, USA | 2022 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the insurance business.
+- Trained 8 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+Analyst | Vantage Point Consulting | Oslo, Norway | 2019 - 2022
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 3 disparate spreadsheets into a single source of truth.
+- Consolidated 3 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Consultant | Nimbus Infrastructure Consulting | Stuttgart, Germany | 2016 - 2019
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 5 regional entities.
+- Designed and delivered 10 interactive Snowflake dashboards for public sector clients, reducing manual reporting effort by 22%.
+
+EDUCATION
+M.Sc. in Statistics, KTH Royal Institute of Technology, Stockholm, Sweden (2015)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Google Professional Cloud Architect
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Fluent)

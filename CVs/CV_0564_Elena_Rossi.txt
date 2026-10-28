@@ -1,0 +1,39 @@
+Elena Rossi
+Helsinki, Finland | elena.rossi@example.com | +32 432 3702733
+
+PROFESSIONAL SUMMARY
+Versatile Analytics Engineer with 6 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, LookML, KPI design
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Technical documentation, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Alpenglow Analytics | Barcelona, Spain | 2025 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+
+Consultant | Stratos Cloud Consulting | Warsaw, Poland | 2022 - 2025
+- Performed a cloud security audit for an energy and utilities client, remediating 50 critical findings within the first quarter.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 2 departments.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+
+Senior Data Engineer | Fjord Digital Solutions | Frankfurt, Germany | 2021 - 2022
+- Containerized 30+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 8+ internal teams within the first year.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+
+EDUCATION
+M.Sc. in Software Engineering, Trinity College Dublin, Dublin, Ireland (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Mandarin (Native)
+- Italian (Conversational)
+- French (Fluent)

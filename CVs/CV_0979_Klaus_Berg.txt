@@ -1,0 +1,40 @@
+Klaus Berg
+Stuttgart, Germany | klaus.berg@example.com | +32 180 8127046
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant with 6 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, SSIS, KPI design
+- Data Science & Machine Learning: Time Series Forecasting, Natural Language Processing, A/B Testing & Experimentation
+- Cloud & Infrastructure: Infrastructure as Code, Cloud cost optimization, Kubernetes
+- Tools & Ways of Working: Agile / Scrum, Git
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Pinnacle Business Intelligence GmbH | Frankfurt, Germany | 2024 - Present
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 22%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+IT Consultant | TerraLogic Consulting | Brussels, Belgium | 2023 - 2024
+- Standardized KPI definitions across 15 business units, resolving long-standing discrepancies between departmental reports.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 18% and improving system uptime.
+- Developed an anomaly detection system for e-commerce operations, flagging issues 15% faster than the previous manual process.
+
+Senior Data Platform Consultant | Silverline IT Consulting | Milan, Italy | 2021 - 2023
+- Led requirements workshops with insurance stakeholders to translate business questions into KPI-driven reporting solutions.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 15%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 35%.
+
+EDUCATION
+M.Sc. in Business Informatics, Technical University of Denmark, Copenhagen, Denmark (2020)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- Databricks Certified Machine Learning Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- English (Native)
+- German (Fluent)

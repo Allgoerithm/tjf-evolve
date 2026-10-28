@@ -1,0 +1,40 @@
+Aisha Larsen
+Warsaw, Poland | aisha.larsen@example.com | +49 864 2776229
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant with 7 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, Looker, QlikView
+- Data Science & Machine Learning: Model Deployment & Monitoring, Python (pandas, NumPy, scikit-learn), PyTorch
+- Cloud & Infrastructure: Apache Airflow, Linux system administration, Cloud cost optimization
+- Tools & Ways of Working: JIRA / Confluence, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Alpenglow Analytics | Austin, USA | 2024 - Present
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 5 regional entities.
+- Built a recommendation engine for an insurance client, contributing to a 18% increase in average order value.
+- Standardized cloud tagging and cost allocation practices for an automotive manufacturing client, improving budget accountability across 5 teams.
+
+Analyst | Alpenglow Analytics | Amsterdam, Netherlands | 2022 - 2024
+- Architected a serverless event-driven data pipeline processing 20+ events per second in near real time.
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 10 disparate spreadsheets into a single source of truth.
+
+IT Consultant | TerraLogic Consulting | Dublin, Ireland | 2019 - 2022
+- Designed and delivered 10 interactive Power BI dashboards for automotive manufacturing clients, reducing manual reporting effort by 20%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 28%.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, Delft University of Technology, Delft, Netherlands (2019)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Spanish (Native)
+- Hindi (Conversational)
+- Dutch (Conversational)

@@ -1,0 +1,33 @@
+Oscar Ivanov
+Berlin, Germany | oscar.ivanov@example.com | +46 251 1157333
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across healthcare and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, Tableau, SSRS
+- Cloud & Infrastructure: Cloud cost optimization, Infrastructure as Code, Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design
+- Tools & Ways of Working: Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Silverline IT Consulting | Milan, Italy | 2025 - Present
+- Led the adoption of a self-service data platform on Looker, onboarding 15+ internal teams within the first year.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Operated production workloads on AWS, including S3-based data lakes and Lambda functions.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+
+Consultant | Beacon Insight Consulting | Munich, Germany | 2024 - 2025
+- Trained 2 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+
+EDUCATION
+MBA with focus on Information Management, ETH Zurich, Zurich, Switzerland (2024)
+
+CERTIFICATIONS
+- SnowPro Core Certification
+
+LANGUAGES
+- German (Native)
+- Italian (Fluent)

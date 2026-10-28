@@ -1,0 +1,36 @@
+Sigrid Rossi
+Berlin, Germany | sigrid.rossi@example.com | +45 186 8903703
+
+PROFESSIONAL SUMMARY
+Lead Data & AI Consultant with 2 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in consumer goods. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), SSAS, dbt
+- Data Science & Machine Learning: XGBoost / LightGBM, MLOps, Apache Spark / PySpark
+- Cloud & Infrastructure: Apache Airflow, Docker, Cloud cost optimization
+- Tools & Ways of Working: Agile / Scrum, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Riverbend Analytics | Zurich, Switzerland | 2025 - Present
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 45%.
+- Led a proof-of-concept on demand forecasting for an e-commerce client, achieving a 28% reduction in forecast error versus the baseline.
+- Led a cloud cost optimization initiative, identifying savings of 45% across compute and storage resources.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 3 regional entities.
+
+Analyst | Greystone Data & AI | Barcelona, Spain | 2024 - 2025
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 15%.
+- Trained 8 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+EDUCATION
+B.Eng. in Information Systems, National University of Singapore, Singapore, Singapore (2022)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- French (Native)
+- Portuguese (Conversational)
+- Spanish (Professional working proficiency)

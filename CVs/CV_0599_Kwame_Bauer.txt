@@ -1,0 +1,41 @@
+Kwame Bauer
+Zurich, Switzerland | kwame.bauer@example.com | +41 845 4749140
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Data & AI Consultant with 5 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, SSRS, LookML
+- Data Science & Machine Learning: Time Series Forecasting, XGBoost / LightGBM, Model Deployment & Monitoring
+- Cloud & Infrastructure: Apache Airflow, Cloud cost optimization, Kubernetes
+- Tools & Ways of Working: Agile / Scrum, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Lumen Analytics Group | Berlin, Germany | 2025 - Present
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Standardized cloud tagging and cost allocation practices for an aviation client, improving budget accountability across 8 teams.
+
+IT Consultant | Evergreen Data Solutions | Chicago, USA | 2024 - 2025
+- Led a proof-of-concept on demand forecasting for a healthcare client, achieving a 12% reduction in forecast error versus the baseline.
+- Led requirements workshops with logistics stakeholders to translate business questions into KPI-driven reporting solutions.
+- Introduced Infrastructure-as-Code to replace manual environment setup for 2 teams.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 30% and improving system uptime.
+
+Data & Analytics Consultant | TerraLogic Consulting | Madrid, Spain | 2023 - 2024
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+- Built a churn prediction model on 20+ customer records, enabling targeted retention campaigns for the insurance sector.
+- Led a cloud cost optimization initiative, identifying savings of 15% across compute and storage resources.
+
+EDUCATION
+B.Sc. in Mathematics, Imperial College London, London, United Kingdom (2019)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- German (Native)
+- Swedish (Professional working proficiency)
+- Danish (Conversational)

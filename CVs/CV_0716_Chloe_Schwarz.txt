@@ -1,0 +1,34 @@
+Chloe Schwarz
+Frankfurt, Germany | chloe.schwarz@example.com | +48 440 2332462
+
+PROFESSIONAL SUMMARY
+Analytics Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across aviation and related sectors.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, SSAS, Looker
+- Cloud & Infrastructure: Cloud cost optimization, Infrastructure as Code, AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud
+- Tools & Ways of Working: Client workshops & presentations, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Fjord Digital Solutions | Milan, Italy | 2025 - Present
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Led the adoption of a self-service data platform on Power BI, onboarding 10+ internal teams within the first year.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 10 TB of data monthly from 10 source systems.
+
+Analyst | Vantage Point Consulting | Munich, Germany | 2023 - 2025
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Maintained SSIS packages that load 20 source systems into the enterprise data warehouse.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 40%.
+- Performed a cloud security audit for a retail client, remediating 10 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Statistics, University of Oslo, Oslo, Norway (2024)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Polish (Native)
+- German (Fluent)

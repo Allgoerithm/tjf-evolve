@@ -1,0 +1,43 @@
+Jan Moreau
+Cologne, Germany | jan.moreau@example.com | +47 831 7371361
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant specializing in business intelligence and enterprise reporting, with 11 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Looker, KPI design, Qlik Sense, SSRS, Data Warehouse design (Kimball/Inmon), Power Query / M
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence, Git
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Ironwood Cloud Services | Chicago, USA | 2024 - Present
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+Business Intelligence Consultant | Northstar Cloud Group | London, United Kingdom | 2021 - 2024
+- Designed and delivered 2 interactive Tableau dashboards for logistics clients, reducing manual reporting effort by 25%.
+- Built Kafka-based streaming ingestion for 15 operational systems.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the pharmaceuticals business.
+
+BI Developer | Falcon Ridge Consulting | Copenhagen, Denmark | 2019 - 2021
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 30%.
+- Trained 50 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+
+Consultant | Nimbus Infrastructure Consulting | Singapore, Singapore | 2017 - 2019
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 2 disparate spreadsheets into a single source of truth.
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 8 analyst days per month for higher-value analysis.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Manchester, Manchester, United Kingdom (2015)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Polish (Native)
+- Italian (Conversational)

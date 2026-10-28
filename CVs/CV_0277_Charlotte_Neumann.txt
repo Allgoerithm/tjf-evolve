@@ -1,0 +1,40 @@
+Charlotte Neumann
+Paris, France | charlotte.neumann@example.com | +48 260 1594474
+
+PROFESSIONAL SUMMARY
+Versatile Senior BI Consultant with 7 years in the field, combining expertise in business intelligence and enterprise reporting to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: DAX, Data Warehouse design (Kimball/Inmon), Power BI, T-SQL, SQL Server, LookML
+- Cloud & Infrastructure: Networking & VPC design, Linux system administration
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | BlueRiver Analytics | Prague, Czech Republic | 2025 - Present
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 20 disparate spreadsheets into a single source of truth.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+Analytics Consultant | Alpenglow Analytics | London, United Kingdom | 2022 - 2025
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the automotive manufacturing business.
+- Implemented automated data quality checks on 8 critical tables.
+- Built analytics workloads on Google Cloud Platform for 5 product teams.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 8+ business users.
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 15 regional entities.
+
+BI Developer | Brightfield Consulting | Brussels, Belgium | 2020 - 2022
+- Standardized KPI definitions across 30 business units, resolving long-standing discrepancies between departmental reports.
+- Trained 15 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+- Designed and delivered 5 interactive Looker dashboards for e-commerce clients, reducing manual reporting effort by 22%.
+
+EDUCATION
+B.Sc. in Mathematics, Universidad Politecnica de Madrid, Madrid, Spain (2019)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- Cloudera Certified Data Analyst
+
+LANGUAGES
+- Swedish (Native)
+- Portuguese (Conversational)

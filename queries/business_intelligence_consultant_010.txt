@@ -1,0 +1,28 @@
+SEARCH PROFILE #010
+Role Needed: BI Developer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Insurance
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Data Warehouse design (Kimball/Inmon)
+- Apache Kafka
+- KPI design
+
+NICE-TO-HAVE SKILLS
+- Snowflake
+- JIRA / Confluence
+- Stakeholder management
+- QlikView
+
+LANGUAGE REQUIREMENTS
+- Spanish (business level)
+- Italian (conversational)
+
+Location / Remote Policy: Remote with quarterly on-site workshops (client site: Prague, Czech Republic)
+
+PROJECT CONTEXT
+Leadership wants a self-service analytics capability so business users can build their own reports without IT involvement.
+
+Start Date: Immediately
+Duration: Ongoing / open-ended

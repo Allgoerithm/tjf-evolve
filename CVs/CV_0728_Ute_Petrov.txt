@@ -1,0 +1,45 @@
+Ute Petrov
+London, United Kingdom | ute.petrov@example.com | +34 606 3121290
+
+PROFESSIONAL SUMMARY
+Data Engineer with 11 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, KPI design, Stakeholder reporting & dashboarding
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), AWS (EC2, S3, Lambda, Redshift, Glue), Cloud cost optimization, Apache Kafka
+- Tools & Ways of Working: Technical documentation, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Kestrel Data Solutions | Vienna, Austria | 2025 - Present
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed VPC networking, subnets and private endpoints for the data platform.
+- Architected a serverless event-driven data pipeline processing 3+ events per second in near real time.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Senior Data Engineer | Lumen Analytics Group | Krakow, Poland | 2022 - 2025
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 15 teams.
+- Orchestrated 50+ data pipelines with Apache Airflow, including alerting and backfills.
+- Trained 20 business analysts on Qlik Sense best practices, establishing a center of excellence for self-service BI.
+
+IT Consultant | Riverbend Analytics | Manchester, United Kingdom | 2019 - 2022
+- Automated the monthly reporting cycle for a logistics client, freeing up 20 analyst days per month for higher-value analysis.
+- Designed a CI/CD pipeline that reduced release cycle time by 12% for an automotive manufacturing client's data platform.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+IT Consultant | TerraLogic Consulting | Austin, USA | 2016 - 2019
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Designed executive scorecards in Qlik Sense used by senior leadership to track strategic KPIs across the banking business.
+- Performed a cloud security audit for an insurance client, remediating 3 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Delft University of Technology, Delft, Netherlands (2013)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Polish (Native)
+- Swedish (Fluent)

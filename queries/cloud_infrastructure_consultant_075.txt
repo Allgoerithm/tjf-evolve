@@ -1,0 +1,31 @@
+SEARCH PROFILE #075
+Role Needed: Cloud Infrastructure Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Public sector
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Data governance
+- Cloud cost optimization
+- Docker
+
+NICE-TO-HAVE SKILLS
+- Microsoft Azure (Data Factory, Synapse, AKS)
+- Git
+- Terraform
+- Star schema & dimensional modeling
+- Linux system administration
+
+PREFERRED CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGE REQUIREMENTS
+- Hindi (business level)
+
+Location / Remote Policy: Fully remote (client site: Brussels, Belgium)
+
+PROJECT CONTEXT
+The existing Kubernetes setup is unstable under load and needs a review of configuration, scaling, and observability.
+
+Start Date: ASAP
+Duration: 2 months (short-term)

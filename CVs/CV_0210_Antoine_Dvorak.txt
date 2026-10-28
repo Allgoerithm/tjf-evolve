@@ -1,0 +1,45 @@
+Antoine Dvorak
+Oslo, Norway | antoine.dvorak@example.com | +1 455 6904121
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant with 10 years of experience delivering business intelligence, data science, and cloud data platforms solutions for clients in aviation. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, DAX, Power Query / M
+- Data Science & Machine Learning: Jupyter, Causal Inference, Python (pandas, NumPy, scikit-learn)
+- Cloud & Infrastructure: Linux system administration, Google Cloud Platform (BigQuery, Dataflow, GKE), Networking & VPC design
+- Tools & Ways of Working: Technical documentation, Git
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Greystone Data & AI | Lyon, France | 2024 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Mentored a team of 50 junior data scientists on feature engineering and model evaluation best practices.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 20 disparate spreadsheets into a single source of truth.
+
+Lead Data & AI Consultant | Cobalt Data Labs | Lyon, France | 2021 - 2024
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 40%.
+- Designed and delivered 15 interactive Databricks dashboards for healthcare clients, reducing manual reporting effort by 40%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 20%.
+
+Analyst | BlueRiver Analytics | Krakow, Poland | 2020 - 2021
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 5 million records daily.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Built a recommendation engine for a telecommunications client, contributing to a 30% increase in average order value.
+- Replaced 20 manual Excel reports with paginated SSRS reports delivered on a schedule.
+
+Analyst | Brightfield Consulting | Hamburg, Germany | 2018 - 2020
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Designed and implemented a multi-account AWS landing zone for an e-commerce client, improving security posture and cost visibility.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+EDUCATION
+M.Sc. in Computational Science, National University of Singapore, Singapore, Singapore (2014)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+
+LANGUAGES
+- Spanish (Native)
+- Hindi (Fluent)
+- Mandarin (Conversational)

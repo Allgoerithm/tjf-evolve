@@ -1,0 +1,39 @@
+Sanjay Iyer
+Bangalore, India | sanjay.iyer@example.com | +46 391 2923412
+
+PROFESSIONAL SUMMARY
+Versatile Lead Data & AI Consultant with 6 years in the field, combining expertise in business intelligence, data science, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SQL Server, SSRS, LookML
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), Apache Spark / PySpark, Natural Language Processing
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Docker, Snowflake on cloud
+- Tools & Ways of Working: Requirements engineering, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Stratos Cloud Consulting | Stockholm, Sweden | 2025 - Present
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 2 disparate spreadsheets into a single source of truth.
+- Built an NLP pipeline to automatically classify 2+ incoming customer messages per day, reducing manual triage time by 22%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 18%.
+
+Data & Analytics Consultant | TerraLogic Consulting | Zurich, Switzerland | 2024 - 2025
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Trained 50 business analysts on Snowflake best practices, establishing a center of excellence for self-service BI.
+- Built a recommendation engine for an aviation client, contributing to a 15% increase in average order value.
+- Moved notebooks and scheduled jobs to Databricks to simplify collaboration.
+
+Lead Data & AI Consultant | Quantara Analytics | Lisbon, Portugal | 2022 - 2024
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 2 million records daily.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 35%.
+- Implemented a data lake on Looker, ingesting and processing over 8 TB of data monthly from 8 source systems.
+
+EDUCATION
+M.Sc. in Statistics, University of Hamburg, Hamburg, Germany (2019)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- French (Native)
+- Mandarin (Professional working proficiency)

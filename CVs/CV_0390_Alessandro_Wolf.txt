@@ -1,0 +1,32 @@
+Alessandro Wolf
+Berlin, Germany | alessandro.wolf@example.com | +49 800 5764012
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Engineer with 3 years of hands-on experience in data engineering, ETL pipelines, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, Stakeholder reporting & dashboarding, KPI design
+- Cloud & Infrastructure: Docker, Kubernetes, AWS (EC2, S3, Lambda, Redshift, Glue), Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Agile / Scrum, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Northgate Technology Group | Lisbon, Portugal | 2025 - Present
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 22%.
+- Architected a serverless event-driven data pipeline processing 50+ events per second in near real time.
+- Implemented a data lake on Looker, ingesting and processing over 15 TB of data monthly from 15 source systems.
+
+Consultant | Evergreen Data Solutions | Bangalore, India | 2023 - 2025
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 28%.
+- Designed and delivered 8 interactive Databricks dashboards for automotive manufacturing clients, reducing manual reporting effort by 35%.
+- Performed a cloud security audit for an energy and utilities client, remediating 50 critical findings within the first quarter.
+
+EDUCATION
+M.Sc. in Software Engineering, National University of Singapore, Singapore, Singapore (2021)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Polish (Native)
+- Portuguese (Professional working proficiency)

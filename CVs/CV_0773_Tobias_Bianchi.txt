@@ -1,0 +1,31 @@
+Tobias Bianchi
+Prague, Czech Republic | tobias.bianchi@example.com | +39 867 6747478
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 2 years of consulting experience across retail and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Power Query / M, QlikView, Data Warehouse design (Kimball/Inmon)
+- Cloud & Infrastructure: Networking & VPC design, Snowflake on cloud, Infrastructure as Code, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Client workshops & presentations, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | TerraLogic Consulting | Frankfurt, Germany | 2024 - Present
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 25%.
+- Drove cloud cost optimization across 20 accounts through rightsizing and reserved capacity.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 28% and improving system uptime.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 15%.
+- Implemented a data lake on Power BI, ingesting and processing over 15 TB of data monthly from 15 source systems.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Technical University of Munich, Munich, Germany (2022)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Polish (Native)
+- English (Fluent)
+- Danish (Fluent)

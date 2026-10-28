@@ -1,0 +1,28 @@
+Liam Berg
+Vienna, Austria | liam.berg@example.com | +44 805 2128252
+
+PROFESSIONAL SUMMARY
+Results-driven Lead Data & AI Consultant with 2 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, dbt, Qlik Sense
+- Data Science & Machine Learning: Apache Spark / PySpark, TensorFlow, MLflow
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Infrastructure as Code
+- Tools & Ways of Working: Stakeholder management, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Silverline IT Consulting | Barcelona, Spain | 2024 - Present
+- Migrated legacy Excel-based reporting to a centralized Qlik Sense platform, cutting report generation time from days to hours.
+- Developed a logistic regression model to predict customer churn for pharmaceuticals clients, improving prediction accuracy by 35%.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+M.Sc. in Data Science, Delft University of Technology, Delft, Netherlands (2023)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Polish (Native)
+- Dutch (Fluent)

@@ -1,0 +1,47 @@
+Elena Ivanov
+Milan, Italy | elena.ivanov@example.com | +31 566 4021554
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 10 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Star schema & dimensional modeling, dbt, Power Query / M
+- Data Science & Machine Learning: Time Series Forecasting, R, Databricks
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Networking & VPC design, Snowflake on cloud
+- Tools & Ways of Working: Agile / Scrum, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Meridian Digital Partners | Bangalore, India | 2025 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Administered Linux servers hosting data services, including patching and hardening.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 8 analyst days per month for higher-value analysis.
+- Built a churn prediction model on 50+ customer records, enabling targeted retention campaigns for the logistics sector.
+- Established MLOps practices for versioning, deployment and monitoring of 2 models.
+
+IT Consultant | Fjord Digital Solutions | Vienna, Austria | 2022 - 2025
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Led the adoption of a self-service data platform on Looker, onboarding 8+ internal teams within the first year.
+- Trained 8 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Managed cloud environments as code with Terraform modules shared across 20 teams.
+
+Analyst | Vantage Point Consulting | Vienna, Austria | 2020 - 2022
+- Applied causal inference methods to estimate the uplift of pricing changes.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 3 disparate spreadsheets into a single source of truth.
+- Deployed machine learning models to production using MLflow and Docker, enabling automated retraining and monitoring.
+- Containerized 3+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Consultant | Solaris Data Engineering | Krakow, Poland | 2017 - 2020
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 18%.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+M.Sc. in Business Informatics, KTH Royal Institute of Technology, Stockholm, Sweden (2014)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- German (Native)
+- Danish (Fluent)

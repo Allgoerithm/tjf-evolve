@@ -1,0 +1,40 @@
+Carlos Kovac
+Madrid, Spain | carlos.kovac@example.com | +46 890 9503767
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (6 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: KPI design, Data Warehouse design (Kimball/Inmon), SSAS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Networking & VPC design, Apache Kafka, Kubernetes
+- Tools & Ways of Working: Requirements engineering, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Alpenglow Analytics | Copenhagen, Denmark | 2024 - Present
+- Standardized cloud tagging and cost allocation practices for an insurance client, improving budget accountability across 3 teams.
+- Consolidated 50 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Implemented a data lake on Qlik Sense, ingesting and processing over 10 TB of data monthly from 10 source systems.
+
+IT Consultant | Nimbus Infrastructure Consulting | Milan, Italy | 2022 - 2024
+- Performed a cloud security audit for a retail client, remediating 3 critical findings within the first quarter.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Designed and delivered 20 interactive Databricks dashboards for pharmaceuticals clients, reducing manual reporting effort by 22%.
+
+IT Consultant | Falcon Ridge Consulting | Krakow, Poland | 2020 - 2022
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Orchestrated 3+ data pipelines with Apache Airflow, including alerting and backfills.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the healthcare business.
+
+EDUCATION
+M.Sc. in Data Science, National University of Singapore, Singapore, Singapore (2018)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Swedish (Native)
+- Hindi (Conversational)
+- Spanish (Conversational)

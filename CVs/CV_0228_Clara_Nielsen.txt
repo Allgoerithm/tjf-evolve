@@ -1,0 +1,39 @@
+Clara Nielsen
+Pune, India | clara.nielsen@example.com | +33 377 7150476
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Data Platform Consultant with 5 years of hands-on experience in business intelligence, data science, and cloud data platforms, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: DAX, LookML, SSAS
+- Data Science & Machine Learning: R, Databricks, PyTorch
+- Cloud & Infrastructure: Docker, Cloud cost optimization, Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Lead Data & AI Consultant | Vantage Point Consulting | Pune, India | 2025 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 30% uplift in conversion rate.
+- Automated the monthly reporting cycle for a retail client, freeing up 10 analyst days per month for higher-value analysis.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+Data & Analytics Consultant | Solaris Data Engineering | Lyon, France | 2024 - 2025
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Mentored a team of 8 junior data scientists on feature engineering and model evaluation best practices.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 22%.
+
+Lead Data & AI Consultant | Clearwater Data Systems | Lisbon, Portugal | 2023 - 2024
+- Led a proof-of-concept on demand forecasting for a logistics client, achieving a 18% reduction in forecast error versus the baseline.
+- Led requirements workshops with healthcare stakeholders to translate business questions into KPI-driven reporting solutions.
+- Led a cloud cost optimization initiative, identifying savings of 20% across compute and storage resources.
+
+EDUCATION
+M.Sc. in Business Informatics, ETH Zurich, Zurich, Switzerland (2020)
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Portuguese (Native)
+- English (Conversational)
+- Swedish (Conversational)

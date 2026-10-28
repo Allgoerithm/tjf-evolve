@@ -1,0 +1,36 @@
+Freya Nowak
+Frankfurt, Germany | freya.nowak@example.com | +44 808 7054998
+
+PROFESSIONAL SUMMARY
+Analytics Consultant with 4 years of experience delivering business intelligence and enterprise reporting solutions for clients in energy and utilities. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSIS, Power Query / M, SQL Server, T-SQL, SSRS, Snowflake
+- Cloud & Infrastructure: Networking & VPC design, Cloud cost optimization
+- Tools & Ways of Working: Data governance, Git, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | TerraLogic Consulting | Warsaw, Poland | 2024 - Present
+- Rebuilt the group-wide financial reporting suite in Power BI, consolidating 5 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with consumer goods stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 30 analyst days per month for higher-value analysis.
+
+Senior BI Consultant | Silverline IT Consulting | Chicago, USA | 2022 - 2024
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 8 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Migrated 10 legacy reports to Tableau and trained business users on self-service exploration.
+
+EDUCATION
+M.Sc. in Data Science, National University of Singapore, Singapore, Singapore (2022)
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- TOGAF 9 Certified
+- Certified ScrumMaster (CSM)
+
+LANGUAGES
+- French (Native)
+- German (Fluent)
+- Italian (Conversational)

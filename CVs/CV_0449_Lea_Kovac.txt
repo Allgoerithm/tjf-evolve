@@ -1,0 +1,35 @@
+Lea Kovac
+Krakow, Poland | lea.kovac@example.com | +1 342 8880269
+
+PROFESSIONAL SUMMARY
+Results-driven BI Developer with 3 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: LookML, Stakeholder reporting & dashboarding, Star schema & dimensional modeling, SQL Server, T-SQL, Power Query / M
+- Cloud & Infrastructure: Apache Kafka, Kubernetes
+- Tools & Ways of Working: Git, Technical documentation, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Northstar Cloud Group | Austin, USA | 2025 - Present
+- Trained 15 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 30+ business users.
+- Replaced 15 manual Excel reports with paginated SSRS reports delivered on a schedule.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 10 departments.
+- Drove cloud cost optimization across 15 accounts through rightsizing and reserved capacity.
+
+Consultant | Vertex Data Partners | Hamburg, Germany | 2024 - 2025
+- Led requirements workshops with aviation stakeholders to translate business questions into KPI-driven reporting solutions.
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 2 disparate spreadsheets into a single source of truth.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 3 regional entities.
+- Rolled out Power BI workspaces and certified datasets for 8 business units, standardizing self-service reporting.
+
+EDUCATION
+M.Sc. in Statistics, National University of Singapore, Singapore, Singapore (2022)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- French (Native)
+- Swedish (Fluent)

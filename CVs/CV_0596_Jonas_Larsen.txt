@@ -1,0 +1,34 @@
+Jonas Larsen
+Rotterdam, Netherlands | jonas.larsen@example.com | +39 298 3715217
+
+PROFESSIONAL SUMMARY
+Senior BI Consultant with 4 years of experience delivering business intelligence and enterprise reporting solutions for clients in public sector. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: SSAS, Star schema & dimensional modeling, SSRS, Looker, LookML, Power Query / M
+- Cloud & Infrastructure: Docker, Snowflake on cloud
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Greystone Data & AI | Brussels, Belgium | 2024 - Present
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 35%.
+- Automated the monthly reporting cycle for a public sector client, freeing up 50 analyst days per month for higher-value analysis.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+
+IT Consultant | Northstar Cloud Group | Brussels, Belgium | 2022 - 2024
+- Implemented row-level security in Power BI, enabling secure self-service reporting across 5 regional entities.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 30 departments.
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Data Science, Technical University of Denmark, Copenhagen, Denmark (2020)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- Tableau Desktop Specialist
+
+LANGUAGES
+- English (Native)
+- Spanish (Fluent)
+- Italian (Fluent)

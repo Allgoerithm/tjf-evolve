@@ -1,0 +1,34 @@
+Viktor Andersson
+Toronto, Canada | viktor.andersson@example.com | +39 828 5510121
+
+PROFESSIONAL SUMMARY
+Experienced Lead Data & AI Consultant (2 years) with a track record of delivering business intelligence, data science, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Tableau, LookML, SSAS
+- Data Science & Machine Learning: Apache Spark / PySpark, Databricks, Natural Language Processing
+- Cloud & Infrastructure: Linux system administration, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Terraform
+- Tools & Ways of Working: Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Greystone Data & AI | Singapore, Singapore | 2025 - Present
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 2+ business users.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+Lead Data & AI Consultant | Beacon Insight Consulting | Barcelona, Spain | 2024 - 2025
+- Performed a cloud security audit for an automotive manufacturing client, remediating 20 critical findings within the first quarter.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the energy and utilities sector.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Humboldt University of Berlin, Berlin, Germany (2023)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- German (Native)
+- Polish (Professional working proficiency)
+- Spanish (Fluent)

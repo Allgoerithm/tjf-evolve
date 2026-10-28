@@ -1,0 +1,35 @@
+Wei Nakamura
+Singapore, Singapore | wei.nakamura@example.com | +41 243 4170968
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: QlikView, SSIS, Looker
+- Cloud & Infrastructure: Snowflake on cloud, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Docker, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Client workshops & presentations, Data quality management
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Falcon Ridge Consulting | Milan, Italy | 2024 - Present
+- Automated the monthly reporting cycle for a public sector client, freeing up 30 analyst days per month for higher-value analysis.
+- Implemented a data lake on Tableau, ingesting and processing over 5 TB of data monthly from 5 source systems.
+- Performed a cloud security audit for an energy and utilities client, remediating 15 critical findings within the first quarter.
+
+Senior Data Engineer | Brightfield Consulting | Rotterdam, Netherlands | 2022 - 2024
+- Standardized cloud tagging and cost allocation practices for a retail client, improving budget accountability across 20 teams.
+- Built a tabular SSAS model that serves 10 departments with consistent KPIs.
+- Led the adoption of a self-service data platform on Looker, onboarding 3+ internal teams within the first year.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 2 regional entities.
+- Administered Linux servers hosting data services, including patching and hardening.
+
+EDUCATION
+MBA with focus on Information Management, Trinity College Dublin, Dublin, Ireland (2022)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Azure Data Engineer Associate
+
+LANGUAGES
+- Polish (Native)
+- Hindi (Fluent)

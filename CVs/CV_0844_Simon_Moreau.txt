@@ -1,0 +1,37 @@
+Simon Moreau
+Warsaw, Poland | simon.moreau@example.com | +49 130 1699094
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (8 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: QlikView, KPI design, SSIS
+- Cloud & Infrastructure: Apache Kafka, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Networking & VPC design, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Agile / Scrum, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Harborview Consulting | Vienna, Austria | 2023 - Present
+- Led requirements workshops with retail stakeholders to translate business questions into KPI-driven reporting solutions.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 20+ internal teams within the first year.
+- Designed and implemented a multi-account AWS landing zone for a healthcare client, improving security posture and cost visibility.
+
+IT Consultant | Northstar Cloud Group | Amsterdam, Netherlands | 2021 - 2023
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 15% and improving system uptime.
+
+Analyst | Silverline IT Consulting | Helsinki, Finland | 2020 - 2021
+- Performed a cloud security audit for an e-commerce client, remediating 30 critical findings within the first quarter.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Trained 20 business analysts on Tableau best practices, establishing a center of excellence for self-service BI.
+
+EDUCATION
+MBA with focus on Information Management, University of Warsaw, Warsaw, Poland (2016)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- German (Native)
+- Swedish (Conversational)

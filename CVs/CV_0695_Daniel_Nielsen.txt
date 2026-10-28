@@ -1,0 +1,34 @@
+Daniel Nielsen
+Austin, USA | daniel.nielsen@example.com | +44 446 1333612
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 2 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Power BI, T-SQL, LookML, Power Query / M, Snowflake
+- Cloud & Infrastructure: Kubernetes, Terraform
+- Tools & Ways of Working: Git, Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | TerraLogic Consulting | Krakow, Poland | 2025 - Present
+- Designed and delivered 3 interactive Power BI dashboards for logistics clients, reducing manual reporting effort by 22%.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 3+ business users.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+
+IT Consultant | Ironwood Cloud Services | Rotterdam, Netherlands | 2023 - 2025
+- Designed executive scorecards in Snowflake used by senior leadership to track strategic KPIs across the logistics business.
+- Led requirements workshops with automotive manufacturing stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+
+EDUCATION
+B.Sc. in Computer Science, Indian Institute of Technology Bombay, Mumbai, India (2022)
+
+CERTIFICATIONS
+- Certified Kubernetes Administrator (CKA)
+- TOGAF 9 Certified
+- Google Professional Data Engineer
+
+LANGUAGES
+- Hindi (Native)
+- Dutch (Fluent)

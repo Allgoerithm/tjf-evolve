@@ -1,0 +1,35 @@
+Yuki Fischer
+Paris, France | yuki.fischer@example.com | +31 548 9479231
+
+PROFESSIONAL SUMMARY
+Versatile Cloud Engineer with 2 years in the field, combining expertise in cloud infrastructure and platform engineering to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Cloud & Infrastructure: AWS (EC2, S3, Lambda, Redshift, Glue), Snowflake on cloud, Cloud cost optimization, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Kubernetes, Infrastructure as Code
+- Business Intelligence: Looker
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Kestrel Data Solutions | Oslo, Norway | 2025 - Present
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Built Azure-based data pipelines with orchestrated daily loads from 15 sources.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 35%.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+
+IT Consultant | TerraLogic Consulting | Munich, Germany | 2024 - 2025
+- Led the adoption of a self-service data platform on Tableau, onboarding 5+ internal teams within the first year.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 8 dimensions.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 12%.
+- Containerized 8+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+EDUCATION
+B.Sc. in Business Informatics, University of Oslo, Oslo, Norway (2022)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+
+LANGUAGES
+- Mandarin (Native)
+- Danish (Fluent)

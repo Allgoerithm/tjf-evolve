@@ -1,0 +1,34 @@
+Michael Horvat
+Frankfurt, Germany | michael.horvat@example.com | +44 426 1263053
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Scientist with 4 years in the field, combining expertise in data science and machine learning to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Data Science & Machine Learning: Python (pandas, NumPy, scikit-learn), MLflow, Apache Spark / PySpark, MLOps, PyTorch, Computer Vision
+- Cloud & Infrastructure: Networking & VPC design, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Technical documentation, Data governance, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | Solaris Data Engineering | Bangalore, India | 2023 - Present
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 25% uplift in conversion rate.
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 28%.
+- Developed an anomaly detection system for e-commerce operations, flagging issues 35% faster than the previous manual process.
+
+Senior Data Scientist | Lumen Analytics Group | Zurich, Switzerland | 2020 - 2023
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+- Led a proof-of-concept on demand forecasting for a telecommunications client, achieving a 28% reduction in forecast error versus the baseline.
+- Migrated exploratory analysis workflows from local notebooks to Databricks, enabling collaborative development at scale.
+
+EDUCATION
+M.Sc. in Business Informatics, Politecnico di Milano, Milan, Italy (2020)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- TOGAF 9 Certified
+
+LANGUAGES
+- Mandarin (Native)
+- Italian (Conversational)
+- French (Fluent)

@@ -1,0 +1,43 @@
+Astrid Martinez
+London, United Kingdom | astrid.martinez@example.com | +41 440 5262674
+
+PROFESSIONAL SUMMARY
+Results-driven Senior BI Consultant with 14 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: dbt, SSRS, Power Query / M, T-SQL, DAX, Tableau
+- Cloud & Infrastructure: Apache Airflow, AWS (EC2, S3, Lambda, Redshift, Glue)
+- Tools & Ways of Working: Data governance, Git, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Consultant | Beacon Insight Consulting | Copenhagen, Denmark | 2023 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Optimized Power BI data models and DAX measures, improving dashboard load times by 18%.
+- Standardized KPI definitions across 5 business units, resolving long-standing discrepancies between departmental reports.
+
+Business Intelligence Consultant | Vantage Point Consulting | Oslo, Norway | 2019 - 2023
+- Implemented row-level security in Tableau, enabling secure self-service reporting across 3 regional entities.
+- Consolidated 2 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Tableau used by senior leadership to track strategic KPIs across the healthcare business.
+
+Business Intelligence Consultant | Orbis Technology Partners | Singapore, Singapore | 2015 - 2019
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Designed and delivered 10 interactive Databricks dashboards for logistics clients, reducing manual reporting effort by 15%.
+
+Analyst | Riverbend Analytics | Warsaw, Poland | 2011 - 2015
+- Automated the monthly reporting cycle for a public sector client, freeing up 8 analyst days per month for higher-value analysis.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 10 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Oslo, Oslo, Norway (2011)
+
+CERTIFICATIONS
+- Qlik Sense Data Architect Certification
+- Databricks Certified Machine Learning Associate
+
+LANGUAGES
+- Danish (Native)
+- Polish (Fluent)

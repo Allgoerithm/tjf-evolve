@@ -1,0 +1,37 @@
+Nora Braun
+Prague, Czech Republic | nora.braun@example.com | +49 774 6537720
+
+PROFESSIONAL SUMMARY
+Experienced Senior BI Consultant (3 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: LookML, SSAS, Looker, Power BI, DAX, SSIS
+- Cloud & Infrastructure: Linux system administration, Apache Airflow
+- Tools & Ways of Working: Git, Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Fjord Digital Solutions | Stuttgart, Germany | 2024 - Present
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the public sector business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+- Operated a cloud Snowflake deployment and tuned warehouse sizing to control spend.
+
+BI Developer | Vertex Data Partners | Cologne, Germany | 2022 - 2024
+- Optimized Looker data models and DAX measures, improving dashboard load times by 30%.
+- Administered and tuned SQL Server instances hosting the reporting warehouse.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 10 million records daily.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 30 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+MBA with focus on Information Management, Politecnico di Milano, Milan, Italy (2022)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Azure Solutions Architect Expert
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Spanish (Native)
+- English (Fluent)
+- German (Professional working proficiency)

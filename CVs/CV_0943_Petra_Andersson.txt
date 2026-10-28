@@ -1,0 +1,39 @@
+Petra Andersson
+Bangalore, India | petra.andersson@example.com | +32 490 2387087
+
+PROFESSIONAL SUMMARY
+Versatile Senior Data Engineer with 8 years in the field, combining expertise in data engineering, ETL pipelines, and cloud data platforms to help organizations modernize their data landscape.
+
+CORE SKILLS
+- Business Intelligence: SSAS, QlikView, KPI design
+- Cloud & Infrastructure: Linux system administration, Networking & VPC design, Google Cloud Platform (BigQuery, Dataflow, GKE), Microsoft Azure (Data Factory, Synapse, AKS)
+- Tools & Ways of Working: Client workshops & presentations, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Falcon Ridge Consulting | Bangalore, India | 2024 - Present
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 50+ internal teams within the first year.
+
+Data Engineer | Vertex Data Partners | Vienna, Austria | 2021 - 2024
+- Automated the monthly reporting cycle for a consumer goods client, freeing up 10 analyst days per month for higher-value analysis.
+- Performed a cloud security audit for a public sector client, remediating 20 critical findings within the first quarter.
+- Orchestrated 20+ data pipelines with Apache Airflow, including alerting and backfills.
+- Led a cloud cost optimization initiative, identifying savings of 22% across compute and storage resources.
+
+Analytics Engineer | Pinnacle Business Intelligence GmbH | Stuttgart, Germany | 2019 - 2021
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 20 teams.
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 50 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Applied Mathematics, University of Vienna, Vienna, Austria (2017)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Tableau Desktop Specialist
+
+LANGUAGES
+- English (Native)
+- Swedish (Professional working proficiency)

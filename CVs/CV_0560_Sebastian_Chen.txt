@@ -1,0 +1,29 @@
+Sebastian Chen
+Pune, India | sebastian.chen@example.com | +32 277 2478861
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect specializing in cloud infrastructure and platform engineering, with 2 years of consulting experience across logistics and related sectors.
+
+CORE SKILLS
+- Cloud & Infrastructure: Docker, Infrastructure as Code, Kubernetes, Apache Kafka, Google Cloud Platform (BigQuery, Dataflow, GKE), CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Business Intelligence: Tableau
+- Tools & Ways of Working: Technical documentation, Git, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Engineer | Stratos Cloud Consulting | Warsaw, Poland | 2024 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 25%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Designed and implemented a multi-account AWS landing zone for a retail client, improving security posture and cost visibility.
+
+EDUCATION
+M.Sc. in Data Science, Technical University of Denmark, Copenhagen, Denmark (2022)
+
+CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Google Professional Data Engineer
+
+LANGUAGES
+- German (Native)
+- Dutch (Conversational)
+- English (Fluent)

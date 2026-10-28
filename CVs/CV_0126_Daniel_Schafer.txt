@@ -1,0 +1,34 @@
+Daniel Schafer
+Brussels, Belgium | daniel.schafer@example.com | +41 295 8118976
+
+PROFESSIONAL SUMMARY
+Data & Analytics Consultant specializing in business intelligence, data science, and cloud data platforms, with 2 years of consulting experience across pharmaceuticals and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Data Warehouse design (Kimball/Inmon), SSAS
+- Data Science & Machine Learning: Databricks, Apache Spark / PySpark, A/B Testing & Experimentation
+- Cloud & Infrastructure: Cloud cost optimization, Apache Airflow, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Tools & Ways of Working: Stakeholder management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Platform Consultant | Falcon Ridge Consulting | Toronto, Canada | 2025 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 8 million records daily.
+- Developed Qlik Sense apps for operational reporting used by 10+ plant managers.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the logistics sector.
+
+Consultant | Stratos Cloud Consulting | Stockholm, Sweden | 2024 - 2025
+- Built an NLP pipeline to automatically classify 3+ incoming customer messages per day, reducing manual triage time by 22%.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 25%.
+- Standardized KPI definitions across 2 business units, resolving long-standing discrepancies between departmental reports.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Technical University of Munich, Munich, Germany (2022)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Hindi (Native)
+- Portuguese (Conversational)

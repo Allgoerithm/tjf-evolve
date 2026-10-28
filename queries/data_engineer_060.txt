@@ -1,0 +1,32 @@
+SEARCH PROFILE #060
+Role Needed: Senior Data Engineer
+Engagement Type: Project staffing (freelance/contractor)
+Client Industry: Public sector
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Cloud cost optimization
+- Data quality management
+- DAX
+- CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+
+NICE-TO-HAVE SKILLS
+- Terraform
+- Stakeholder management
+- QlikView
+
+PREFERRED CERTIFICATIONS
+- Databricks Certified Machine Learning Associate
+- Certified ScrumMaster (CSM)
+
+LANGUAGE REQUIREMENTS
+- Mandarin (conversational)
+- English (conversational)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: London, United Kingdom)
+
+PROJECT CONTEXT
+The client wants to move batch pipelines to a near real-time streaming architecture using Kafka.
+
+Start Date: As soon as a suitable candidate is found
+Duration: 12 months, potential for permanent placement

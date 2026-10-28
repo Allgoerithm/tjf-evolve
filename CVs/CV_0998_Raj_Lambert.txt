@@ -1,0 +1,37 @@
+Raj Lambert
+Lisbon, Portugal | raj.lambert@example.com | +41 243 3522558
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 7 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in e-commerce. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Data Warehouse design (Kimball/Inmon), Looker, Star schema & dimensional modeling
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Apache Airflow, Snowflake on cloud, Linux system administration
+- Tools & Ways of Working: Technical documentation, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Lumen Analytics Group | Stockholm, Sweden | 2023 - Present
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Performed a cloud security audit for a public sector client, remediating 30 critical findings within the first quarter.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 5 departments.
+
+IT Consultant | Northgate Technology Group | Manchester, United Kingdom | 2020 - 2023
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+- Designed a CI/CD pipeline that reduced release cycle time by 30% for a banking client's data platform.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+
+Senior Data Engineer | Northstar Cloud Group | Amsterdam, Netherlands | 2017 - 2020
+- Rebuilt the group-wide financial reporting suite in Tableau, consolidating 30 disparate spreadsheets into a single source of truth.
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Implemented a data lake on Databricks, ingesting and processing over 3 TB of data monthly from 3 source systems.
+
+EDUCATION
+M.Sc. in Data Science, Indian Institute of Technology Bombay, Mumbai, India (2019)
+
+CERTIFICATIONS
+- Databricks Certified Data Engineer Associate
+
+LANGUAGES
+- Portuguese (Native)
+- German (Professional working proficiency)

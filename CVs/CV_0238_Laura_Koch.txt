@@ -1,0 +1,35 @@
+Laura Koch
+Rotterdam, Netherlands | laura.koch@example.com | +47 827 7940224
+
+PROFESSIONAL SUMMARY
+Experienced Analytics Engineer (4 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Looker, Qlik Sense, LookML
+- Cloud & Infrastructure: Apache Kafka, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins), Snowflake on cloud, Apache Airflow
+- Tools & Ways of Working: Client workshops & presentations, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | BlueRiver Analytics | Austin, USA | 2024 - Present
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the public sector business.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+- Modeled a star schema for the sales domain, enabling consistent slicing across 2 dimensions.
+- Containerized 50+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Consultant | Beacon Insight Consulting | Milan, Italy | 2022 - 2024
+- Performed a cloud security audit for a telecommunications client, remediating 2 critical findings within the first quarter.
+- Trained 20 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 28%.
+
+EDUCATION
+M.Sc. in Computer Science, National University of Singapore, Singapore, Singapore (2020)
+
+CERTIFICATIONS
+- Microsoft Certified: Power BI Data Analyst Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- Swedish (Native)
+- French (Professional working proficiency)
+- Danish (Professional working proficiency)

@@ -1,0 +1,34 @@
+Michael Richter
+Madrid, Spain | michael.richter@example.com | +41 693 7989265
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 4 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: SSIS, dbt, Power BI, SSRS, Looker, Star schema & dimensional modeling
+- Cloud & Infrastructure: Apache Airflow, Docker
+- Tools & Ways of Working: Requirements engineering, JIRA / Confluence, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Silverline IT Consulting | Prague, Czech Republic | 2023 - Present
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Consolidated 20 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Led requirements workshops with public sector stakeholders to translate business questions into KPI-driven reporting solutions.
+
+BI Developer | Ironwood Cloud Services | Stockholm, Sweden | 2022 - 2023
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 5+ business users.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Designed and delivered 30 interactive Qlik Sense dashboards for retail clients, reducing manual reporting effort by 45%.
+
+EDUCATION
+M.Sc. in Software Engineering, University of Warsaw, Warsaw, Poland (2022)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- HashiCorp Certified: Terraform Associate
+- Tableau Desktop Specialist
+
+LANGUAGES
+- Polish (Native)
+- French (Professional working proficiency)

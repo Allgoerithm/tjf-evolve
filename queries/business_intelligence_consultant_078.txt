@@ -1,0 +1,26 @@
+SEARCH PROFILE #078
+Role Needed: Analytics Consultant
+Engagement Type: Permanent hire
+Client Industry: Public sector
+Minimum Experience: 2+ years
+
+MUST-HAVE SKILLS
+- Client workshops & presentations
+- SQL Server
+- Networking & VPC design
+- Star schema & dimensional modeling
+- Git
+
+NICE-TO-HAVE SKILLS
+- QlikView
+
+LANGUAGE REQUIREMENTS
+- Italian (fluent)
+
+Location / Remote Policy: On-site required for the first month, then hybrid (client site: Munich, Germany)
+
+PROJECT CONTEXT
+A public sector client is rolling out a new group-wide KPI framework and needs someone to translate it into production-grade dashboards.
+
+Start Date: Within 4 weeks
+Duration: 6 months

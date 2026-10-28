@@ -1,0 +1,39 @@
+Maximilian Schafer
+Dublin, Ireland | maximilian.schafer@example.com | +39 338 5486330
+
+PROFESSIONAL SUMMARY
+Results-driven Cloud Solutions Architect with 6 years of hands-on experience in cloud infrastructure and platform engineering, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Cloud & Infrastructure: Kubernetes, Networking & VPC design, Docker, AWS (EC2, S3, Lambda, Redshift, Glue), Cloud cost optimization, CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins)
+- Business Intelligence: SSIS
+- Tools & Ways of Working: Technical documentation, Requirements engineering, Git
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Solutions Architect | Stratos Cloud Consulting | Toronto, Canada | 2025 - Present
+- Standardized cloud tagging and cost allocation practices for a banking client, improving budget accountability across 15 teams.
+- Performed a cloud security audit for an insurance client, remediating 10 critical findings within the first quarter.
+- Implemented automated data quality checks on 30 critical tables.
+- Containerized 15+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Analyst | Lumen Analytics Group | Vienna, Austria | 2023 - 2025
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Designed a CI/CD pipeline that reduced release cycle time by 40% for a public sector client's data platform.
+- Designed and implemented a multi-account AWS landing zone for an automotive manufacturing client, improving security posture and cost visibility.
+
+Consultant | Northstar Cloud Group | Stockholm, Sweden | 2021 - 2023
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 25% and improving system uptime.
+- Led the adoption of a self-service data platform on Power BI, onboarding 20+ internal teams within the first year.
+
+EDUCATION
+M.Sc. in Computational Science, University of Manchester, Manchester, United Kingdom (2018)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Qlik Sense Data Architect Certification
+
+LANGUAGES
+- Spanish (Native)
+- Mandarin (Professional working proficiency)

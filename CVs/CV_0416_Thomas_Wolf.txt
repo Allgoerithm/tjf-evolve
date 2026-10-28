@@ -1,0 +1,44 @@
+Thomas Wolf
+Copenhagen, Denmark | thomas.wolf@example.com | +46 694 2341494
+
+PROFESSIONAL SUMMARY
+Results-driven Analytics Consultant with 10 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: QlikView, Power Query / M, SSAS, T-SQL, Star schema & dimensional modeling, Tableau
+- Cloud & Infrastructure: Linux system administration, Kubernetes
+- Tools & Ways of Working: Client workshops & presentations, Stakeholder management, Agile / Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Quantara Analytics | Stockholm, Sweden | 2024 - Present
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 20 million records daily.
+- Implemented row-level security in Looker, enabling secure self-service reporting across 20 regional entities.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 50+ business users.
+
+Consultant | Greystone Data & AI | Toronto, Canada | 2022 - 2024
+- Designed executive scorecards in Power BI used by senior leadership to track strategic KPIs across the banking business.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Optimized Snowflake data models and DAX measures, improving dashboard load times by 30%.
+
+BI Developer | Brightfield Consulting | Helsinki, Finland | 2020 - 2022
+- Trained 10 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Rolled out data governance roles and policies across 3 departments.
+- Standardized KPI definitions across 20 business units, resolving long-standing discrepancies between departmental reports.
+- Designed and delivered 8 interactive Qlik Sense dashboards for logistics clients, reducing manual reporting effort by 22%.
+
+BI Developer | Anchor Point Technologies | Singapore, Singapore | 2017 - 2020
+- Migrated legacy Excel-based reporting to a centralized Snowflake platform, cutting report generation time from days to hours.
+- Rebuilt the group-wide financial reporting suite in Databricks, consolidating 15 disparate spreadsheets into a single source of truth.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Applied Mathematics, ETH Zurich, Zurich, Switzerland (2014)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Data Engineer Associate
+- Certified Kubernetes Administrator (CKA)
+
+LANGUAGES
+- German (Native)
+- Hindi (Conversational)

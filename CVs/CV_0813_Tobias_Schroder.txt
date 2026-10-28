@@ -1,0 +1,39 @@
+Tobias Schroder
+Lyon, France | tobias.schroder@example.com | +1 630 2379807
+
+PROFESSIONAL SUMMARY
+Experienced BI Developer (6 years) with a track record of delivering business intelligence and enterprise reporting projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: T-SQL, DAX, Tableau, SQL Server, Star schema & dimensional modeling, SSIS
+- Cloud & Infrastructure: Apache Kafka, Terraform
+- Tools & Ways of Working: Requirements engineering, Data governance, Technical documentation
+
+PROFESSIONAL EXPERIENCE
+
+Business Intelligence Consultant | Anchor Point Technologies | Oslo, Norway | 2024 - Present
+- Led requirements workshops with pharmaceuticals stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated legacy Excel-based reporting to a centralized Tableau platform, cutting report generation time from days to hours.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 8 departments.
+
+Analyst | Harborview Consulting | Oslo, Norway | 2021 - 2024
+- Rebuilt the group-wide financial reporting suite in Qlik Sense, consolidating 15 disparate spreadsheets into a single source of truth.
+- Consolidated 30 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Designed and delivered 50 interactive Qlik Sense dashboards for insurance clients, reducing manual reporting effort by 20%.
+
+Consultant | TerraLogic Consulting | Zurich, Switzerland | 2019 - 2021
+- Optimized Databricks data models and DAX measures, improving dashboard load times by 18%.
+- Trained 3 business analysts on Power BI best practices, establishing a center of excellence for self-service BI.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 50 million records daily.
+
+EDUCATION
+M.Sc. in Data Science, Sorbonne University, Paris, France (2020)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- AWS Certified Solutions Architect - Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Hindi (Native)
+- Danish (Conversational)

@@ -1,0 +1,38 @@
+Sigrid Muller
+Pune, India | sigrid.muller@example.com | +49 198 7562471
+
+PROFESSIONAL SUMMARY
+Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 7 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Snowflake, Qlik Sense, SSIS
+- Cloud & Infrastructure: Microsoft Azure (Data Factory, Synapse, AKS), Networking & VPC design, Terraform, Cloud cost optimization
+- Tools & Ways of Working: Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Analytics Engineer | Greystone Data & AI | Paris, France | 2025 - Present
+- Containerized 5+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+- Implemented a data lake on Looker, ingesting and processing over 50 TB of data monthly from 50 source systems.
+- Standardized KPI definitions across 8 business units, resolving long-standing discrepancies between departmental reports.
+
+Analytics Engineer | Lumen Analytics Group | Stockholm, Sweden | 2024 - 2025
+- Performed a cloud security audit for a consumer goods client, remediating 2 critical findings within the first quarter.
+- Led requirements workshops with banking stakeholders to translate business questions into KPI-driven reporting solutions.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+
+Analyst | Kestrel Data Solutions | Zurich, Switzerland | 2021 - 2024
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 20%.
+- Architected a serverless event-driven data pipeline processing 8+ events per second in near real time.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 15 departments.
+
+EDUCATION
+B.Sc. in Computer Science, Delft University of Technology, Delft, Netherlands (2018)
+
+CERTIFICATIONS
+- Certified ScrumMaster (CSM)
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- Swedish (Native)
+- Italian (Conversational)

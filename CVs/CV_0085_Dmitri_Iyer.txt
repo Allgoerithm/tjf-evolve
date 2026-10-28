@@ -1,0 +1,35 @@
+Dmitri Iyer
+Stuttgart, Germany | dmitri.iyer@example.com | +34 538 2305383
+
+PROFESSIONAL SUMMARY
+Experienced Data Engineer (3 years) with a track record of delivering data engineering, ETL pipelines, and cloud data platforms projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, SQL Server, Tableau
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Networking & VPC design, Linux system administration
+- Tools & Ways of Working: Stakeholder management, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Data Engineer | Northgate Technology Group | Dublin, Ireland | 2024 - Present
+- Performed a cloud security audit for a healthcare client, remediating 2 critical findings within the first quarter.
+- Led requirements workshops with energy and utilities stakeholders to translate business questions into KPI-driven reporting solutions.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 22% and improving system uptime.
+- Drove cloud cost optimization across 5 accounts through rightsizing and reserved capacity.
+
+Senior Data Engineer | Lumen Analytics Group | Munich, Germany | 2023 - 2024
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 45%.
+- Operated production workloads on AWS, including S3-based data lakes and Lambda functions.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Automated the monthly reporting cycle for a banking client, freeing up 8 analyst days per month for higher-value analysis.
+
+EDUCATION
+M.Sc. in Applied Mathematics, Politecnico di Milano, Milan, Italy (2022)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+
+LANGUAGES
+- Italian (Native)
+- German (Conversational)
+- Polish (Conversational)

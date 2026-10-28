@@ -1,0 +1,39 @@
+Simon Bianchi
+Brussels, Belgium | simon.bianchi@example.com | +32 799 3674080
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer specializing in data engineering, ETL pipelines, and cloud data platforms, with 9 years of consulting experience across automotive manufacturing and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Power BI, SQL Server
+- Cloud & Infrastructure: Apache Kafka, Terraform, Cloud cost optimization, Networking & VPC design
+- Tools & Ways of Working: Data governance, Client workshops & presentations
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Ironwood Cloud Services | Helsinki, Finland | 2023 - Present
+- Consolidated 15 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+- Migrated on-premise data infrastructure to Azure, reducing infrastructure costs by 20% and improving system uptime.
+- Containerized 20+ legacy applications and deployed them to a Kubernetes cluster, improving deployment frequency and reliability.
+
+Data Engineer | Nordwind Consulting | Hamburg, Germany | 2020 - 2023
+- Automated the monthly reporting cycle for a telecommunications client, freeing up 3 analyst days per month for higher-value analysis.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 40%.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 30+ internal teams within the first year.
+
+Consultant | Solaris Data Engineering | Frankfurt, Germany | 2017 - 2020
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 2 regional entities.
+- Architected a serverless event-driven data pipeline processing 5+ events per second in near real time.
+- Implemented a data lake on Power BI, ingesting and processing over 50 TB of data monthly from 50 source systems.
+
+EDUCATION
+B.Sc. in Industrial Engineering, Universidad Politecnica de Madrid, Madrid, Spain (2015)
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Solutions Architect Expert
+- Qlik Sense Data Architect Certification
+- SnowPro Core Certification
+
+LANGUAGES
+- English (Native)
+- Dutch (Fluent)

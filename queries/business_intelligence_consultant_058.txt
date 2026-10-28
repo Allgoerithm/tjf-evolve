@@ -1,0 +1,28 @@
+SEARCH PROFILE #058
+Role Needed: Business Intelligence Consultant
+Engagement Type: Permanent hire
+Client Industry: Banking
+Minimum Experience: 6+ years
+
+MUST-HAVE SKILLS
+- Networking & VPC design
+- Tableau
+- SSAS
+- Qlik Sense
+- Client workshops & presentations
+
+NICE-TO-HAVE SKILLS
+- QlikView
+- Data quality management
+
+LANGUAGE REQUIREMENTS
+- Spanish (business level)
+- Portuguese (fluent)
+
+Location / Remote Policy: On-site required (client site: Pune, India)
+
+PROJECT CONTEXT
+The client's finance department relies on a patchwork of spreadsheets and needs a consolidated, governed reporting layer built on Snowflake.
+
+Start Date: Immediately
+Duration: 3 months, extension likely

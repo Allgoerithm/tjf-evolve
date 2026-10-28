@@ -1,0 +1,45 @@
+Erik de Vries
+Madrid, Spain | erik.de.vries@example.com | +48 938 9151964
+
+PROFESSIONAL SUMMARY
+Senior Data Platform Consultant specializing in business intelligence, data science, and cloud data platforms, with 13 years of consulting experience across consumer goods and related sectors.
+
+CORE SKILLS
+- Business Intelligence: DAX, SSIS, Stakeholder reporting & dashboarding
+- Data Science & Machine Learning: MLOps, Computer Vision, Natural Language Processing
+- Cloud & Infrastructure: Terraform, Cloud cost optimization, Snowflake on cloud
+- Tools & Ways of Working: Git, Stakeholder management
+
+PROFESSIONAL EXPERIENCE
+
+Data & Analytics Consultant | Riverbend Analytics | Paris, France | 2023 - Present
+- Presented data science findings to senior stakeholders, translating model outputs into concrete business recommendations.
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the logistics business.
+- Set up monitoring and alerting for cloud infrastructure using CloudWatch/Grafana, reducing incident response time by 22%.
+
+IT Consultant | Northgate Technology Group | Rotterdam, Netherlands | 2020 - 2023
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 3+ internal teams within the first year.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 10 regional entities.
+- Mentored a team of 8 junior data scientists on feature engineering and model evaluation best practices.
+
+Consultant | Brightfield Consulting | Amsterdam, Netherlands | 2018 - 2020
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 18%.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 12%.
+- Prototyped models in Python with pandas and scikit-learn, handing them over to engineering after validation.
+- Led a cloud cost optimization initiative, identifying savings of 28% across compute and storage resources.
+
+IT Consultant | Brightfield Consulting | Vienna, Austria | 2016 - 2018
+- Developed a random forest model to predict customer churn for healthcare clients, improving prediction accuracy by 25%.
+- Automated the monthly reporting cycle for an aviation client, freeing up 10 analyst days per month for higher-value analysis.
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 28%.
+
+EDUCATION
+M.Sc. in Computational Science, Imperial College London, London, United Kingdom (2013)
+
+CERTIFICATIONS
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Polish (Native)
+- German (Fluent)
+- Italian (Conversational)

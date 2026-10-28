@@ -1,0 +1,34 @@
+Lukas Richter
+Stockholm, Sweden | lukas.richter@example.com | +32 828 3190300
+
+PROFESSIONAL SUMMARY
+Analytics Engineer with 3 years of experience delivering data engineering, ETL pipelines, and cloud data platforms solutions for clients in healthcare. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Business Intelligence: Power BI, Looker, dbt
+- Cloud & Infrastructure: Kubernetes, Apache Kafka, Linux system administration, Networking & VPC design
+- Tools & Ways of Working: Client workshops & presentations, JIRA / Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | Riverbend Analytics | Milan, Italy | 2025 - Present
+- Built Infrastructure-as-Code templates using Terraform, reducing environment provisioning time from days to minutes.
+- Migrated legacy Excel-based reporting to a centralized Looker platform, cutting report generation time from days to hours.
+- Led a cloud cost optimization initiative, identifying savings of 12% across compute and storage resources.
+
+Analytics Engineer | Falcon Ridge Consulting | Singapore, Singapore | 2024 - 2025
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 45%.
+- Led the adoption of a self-service data platform on Qlik Sense, onboarding 8+ internal teams within the first year.
+- Rebuilt the group-wide financial reporting suite in Looker, consolidating 5 disparate spreadsheets into a single source of truth.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Oslo, Oslo, Norway (2022)
+
+CERTIFICATIONS
+- AWS Certified Data Analytics - Specialty
+- AWS Certified Solutions Architect - Associate
+
+LANGUAGES
+- German (Native)
+- Polish (Conversational)
+- Mandarin (Professional working proficiency)

@@ -1,0 +1,42 @@
+Sebastian Ivanov
+Munich, Germany | sebastian.ivanov@example.com | +1 577 1620820
+
+PROFESSIONAL SUMMARY
+Results-driven Business Intelligence Consultant with 7 years of hands-on experience in business intelligence and enterprise reporting, known for combining technical depth with strong stakeholder communication.
+
+CORE SKILLS
+- Business Intelligence: Power BI, QlikView, SSAS, SQL Server, Stakeholder reporting & dashboarding, Power Query / M
+- Cloud & Infrastructure: Kubernetes, Infrastructure as Code
+- Tools & Ways of Working: Client workshops & presentations, Data quality management, Data governance
+
+PROFESSIONAL EXPERIENCE
+
+Senior BI Consultant | Riverbend Analytics | Krakow, Poland | 2024 - Present
+- Migrated legacy Excel-based reporting to a centralized Databricks platform, cutting report generation time from days to hours.
+- Implemented row-level security in Databricks, enabling secure self-service reporting across 10 regional entities.
+- Consolidated 8 regional data marts into a single enterprise data warehouse, simplifying cross-market reporting.
+
+Senior BI Consultant | Anchor Point Technologies | Rotterdam, Netherlands | 2023 - 2024
+- Led requirements workshops with telecommunications stakeholders to translate business questions into KPI-driven reporting solutions.
+- Designed executive scorecards in Looker used by senior leadership to track strategic KPIs across the retail business.
+- Rewrote performance-critical T-SQL stored procedures, reducing nightly batch runtimes by 30%.
+- Automated the monthly reporting cycle for an energy and utilities client, freeing up 2 analyst days per month for higher-value analysis.
+- Defined and documented 3 KPIs together with business owners as the basis of the new reporting suite.
+
+Analytics Consultant | Harborview Consulting | Berlin, Germany | 2020 - 2023
+- Optimized Tableau data models and DAX measures, improving dashboard load times by 28%.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 15 million records daily.
+- Trained 10 business analysts on Databricks best practices, establishing a center of excellence for self-service BI.
+- Designed a Snowflake-based reporting layer, reducing query times for key dashboards by 35%.
+
+EDUCATION
+B.Sc. in Computer Science, National University of Singapore, Singapore, Singapore (2018)
+
+CERTIFICATIONS
+- Cloudera Certified Data Analyst
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Danish (Native)
+- Spanish (Conversational)
+- Swedish (Conversational)

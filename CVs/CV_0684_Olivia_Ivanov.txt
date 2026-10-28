@@ -1,0 +1,39 @@
+Olivia Ivanov
+Zurich, Switzerland | olivia.ivanov@example.com | +32 173 3403317
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Scientist (6 years) with a track record of delivering data science and machine learning projects on time and within budget for demanding enterprise clients.
+
+CORE SKILLS
+- Data Science & Machine Learning: MLOps, Computer Vision, TensorFlow, MLflow, R, Time Series Forecasting
+- Cloud & Infrastructure: Infrastructure as Code, Linux system administration
+- Tools & Ways of Working: Data governance, Git, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Orbis Technology Partners | Pune, India | 2024 - Present
+- Led a proof-of-concept on demand forecasting for a retail client, achieving a 40% reduction in forecast error versus the baseline.
+- Implemented a computer vision solution for automated quality inspection, reducing manual inspection effort by 22%.
+- Ran a series of causal inference studies to quantify the impact of marketing campaigns on customer retention.
+
+Machine Learning Engineer | Riverbend Analytics | Lyon, France | 2022 - 2024
+- Developed a logistic regression model to predict customer churn for logistics clients, improving prediction accuracy by 45%.
+- Automated model retraining and validation pipelines, reducing time-to-production for new models by 30%.
+- Built an NLP pipeline to automatically classify 15+ incoming customer messages per day, reducing manual triage time by 12%.
+
+Senior Data Scientist | Orbis Technology Partners | Milan, Italy | 2020 - 2022
+- Developed an anomaly detection system for aviation operations, flagging issues 15% faster than the previous manual process.
+- Built a churn prediction model on 3+ customer records, enabling targeted retention campaigns for the retail sector.
+- Implemented automated data quality checks on 2 critical tables.
+- Designed and ran A/B tests to evaluate new recommendation algorithms, driving a 40% uplift in conversion rate.
+
+EDUCATION
+MBA with focus on Information Management, National University of Singapore, Singapore, Singapore (2018)
+
+CERTIFICATIONS
+- Google Professional Data Engineer
+- HashiCorp Certified: Terraform Associate
+
+LANGUAGES
+- Polish (Native)
+- Swedish (Professional working proficiency)

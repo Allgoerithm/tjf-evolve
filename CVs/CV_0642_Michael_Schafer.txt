@@ -1,0 +1,45 @@
+Michael Schafer
+Chicago, USA | michael.schafer@example.com | +48 127 2310395
+
+PROFESSIONAL SUMMARY
+Business Intelligence Consultant specializing in business intelligence and enterprise reporting, with 12 years of consulting experience across e-commerce and related sectors.
+
+CORE SKILLS
+- Business Intelligence: Qlik Sense, Snowflake, Tableau, Star schema & dimensional modeling, Stakeholder reporting & dashboarding, Power Query / M
+- Cloud & Infrastructure: Infrastructure as Code, Google Cloud Platform (BigQuery, Dataflow, GKE)
+- Tools & Ways of Working: Agile / Scrum, Data quality management, Requirements engineering
+
+PROFESSIONAL EXPERIENCE
+
+BI Developer | Harborview Consulting | Dublin, Ireland | 2023 - Present
+- Automated the monthly reporting cycle for an aviation client, freeing up 15 analyst days per month for higher-value analysis.
+- Rebuilt the group-wide financial reporting suite in Snowflake, consolidating 3 disparate spreadsheets into a single source of truth.
+- Implemented row-level security in Snowflake, enabling secure self-service reporting across 3 regional entities.
+
+Analytics Consultant | Brightfield Consulting | Lisbon, Portugal | 2020 - 2023
+- Designed executive scorecards in Databricks used by senior leadership to track strategic KPIs across the public sector business.
+- Migrated legacy Excel-based reporting to a centralized Power BI platform, cutting report generation time from days to hours.
+- Developed ETL pipelines feeding the enterprise data warehouse, processing over 30 million records daily.
+
+Consultant | Kestrel Data Solutions | Vienna, Austria | 2017 - 2020
+- Trained 50 business analysts on Looker best practices, establishing a center of excellence for self-service BI.
+- Built a dimensional data warehouse (star schema) supporting self-service analytics for 10+ business users.
+- Designed and delivered 2 interactive Looker dashboards for telecommunications clients, reducing manual reporting effort by 15%.
+
+IT Consultant | Falcon Ridge Consulting | Warsaw, Poland | 2014 - 2017
+- Optimized Qlik Sense data models and DAX measures, improving dashboard load times by 22%.
+- Introduced a governance framework for report certification, improving trust in shared BI content across 3 departments.
+- Led requirements workshops with e-commerce stakeholders to translate business questions into KPI-driven reporting solutions.
+
+EDUCATION
+M.Sc. in Statistics, University of Vienna, Vienna, Austria (2013)
+
+CERTIFICATIONS
+- Google Professional Cloud Architect
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Power BI Data Analyst Associate
+
+LANGUAGES
+- Hindi (Native)
+- English (Conversational)
+- French (Conversational)

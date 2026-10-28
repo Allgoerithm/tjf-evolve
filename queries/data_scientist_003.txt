@@ -1,0 +1,31 @@
+SEARCH PROFILE #003
+Role Needed: Applied Data Scientist
+Engagement Type: Managed service team augmentation
+Client Industry: Aviation
+Minimum Experience: 10+ years
+
+MUST-HAVE SKILLS
+- Data quality management
+- PyTorch
+- Databricks
+- Networking & VPC design
+
+NICE-TO-HAVE SKILLS
+- TensorFlow
+- Stakeholder management
+- Causal Inference
+
+PREFERRED CERTIFICATIONS
+- TOGAF 9 Certified
+
+LANGUAGE REQUIREMENTS
+- German (conversational)
+- Danish (native)
+
+Location / Remote Policy: Fully remote (client site: Cologne, Germany)
+
+PROJECT CONTEXT
+The current model in production has degraded in accuracy and needs root-cause analysis plus a retraining strategy.
+
+Start Date: Next quarter
+Duration: 9 months with a defined project end date

@@ -1,0 +1,33 @@
+Hannah Richter
+Zurich, Switzerland | hannah.richter@example.com | +41 878 4896102
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 4 years of experience delivering cloud infrastructure and platform engineering solutions for clients in logistics. Passionate about turning complex data into actionable business value.
+
+CORE SKILLS
+- Cloud & Infrastructure: Google Cloud Platform (BigQuery, Dataflow, GKE), Kubernetes, Microsoft Azure (Data Factory, Synapse, AKS), Apache Airflow, Infrastructure as Code, Docker
+- Business Intelligence: Snowflake
+- Tools & Ways of Working: Requirements engineering, Client workshops & presentations, Git
+
+PROFESSIONAL EXPERIENCE
+
+Cloud Infrastructure Consultant | Nordwind Consulting | Copenhagen, Denmark | 2025 - Present
+- Established a disaster recovery strategy for cloud data infrastructure, reducing recovery time objectives by 12%.
+- Automated infrastructure provisioning and configuration using Ansible and Terraform, eliminating manual setup steps.
+- Architected a serverless event-driven data pipeline processing 2+ events per second in near real time.
+
+Consultant | Northstar Cloud Group | Vienna, Austria | 2022 - 2025
+- Designed and implemented a multi-account AWS landing zone for a retail client, improving security posture and cost visibility.
+- Led the adoption of a self-service data platform on Databricks, onboarding 50+ internal teams within the first year.
+- Designed a CI/CD pipeline that reduced release cycle time by 35% for a public sector client's data platform.
+
+EDUCATION
+M.Sc. in Artificial Intelligence, University of Amsterdam, Amsterdam, Netherlands (2021)
+
+CERTIFICATIONS
+- TOGAF 9 Certified
+- SnowPro Core Certification
+
+LANGUAGES
+- Portuguese (Native)
+- French (Conversational)

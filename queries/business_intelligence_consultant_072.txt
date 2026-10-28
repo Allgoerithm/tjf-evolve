@@ -1,0 +1,31 @@
+SEARCH PROFILE #072
+Role Needed: Senior BI Consultant
+Engagement Type: Managed service team augmentation
+Client Industry: Consumer goods
+Minimum Experience: 4+ years
+
+MUST-HAVE SKILLS
+- LookML
+- Agile / Scrum
+- Stakeholder management
+- T-SQL
+
+NICE-TO-HAVE SKILLS
+- Tableau
+- Snowflake
+- Infrastructure as Code
+
+PREFERRED CERTIFICATIONS
+- Tableau Desktop Specialist
+
+LANGUAGE REQUIREMENTS
+- Italian (business level)
+- Spanish (fluent)
+
+Location / Remote Policy: Hybrid - 2 days on-site per week (client site: Madrid, Spain)
+
+PROJECT CONTEXT
+Leadership wants a self-service analytics capability so business users can build their own reports without IT involvement.
+
+Start Date: Within 2 weeks
+Duration: Ongoing / open-ended
