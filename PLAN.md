@@ -294,7 +294,8 @@ evolve/evaluator.py                openevolve wrapper (metrics + feedback artifa
 evolve/configs/evolve.yaml         GA parameters
 evolve/meta/templates/             meta-prompt: system_message.txt, full_rewrite_user.txt
 evolve/runs/                       openevolve output per run (gitignored)
-README.md / workshop exercises
+README.md                          instructor README (not shipped; the package gets its own)
+participant_instructions.md        participant setup, commands, exercise sheet
 ```
 
 ## 13. Milestones

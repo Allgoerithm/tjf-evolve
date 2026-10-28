@@ -6,3 +6,5 @@ __pycache__/
 evolve/runs/
 openevolve_output/
 leaderboard.sqlite3*
+# openevolve stores large evaluation feedback here (relative to the working directory)
+/artifacts/
