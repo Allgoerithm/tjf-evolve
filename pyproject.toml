@@ -3,7 +3,10 @@ name = "tjf-evolve"
 version = "0.1.0"
 description = "Workshop demo: evolving LLM query-rewriting prompts for a CV search on OpenSearch"
 requires-python = ">=3.11"
-dependencies = ["requests>=2.31"]
+dependencies = [
+    "openevolve>=0.4.0",
+    "requests>=2.31",
+]
 
 [project.scripts]
 evolve-eval = "evolve_demo.cli:main"

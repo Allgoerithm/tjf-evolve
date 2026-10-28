@@ -1,0 +1,60 @@
+# openevolve configuration ("GA parameters") for evolving the rewriting prompt.
+# Participants may change anything in this file. Run (from the repo root):
+#   uv run openevolve-run evolve/initial_prompt.txt evolve/evaluator.py \
+#       --config evolve/configs/evolve.yaml --output evolve/runs/my-run
+#
+# Cost: every evaluation of a candidate prompt makes 40 LLM calls (one per dev
+# profile) plus one call to write the candidate, so 20 iterations ≈ 840 calls.
+
+max_iterations: 20
+checkpoint_interval: 5
+log_level: "INFO"
+random_seed: 42
+
+# The "program" is a plain-text prompt, rewritten as a whole each time.
+language: "text"
+diff_based_evolution: false
+max_code_length: 10000          # characters; longer candidate prompts are rejected
+
+# Evolution model: the LLM that writes new candidate prompts.
+# (The rewriter model inside the evaluation is set via REWRITER_MODEL / LLM_PROVIDER.)
+llm:
+  api_base: "https://chat.btelligent.com/api"
+  api_key: "${BTELLIGENT_API_KEY}"
+  models:
+    - name: "gpt-6-luna"
+      weight: 1.0
+  temperature: 0.7
+  max_tokens: 8192
+  timeout: 120
+  retries: 3
+
+# Meta-prompt: how the evolution model is asked for a new candidate.
+prompt:
+  template_dir: "../meta/templates"   # relative to this file
+  system_message: "system_message"     # = meta/templates/system_message.txt
+  num_top_programs: 3                  # best prompts shown as examples
+  num_diverse_programs: 2              # other prompts shown for variety
+  include_artifacts: true              # show the evaluator's feedback (failing profiles)
+
+# Population and MAP-Elites archive.
+database:
+  population_size: 40
+  archive_size: 20
+  num_islands: 2
+  migration_interval: 10
+  migration_rate: 0.1
+  elite_selection_ratio: 0.1
+  exploration_ratio: 0.2
+  exploitation_ratio: 0.7
+  # Behaviour descriptors returned by evolve/evaluator.py:
+  # prompt length (characters) and average length of the generated queries.
+  feature_dimensions: ["prompt_length", "avg_query_chars"]
+  feature_bins: 6
+
+evaluator:
+  timeout: 600                  # seconds per candidate evaluation
+  max_retries: 1
+  parallel_evaluations: 2       # candidates evaluated at the same time (each uses 8 parallel LLM calls)
+  cascade_evaluation: false
+  enable_artifacts: true

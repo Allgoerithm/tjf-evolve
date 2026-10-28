@@ -1,0 +1,26 @@
+# Current rewriting prompt
+- Score: {fitness_score}
+- All metrics: {metrics}
+- Areas identified for improvement: {improvement_areas}
+
+{artifacts}
+
+# Evolution history
+{evolution_history}
+
+# Current rewriting prompt text
+```text
+{current_program}
+```
+
+# Task
+Write an improved version of the rewriting prompt that raises the score.
+Use the feedback above: look at the generated queries and why they failed.
+
+Requirements:
+1. Keep the placeholder {{profile}} exactly once; the search profile is inserted there.
+2. Add no other placeholders.
+3. The rewriting prompt must make the LLM answer with the query only, without explanations.
+4. Do not use triple backticks inside the prompt.
+
+Answer with the complete new rewriting prompt inside one ```text code block and nothing else.

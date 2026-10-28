@@ -63,3 +63,27 @@ uv run evolve-eval run my_prompt.txt --split validation --details
 A rewriting prompt must contain the placeholder `{profile}`; the search
 profile is inserted there. `--details` shows the generated query and the
 result for every profile.
+
+## Evolving the rewriting prompt
+
+```bash
+uv run openevolve-run evolve/initial_prompt.txt evolve/evaluator.py \
+    --config evolve/configs/evolve.yaml --output evolve/runs/my-run --iterations 5
+```
+
+Five iterations take about 3 minutes. The best prompt ends up in
+`evolve/runs/my-run/best/best_program.txt`. Check whether it also works on
+profiles the evolution has not seen:
+
+```bash
+uv run evolve-eval run evolve/runs/my-run/best/best_program.txt --split validation
+```
+
+What you can change:
+- **Meta-prompt** (`evolve/meta/templates/`): `system_message.txt` tells the
+  evolution model what the system does and what to aim for;
+  `full_rewrite_user.txt` is the request it gets for every new candidate. In
+  that file, literal braces must be doubled (`{{profile}}`).
+- **GA parameters** (`evolve/configs/evolve.yaml`): iterations, islands,
+  population, exploration/exploitation, feature dimensions, temperature. The
+  comments in the file explain each setting.

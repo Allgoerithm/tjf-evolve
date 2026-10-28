@@ -212,17 +212,32 @@ Each participant runs OpenSearch (docker) and openevolve **locally**. Only the l
 - Each participant needs their own LLM credentials (quota for evolution runs). The leaderboard server uses its own credentials for scoring submissions.
 - Participant setup must be a one-command start (`docker compose up -d --wait`, then `uv run evolve-eval index`). Verified on WSL2; Linux/macOS/Windows still to be checked. Group membership for Docker applies only after a fresh login (we hit this once), which belongs in the setup instructions.
 
-## 8. openevolve integration
+## 8. openevolve integration  **[implemented, smoke-tested]**
 
-Based on `examples/llm_prompt_optimization` in the openevolve repo (`/home/michael_wsl/repos/openevolve`), with these deviations:
-- The program is `initial_prompt.txt` (the baseline rewriting prompt). `language: text`, `diff_based_evolution: false` (full rewrites). EVOLVE-BLOCK enforcement is probably not needed. To verify with openevolve's code before building.
-- `evaluator.py` is a thin wrapper: reads `program_path`, calls `evaluate_prompt(..., split="dev")`, returns `combined_score` plus metrics. Rewritten queries and errors go into artifacts (`include_artifacts: true`) so the evolution LLM can see what failed.
-- Do not copy the example's quirks: the same model used for evolution and task, fixed first-N sample subsets without shuffling, plain-dict returns that leave artifacts empty.
-- Cascade evaluation is optional: stage 1 on a small dev subset, stage 2 on all of dev.
-- **Meta-rewriting prompts**: custom templates in `meta/templates/` via `prompt.template_dir`, including the system message. Workshop exercise 1 edits these.
-- **GA parameters**: `configs/evolve.yaml`, documented with comments. Workshop exercise 2 edits these (num_islands, population_size, exploration/exploitation ratio, feature dimensions, iterations).
-- Feature dimensions: consider query length or number of boolean operators as MAP-Elites dimensions to make the diversity visible; decide after a first run.
-- Results land in an output directory per participant; `best/` holds the best prompt.
+openevolve **0.4.0 from PyPI** (dependency in `pyproject.toml`; run with `uv run openevolve-run …`). Note: the PyPI 0.4.0 is older than the git checkout in `/home/michael_wsl/repos/openevolve` with the same version number; it has no `evaluator.evaluator_args` and no `prompt.island_system_messages`. Everything below was verified against the installed PyPI code.
+
+Run (from the repo root, key exported):
+```bash
+uv run openevolve-run evolve/initial_prompt.txt evolve/evaluator.py \
+    --config evolve/configs/evolve.yaml --output evolve/runs/<name> [--iterations N]
+```
+Results: `evolve/runs/<name>/best/best_program.txt` (best prompt), `checkpoints/checkpoint_N/` (all programs with metrics, feedback and the logged evolution prompts). `evolve/runs/` is gitignored.
+
+Files:
+- `evolve/initial_prompt.txt` – the program. The `.txt` suffix is taken over for candidate files; `language: text` and `diff_based_evolution: false` make every candidate a full rewrite. openevolve extracts the candidate from the evolution LLM's answer as the first ` ```text ` block (fallback: first code block, then the whole answer), so the meta-prompt asks for exactly one ` ```text ` block and no triple backticks inside the prompt.
+- `evolve/evaluator.py` – `evaluate(program_path)` calls the core `evaluate_prompt(prompt, "dev")` and returns an `EvaluationResult`:
+  - metrics (numbers only): `combined_score` (fitness), `n_zero`, `n_errors`, `prompt_length`, `avg_query_chars`;
+  - artifact `feedback`: score summary, count of zero-score / no-hit / failed queries, the 4 worst and 2 best dev profiles with their must-have/nice-to-have/certification/min-years summary, the generated query and any error. It is rendered into the `{artifacts}` section of the meta-prompt (openevolve redacts only 32+ character alphanumeric tokens, which our ids are not).
+  - A prompt without `{profile}` scores 0 with a feedback message; setup failures (OpenSearch down) raise, and openevolve logs them.
+  - `EVOLVE_EVAL_LIMIT=N` scores only the first N dev profiles (cheap smoke tests).
+- `evolve/configs/evolve.yaml` – the **GA parameters** (exercise 2), commented: 20 iterations, 2 islands, population 40, archive 20, feature dimensions `prompt_length` × `avg_query_chars` with 6 bins each, 2 parallel evaluations, no cascade, evolution model `gpt-6-luna` on the gateway with `api_key: "${BTELLIGENT_API_KEY}"` (resolved by openevolve from the environment), temperature 0.7. openevolve also sends `seed` (from `random_seed: 42`); the gateway accepts `temperature`, `seed`, `top_p` and `reasoning_effort` (checked).
+- `evolve/meta/templates/` – the **meta-prompt** (exercise 1), loaded via `prompt.template_dir` (resolved relative to the config file); files override openevolve's defaults by name:
+  - `system_message.txt` – explains the system (profile → rewriting prompt → LLM → query_string on 1000 CVs → top-5 points), the goal, and that unparseable or empty-result queries score 0. Deliberately gives no solution hints (no field names, no "use OR"): finding those is what participants can add. Used verbatim (not passed through `str.format`).
+  - `full_rewrite_user.txt` – score, metrics, feedback, evolution history, current prompt, requirements (keep `{profile}` once, query-only answers, no triple backticks) and the answer format. It *is* passed through `str.format`, so literal braces must be doubled (`{{profile}}`).
+  - All other templates (history, top programs, …) are openevolve's defaults; programs appear there in ` ```text ` blocks.
+- Cascade evaluation is off; a stage-1 subset could be added later as a GA option.
+
+**Smoke test** (5 iterations, full dev split, 2 min 44 s): baseline 5.5% → best **28.0%** (iteration 2; others 25.8%, 26.3%, 23.5%, 17.8%). The best prompt is concise and ORs title/skill synonym groups with at most two ANDs, dropping location, language, industry and years. It scores **31.5% on validation** (baseline 4.0%), so the improvement transfers. Cost per iteration: ~3,300 tokens for the evolution call plus 40 rewriter calls. The logged evolution prompts confirm that our system message, the feedback block and the literal `{profile}` reach the evolution model.
 
 ## 9. CLI (`evolve-eval`)  **[implemented, except submit]**
 
@@ -261,10 +276,11 @@ query_generation.py CV_generation.py   data generators (move into scripts/ later
 src/evolve_demo/                   labels.py, opensearch.py, llm.py, evaluate.py, cli.py
 pyproject.toml uv.lock             package + `evolve-eval` console script (uv)
 tests/                             unit tests: uv run python -m unittest discover tests
-evolve/initial_prompt.txt          baseline rewriting prompt
-evolve/evaluator.py                openevolve wrapper
+evolve/initial_prompt.txt          baseline rewriting prompt (keep it weak)
+evolve/evaluator.py                openevolve wrapper (metrics + feedback artifact)
 evolve/configs/evolve.yaml         GA parameters
-evolve/meta/templates/             meta-rewriting prompts
+evolve/meta/templates/             meta-prompt: system_message.txt, full_rewrite_user.txt
+evolve/runs/                       openevolve output per run (gitignored)
 leaderboard/app.py                 FastAPI + SQLite
 README.md / workshop exercises
 ```
@@ -275,7 +291,7 @@ README.md / workshop exercises
 2. Data, labeler, qrels, splits: **done** (5, 5a, 5b), oracle sanity check done (4a).
 3. LLM client (b.telligent gateway, Gemini, OpenRouter): **done, verified against the real gateway**. Core evaluation function + baseline prompt score: **done** (dev ≈ 9%, validation 4%).
 4. CLI wrapper: **done** except `submit` (comes with milestone 7).
-5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation.
+5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation: **done** (5 iterations: dev 5.5% → 28.0%, validation 4.0% → 31.5%).
 6. Meta-prompt templates and documented GA config; exercise sheet.
 7. Leaderboard server + `submit`, and a packaging script that builds the participant repo without heldout profiles and labels.
 8. Dry run with a few participants (cost and latency check).
@@ -285,4 +301,4 @@ README.md / workshop exercises
 
 1. **Rate limits on the b.telligent gateway** with ~N participants in parallel (every participant has their own key **[decided]**; access confirmed).
 2. **Where the leaderboard runs** (instructor laptop, VM) and network reachability from participants.
-3. **openevolve details to verify** (not analyzed yet): text-file programs with `language: text`, artifacts flow into prompts, `evaluator.py` cascade/timeout, template overriding.
+3. **Run length and cost for the workshop**: how many iterations fit into the exercise slot (5 iterations ≈ 3 min), and whether the improvement keeps growing beyond 20 iterations or plateaus near the oracle level (~30%).
