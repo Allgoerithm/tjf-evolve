@@ -1,0 +1,4 @@
+# Allowlist: the leaderboard image only needs the dependency definitions.
+*
+!pyproject.toml
+!uv.lock

@@ -95,8 +95,13 @@ def cmd_index(args):
         osr.wait_until_ready(timeout=args.wait)
     except Exception:
         raise CLIError(f"OpenSearch not reachable at {osr.URL}; start it with: docker compose up -d --wait", "setup")
+    paths = sorted(glob.glob(os.path.join(evaluate.ROOT, "CVs", "*.txt")))
+    if args.if_needed:
+        r = requests.get(f"{osr.URL}/{osr.INDEX}/_count", timeout=10)
+        if r.status_code == 200 and r.json()["count"] == len(paths):
+            return {"indexed_cvs": len(paths), "index": osr.INDEX, "opensearch_url": osr.URL, "skipped": True}
     docs = {}
-    for path in sorted(glob.glob(os.path.join(evaluate.ROOT, "CVs", "*.txt"))):
+    for path in paths:
         with open(path, encoding="utf-8") as f:
             docs[os.path.splitext(os.path.basename(path))[0]] = osr.cv_document(f.read())
     osr.recreate_index()
@@ -210,6 +215,8 @@ def build_parser():
     sub.add_parser("check", help="check OpenSearch, index and LLM access").set_defaults(func=cmd_check)
     p = sub.add_parser("index", help="(re)load the CVs into OpenSearch")
     p.add_argument("--wait", type=int, default=180, help="seconds to wait for OpenSearch (default 180)")
+    p.add_argument("--if-needed", action="store_true",
+                   help="skip if the index already holds as many CVs as CVs/ (keeps running evaluations intact)")
     p.set_defaults(func=cmd_index)
     p = sub.add_parser("run", help="score a rewriting prompt")
     p.add_argument("prompt_file", help="file with the rewriting prompt, '-' for stdin; must contain {profile}")

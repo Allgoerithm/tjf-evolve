@@ -240,7 +240,19 @@ Files:
 - Cascade evaluation is off; a stage-1 subset could be added later as a GA option.
 
 **20-iteration run** (default config, 7 min, 21 evaluations × 40 rewriter calls + 20 evolution calls, no errors): baseline 6.3% → 26.8% (iteration 2) → 30.3% (4) → **32.0% (iteration 8)**, then no further improvement in iterations 9–20 (candidates between 9.5% and 28.5%; both islands end at 32.0%). The best prompt scores **35.0% on validation** (1 of 20 profiles at 0). Its strategy: a pure OR query of synonym groups for several must-have concepts plus a few nice-to-haves, no AND, no field names, nothing about years/language/location; i.e. the evolution rediscovers the best hand-written oracle strategy (`must^3 + nice + certs, OR`: 33.7%) and stalls there.
-Consequence for the workshop: the default setup reliably gets from ~6% to ~30% within 5–8 iterations (about 3–4 minutes); going beyond needs ideas the evolution model does not find on its own (e.g. field boosts like `skills:"…"^3`, the `years_experience` field, weighting must-haves over nice-to-haves). That is exactly the lever of exercise 1 (meta-prompt: tell the evolution model about the index fields and the scoring rules) and exercise 2 (GA parameters: more exploration, more islands, temperature). Variance between runs is still to be measured.
+Consequence for the workshop: the default setup reliably gets from ~6% to ~30% within 5–8 iterations (about 3–4 minutes); going beyond needs ideas the evolution model does not find on its own (e.g. field boosts like `skills:"…"^3`, the `years_experience` field, weighting must-haves over nice-to-haves). That is exactly the lever of exercise 1 (meta-prompt: tell the evolution model about the index fields and the scoring rules) and exercise 2 (GA parameters: more exploration, more islands, temperature). **Meta-prompt experiment** (2026-10-28, all runs 20 iterations, default GA config, three runs in parallel without any rate-limit errors, ~8–14 min each). Variant "hints" = default system message plus the index fields, the available query syntax (field prefixes, boosts, ranges, quoting) and the exact fit rules; stored as `instructor/meta_hints/system_message.txt` (reference solution for exercise 2, not shipped).
+
+| Run | Meta-prompt | Best dev (iteration) | Validation | Heldout |
+|---|---|---|---|---|
+| run20 (seed 42) | default | 32.0% (8) | 35.0% / 37.0% | 28.0% |
+| exp-default-1 (seed 1) | default | 31.3% (6) | 44.5% | 27.0% |
+| exp-hints-1 (seed 1) | hints | 40.3% (9) | 46.0% | 38.0% |
+| exp-hints-2 (seed 2) | hints | 43.3% (19, still rising) | 45.0% | 41.0% |
+
+- The default meta-prompt plateaus reproducibly at ~31–32% dev / 27–28% heldout. The hints break the plateau by ~10 points on dev and ~11–13 points on heldout.
+- Validation (20 profiles) does not separate the variants (35–46% for all, the same prompt measured 35.0% and 37.0% in two runs); heldout with 40 profiles is the more reliable signal. Worth a remark in the workshop: small evaluation sets are noisy.
+- The best hint prompt encodes the scoring rules almost literally: a flat OR list of field-prefixed, boosted clauses (`skills:"…"^8 OR experience:"…"^6`, nice-to-haves ^2, certifications), language clauses with the level ladder, `years_experience:[N-1 TO *]^2 OR years_experience:[N-3 TO *]^1`, and it ignores title, location and industry. Good discussion point: optimising against a known metric.
+- The hints make the evolution more volatile: several candidates scored low because 10–37 of 40 queries failed to parse; all 38 recorded errors are "Failed to parse query" on deeply nested, parenthesised queries with group boosts (whether truncated answers play a role was not checked). The evolution reacted by forbidding parentheses and nested groups in the best prompt.
 
 **Smoke test** (5 iterations, full dev split, 2 min 44 s): baseline 5.5% → best **28.0%** (iteration 2; others 25.8%, 26.3%, 23.5%, 17.8%). The best prompt is concise and ORs title/skill synonym groups with at most two ANDs, dropping location, language, industry and years. It scores **31.5% on validation** (baseline 4.0%), so the improvement transfers. Cost per iteration: ~3,300 tokens for the evolution call plus 40 rewriter calls. The logged evolution prompts confirm that our system message, the feedback block and the literal `{profile}` reach the evolution model.
 
@@ -248,7 +260,7 @@ Consequence for the workshop: the default setup reliably gets from ~6% to ~30% w
 
 `src/evolve_demo/cli.py`, installed as a console script by `pyproject.toml`; run with `uv run evolve-eval …` (uv creates `.venv/` on first use).
 - `evolve-eval check` – OpenSearch reachable, index complete (1000 CVs), model offered by the endpoint, one tiny LLM call.
-- `evolve-eval index [--wait S]` – (re)creates the index and loads `CVs/`.
+- `evolve-eval index [--wait S] [--if-needed]` – (re)creates the index and loads `CVs/`; `--if-needed` skips when the index already holds as many CVs as `CVs/` (keeps running evaluations intact).
 - `evolve-eval run PROMPT_FILE|- [--split dev|validation] [--limit N] [--workers N] [--details]` – scores a rewriting prompt (`-` reads stdin).
 - `evolve-eval baseline [same options]` – scores `evolve/initial_prompt.txt`.
 - `evolve-eval submit PROMPT_FILE --name NAME [--meta-dir evolve/meta/templates] [--config evolve/configs/evolve.yaml] [--server URL] [--wait] [--wait-timeout 900]` – sends the bundle to the leaderboard (`LEADERBOARD_URL`, `LEADERBOARD_TOKEN`); checks the prompt locally first; with `--wait` it polls until the submission is scored and prints the scores. Wrong token or unreachable server → setup error; rejected submission → input error with the server's reason.
@@ -271,6 +283,7 @@ FastAPI and uvicorn are an optional `server` extra, so participants do not insta
 - `GET /api/submissions`, `GET /api/submissions/{id}`: JSON with id, participant, time, status, scores, number of heldout profiles at 0, error. Heldout queries, generated queries and per-profile results are never exposed.
 - No real authentication: anyone with the token can submit under any name (accepted for a workshop).
 - Tests: `tests/test_leaderboard.py` (ranking with baseline row, token/prompt/name/size rejections, one pending submission per participant, HTML escaping, no heldout details in the API), with a fake scoring function; skipped when the `server` extra is not installed.
+- **Deployment [decided: instructor laptop, Docker Compose; implemented; host may be reconsidered, open point 4]**: `docker-compose.server.yml` (layered on `docker-compose.yml`) adds a one-shot `indexer` (`evolve-eval index --if-needed`, so a running index is not rebuilt) and the `leaderboard` service on port 8000 (all interfaces), with `restart: unless-stopped`, a healthcheck and the volume `leaderboard-data` for the SQLite database. Image `deploy/leaderboard.Dockerfile` (python:3.13-slim + uv 0.13.5, dependencies from `uv.lock`, 413 MB) contains no code or data; the repo is mounted read-only at `/app`. `LEADERBOARD_TOKEN` and `BTELLIGENT_API_KEY` come from the shell environment (compose refuses to start without them). Runbook incl. backup, reset and making WSL2 reachable from the network: `deploy/README.md`. Tested on the laptop from inside WSL: stack up in 10 s, submission through the container scored (20-iteration best prompt: heldout 28.0%, validation 37.0%; baseline 6.5% / 4.0%), data survives a restart. **Not tested:** access from another machine: WSL2 runs in NAT mode, so mirrored networking or a Windows port proxy plus firewall rules are needed (admin rights on Windows).
 - **End-to-end test** (real gateway and OpenSearch, scratch database): baseline heldout **7.0%** / validation 3.0% (32 of 40 heldout profiles at 0); the 5-iteration smoke-test prompt heldout **20.0%** / validation 30.0% (dev 28.0%). Wrong token and an early resubmission were rejected with clear messages.
 
 ## 11. Optional: agentic variant (oh-my-pi)
@@ -283,7 +296,10 @@ FastAPI and uvicorn are an optional `server` extra, so participants do not insta
 ```
 CVs/  queries/                     existing data
 data/qrels.json  data/splits.json  labels and split manifest; heldout labels server-only
-docker-compose.yml                 OpenSearch (+ leaderboard service later)
+docker-compose.yml                 OpenSearch (shipped to participants)
+docker-compose.server.yml          + indexer and leaderboard (instructor only)
+deploy/                            leaderboard Dockerfile and runbook (instructor only)
+instructor/                        reference solutions, e.g. meta_hints/ for exercise 2 (instructor only)
 scripts/make_qrels.py oracle_check.py package_participant.py   instructor tools (uv run python scripts/...)
 query_generation.py CV_generation.py   data generators (move into scripts/ later)
 src/evolve_demo/                   labels.py, opensearch.py, llm.py, evaluate.py, cli.py, leaderboard.py
@@ -306,12 +322,13 @@ participant_instructions.md        participant setup, commands, exercise sheet
 4. CLI wrapper: **done** (including `submit`).
 5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation: **done** (5 iterations: dev 5.5% → 28.0%, validation 4.0% → 31.5%).
 6. Meta-prompt templates and documented GA config: **done**. Exercise sheet: **first version** in `participant_instructions.md` (intro, scoring and splits, exercises 0–4 with discussion questions); to revise after the meta-prompt experiment and a dry run.
-7. Leaderboard server + `submit`: **done**, tested end to end on localhost. Packaging script: **done** (`scripts/package_participant.py`, with leak scan). Still open: deployment (where it runs, network).
+7. Leaderboard server + `submit`: **done**, tested end to end on localhost. Packaging script: **done** (`scripts/package_participant.py`, with leak scan). Deployment: **done** (instructor laptop, Docker Compose, `deploy/README.md`); still open: test from a second machine on the workshop network.
 8. Dry run with a few participants (cost and latency check).
 9. Optional: oh-my-pi variant.
 
 ## 14. Open points
 
 1. **Rate limits on the b.telligent gateway** with ~N participants in parallel (every participant has their own key **[decided]**; access confirmed).
-2. **Where the leaderboard runs** (instructor laptop, VM) and network reachability from participants; how the workshop token is handed out. The server needs Docker/OpenSearch, the `heldout/` folder and its own API key.
-3. **Run length for the workshop**: the default config plateaus at ~32% dev after ~8 iterations (20 iterations ≈ 7 min). Still to measure: variance between runs, and whether a meta-prompt with index/scoring hints breaks through the plateau (would make a good demo for exercise 1).
+2. **Leaderboard reachability**: runs on the instructor laptop **[decided, may be reconsidered, see 4]**; WSL2 needs mirrored networking or a port proxy plus firewall rules (`deploy/README.md`), to be tested with a second machine on the actual workshop network (guest Wi-Fi may isolate clients). How the workshop token is handed out is still open.
+3. **Run length for the workshop**: the default config plateaus at ~31–32% dev after 6–8 iterations (20 iterations ≈ 7 min alone, ~8–14 min with three runs in parallel); the hints meta-prompt reaches 40–43% (section 8). Open: how many parallel participants the gateway sustains (3 parallel runs, i.e. up to 48 simultaneous calls, caused no rate-limit errors).
+4. **Reconsider where the leaderboard runs**: the current decision is the instructor laptop (implemented, `deploy/README.md`). It may be revisited, because networking problems during the workshop (WSL2 port forwarding, firewall, guest Wi-Fi isolating clients) are a real risk. Alternatives: a cloud VM or an internal company host reachable by all participants; the Docker Compose setup is host-independent and can be reused there (plus HTTPS if it is reachable from the internet).

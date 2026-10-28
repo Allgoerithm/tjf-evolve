@@ -1,0 +1,50 @@
+# Leaderboard deployment on the instructor laptop, layered on docker-compose.yml.
+# Instructor only: not part of the participant package.
+#
+#   read -rs BTELLIGENT_API_KEY && export BTELLIGENT_API_KEY      # server's own LLM key
+#   read -rs LEADERBOARD_TOKEN && export LEADERBOARD_TOKEN        # shared workshop token
+#   docker compose -f docker-compose.yml -f docker-compose.server.yml up -d --build --wait
+#
+# Keys and token are taken from the shell environment and never written to a
+# file. Submissions live in the named volume leaderboard-data (survives
+# restarts; `down -v` deletes it together with the OpenSearch index).
+services:
+  indexer:
+    build: {context: ., dockerfile: deploy/leaderboard.Dockerfile}
+    image: tjf-leaderboard:local
+    command: ["python", "-m", "evolve_demo.cli", "index", "--if-needed"]
+    environment:
+      OPENSEARCH_URL: http://opensearch:9200
+    volumes:
+      - .:/app:ro
+    depends_on:
+      opensearch: {condition: service_healthy}
+    restart: "no"
+
+  leaderboard:
+    image: tjf-leaderboard:local
+    container_name: tjf-leaderboard
+    environment:
+      OPENSEARCH_URL: http://opensearch:9200
+      LEADERBOARD_DB: /data/leaderboard.sqlite3
+      LEADERBOARD_TOKEN: ${LEADERBOARD_TOKEN:?export LEADERBOARD_TOKEN first}
+      BTELLIGENT_API_KEY: ${BTELLIGENT_API_KEY:?export BTELLIGENT_API_KEY first}
+      LLM_PROVIDER: ${LLM_PROVIDER:-btelligent}
+    volumes:
+      - .:/app:ro
+      - leaderboard-data:/data
+    ports:
+      - "${LEADERBOARD_PORT:-8000}:8000"   # all interfaces: participants connect from other machines
+    depends_on:
+      opensearch: {condition: service_healthy}
+      indexer: {condition: service_completed_successfully}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/submissions', timeout=5)"]
+      interval: 15s
+      timeout: 10s
+      retries: 8
+      start_period: 20s
+
+volumes:
+  leaderboard-data:
