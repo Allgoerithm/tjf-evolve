@@ -167,7 +167,7 @@ Splits are stratified by archetype (file name prefix) and fixed by a seed. Sizes
 
 CV ids are the file names without `.txt`. Checked: splits are disjoint and complete, a fresh labeling reproduces every stored label, the best possible top 5 reaches exactly the profile's ceiling and an empty result scores 0%, and the participant files contain no heldout id.
 
-**Packaging caveat:** the texts of the heldout profiles are still in `queries/`. The participant package must therefore exclude `heldout/` **and** the heldout profile files (ids in `heldout/heldout.json`). A packaging script is a milestone (see 13).
+**Packaging caveat:** the texts of the heldout profiles are still in `queries/` of this (instructor) repo. Never hand out this repo itself; build the participant package with `scripts/package_participant.py` (section 7a), which leaves out `heldout/` and the heldout profile files and checks for leaks.
 
 ## 6. Core evaluation function  **[implemented]**
 
@@ -210,6 +210,8 @@ Still to check: `reasoning_effort` and `temperature` support, rate limits with m
 Each participant runs OpenSearch (docker) and openevolve **locally**. Only the leaderboard server is central.
 - Participant repo contains CVs, dev + validation queries, `data/` (splits, qrels), the baseline and the CLI. **Heldout profiles and labels are not shipped to participants** (`heldout/` and the heldout profile files); they exist only on the leaderboard server, which also runs its own OpenSearch with the same index.
 - Each participant needs their own LLM credentials (quota for evolution runs). The leaderboard server uses its own credentials for scoring submissions.
+- **Participant package** **[implemented]**: `uv run python scripts/package_participant.py OUTPUT_DIR [--force] [--zip] [--git]` (OUTPUT_DIR must be outside the repo). Copies an allowlist (`.env.example`, `.gitignore`, `CVs/`, `data/qrels.json`, `data/splits.json`, `docker-compose.yml`, `evolve/` without runs, `participant_instructions.md`, `pyproject.toml`, `uv.lock`, `src/evolve_demo/`, `tests/`) plus only the 60 dev and validation profiles from `queries/`, and writes a short `README.md`. Left out on purpose: `heldout/`, the 40 heldout profiles, `PLAN.md`, the data generators and `scripts/` (with them the heldout labels could be regenerated), runs, caches, `.env`, the leaderboard database. Afterwards every text file is scanned for heldout profile ids, heldout profile files and a `heldout/` folder; on a hit the package is deleted and the script fails. `--git` creates a repository with one commit, `--zip` a zip archive next to the folder (3.2 MB, 1086 files).
+  Verified: the scan catches a planted heldout profile file, a mention of a heldout id and a `heldout/` folder. In the built package, the tests pass (leaderboard tests skipped without the `server` extra), `evolve-eval check` is ok, and `baseline` and `run --split validation` score normally.
 - Participant setup must be a one-command start (`docker compose up -d --wait`, then `uv run evolve-eval index`). Verified on WSL2; Linux/macOS/Windows still to be checked. Group membership for Docker applies only after a fresh login (we hit this once), which belongs in the setup instructions.
 
 ## 8. openevolve integration  **[implemented, smoke-tested]**
@@ -282,7 +284,7 @@ FastAPI and uvicorn are an optional `server` extra, so participants do not insta
 CVs/  queries/                     existing data
 data/qrels.json  data/splits.json  labels and split manifest; heldout labels server-only
 docker-compose.yml                 OpenSearch (+ leaderboard service later)
-scripts/make_qrels.py oracle_check.py   instructor tools (uv run python scripts/...)
+scripts/make_qrels.py oracle_check.py package_participant.py   instructor tools (uv run python scripts/...)
 query_generation.py CV_generation.py   data generators (move into scripts/ later)
 src/evolve_demo/                   labels.py, opensearch.py, llm.py, evaluate.py, cli.py, leaderboard.py
 pyproject.toml uv.lock             package + `evolve-eval` console script (uv)
@@ -303,7 +305,7 @@ README.md / workshop exercises
 4. CLI wrapper: **done** (including `submit`).
 5. openevolve wiring; first small evolution run; verify the score improves on dev and transfers to validation: **done** (5 iterations: dev 5.5% → 28.0%, validation 4.0% → 31.5%).
 6. Meta-prompt templates and documented GA config; exercise sheet.
-7. Leaderboard server + `submit`: **done**, tested end to end on localhost. Still open: packaging script that builds the participant repo without heldout profiles and labels; deployment (where it runs, network).
+7. Leaderboard server + `submit`: **done**, tested end to end on localhost. Packaging script: **done** (`scripts/package_participant.py`, with leak scan). Still open: deployment (where it runs, network).
 8. Dry run with a few participants (cost and latency check).
 9. Optional: oh-my-pi variant.
 
